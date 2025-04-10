@@ -7,7 +7,7 @@ do
   echo "=== Traitement de R$X ==="
 
   dsl_file="test_rules/R${X}/test_R${X}.dsl"
-  output_file="test_rules/R${X}/generated_rules_${X}.py"
+  output_file="test_rules/R${X}/generated_rules_R${X}.py"
   test_file="test_rules/R${X}/test_R${X}.py"
 
   if [ ! -f "$dsl_file" ]; then

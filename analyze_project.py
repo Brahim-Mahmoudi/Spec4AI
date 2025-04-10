@@ -4,10 +4,56 @@ import ast
 import json
 import sys
 import traceback
-from multiprocessing import Pool, cpu_count
 
-# Import uniquement la règle que tu veux exécuter (R11 ici)
-from test_rules.R11bis import generated_rules_11bis
+# Import des modules contenant les règles générées
+from test_rules.R1 import generated_rules_1
+from test_rules.R2 import generated_rules_2
+from test_rules.R3 import generated_rules_3
+from test_rules.R4 import generated_rules_4
+from test_rules.R5 import generated_rules_5
+from test_rules.R6 import generated_rules_6
+from test_rules.R7 import generated_rules_7
+from test_rules.R8 import generated_rules_8
+from test_rules.R9 import generated_rules_9
+from test_rules.R10 import generated_rules_10
+from test_rules.R11 import generated_rules_11
+from test_rules.R12 import generated_rules_12
+from test_rules.R13 import generated_rules_13
+from test_rules.R14 import generated_rules_14
+from test_rules.R15 import generated_rules_15
+from test_rules.R16 import generated_rules_16
+from test_rules.R17 import generated_rules_17
+from test_rules.R18 import generated_rules_18
+from test_rules.R19 import generated_rules_19
+from test_rules.R20 import generated_rules_20
+from test_rules.R21 import generated_rules_21
+from test_rules.R22 import generated_rules_22
+
+# Liste des modules et fonctions de règles
+RULE_MODULES = [
+    (generated_rules_1, generated_rules_1.rule_R1),
+    (generated_rules_2, generated_rules_2.rule_R2),
+    (generated_rules_3, generated_rules_3.rule_R3),
+    (generated_rules_4, generated_rules_4.rule_R4),
+    (generated_rules_5, generated_rules_5.rule_R5),
+    (generated_rules_6, generated_rules_6.rule_R6),
+    (generated_rules_7, generated_rules_7.rule_R7),
+    (generated_rules_8, generated_rules_8.rule_R8),
+    (generated_rules_9, generated_rules_9.rule_R9),
+    (generated_rules_10, generated_rules_10.rule_R10),
+    (generated_rules_11, generated_rules_11.rule_R11),
+    (generated_rules_12, generated_rules_12.rule_R12),
+    (generated_rules_13, generated_rules_13.rule_R13),
+    (generated_rules_14, generated_rules_14.rule_R14),
+    (generated_rules_15, generated_rules_15.rule_R15),
+    (generated_rules_16, generated_rules_16.rule_R16),
+    (generated_rules_17, generated_rules_17.rule_R17),
+    (generated_rules_18, generated_rules_18.rule_R18),
+    (generated_rules_19, generated_rules_19.rule_R19),
+    (generated_rules_20, generated_rules_20.rule_R20),
+    (generated_rules_21, generated_rules_21.rule_R21),
+    (generated_rules_22, generated_rules_22.rule_R22),
+]
 
 def analyze_file(filepath):
     """Analyse un fichier Python et retourne un dictionnaire avec les messages d'erreur ou de rapport."""
@@ -17,50 +63,41 @@ def analyze_file(filepath):
             code = f.read()
         tree = ast.parse(code, filename=filepath)
     except Exception as e:
-        return filepath, {"error": f"Erreur de parsing: {e}\n{traceback.format_exc()}"}
+        return {"error": f"Erreur de parsing: {e}\n{traceback.format_exc()}"}
+    
+    for module, rule_function in RULE_MODULES:
+        local_messages = []
+        def report(message):
+            local_messages.append(message)
+        old_report = module.report
+        module.report = report
+        try:
+            rule_function(tree)
+        except Exception as e:
+            local_messages.append(f"Erreur lors de l'exécution de la règle {rule_function.__name__}: {e}\n{traceback.format_exc()}")
+        module.report = old_report
+        if local_messages:
+            messages.extend([f"{rule_function.__name__}: {m}" for m in local_messages])
+    
+    return {"messages": messages}
 
-    def report(message):
-        messages.append(message)
-
-    # Remplacement temporaire de la fonction report
-    old_report = generated_rules_11bis.report
-    generated_rules_11bis.report = report
-
-    try:
-        generated_rules_11bis.rule_R11bis(tree)
-    except Exception as e:
-        messages.append(f"Erreur lors de l'exécution de la règle: {e}\n{traceback.format_exc()}")
-    finally:
-        generated_rules_11bis.report = old_report
-
-    return filepath, {"messages": messages} if messages else {}
-
-def collect_python_files(root_dir):
-    py_files = []
-    for dirpath, _, filenames in os.walk(root_dir):
+def analyze_project(root_dir):
+    """Parcourt récursivement le répertoire root_dir pour analyser tous les fichiers .py.
+       Seuls les fichiers ayant une erreur ou des messages seront inclus dans le résultat."""
+    results = {}
+    for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
             if filename.endswith(".py"):
-                py_files.append(os.path.join(dirpath, filename))
-    return py_files
-
-def analyze_project_parallel(root_dir):
-    py_files = collect_python_files(root_dir)
-    results = {}
-
-    with Pool(processes=cpu_count()) as pool:
-        for filepath, result in pool.imap_unordered(analyze_file, py_files):
-            if "error" in result or result.get("messages"):
-                results[filepath] = result
-
+                filepath = os.path.join(dirpath, filename)
+                file_result = analyze_file(filepath)
+                if ("error" in file_result) or (file_result.get("messages") and len(file_result["messages"]) > 0):
+                    results[filepath] = file_result
     return results
 
 def main():
-    ROOT_DIR = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlpylint/Source_Code/PeterHamfelt_mlflow"
-    OUTPUT_JSON = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Code_Smell_Detection/DSL/test_rules/R11bis/generated_rules_11bis.json"
-
-    print(f"Analyse en cours avec {cpu_count()} processus...")
-    results = analyze_project_parallel(ROOT_DIR)
-
+    ROOT_DIR = "/Users/bramss/Desktop/mlflow-master"
+    OUTPUT_JSON = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Code_Smell_Detection/DSL/test_rules/generated_all_rules_mlflow.json"
+    results = analyze_project(ROOT_DIR)
     try:
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2)
