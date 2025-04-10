@@ -1,18 +1,18 @@
 import ast
 import unittest
-import generated_rules_16  # module contenant rule_R16 et les fonctions utilitaires associées
+import generated_rules_1R6  # module contenant rule_R16 et les fonctions utilitaires associées
 
 class TestGeneratedRules16(unittest.TestCase):
     def setUp(self):
         self.messages = []
         def report(message):
             self.messages.append(message)
-        generated_rules_16.report = report
+        generated_rules_R16.report = report
 
     def run_rule(self, code):
         tree = ast.parse(code)
-        generated_rules_16.add_parent_info(tree)
-        generated_rules_16.rule_R16(tree)
+        generated_rules_R16.add_parent_info(tree)
+        generated_rules_R16.rule_R16(tree)
 
     def test_detect_api_misuse_assignment(self):
         code = """

@@ -1,15 +1,15 @@
 import ast
 import unittest
-import generated_rules_11  
+import generated_rules_R11  
 
 class TestRuleR11(unittest.TestCase):
     def setUp(self):
         self.messages = []
-        generated_rules_11.report = lambda msg: self.messages.append(msg)
+        generated_rules_R11.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         tree = ast.parse(code)
-        generated_rules_11.rule_R11(tree)
+        generated_rules_R11.rule_R11(tree)
 
     def test_no_transformations(self):
         code = """

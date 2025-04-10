@@ -1,16 +1,16 @@
 
 import ast
 import unittest
-import generated_rules_11bis  
+import generated_rules_R11bis  
 
 class TestRuleR11bis(unittest.TestCase):
     def setUp(self):
         self.messages = []
-        generated_rules_11bis.report = lambda msg: self.messages.append(msg)
+        generated_rules_R11bis.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         tree = ast.parse(code)
-        generated_rules_11bis.rule_R11bis(tree)
+        generated_rules_R11bis.rule_R11bis(tree)
 
     def test_correct_pipeline_usage(self):
         code = """

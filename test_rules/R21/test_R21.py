@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_21
+import generated_rules_R21
 
 class TestGeneratedRules21(unittest.TestCase):
     def setUp(self):
         self.messages = []
         def report(message):
             self.messages.append(message)
-        generated_rules_21.report = report
+        generated_rules_R21.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_21.rule_R21(ast_node)
+        generated_rules_R21.rule_R21(ast_node)
 
     def test_read_csv_no_dtype(self):
         code = """

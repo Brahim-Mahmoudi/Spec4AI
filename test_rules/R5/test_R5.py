@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_5  # Ce module doit contenir la règle R5
+import generated_rules_R5  # Ce module doit contenir la règle R5
 
 class TestHyperparameterNotExplicitlySetR5(unittest.TestCase):
     def setUp(self):
         # Réinitialiser les messages en redéfinissant report
         self.messages = []
-        generated_rules_5.report = lambda msg: self.messages.append(msg)
+        generated_rules_R5.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         # Parser le code et exécuter la règle R5 sur l'AST
         ast_node = ast.parse(code)
-        generated_rules_5.rule_R5(ast_node)
+        generated_rules_R5.rule_R5(ast_node)
 
     def test_sklearn_no_params(self):
         """Test pour sklearn sans paramètres"""

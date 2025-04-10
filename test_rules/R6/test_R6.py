@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_6  # Ce module doit contenir la fonction rule_R6
+import generated_rules_R6  # Ce module doit contenir la fonction rule_R6
 
 class TestGeneratedRulesR6(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRulesR6(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # Monkey-patching de la fonction report du module généré
-        generated_rules_6.report = report
+        generated_rules_R6.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_6.rule_R6(ast_node)
+        generated_rules_R6.rule_R6(ast_node)
 
     def test_detect_with_transformers_set_seed(self):
         """Test du cas où transformers.set_seed(X) est utilisé"""

@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_10  # Le module généré contenant la règle R10
+import generated_rules_R10  # Le module généré contenant la règle R10
 
 class TestRuleR10(unittest.TestCase):
     def setUp(self):
         # Capture les messages générés par la fonction report
         self.messages = []
-        generated_rules_10.report = lambda msg: self.messages.append(msg)
+        generated_rules_R10.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         # Parse le code source et exécute la règle R10 sur l'AST
         ast_node = ast.parse(code)
-        generated_rules_10.rule_R10(ast_node)
+        generated_rules_R10.rule_R10(ast_node)
 
     def test_detect_memory_not_freed_tensorflow(self):
         """

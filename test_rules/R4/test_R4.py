@@ -1,19 +1,19 @@
 import ast
 import unittest
-import generated_rules_4  # module généré contenant la règle R4
+import generated_rules_R4  # module généré contenant la règle R4
 
 class TestTrainingEvalTogglingR4(unittest.TestCase):
     def setUp(self):
         # Réinitialise la liste des messages pour chaque test
         self.messages = []
         # Redéfinition de report et report_with_line pour capturer les messages d'alerte
-        generated_rules_4.report = lambda msg: self.messages.append(msg)
-        generated_rules_4.report_with_line = lambda msg, node: self.messages.append(msg.format(lineno=getattr(node, 'lineno', '?')))
+        generated_rules_R4.report = lambda msg: self.messages.append(msg)
+        generated_rules_R4.report_with_line = lambda msg, node: self.messages.append(msg.format(lineno=getattr(node, 'lineno', '?')))
 
     def run_rule(self, code):
         # Parse le code source et exécute la règle R4
         ast_node = ast.parse(code)
-        generated_rules_4.rule_R4(ast_node)
+        generated_rules_R4.rule_R4(ast_node)
 
     def test_eval_without_train(self):
         """Test eval() sans train() suivant"""

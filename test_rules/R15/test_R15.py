@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_15
+import generated_rules_R15
 
 class TestGeneratedRules15(unittest.TestCase):
     def setUp(self):
@@ -9,14 +9,14 @@ class TestGeneratedRules15(unittest.TestCase):
         # On "monkey-patche" la fonction report du module généré
         def report(message):
             self.messages.append(message)
-        generated_rules_15.report = report
+        generated_rules_R15.report = report
         # Pour être sûr que dataframe_vars est réinitialisé à chaque test, vous pouvez le vider :
-        if hasattr(generated_rules_15, "dataframe_vars"):
-            generated_rules_15.dataframe_vars.clear()
+        if hasattr(generated_rules_R15, "dataframe_vars"):
+            generated_rules_R15.dataframe_vars.clear()
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_15.rule_R15(ast_node)
+        generated_rules_R15.rule_R15(ast_node)
 
     def test_merge_without_parameters(self):
         # Cas : appel merge avec un seul paramètre (doit être détecté)

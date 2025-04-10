@@ -1,18 +1,18 @@
 import ast
 import unittest
-import generated_rules_3  # module généré contenant la règle R3
+import generated_rules_R3  # module généré contenant la règle R3
 
 class TestTensorArrayNotUsedR3(unittest.TestCase):
     def setUp(self):
         # Réinitialise les messages pour chaque test
         self.messages = []
         # Remplace la fonction report pour capturer les messages d'alerte
-        generated_rules_3.report = lambda msg: self.messages.append(msg)
+        generated_rules_R3.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         # Parse le code source et exécute la règle R3
         ast_node = ast.parse(code)
-        generated_rules_3.rule_R3(ast_node)
+        generated_rules_R3.rule_R3(ast_node)
 
     def test_detect_constant_concat_in_tf_function(self):
         # Cas de test avec tf.constant() et tf.concat() dans une fonction tf.function problématique

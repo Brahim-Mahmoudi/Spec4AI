@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_2  # Ton module contenant la règle R2
+import generated_rules_R2  # Ton module contenant la règle R2
 
 class TestRandomSeedRuleR2(unittest.TestCase):
     def setUp(self):
         self.messages = []
         def report(msg):
             self.messages.append(msg)
-        generated_rules_2.report = report
+        generated_rules_R2.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_2.rule_R2(ast_node)
+        generated_rules_R2.rule_R2(ast_node)
 
     def test_correct_seed_usage(self):
         """Test pour vérifier que les seeds correctement définis ne génèrent pas d'erreur"""

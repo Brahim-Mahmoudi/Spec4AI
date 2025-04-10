@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_1  # Ce module doit contenir la fonction rule_R1
+import generated_rules_R1  # Ce module doit contenir la fonction rule_R1
 
 class TestGeneratedRulesR1(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRulesR1(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On monkey-patche la fonction report du module généré
-        generated_rules_1.report = report
+        generated_rules_R1.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_1.rule_R1(ast_node)
+        generated_rules_R1.rule_R1(ast_node)
 
 
     def test_no_tensorflow_import(self):

@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_22  # Le fichier généré contenant la règle R22
+import generated_rules_R22  # Le fichier généré contenant la règle R22
 
 class TestGeneratedRules22(unittest.TestCase):
     def setUp(self):
         self.messages = []
         def report(message):
             self.messages.append(message)
-        generated_rules_22.report = report  # Remplace report() par une version qui stocke les messages
+        generated_rules_R22.report = report  # Remplace report() par une version qui stocke les messages
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_22.rule_R22(ast_node)  # Exécute la règle R22
+        generated_rules_R22.rule_R22(ast_node)  # Exécute la règle R22
 
     def test_no_scaling_before_pca(self):
         """Test détection absence de scaling avant PCA"""

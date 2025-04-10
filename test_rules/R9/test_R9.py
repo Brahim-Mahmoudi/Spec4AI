@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_9  # Le module généré contenant la règle R9
+import generated_rules_R9  # Le module généré contenant la règle R9
 
 class TestRuleR9(unittest.TestCase):
     def setUp(self):
         # Capture les messages générés par la fonction report
         self.messages = []
-        generated_rules_9.report = lambda msg: self.messages.append(msg)
+        generated_rules_R9.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         # Parse le code source et exécute la règle R9 sur l'AST
         ast_node = ast.parse(code)
-        generated_rules_9.rule_R9(ast_node)
+        generated_rules_R9.rule_R9(ast_node)
 
     def test_basic_gradient_not_cleared(self):
         """

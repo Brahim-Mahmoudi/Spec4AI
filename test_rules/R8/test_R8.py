@@ -1,17 +1,17 @@
 import ast
 import unittest
-import generated_rules_8  # Le module généré contenant la règle R8
+import generated_rules_R8  # Le module généré contenant la règle R8
 
 class TestPyTorchCallMethodMisuse(unittest.TestCase):
     def setUp(self):
         # On redéfinit la fonction report pour capturer les messages d'alerte
         self.messages = []
-        generated_rules_8.report = lambda msg: self.messages.append(msg)
+        generated_rules_R8.report = lambda msg: self.messages.append(msg)
 
     def run_rule(self, code):
         # Parser le code source et exécuter la règle R8 sur l'AST
         ast_node = ast.parse(code)
-        generated_rules_8.rule_R8(ast_node)
+        generated_rules_R8.rule_R8(ast_node)
 
     def test_detect_pytorch_call_method_misuse(self):
         """Test du cas où l'appel direct à forward() est utilisé (mauvaise pratique)"""

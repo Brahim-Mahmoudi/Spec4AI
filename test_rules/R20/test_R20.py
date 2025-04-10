@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_20
+import generated_rules_R20
 
 class TestGeneratedRules20(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules20(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_20.report = report
+        generated_rules_R20.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_20.rule_R20(ast_node)
+        generated_rules_R20.rule_R20(ast_node)
 
     def test_loc_usage(self):
         # Test 1 : Utilisation de loc (indexation correcte)

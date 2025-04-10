@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_17  # Le module généré contenant la règle R17
+import generated_rules_R17  # Le module généré contenant la règle R17
 
 class TestGeneratedRules17(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules17(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # "Monkey-patch" de la fonction report du module généré
-        generated_rules_17.report = report
+        generated_rules_R17.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_17.rule_R17(ast_node)
+        generated_rules_R17.rule_R17(ast_node)
 
     def test_iterrows_detection(self):
         """Détecte l'utilisation de iterrows sur un DataFrame"""

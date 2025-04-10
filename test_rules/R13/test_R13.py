@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_13  # Assurez-vous que ce module contient la règle R13
+import generated_rules_R13  # Assurez-vous que ce module contient la règle R13
 
 class TestGeneratedRules13(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules13(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_13.report = report
+        generated_rules_R13.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_13.rule_R13(ast_node)
+        generated_rules_R13.rule_R13(ast_node)
 
     def test_detect_empty_column_with_zeros(self):
         """

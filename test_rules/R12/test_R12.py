@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_12  # Assurez-vous que ce module contient la règle R12
+import generated_rules_R12  # Assurez-vous que ce module contient la règle R12
 
 class TestGeneratedRules12(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules12(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_12.report = report
+        generated_rules_R12.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_12.rule_R12(ast_node)
+        generated_rules_R12.rule_R12(ast_node)
 
     def test_detect_matrix_multiplication_misuse(self):
         # Test d'un usage incorrect de np.dot() pour la multiplication de matrices 2D

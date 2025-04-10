@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_19  # Assurez-vous que le module généré pour la règle R19 s'appelle bien generated_rules_19
+import generated_rules_R19  # Assurez-vous que le module généré pour la règle R19 s'appelle bien generated_rules_19
 
 class TestGeneratedRules19(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules19(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_19.report = report
+        generated_rules_R19.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_19.rule_R19(ast_node)
+        generated_rules_R19.rule_R19(ast_node)
 
     def test_threshold_validation_metrics_count(self):
         """

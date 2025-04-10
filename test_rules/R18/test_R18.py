@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_18  
+import generated_rules_R18  
 
 class TestGeneratedRules18(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules18(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_18.report = report
+        generated_rules_R18.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_18.rule_R18(ast_node)
+        generated_rules_R18.rule_R18(ast_node)
 
     def test_nanComparison(self):
         code = """

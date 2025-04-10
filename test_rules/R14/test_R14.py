@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_14  # Assurez-vous que ce module contient la règle R14
+import generated_rules_R14  # Assurez-vous que ce module contient la règle R14
 
 class TestGeneratedRules14(unittest.TestCase):
     def setUp(self):
@@ -9,11 +9,11 @@ class TestGeneratedRules14(unittest.TestCase):
         def report(message):
             self.messages.append(message)
         # On "monkey-patche" la fonction report du module généré
-        generated_rules_14.report = report
+        generated_rules_R14.report = report
 
     def run_rule(self, code):
         ast_node = ast.parse(code)
-        generated_rules_14.rule_R14(ast_node)
+        generated_rules_R14.rule_R14(ast_node)
 
     def test_conversion_misuse_basic(self):
         # Test 1 : Utilisation basique de df.values (doit être détectée)
