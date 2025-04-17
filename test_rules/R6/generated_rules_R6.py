@@ -1,6 +1,13 @@
 import ast
 import sys
 
+deterministic_used = False
+def set_deterministic_flag(ast_node):
+   global deterministic_used
+   deterministic_used = any(useDeterministic(sub) for sub in ast.walk(ast_node))
+
+def useDeterministicPresent():
+   return deterministic_used
 # Fonctions utilitaires attendues par les règles générées
 def report(message):
     print('REPORT:', message, flush=True)
@@ -773,11 +780,29 @@ def isRelevantLibraryCall(node):
     base = get_base_name(node.func)
     return base in ['torch', 'numpy', 'random', 'transformers']
 
+def isRelevantTorchCall(node):
+    if not isinstance(node, ast.Call):
+       return False
+    if isinstance(node.func, ast.Attribute):
+       base = get_base_name(node.func.value)
+       return base == 'torch'
+    return False
+
 def useDeterministic(node):
     if not isinstance(node, ast.Call):
         return False
     if isinstance(node.func, ast.Attribute) and node.func.attr == 'use_deterministic_algorithms':
         return bool(node.args and isinstance(node.args[0], ast.Constant) and node.args[0].value is True)
+    return False
+
+def useDeterministic(node):
+    if not isinstance(node, ast.Call):
+       return False
+    if isinstance(node.func, ast.Attribute) and node.func.attr == 'use_deterministic_algorithms':
+       return bool(
+       node.args and isinstance(node.args[0], ast.Constant)
+       and node.args[0].value is True
+       )
     return False
 
 def hasManualSeed(node):
@@ -1120,12 +1145,13 @@ def report_line(message, node):
 def rule_R6(ast_node):
     import ast
     add_parent_info(ast_node)
+    set_deterministic_flag(ast_node)
     # "Deterministic Algorithm Option Not Used"
     variable_ops = gather_scale_sensitive_ops(ast_node)
     scaled_vars = gather_scaled_vars(ast_node)
     problems = {}
     for sub in ast.walk(ast_node):
-        if ((isRelevantLibraryCall(sub) and (not ((useDeterministic(sub) or hasManualSeed(sub)))))):
+        if ((isRelevantTorchCall(sub) and (not useDeterministicPresent()))):
             line = getattr(sub, 'lineno', '?')
             if line != '?':
                 problems[line] = sub

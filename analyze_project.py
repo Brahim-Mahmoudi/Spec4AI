@@ -6,53 +6,53 @@ import sys
 import traceback
 
 # Import des modules contenant les règles générées
-from test_rules.R1 import generated_rules_1
-from test_rules.R2 import generated_rules_2
-from test_rules.R3 import generated_rules_3
-from test_rules.R4 import generated_rules_4
-from test_rules.R5 import generated_rules_5
-from test_rules.R6 import generated_rules_6
-from test_rules.R7 import generated_rules_7
-from test_rules.R8 import generated_rules_8
-from test_rules.R9 import generated_rules_9
-from test_rules.R10 import generated_rules_10
-from test_rules.R11 import generated_rules_11
-from test_rules.R12 import generated_rules_12
-from test_rules.R13 import generated_rules_13
-from test_rules.R14 import generated_rules_14
-from test_rules.R15 import generated_rules_15
-from test_rules.R16 import generated_rules_16
-from test_rules.R17 import generated_rules_17
-from test_rules.R18 import generated_rules_18
-from test_rules.R19 import generated_rules_19
-from test_rules.R20 import generated_rules_20
-from test_rules.R21 import generated_rules_21
-from test_rules.R22 import generated_rules_22
+from test_rules.R1 import generated_rules_R1
+from test_rules.R2 import generated_rules_R2
+from test_rules.R3 import generated_rules_R3
+from test_rules.R4 import generated_rules_R4
+from test_rules.R5 import generated_rules_R5
+from test_rules.R6 import generated_rules_R6
+from test_rules.R7 import generated_rules_R7
+from test_rules.R8 import generated_rules_R8
+from test_rules.R9 import generated_rules_R9
+from test_rules.R10 import generated_rules_R10
+from test_rules.R11 import generated_rules_R11
+from test_rules.R12 import generated_rules_R12
+from test_rules.R13 import generated_rules_R13
+from test_rules.R14 import generated_rules_R14
+from test_rules.R15 import generated_rules_R15
+from test_rules.R16 import generated_rules_R16
+from test_rules.R17 import generated_rules_R17
+from test_rules.R18 import generated_rules_R18
+from test_rules.R19 import generated_rules_R19
+from test_rules.R20 import generated_rules_R20
+from test_rules.R21 import generated_rules_R21
+from test_rules.R22 import generated_rules_R22
 
 # Liste des modules et fonctions de règles
 RULE_MODULES = [
-    (generated_rules_1, generated_rules_1.rule_R1),
-    (generated_rules_2, generated_rules_2.rule_R2),
-    (generated_rules_3, generated_rules_3.rule_R3),
-    (generated_rules_4, generated_rules_4.rule_R4),
-    (generated_rules_5, generated_rules_5.rule_R5),
-    (generated_rules_6, generated_rules_6.rule_R6),
-    (generated_rules_7, generated_rules_7.rule_R7),
-    (generated_rules_8, generated_rules_8.rule_R8),
-    (generated_rules_9, generated_rules_9.rule_R9),
-    (generated_rules_10, generated_rules_10.rule_R10),
-    (generated_rules_11, generated_rules_11.rule_R11),
-    (generated_rules_12, generated_rules_12.rule_R12),
-    (generated_rules_13, generated_rules_13.rule_R13),
-    (generated_rules_14, generated_rules_14.rule_R14),
-    (generated_rules_15, generated_rules_15.rule_R15),
-    (generated_rules_16, generated_rules_16.rule_R16),
-    (generated_rules_17, generated_rules_17.rule_R17),
-    (generated_rules_18, generated_rules_18.rule_R18),
-    (generated_rules_19, generated_rules_19.rule_R19),
-    (generated_rules_20, generated_rules_20.rule_R20),
-    (generated_rules_21, generated_rules_21.rule_R21),
-    (generated_rules_22, generated_rules_22.rule_R22),
+    (generated_rules_R1, generated_rules_R1.rule_R1),
+    (generated_rules_R2, generated_rules_R2.rule_R2),
+    (generated_rules_R3, generated_rules_R3.rule_R3),
+    (generated_rules_R4, generated_rules_R4.rule_R4),
+    (generated_rules_R5, generated_rules_R5.rule_R5),
+    (generated_rules_R6, generated_rules_R6.rule_R6),
+    (generated_rules_R7, generated_rules_R7.rule_R7),
+    (generated_rules_R8, generated_rules_R8.rule_R8),
+    (generated_rules_R9, generated_rules_R9.rule_R9),
+    (generated_rules_R10, generated_rules_R10.rule_R10),
+    (generated_rules_R11, generated_rules_R11.rule_R11),
+    (generated_rules_R12, generated_rules_R12.rule_R12),
+    (generated_rules_R13, generated_rules_R13.rule_R13),
+    (generated_rules_R14, generated_rules_R14.rule_R14),
+    (generated_rules_R15, generated_rules_R15.rule_R15),
+    (generated_rules_R16, generated_rules_R16.rule_R16),
+    (generated_rules_R17, generated_rules_R17.rule_R17),
+    (generated_rules_R18, generated_rules_R18.rule_R18),
+    (generated_rules_R19, generated_rules_R19.rule_R19),
+    (generated_rules_R20, generated_rules_R20.rule_R20),
+    (generated_rules_R21, generated_rules_R21.rule_R21),
+    (generated_rules_R22, generated_rules_R22.rule_R22),
 ]
 
 def analyze_file(filepath):
@@ -96,7 +96,7 @@ def analyze_project(root_dir):
 
 def main():
     ROOT_DIR = "/Users/bramss/Desktop/mlflow-master"
-    OUTPUT_JSON = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Code_Smell_Detection/DSL/test_rules/generated_all_rules_mlflow.json"
+    OUTPUT_JSON = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Code_Smell_Detection/DSL/DSL_Smell_Detector/test_rules/generated_all_rules_mlflow.json"
     results = analyze_project(ROOT_DIR)
     try:
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:

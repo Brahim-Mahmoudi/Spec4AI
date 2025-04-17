@@ -1,18 +1,14 @@
 {
   "/Users/bramss/Desktop/mlflow-master/tests/helper_functions.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 53",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 53"
+      "rule_R2: Random Seed Not Set at line 53"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/generate_ui_test_data.py": {
     "messages": [
       "rule_R2: Random Seed Not Set at line 26",
       "rule_R2: Random Seed Not Set at line 58",
-      "rule_R2: Random Seed Not Set at line 61",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 26",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 58",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 61"
+      "rule_R2: Random Seed Not Set at line 61"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/shap/test_shap.py": {
@@ -47,12 +43,6 @@
       "rule_R6: Deterministic Algorithm Option Not Used at line 128",
       "rule_R6: Deterministic Algorithm Option Not Used at line 126",
       "rule_R6: Deterministic Algorithm Option Not Used at line 138"
-    ]
-  },
-  "/Users/bramss/Desktop/mlflow-master/tests/langchain/test_langchain_model_export.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 84",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 87"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/xgboost/test_xgboost_autolog.py": {
@@ -91,8 +81,7 @@
       "rule_R5: Hyperparameter not explicitly set at line 152",
       "rule_R5: Hyperparameter not explicitly set at line 203",
       "rule_R5: Hyperparameter not explicitly set at line 57",
-      "rule_R5: Hyperparameter not explicitly set at line 175",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 34"
+      "rule_R5: Hyperparameter not explicitly set at line 175"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/gluon/test_gluon_model_export.py": {
@@ -108,11 +97,6 @@
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 23"
     ]
   },
-  "/Users/bramss/Desktop/mlflow-master/tests/utils/test_rest_utils.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 447"
-    ]
-  },
   "/Users/bramss/Desktop/mlflow-master/tests/models/test_model.py": {
     "messages": [
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
@@ -121,7 +105,6 @@
   "/Users/bramss/Desktop/mlflow-master/tests/models/test_utils.py": {
     "messages": [
       "rule_R2: Random Seed Not Set at line 29",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 29",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
     ]
   },
@@ -135,7 +118,6 @@
   "/Users/bramss/Desktop/mlflow-master/tests/models/test_wheeled_model.py": {
     "messages": [
       "rule_R2: Random Seed Not Set at line 50",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 50",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 344",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
     ]
@@ -281,6 +263,9 @@
       "rule_R5: Hyperparameter not explicitly set at line 390",
       "rule_R5: Hyperparameter not explicitly set at line 430",
       "rule_R5: Hyperparameter not explicitly set at line 472",
+      "rule_R6: Deterministic Algorithm Option Not Used at line 56",
+      "rule_R6: Deterministic Algorithm Option Not Used at line 101",
+      "rule_R6: Deterministic Algorithm Option Not Used at line 178",
       "rule_R6: Deterministic Algorithm Option Not Used at line 75",
       "rule_R6: Deterministic Algorithm Option Not Used at line 120",
       "rule_R6: Deterministic Algorithm Option Not Used at line 203",
@@ -293,86 +278,11 @@
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 474"
     ]
   },
-  "/Users/bramss/Desktop/mlflow-master/tests/transformers/test_transformers_model_export.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 170",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 171",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 172",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 180",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 181",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 184",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 191",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 194",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 197",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 206",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 213",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 214",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 215",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 218",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 232",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 235",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 238",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 245",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 246",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 247",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 255",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 256",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 258",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 270",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 271",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 273",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 283",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 295",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 296",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 297",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 309",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 310",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 311",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 323",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 324",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 325",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 335",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 343",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 354",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 364",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 393",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 394",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 395",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 398",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 406",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 413",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 414",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 416",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 788",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 847",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1195",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1202",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1244",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2537",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2560",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2583",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2730",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2770",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2807",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2843",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 285",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 286",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2732",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2733",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2772",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2773",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2809",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2810",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2845",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 2846"
-    ]
-  },
   "/Users/bramss/Desktop/mlflow-master/tests/recipes/helper_functions.py": {
     "messages": [
       "rule_R2: Random Seed Not Set at line 23",
       "rule_R5: Hyperparameter not explicitly set at line 59",
       "rule_R5: Hyperparameter not explicitly set at line 72",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 23",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 60",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 73"
     ]
@@ -381,8 +291,7 @@
     "messages": [
       "rule_R2: Random Seed Not Set at line 77",
       "rule_R5: Hyperparameter not explicitly set at line 365",
-      "rule_R5: Hyperparameter not explicitly set at line 371",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 77"
+      "rule_R5: Hyperparameter not explicitly set at line 371"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/recipes/test_ingest_step.py": {
@@ -435,7 +344,6 @@
     "messages": [
       "rule_R5: Hyperparameter not explicitly set at line 84",
       "rule_R5: Hyperparameter not explicitly set at line 117",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 66",
       "rule_R10: Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
     ]
   },
@@ -491,7 +399,6 @@
   "/Users/bramss/Desktop/mlflow-master/tests/tracking/test_tracking.py": {
     "messages": [
       "rule_R2: Random Seed Not Set at line 47",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 47",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 882",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 898",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 915",
@@ -517,24 +424,7 @@
       "rule_R2: Random Seed Not Set at line 319",
       "rule_R2: Random Seed Not Set at line 336",
       "rule_R2: Random Seed Not Set at line 1018",
-      "rule_R2: Random Seed Not Set at line 1039",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 223",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 239",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 256",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 191",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 199",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 207",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 214",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 221",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 237",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 253",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 266",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 288",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 304",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 319",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 336",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1018",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1039"
+      "rule_R2: Random Seed Not Set at line 1039"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/tracking/fluent/test_fluent_autolog.py": {
@@ -559,8 +449,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/tests/spacy/test_spacy_model_export.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 424",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 424"
+      "rule_R2: Random Seed Not Set at line 424"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_metric_value_conversion_utils.py": {
@@ -677,8 +566,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/tests/entities/conftest.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 37",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 37"
+      "rule_R2: Random Seed Not Set at line 37"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/spark/test_spark_model_export.py": {
@@ -747,8 +635,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/tests/store/tracking/test_file_store.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 382",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 382"
+      "rule_R2: Random Seed Not Set at line 382"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/store/artifact/test_sftp_artifact_repo.py": {
@@ -767,8 +654,6 @@
       "rule_R2: Random Seed Not Set at line 853",
       "rule_R2: Random Seed Not Set at line 885",
       "rule_R5: Hyperparameter not explicitly set at line 974",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 853",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 885",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 142"
     ]
   },
@@ -782,7 +667,6 @@
       "rule_R2: Random Seed Not Set at line 436",
       "rule_R5: Hyperparameter not explicitly set at line 108",
       "rule_R5: Hyperparameter not explicitly set at line 110",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 436",
       "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 105",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94"
     ]
@@ -811,9 +695,7 @@
   "/Users/bramss/Desktop/mlflow-master/mlflow/transformers.py": {
     "messages": [
       "rule_R6: Deterministic Algorithm Option Not Used at line 831",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 943",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 959",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1687"
+      "rule_R6: Deterministic Algorithm Option Not Used at line 959"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/paddle/__init__.py": {
@@ -826,11 +708,7 @@
       "rule_R2: Random Seed Not Set at line 32",
       "rule_R2: Random Seed Not Set at line 30",
       "rule_R2: Random Seed Not Set at line 31",
-      "rule_R2: Random Seed Not Set at line 23",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 30",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 31",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 32",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 23"
+      "rule_R2: Random Seed Not Set at line 23"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/models/utils.py": {
@@ -856,8 +734,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/recipes/cards/__init__.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 182",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 182"
+      "rule_R2: Random Seed Not Set at line 182"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/tracking/client.py": {
@@ -889,8 +766,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/store/tracking/sqlalchemy_store.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 1194",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1194"
+      "rule_R2: Random Seed Not Set at line 1194"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/pyfunc/scoring_server/__init__.py": {
@@ -1001,8 +877,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/examples/spark_udf/spark_udf_datetime.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 29",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 29"
+      "rule_R2: Random Seed Not Set at line 29"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/gluon/train.py": {
@@ -1015,41 +890,11 @@
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117"
     ]
   },
-  "/Users/bramss/Desktop/mlflow-master/examples/quickstart/mlflow_tracking.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 11",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 12",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 13"
-    ]
-  },
   "/Users/bramss/Desktop/mlflow-master/examples/transformers/sentence_transformer.py": {
     "messages": [
       "rule_R6: Deterministic Algorithm Option Not Used at line 43",
       "rule_R6: Deterministic Algorithm Option Not Used at line 39",
       "rule_R6: Deterministic Algorithm Option Not Used at line 29"
-    ]
-  },
-  "/Users/bramss/Desktop/mlflow-master/examples/transformers/load_components.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 4",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 33",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 6",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 7"
-    ]
-  },
-  "/Users/bramss/Desktop/mlflow-master/examples/transformers/whisper.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 11"
-    ]
-  },
-  "/Users/bramss/Desktop/mlflow-master/examples/transformers/simple.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 6"
-    ]
-  },
-  "/Users/bramss/Desktop/mlflow-master/examples/transformers/conversational.py": {
-    "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 5"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/sklearn_elasticnet_diabetes/osx/train_diabetes.py": {
@@ -1121,8 +966,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/examples/spacy/train.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 38",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 38"
+      "rule_R2: Random Seed Not Set at line 38"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/mnist_tensorboard_artifact.py": {
@@ -1181,6 +1025,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/CaptumExample/Titanic_Captum_Interpret.py": {
     "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used at line 72",
       "rule_R6: Deterministic Algorithm Option Not Used at line 197",
       "rule_R6: Deterministic Algorithm Option Not Used at line 162",
       "rule_R6: Deterministic Algorithm Option Not Used at line 164",
@@ -1258,8 +1103,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/examples/remote_store/remote_server.py": {
     "messages": [
-      "rule_R2: Random Seed Not Set at line 25",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 25"
+      "rule_R2: Random Seed Not Set at line 25"
     ]
   }
 }
