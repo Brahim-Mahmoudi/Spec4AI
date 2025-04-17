@@ -30,19 +30,7 @@
       "rule_R2: Random Seed Not Set at line 132",
       "rule_R2: Random Seed Not Set at line 217",
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 81",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 105",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 134",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 159",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 160",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 195",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 116",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 122",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 124",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 125",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 128",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 126",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 138"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/xgboost/test_xgboost_autolog.py": {
@@ -263,15 +251,7 @@
       "rule_R5: Hyperparameter not explicitly set at line 390",
       "rule_R5: Hyperparameter not explicitly set at line 430",
       "rule_R5: Hyperparameter not explicitly set at line 472",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 56",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 101",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 178",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 75",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 120",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 203",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 74",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 119",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 202",
+      "rule_R6: Deterministic Algorithm Option Not Used",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 356",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 392",
       "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 432",
@@ -457,9 +437,7 @@
       "rule_R2: Random Seed Not Set at line 13",
       "rule_R2: Random Seed Not Set at line 22",
       "rule_R2: Random Seed Not Set at line 27",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 13",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 22",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 27"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_model_export.py": {
@@ -468,15 +446,7 @@
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193",
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 877",
       "rule_R5: Hyperparameter not explicitly set at line 1131",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 90",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 840",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1131",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 116",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 194",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 133",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 637",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 638",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 1097",
+      "rule_R6: Deterministic Algorithm Option Not Used",
       "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 576",
       "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 611",
       "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 665"
@@ -485,28 +455,19 @@
   "/Users/bramss/Desktop/mlflow-master/tests/pytorch/iris.py": {
     "messages": [
       "rule_R5: Hyperparameter not explicitly set at line 56",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 14",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 56",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 67",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 77",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 85",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 95",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 104"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_autolog.py": {
     "messages": [
       "rule_R5: Hyperparameter not explicitly set at line 333",
       "rule_R5: Hyperparameter not explicitly set at line 344",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 333",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 344",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 249"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/pytorch/iris_data_module.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 22",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 23"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/tests/statsmodels/model_fixtures.py": {
@@ -694,8 +655,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/transformers.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 831",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 959"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/paddle/__init__.py": {
@@ -746,16 +706,7 @@
   "/Users/bramss/Desktop/mlflow-master/mlflow/pytorch/__init__.py": {
     "messages": [
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 757",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 837",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 872",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 493",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 495",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 624",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 628",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 758",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 759",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 633",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 740"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/mlflow/deployments/cli.py": {
@@ -892,9 +843,7 @@
   },
   "/Users/bramss/Desktop/mlflow-master/examples/transformers/sentence_transformer.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 43",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 39",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 29"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/sklearn_elasticnet_diabetes/osx/train_diabetes.py": {
@@ -973,87 +922,44 @@
     "messages": [
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
       "rule_R5: Hyperparameter not explicitly set at line 131",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 70",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 75",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 88",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 68",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 72",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 169"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/MNIST/mnist_autolog_example.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 99",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 100",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 101",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 119",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 123",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 129",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 174",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 189",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 198",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 208",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 210"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 41",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 49",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 58",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 66"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris_data_module.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 22",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 23"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/BertNewsClassification/bert_classification.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 70",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 292",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 293",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 319",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 328",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 338",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 340",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 102",
+      "rule_R6: Deterministic Algorithm Option Not Used",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/CaptumExample/Titanic_Captum_Interpret.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 72",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 197",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 162",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 164",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 165",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 153",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 183",
+      "rule_R6: Deterministic Algorithm Option Not Used",
       "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/IterativePruning/iterative_prune_mnist.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 48",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 67"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/IterativePruning/mnist.py": {
     "messages": [
-      "rule_R6: Deterministic Algorithm Option Not Used at line 93",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 94",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 95",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 113",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 117",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 123",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 168",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 183",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 192",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 202",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 204"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/torchscript/MNIST/mnist_torchscript.py": {
@@ -1061,34 +967,14 @@
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66",
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186",
       "rule_R5: Hyperparameter not explicitly set at line 173",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 154",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 156",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 170",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 171",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 174",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 33",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 69",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 152",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 187",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 191"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/pytorch/torchscript/IrisClassification/iris_classification.py": {
     "messages": [
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
       "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 29",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 42",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 43",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 44",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 45",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 52",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 89",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 69",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 71",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 100",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 101",
-      "rule_R6: Deterministic Algorithm Option Not Used at line 104"
+      "rule_R6: Deterministic Algorithm Option Not Used"
     ]
   },
   "/Users/bramss/Desktop/mlflow-master/examples/statsmodels/train.py": {

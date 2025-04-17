@@ -1,6 +1,63 @@
 import ast
 import sys
 
+torch_imported = False
+torch_used = False
+deterministic_used = False
+def reset_torch_flags():
+    global torch_imported, torch_used, deterministic_used
+    torch_imported = False
+    torch_used = False
+    deterministic_used = False
+
+def track_torch_import(node):
+    global torch_imported
+    if isinstance(node, ast.Import):
+        for alias in node.names:
+            if alias.name == 'torch':
+                torch_imported = True
+    elif isinstance(node, ast.ImportFrom):
+        if node.module and node.module.startswith('torch'):
+            torch_imported = True
+
+def useDeterministic(node):
+    global deterministic_used
+    if not isinstance(node, ast.Call):
+        return False
+    if isinstance(node.func, ast.Attribute) and node.func.attr == 'use_deterministic_algorithms':
+        if node.args and isinstance(node.args[0], ast.Constant) and node.args[0].value is True:
+            deterministic_used = True
+            return True
+    return False
+
+def isRelevantTorchCall(node):
+    global torch_used
+    if not isinstance(node, ast.Call):
+        return False
+    full_path = get_full_attr_path(node.func)
+    if full_path and full_path.startswith("torch."):
+        torch_used = True
+        return True
+    return False
+
+def get_full_attr_path(expr):
+    parts = []
+    while isinstance(expr, ast.Attribute):
+        parts.insert(0, expr.attr)
+        expr = expr.value
+    if isinstance(expr, ast.Name):
+        parts.insert(0, expr.id)
+    return '.'.join(parts)
+
+def customCheckTorchDeterminism(ast_node):
+    reset_torch_flags()
+    for node in ast.walk(ast_node):
+        track_torch_import(node)
+        isRelevantTorchCall(node)
+        useDeterministic(node)
+    #log(f"torch_imported={torch_imported}, torch_used={torch_used}, deterministic_used={deterministic_used}")
+    return torch_imported and torch_used and not deterministic_used
+
 # Fonctions utilitaires attendues par les règles générées
 def report(message):
     print('REPORT:', message, flush=True)
@@ -773,13 +830,6 @@ def isRelevantLibraryCall(node):
     base = get_base_name(node.func)
     return base in ['torch', 'numpy', 'random', 'transformers']
 
-def useDeterministic(node):
-    if not isinstance(node, ast.Call):
-        return False
-    if isinstance(node.func, ast.Attribute) and node.func.attr == 'use_deterministic_algorithms':
-        return bool(node.args and isinstance(node.args[0], ast.Constant) and node.args[0].value is True)
-    return False
-
 def hasManualSeed(node):
     if not isinstance(node, ast.Call):
         return False
@@ -1120,6 +1170,7 @@ def report_line(message, node):
 def rule_R16(ast_node):
     import ast
     add_parent_info(ast_node)
+    #set_deterministic_flag(ast_node)
     # "API Misuse"
     variable_ops = gather_scale_sensitive_ops(ast_node)
     scaled_vars = gather_scaled_vars(ast_node)

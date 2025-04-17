@@ -127,8 +127,8 @@ def main():
     args = parser.parse_args()
 
     rules = load_all_rules()
-    ALL_PROJECTS_DIR = "/Users/bramss/Desktop/All_Repo"
-    OUTPUT_DIR = "/Users/bramss/Desktop/All_Result"
+    ALL_PROJECTS_DIR = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Comparison_MLpylint"
+    OUTPUT_DIR = "/Users/bramss/Desktop/Results_160_files_Pter"
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     project_paths = collect_project_paths(ALL_PROJECTS_DIR)

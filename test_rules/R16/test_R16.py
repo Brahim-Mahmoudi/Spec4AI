@@ -1,6 +1,6 @@
 import ast
 import unittest
-import generated_rules_1R6  # module contenant rule_R16 et les fonctions utilitaires associées
+import generated_rules_R16  # module contenant rule_R16 et les fonctions utilitaires associées
 
 class TestGeneratedRules16(unittest.TestCase):
     def setUp(self):
