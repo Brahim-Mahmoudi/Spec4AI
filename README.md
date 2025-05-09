@@ -1,4 +1,5 @@
-![Overview](static/AI-based system.png)
+![Overview](static/AI-based%20system.png)
+
 
 # Spec4AI CLI
 
@@ -49,7 +50,7 @@ python spec4ai.py --input-dir ./my_project --all --summary
   - Number of files with alerts
   - (Optional) Summary of alerts per rule
 
-## 📁 Project Structure Assumptions
+##  Project Structure Assumptions
 - Rules are located in subfolders of `test_rules/` (e.g. `test_rules/R2/generated_rules_R2.py`)
 - Each rule module must define a function named `rule_<ID>` and a global `report()` function used for collecting messages.
 
