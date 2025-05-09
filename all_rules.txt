@@ -200,3 +200,21 @@ rule R22 "No Scaling Before Scale Sensitive Operations":
             and not isPartOfValidatedPipeline(sub)
         )
     action: report "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line {lineno}"
+
+rule R23 "EarlyStopping Not Used in Model.fit":
+    condition:
+        exists call in AST: (
+            isFitCall(call)
+            and not hasEarlyStoppingCallback(call)
+        )
+    action:
+        report "Model.fit() called without EarlyStopping callback at line {lineno}"
+
+rule R24 "Index Column Not Explicitly Set in DataFrame Read":
+    condition:
+        exists call in AST: (
+            isPandasReadCall(call)
+            and not hasKeyword(call, "index_col")
+        )
+    action:
+        report "pd.read_… called without ‘index_col’; consider specifying index_col to avoid implicit integer indexing at line {lineno}"
