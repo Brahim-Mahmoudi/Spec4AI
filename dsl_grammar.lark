@@ -3,8 +3,8 @@
 rule_definition: "rule" IDENTIFIER STRING ":" "condition:" condition_expr "action:" action_expr
 
 // ----------------------------
-// EXPRESSIONS DE CONDITION
-// (inchangées)
+// EXPRESSIONS OF CONDITION
+// 
 // ----------------------------
 ?condition_expr: assign_expr
 ?assign_expr: logical_or_expr
@@ -75,7 +75,7 @@ count_binding_expr: IDENTIFIER "in" IDENTIFIER ":" condition_expr           -> c
 argument_list: condition_expr ( "," condition_expr )*
 
 // ----------------------------
-// LEXIQUE & TERMINAUX
+// LEXICON & TERMINALS
 // ----------------------------
 literal: NUMBER | STRING
 

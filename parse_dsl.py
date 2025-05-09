@@ -2,9 +2,9 @@
 """
 parse_dsl.py
 -------------
-Ce script charge la grammaire depuis le fichier dsl_grammar.lark,
-parse le fichier DSL (rules.dsl) et génère du code Python permettant d'analyser un AST
-selon les règles définies dans le DSL.
+This script loads the grammar from the dsl_grammar.lark file,
+parses the DSL file (rules.dsl), and generates Python code to analyze an AST
+based on the rules defined in the DSL.
 """
 
 import sys
@@ -14,7 +14,7 @@ from lark import Lark, Transformer, Tree, v_args
 import re
 
 # -----------------------------------------------------------------------------
-# Chargement de la grammaire depuis le fichier externe dsl_grammar.lark
+# Loading the grammar from the external file dsl_grammar.lark
 # -----------------------------------------------------------------------------
 GRAMMAR_FILE = "dsl_grammar.lark"
 try:
@@ -25,7 +25,7 @@ except Exception as e:
     sys.exit(1)
 
 # -----------------------------------------------------------------------------
-# Définition d'une classe représentant une règle DSL
+# Definition of a class representing a DSL rule
 # -----------------------------------------------------------------------------
 class DSLRule:
     def __init__(self, rule_id, description, condition, action):
@@ -41,7 +41,7 @@ class DSLRule:
         )
 
 # -----------------------------------------------------------------------------
-# Transformer pour convertir l'arbre syntaxique en objet DSLRule
+# Transformer to convert the syntax tree into a DSLRule object
 # -----------------------------------------------------------------------------
 @v_args(inline=True)
 class DSLTransformer(Transformer):
@@ -65,7 +65,6 @@ class DSLTransformer(Transformer):
 
     def cond_exists_binding(self, var, context, condition):
         
-        # Dictionnaire pour forcer un certain type de nœud si context est "Call", "Assign", etc.
         context_map = {
             "Call":      "ast.Call",
             "Assign":    "ast.Assign",
@@ -73,8 +72,7 @@ class DSLTransformer(Transformer):
             "Stmt":      "ast.stmt",
             "Expr":      "ast.expr",
         }
-        # On remplace les occurrences de <var> par "sub" dans l'expression conditionnelle
-        # puisqu'on itérera avec 'for sub in ast.walk(ast_node):'
+        
         new_condition = condition.replace(var, 'sub')
 
         if context in context_map:
@@ -86,8 +84,8 @@ class DSLTransformer(Transformer):
 
 
     def exists_call_in_ast(self, binding, condition):
-        # binding : l'identifiant utilisé dans l'expression (ex. "call" ou "call2")
-        # condition : le code conditionnel (une chaîne) qui peut faire référence à binding
+        # binding: the identifier used in the expression (e.g., "call" or "call2")
+        # condition: the conditional code (a string) that can reference the binding
         return f"any(({condition}) for {binding} in ast.walk(ast_node))"
 
         
@@ -99,7 +97,6 @@ class DSLTransformer(Transformer):
         return f"({identifier} := {expr})"
 
     def cond_exists_simple(self, pattern_expr):
-        # Si l'appel à isDataFrameVariable(...) n'a qu'un argument, on injecte sub
         pattern_expr = re.sub(r'isDataFrameVariable\(([^,)]*)\)', r'isDataFrameVariable(\1, sub)', pattern_expr)
         return f"any({pattern_expr} for sub in ast.walk(ast_node))"
 
@@ -152,7 +149,7 @@ class DSLTransformer(Transformer):
 
     @v_args(inline=True)
     def pattern_func(self, func, args=None):
-        # Utilisé par ex. isDataFrameVariable
+        
         if func == "seedSet":
             return "global_seed_set(ast_node, get_random_lib(sub))"
         if func == "isDataFrameVariable" and args is not None:
@@ -202,7 +199,6 @@ class DSLTransformer(Transformer):
     @v_args(inline=True)
     def func_call_node(self, func_name, args=None):
         if func_name == "seedSet":
-            # Au lieu de seedSet(call), on génère global_seed_set(ast_node, get_random_lib(sub))
             return "global_seed_set(ast_node, get_random_lib(sub))"
         else:
             if args is None:
@@ -252,7 +248,6 @@ class DSLTransformer(Transformer):
         return f"hasNanComparator({cmp})"
     
     def seed_set(self, token):
-        # Cette méthode interceptera directement les appels à seedSet
         return "global_seed_set(ast_node, get_random_lib(sub))"
 
     
@@ -309,13 +304,10 @@ def isScaleSensitiveFit(call, variable_ops):
         return False
     callee = call.func.value
     if isinstance(callee, ast.Name):
-        return callee.id in variable_ops  # la variable associée est un algo sensible
+        return callee.id in variable_ops  
     return False
 
 
-# -----------------------------------------------------------------------------
-# Reste du code (header + génération) 
-# -----------------------------------------------------------------------------
 
 def generate_rule_code(rule: DSLRule) -> str:
     rule_name = f"rule_{rule.rule_id}"
@@ -337,7 +329,6 @@ def generate_rule_code(rule: DSLRule) -> str:
     inject_tensor_tracking = "isPytorchTensorUsage" in condition
     #deterministic_algo = "useDeterministicPresent" in condition
         
-    # Nouvelle logique pour extraire les préconditions globales et les évaluer une seule fois
     preamble_lines = [
         f"def {rule_name}(ast_node):",
         "    import ast",
@@ -355,7 +346,7 @@ def generate_rule_code(rule: DSLRule) -> str:
             "        isPytorchTensorDefinition(node)"
         ]
 
-    # Détection des appels à ast_node-level
+    
     global_checks = []
     local_condition = condition
     if "isModelFitPresent(ast_node)" in condition:
@@ -403,11 +394,12 @@ def generate_rule_code(rule: DSLRule) -> str:
 
 def generate_python_code(rules) -> str:
     """
-    Construit le code Python final : 
-    d'abord le header (avec gather_scale_sensitive_ops, isScaleSensitiveFit, etc.), 
-    puis chaque règle.
+         Builds the final Python code:
+         first the header (with gather_scale_sensitive_ops, isScaleSensitiveFit, etc.),
+         then each rule.
+
     """
-    # On reconstruit le header
+    
     header = [
     "import ast",
     "import sys",
@@ -469,7 +461,6 @@ def generate_python_code(rules) -> str:
     "    #log(f\"torch_imported={torch_imported}, torch_used={torch_used}, deterministic_used={deterministic_used}\")",
     "    return torch_imported and torch_used and not deterministic_used",
     "",
-    "# Fonctions utilitaires attendues par les règles générées",
     "def report(message):",
     "    print('REPORT:', message, flush=True)",
     "",
@@ -487,7 +478,6 @@ def generate_python_code(rules) -> str:
     "    if parent is None:",
     "       init_train_lines(node)",
     "",
-    "# gather_scale_sensitive_ops : repère var= SVC(...) / PCA(...) ...",
     "def gather_scale_sensitive_ops(ast_node):",
     "    scale_sensitive_ops = {",
     "        'PCA', 'SVC', 'SGDClassifier', 'SGDRegressor', 'MLPClassifier',",
@@ -518,7 +508,6 @@ def generate_python_code(rules) -> str:
     "        return callee.id in variable_ops",
     "    return False",
     "",
-    "# Fonctions de gestion de scope pour la détection des DataFrames",
     "def get_scope_dataframe_vars(node):",
     "    current = node",
     "    while current is not None and not isinstance(current, (ast.FunctionDef, ast.Module)):",
@@ -526,7 +515,6 @@ def generate_python_code(rules) -> str:
     "",
     "    local_vars = set()",
     "",
-    "    # Méthodes connues pour créer un DataFrame",
     "    dataframe_creators = {",
     "        'DataFrame', 'from_dict', 'from_records',",
     "        'read_csv', 'read_json', 'read_excel',",
@@ -534,7 +522,6 @@ def generate_python_code(rules) -> str:
     "        'read_table'",
     "    }",
     "",
-    "    # Première passe : détection directe via pandas",
     "    for stmt in ast.walk(current):",
     "        if isinstance(stmt, ast.Assign) and len(stmt.targets) == 1:",
     "            target = stmt.targets[0]",
@@ -546,7 +533,7 @@ def generate_python_code(rules) -> str:
     "            if isinstance(val, ast.Call):",
     "                func = val.func",
     "",
-    "                # pd.DataFrame(...) ou pd.read_csv(...) ou pd.DataFrame.from_dict(...)",
+    "                # pd.DataFrame(...) or pd.read_csv(...) ou pd.DataFrame.from_dict(...)",
     "                if isinstance(func, ast.Attribute):",
     "                    # Ex: pd.read_csv(...)",
     "                    if isinstance(func.value, ast.Name) and func.value.id == 'pd':",
@@ -561,7 +548,6 @@ def generate_python_code(rules) -> str:
     "                elif isinstance(func, ast.Name) and func.id == 'DataFrame':",
     "                    local_vars.add(var_name)",
     "",
-    "    # Deuxième passe : propagation des transformations (df2 = df.method() ou df[...])",
     "    for stmt in ast.walk(current):",
     "        if isinstance(stmt, ast.Assign) and len(stmt.targets) == 1:",
     "            target = stmt.targets[0]",
@@ -612,7 +598,6 @@ def generate_python_code(rules) -> str:
     "        'MaxAbsScaler','PowerTransformer','QuantileTransformer'",
     "    }",
     "",
-    "    # Dictionnaire pour repérer les variables qui stockent un scaler, ex: scaler = StandardScaler()",
     "    scaler_map = {}",
     "    for stmt in ast.walk(ast_node):",
     "        if isinstance(stmt, ast.Assign):",
@@ -627,7 +612,6 @@ def generate_python_code(rules) -> str:
     "                    elif isinstance(func, ast.Attribute) and func.attr in known_scalers:",
     "                        scaler_map[var_name] = func.attr",
     "",
-    "    # Maintenant, on recherche les assignations de type X_scaled = <scaler>.fit_transform(X)",
     "    for stmt in ast.walk(ast_node):",
     "        if isinstance(stmt, ast.Assign) and len(stmt.targets) == 1:",
     "            target = stmt.targets[0]",
@@ -638,16 +622,15 @@ def generate_python_code(rules) -> str:
     "                        if stmt.value.func.attr == 'fit_transform':",
     "                            base = stmt.value.func.value  # ex. ast.Name(id='scaler') ou ast.Call(...)",
     "                            if isinstance(base, ast.Name):",
-    "                                # cas: scaler.fit_transform(X)",
+    "                                # case: scaler.fit_transform(X)",
     "                                if base.id in scaler_map:",
     "                                    scaled_vars.add(target.id)",
     "                                else:",
-    "                                    # fallback si on veut check direct name sans map",
     "                                    base_func = get_base_name(base)",
     "                                    if base_func in known_scalers:",
     "                                        scaled_vars.add(target.id)",
     "                            else:",
-    "                                # cas: StandardScaler().fit_transform(X)",
+    "                                # case: StandardScaler().fit_transform(X)",
     "                                base_func = get_base_name(base)",
     "                                if base_func in known_scalers:",
     "                                    scaled_vars.add(target.id)",
@@ -668,7 +651,6 @@ def generate_python_code(rules) -> str:
     "    if scaled_vars:",
     "        if call_uses_scaled_data(call, scaled_vars):",
     "            return True",
-    "    # fallback : remonter la chaîne pour un assign direct d'un scaler",
     "    scalers = {",
     "        'StandardScaler', 'MinMaxScaler', 'RobustScaler', 'Normalizer',",
     "        'MaxAbsScaler', 'PowerTransformer', 'QuantileTransformer'",
@@ -780,12 +762,12 @@ def generate_python_code(rules) -> str:
     "    attr = node.func.attr",
     "    base = get_base_name(node.func.value)",
     "",
-    "    # ---------- Cas NumPy -------------------------------------------------",
+    "    # ----------  NumPy -------------------------------------------------",
     "    numpy_methods_requiring_assignment = {'clip', 'sort', 'argsort'}",
     "    if base == 'np' and attr in numpy_methods_requiring_assignment:",
     "        return True",
     "",
-    "    # ---------- Cas DataFrame Pandas -------------------------------------",
+    "    # ----------  DataFrame Pandas -------------------------------------",
     "    api_methods = {",
     "        'drop', 'dropna', 'sort_values', 'replace',",
     "        'clip', 'sort', 'argsort',",
@@ -1056,7 +1038,7 @@ def generate_python_code(rules) -> str:
     "        if kw.arg == 'random_state':",
     "            if isinstance(kw.value, ast.Constant):",
     "                return kw.value.value is not None",
-    "            return True  # Si c’est une variable/expression, on considère que c’est set",
+    "            return True  ",
     "    return False",
     "def global_seed_set(ast_node, lib):",
     "    seeds = set()",
@@ -1155,7 +1137,6 @@ def generate_python_code(rules) -> str:
     "def is_dataloader_with_shuffle(stmt):",
     "    if not isinstance(stmt, ast.Call):",
     "        return False",
-    "    # Vérifier si le nom de la fonction est DataLoader ou si c'est un attribut DataLoader",
     "    if isinstance(stmt.func, ast.Name) and stmt.func.id == 'DataLoader':",
     "        for kw in stmt.keywords:",
     "            if kw.arg == 'shuffle' and isinstance(kw.value, ast.Constant) and kw.value.value is True:",
@@ -1170,11 +1151,9 @@ def generate_python_code(rules) -> str:
     "    has_constant = False",
     "    has_concat = False",
     "    for node in ast.walk(block):",
-    "        # Vérifier l'utilisation de tf.constant()",
     "        if isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute):",
     "            if hasattr(node.func.value, 'id') and node.func.value.id == 'tf' and node.func.attr == 'constant':",
     "                has_constant = True",
-    "        # Vérifier l'utilisation de tf.concat()",
     "        if isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute):",
     "            if hasattr(node.func.value, 'id') and node.func.value.id == 'tf' and node.func.attr == 'concat':",
     "                has_concat = True",
@@ -1185,7 +1164,6 @@ def generate_python_code(rules) -> str:
     "def isMLMethodCall(call):",
     "    if not isinstance(call, ast.Call):",
     "        return False",
-    "    # Récupérer le nom de la fonction appelée",
     "    if isinstance(call.func, ast.Name):",
     "        func_name = call.func.id",
     "    elif isinstance(call.func, ast.Attribute):",
@@ -1212,8 +1190,6 @@ def generate_python_code(rules) -> str:
     "    }",
     "    return func_name in hyperparameter_functions",
     "def hasExplicitHyperparameters(call):",
-    "    # On considère que si l'appel fournit des arguments clés,",
-    "    # les hyperparamètres sont explicitement définis.",
     "    return len(call.keywords) > 0",
     "",
     "def isLog(call):",
@@ -1226,10 +1202,8 @@ def generate_python_code(rules) -> str:
     "    return False",
     "",
     "def hasMask(call):",
-    "    # Vérifie si l'argument de tf.log est déjà masqué par une opération de clipping (par exemple, tf.clip_by_value)",
     "    if not isinstance(call, ast.Call):",
     "        return False",
-    "    # Assurer que c'est un appel à tf.log",
     "    if not isLog(call):",
     "        return False",
     "    if len(call.args) == 0:",
@@ -1245,18 +1219,14 @@ def generate_python_code(rules) -> str:
     "        return False",
     "    if not isinstance(call.func, ast.Attribute):",
     "        return False",
-    "    # Vérifier que la méthode appelée est 'forward'",
     "    if call.func.attr != 'forward':",
     "        return False",
-    "    # Vérifier que l'appel est de la forme self.<module>.forward(...)",
     "    if not isinstance(call.func.value, ast.Attribute):",
     "        return False",
     "    if not isinstance(call.func.value.value, ast.Name):",
     "        return False",
-    "    # On s'assure que le préfixe est 'self'",
     "    if call.func.value.value.id != 'self':",
     "        return False",
-    "    # Dans ce cas, c'est un appel du type self.<something>.forward()",
     "    return True",
     "",
     "def isRelevantLibraryCall(node):",
@@ -1282,7 +1252,6 @@ def generate_python_code(rules) -> str:
     "        and isinstance(node.func, ast.Attribute)",
     "        and node.func.attr == 'train')",
     "",
-    "# On va aussi repérer optimizer.step() comme un signe d'entraînement",
     "def isOptimizerStep(node):",
     "    return (",
     "        isinstance(node, ast.Call)",
@@ -1291,29 +1260,24 @@ def generate_python_code(rules) -> str:
     "        and node.func.attr == 'step'",
     "    )",
     "",
-    "# Liste globale des lignes où on détecte un 'entraînement' (train() ou optimizer.step())",
     "train_lines = []",
     "",
     "def init_train_lines(ast_node):",
     "    global train_lines",
     "    train_lines = []",
-    "    # Parcourt tout l'AST pour repérer où .train() ou optimizer.step() apparaissent",
     "    for stmt in ast.walk(ast_node):",
     "        if (isTrainCall(stmt) or isOptimizerStep(stmt)) and hasattr(stmt, 'lineno'):",
     "            train_lines.append(stmt.lineno)",
     "    train_lines.sort()",
     "",
     "def hasLaterTrainCall(node):",
-    "    # Vérifie s'il existe un 'train()' ou un 'optimizer.step()' sur une ligne > node.lineno",
     "    if not hasattr(node, 'lineno'):",
     "        return False",
     "",
     "    node_line = node.lineno",
     "    for tline in train_lines:",
     "        if tline > node_line:",
-    "            # Trouvé un entraînement plus loin => tout va bien, pas d'erreur",
     "            return True",
-    "    # Sinon, pas d'entraînement après ce .eval() => on signale un problème",
     "    return False",
     "",
     "def isLossBackward(node):",
@@ -1324,7 +1288,6 @@ def generate_python_code(rules) -> str:
     "    return node.func.attr == 'backward'",
     "",
     "def isZeroGradCall(node):",
-    "    # On accepte toute forme de <X>.zero_grad(...)",
     "    if not isinstance(node, ast.Call):",
     "        return False",
     "    if not isinstance(node.func, ast.Attribute):",
@@ -1332,7 +1295,6 @@ def generate_python_code(rules) -> str:
     "    return node.func.attr == 'zero_grad'",
     "",
     "def isClearGradCall(node):",
-    "    # Spécifique à Paddle : <X>.clear_grad(...)",
     "    if not isinstance(node, ast.Call):",
     "        return False",
     "    if not isinstance(node.func, ast.Attribute):",
@@ -1346,12 +1308,12 @@ def generate_python_code(rules) -> str:
     "    \"\"\"",
     "    import ast",
     "    for stmt in ast.walk(root_node):",
-    "        # Cas: import paddle",
+    "        # Case: import paddle",
     "        if isinstance(stmt, ast.Import):",
     "            for alias in stmt.names:",
     "                if alias.name == 'paddle':",
     "                    return True",
-    "        # Cas: from paddle import <X>",
+    "        # Case: from paddle import <X>",
     "        if isinstance(stmt, ast.ImportFrom):",
     "            if stmt.module and 'paddle' in stmt.module:",
     "                return True",
@@ -1382,7 +1344,6 @@ def generate_python_code(rules) -> str:
     "    clear_grad() (paddle) est présent *après* la ligne du backward.",
     "    \"\"\"",
     "    import ast",
-    "    # Si on est dans un bloc no_grad() => pas besoin de zero_grad/clear_grad",
     "    if isInsideNoGrad(call):",
     "        return True",
     "",
@@ -1390,12 +1351,10 @@ def generate_python_code(rules) -> str:
     "        return False",
     "    node_line = call.lineno",
     "",
-    "    # Remonte jusqu'à la racine (Module ou FunctionDef)",
     "    root_node = call",
     "    while getattr(root_node, 'parent', None) is not None:",
     "        root_node = root_node.parent",
     "",
-    "    # Si pas de paddle import, on applique la logique PyTorch : il faut zero_grad avant",
     "    if not isPaddleEnvironment(root_node):",
     "        for stmt in ast.walk(root_node):",
     "            if isZeroGradCall(stmt) and hasattr(stmt, 'lineno'):",
@@ -1403,28 +1362,22 @@ def generate_python_code(rules) -> str:
     "                    return True",
     "        return False",
     "    else:",
-    "        # En Paddle, on peut tolérer backward() puis clear_grad() après",
-    "        # => Si un isClearGradCall est trouvé sur une ligne suivante, on ne signale pas d'erreur.",
     "",
-    "        # On cherche d'abord s'il y a un zero_grad() avant (juste au cas où) :",
     "        for stmt in ast.walk(root_node):",
     "            if isZeroGradCall(stmt) and hasattr(stmt, 'lineno'):",
     "                if stmt.lineno < node_line:",
     "                    return True",
     "",
-    "        # Sinon, on cherche un clear_grad() après",
     "        for stmt in ast.walk(root_node):",
     "            if isClearGradCall(stmt) and hasattr(stmt, 'lineno'):",
     "                if stmt.lineno > node_line:",
     "                    return True",
     "",
-    "        # Si ni zero_grad avant, ni clear_grad après => On signale un code smell",
     "        return False",
     "",
     "tracked_tensors = set()",
     "",
     "def isPytorchTensorDefinition(node):",
-    "    # Détecte les assignations du type var = torch.tensor(...)",
     "    if isinstance(node, ast.Assign) and isinstance(node.value, ast.Call):",
     "        call = node.value",
     "        if isinstance(call.func, ast.Attribute) and call.func.attr == 'tensor':",
@@ -1436,7 +1389,6 @@ def generate_python_code(rules) -> str:
     "    return False",
     "",
     "def isPytorchTensorUsage(node):",
-    "    # Détecte une opération sur un tenseur PyTorch reconnu, comme .matmul() ou .add()",
     "    if not isinstance(node, ast.Call):",
     "        return False",
     "    if not isinstance(node.func, ast.Attribute):",
@@ -1604,7 +1556,7 @@ def generate_python_code(rules) -> str:
     "   report_with_line(message, node)",
     "",
     "def hasEarlyStoppingCallback(call):",
-    "   # return True si 'callbacks' existe et contient 'EarlyStopping'",
+    "   # return True if 'callbacks' exists and contains 'EarlyStopping'",
     "   if not (isinstance(call, ast.Call) and hasKeyword(call, \"callbacks\")):",
     "       return False",
     "   for kw in call.keywords:",

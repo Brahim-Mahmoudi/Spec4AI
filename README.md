@@ -43,6 +43,11 @@ python spec4ai.py --list-rules
 python spec4ai.py --input-dir ./my_project --all --summary
 ```
 
+### Run all tests
+```bash
+./run_all_tests.sh
+```
+
 ##  Output
 - A JSON file containing detected issues, grouped by file and rule
 - CLI printout showing:
