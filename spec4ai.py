@@ -124,16 +124,18 @@ if __name__ == '__main__':
         exit(1)
 
     print(f"Analyzing {args.input_dir} with rules: {selected}")
+    print("_________")
+
     results, total_files = analyze_project(args.input_dir, selected)
 
     args.output_file.parent.mkdir(parents=True, exist_ok=True)
     with args.output_file.open('w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
-
+    print("           ")
     print(f"Results written to {args.output_file} ({len(results)} files with alerts out of {total_files} total .py files)")
 
     if args.summary:
-        print("\n📊 Summary by rule:")
+        print("\n___Summary by rule___")
         rule_counts = defaultdict(int)
         for file_res in results.values():
             for rule, messages in file_res.items():
