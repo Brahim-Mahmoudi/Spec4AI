@@ -59,7 +59,7 @@ python spec4ai.py --input-dir ./my_project --all --summary
 - Rules are located in subfolders of `test_rules/` (e.g. `test_rules/R2/generated_rules_R2.py`)
 - Each rule module must define a function named `rule_<ID>` and a global `report()` function used for collecting messages.
 
-![Overview](static/DSL-Ex.png)
+![Overview](static/DSL.png)
 
 ##  Requirements
 - Python 3.9+
