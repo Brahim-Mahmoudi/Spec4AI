@@ -1200,18 +1200,18 @@ def hasEarlyStoppingCallback(call):
            return True
    return False
 
-def rule_R22(ast_node):
+def rule_R24(ast_node):
     import ast
     add_parent_info(ast_node)
     #set_deterministic_flag(ast_node)
-    # "No Scaling Before Scale Sensitive Operations"
+    # "Index Column Not Explicitly Set in DataFrame Read"
     variable_ops = gather_scale_sensitive_ops(ast_node)
     scaled_vars = gather_scaled_vars(ast_node)
     problems = {}
     for sub in ast.walk(ast_node):
-        if (((isScaleSensitiveFit(sub, variable_ops) and (not hasPrecedingScaler(sub, scaled_vars))) and (not isPartOfValidatedPipeline(sub)))):
+        if ((isPandasReadCall(sub) and (not hasKeyword(sub, "index_col")))):
             line = getattr(sub, 'lineno', '?')
             if line != '?':
                 problems[line] = sub
     for line, node in problems.items():
-        report_with_line("Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line {lineno}", node)
+        report_with_line("pd.read_… called without ‘index_col’; consider specifying index_col to avoid implicit integer indexing at line {lineno}", node)

@@ -356,6 +356,25 @@ def singleParam(node):
     return (len(node.args) + len(node.keywords)) == 1
 
 def isApiMethod(node):
+    """
+    Détecte les appels d’API qui doivent :
+      • soit être exécutés avec « inplace=True » (DataFrame Pandas),
+      • soit ré‑affecter leur résultat (NumPy ou Pandas).
+
+    Renvoie True si l’appel entre dans l’un de ces deux cas.
+    """
+    if not (isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute)):
+        return False
+
+    attr = node.func.attr
+    base = get_base_name(node.func.value)
+
+    # ---------- Cas NumPy -------------------------------------------------
+    numpy_methods_requiring_assignment = {'clip', 'sort', 'argsort'}
+    if base == 'np' and attr in numpy_methods_requiring_assignment:
+        return True
+
+    # ---------- Cas DataFrame Pandas -------------------------------------
     api_methods = {
         'drop', 'dropna', 'sort_values', 'replace',
         'clip', 'sort', 'argsort',
@@ -363,12 +382,11 @@ def isApiMethod(node):
         'transform', 'fit_transform',
         'traverse', 'strip', 'rstrip', 'lstrip', 'lower', 'upper'
     }
-    if isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute):
-        if node.func.attr in api_methods:
-            base = get_base_name(node.func.value)
-            if base and base in get_scope_dataframe_vars(node):
-                return True
+    if attr in api_methods and base in get_scope_dataframe_vars(node):
+        return True
+
     return False
+
 
 def hasInplaceTrue(node):
     if isinstance(node, ast.Call):
@@ -466,7 +484,7 @@ def isValuesAccess(node):
     return isinstance(node, ast.Attribute) and node.attr == 'values'
 
 def isPandasReadCall(node):
-   pandas_read_methods = {'read_csv', 'read_json', 'read_sql', 'read_table', 'read_excel'}
+   pandas_read_methods = {'read_csv', 'read_json', 'read_sql', 'read_table', 'read_excel','read_parquet','to_csv'}
    if isinstance(node, ast.Call):
        if isinstance(node.func, ast.Attribute):
            return (
@@ -534,6 +552,10 @@ def isRandomCall(call):
         ('torch', None, {'rand', 'randn', 'randint', 'random'}),
         ('tf', 'random', {'normal', 'uniform', 'shuffle'}),
         ('random', None, {'randint', 'choice', 'shuffle', 'random', 'uniform'}),
+        ('sklearn', 'utils', {'shuffle'}),
+        ('sklearn', 'model_selection', {'train_test_split'}),
+        ('sklearn', 'metrics', {'make_scorer'}),
+        ('df', None, {'randomSplit'}),
     ]
 
     for lib, submodule, funcs in rand_funcs:
@@ -716,7 +738,7 @@ def isSklearnRandomAlgo(call):
         return call.func.id in {
             'RandomForestClassifier', 'RandomForestRegressor',
             'KMeans', 'train_test_split', 'RandomizedSearchCV',
-            'StratifiedKFold', 'ShuffleSplit', 'GridSearchCV'
+            'StratifiedKFold', 'ShuffleSplit', 'GridSearchCV','CatBoostregressor','SGD','Linear'
         }
     return False
 def is_dataloader_with_shuffle(stmt):
@@ -774,6 +796,8 @@ def isMLMethodCall(call):
         'XGBClassifier', 'XGBRegressor',
         # LightGBM
         'LGBMClassifier', 'LGBMRegressor'
+        # LightGBM
+        'Sequential'
     }
     return func_name in hyperparameter_functions
 def hasExplicitHyperparameters(call):
@@ -1166,6 +1190,15 @@ def reportFitLine(msg, node):   report_with_line(msg, node)
 
 def report_line(message, node):
    report_with_line(message, node)
+
+def hasEarlyStoppingCallback(call):
+   # return True si 'callbacks' existe et contient 'EarlyStopping'
+   if not (isinstance(call, ast.Call) and hasKeyword(call, "callbacks")):
+       return False
+   for kw in call.keywords:
+       if kw.arg == "callbacks" and "EarlyStopping" in ast.unparse(kw.value):
+           return True
+   return False
 
 def rule_R19(ast_node):
     import ast

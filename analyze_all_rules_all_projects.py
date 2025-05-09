@@ -5,8 +5,6 @@ import subprocess
 import traceback
 import importlib
 import time
-import argparse
-import pandas as pd
 from functools import partial
 from multiprocessing import cpu_count, get_context
 import glob
@@ -87,7 +85,6 @@ def analyze_file(filepath, rules):
         if messages:
             messages_by_rule[rule_id] = messages
 
-    del tree  # ✅ libère mémoire
     return filepath, messages_by_rule if messages_by_rule else {}
 
 def collect_python_files(root_dir):
@@ -102,47 +99,35 @@ def collect_project_paths(parent_dir):
     return [os.path.join(parent_dir, d) for d in os.listdir(parent_dir)
             if os.path.isdir(os.path.join(parent_dir, d))]
 
-def analyze_project(project_dir, rules, sequential=False):
+def analyze_project_parallel(project_dir, rules):
     py_files = collect_python_files(project_dir)
     results = {}
     analyze_partial = partial(analyze_file, rules=rules)
 
-    if sequential:
-        for filepath in py_files:
-            filepath, result = analyze_partial(filepath)
+    ctx = get_context("fork")
+    with ctx.Pool(processes=min(cpu_count() * 2, 16)) as pool:
+        for filepath, result in pool.imap_unordered(analyze_partial, py_files):
             if result:
                 results[filepath] = result
-    else:
-        ctx = get_context("spawn")  # ✅ plus sûr sur macOS
-        with ctx.Pool(processes=min(cpu_count(), 4)) as pool:
-            for filepath, result in pool.imap_unordered(analyze_partial, py_files):
-                if result:
-                    results[filepath] = result
 
     return results
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--sequential", action="store_true", help="Désactive multiprocessing (mode séquentiel)")
-    args = parser.parse_args()
-
     rules = load_all_rules()
-    ALL_PROJECTS_DIR = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/Comparison_MLpylint"
-    OUTPUT_DIR = "/Users/bramss/Desktop/Results_160_files_Pter"
+    ALL_PROJECTS_DIR = "/Users/bramss/Desktop/mlflow_projet_sampled"
+    OUTPUT_DIR = "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlpylint/ml_resut_sample"
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     project_paths = collect_project_paths(ALL_PROJECTS_DIR)
-    project_timings = []  # ⏱️ Stocker les durées
 
     for project_path in project_paths:
         print(f"\n⏳ Analyse du projet : {project_path}")
         start = time.time()
 
-        results = analyze_project(project_path, rules, sequential=args.sequential)
+        results = analyze_project_parallel(project_path, rules)
 
         end = time.time()
-        duration = round(end - start, 2)
-        print(f"✅ Terminé en {duration:.2f} secondes")
+        print(f"✅ Terminé en {end - start:.2f} secondes")
 
         project_name = os.path.basename(project_path)
         output_json = os.path.join(OUTPUT_DIR, f"{project_name}_results.json")
@@ -151,13 +136,6 @@ def main():
             json.dump(results, f, indent=2)
 
         print(f"📁 Résultats sauvegardés dans {output_json}")
-        project_timings.append((project_name, duration))
-
-    # 📊 Export Excel des temps
-    df = pd.DataFrame(project_timings, columns=["Projet", "Durée (s)"])
-    excel_path = os.path.join(OUTPUT_DIR, "résumé_durations.xlsx")
-    df.to_excel(excel_path, index=False)
-    print(f"\n📊 Fichier Excel généré : {excel_path}")
 
 if __name__ == "__main__":
     main()

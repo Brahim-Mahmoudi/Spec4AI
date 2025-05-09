@@ -64,15 +64,20 @@ df = df.drop(columns=['col'])
     def test_detect_multiple_api_misuses(self):
         code = """
 import pandas as pd
+import numpy as np
 df = pd.DataFrame({'col': [1,2,3]})
 df.drop(columns=['col'], inplace=False)
 df.sort_values(by='col', inplace=False)
+import numpy as np
+zhats = [2, 3, 1, 0]
+np.clip(zhats, -1, 1)
+zhats = np.clip(zhats, -1, 1)
 """
         self.run_rule(code)
         self.assertEqual(
             len(self.messages), 
-            2, 
-            "Deux mauvais usages des API auraient dû être détectés"
+            3, 
+            "Trois mauvais usages des API auraient dû être détectés"
         )
 
     def test_no_misuse_when_no_reassignment(self):
