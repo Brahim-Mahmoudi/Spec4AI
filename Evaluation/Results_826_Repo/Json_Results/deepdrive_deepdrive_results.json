@@ -1,0 +1,89 @@
+{
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/tf_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/agents/dagger/train/data_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/agents/dagger/train/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 120",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 615"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/bench/monitor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/common/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/common/running_mean_std.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/common/mpi_running_mean_std.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/common/tf_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/common/distributions.py": {
+    "R7": [
+      "Missing mask for tf.log at line 152",
+      "Missing mask for tf.log at line 143",
+      "Missing mask for tf.log at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/ppo2/ppo2.py": {
+    "R2": [
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 292"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/vendor/openai/baselines/a2c/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 10",
+      "Missing mask for tf.log at line 17",
+      "Missing mask for tf.log at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepdrive_deepdrive/deepdrive-master/sim/gym_env.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1453"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1279"
+    ]
+  }
+}

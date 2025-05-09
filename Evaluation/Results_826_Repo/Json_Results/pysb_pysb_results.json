@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pysb_pysb/pysb-master/pysb/experimental/pyjacobian.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pysb_pysb/pysb-master/pysb/anneal_mod.py": {
+    "R2": [
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pysb_pysb/pysb-master/pysb/bng.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pysb_pysb/pysb-master/pysb/simulator/opencl_ssa.py": {
+    "R2": [
+      "Random Seed Not Set at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pysb_pysb/pysb-master/pysb/simulator/cupsoda.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 671"
+    ]
+  }
+}

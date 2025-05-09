@@ -1,0 +1,1169 @@
+{
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_automl/test_early_stopping.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_automl/test_fit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_automl/test_refit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_automl/test_dataset_compression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 133"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_metalearning/pyMetaLearn/metalearning/test_kND.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_data/test_validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/classification/test_libsvm_svc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/misc/create_hyperparameter_table.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_fast_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/classification/test_multinomial_nb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_automl/cases.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_feature_agglomeration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_kernel_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_polynomial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_truncatedSVD.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_extra_trees_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_liblinear.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_select_rates_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_select_rates_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_nystroem_sampler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_select_percentile_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_select_percentile_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_extra_trees_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/feature_preprocessing/test_random_trees_embedding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_category_shift.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_minority_coalescence.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_scaling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/classification/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 316"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_data_preprocessing_numerical.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_categorical_imputation.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 51",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_data/test_target_validator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 454",
+      "Potential data leakage: model.fit() used without a pipeline at line 464",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 509",
+      "Potential data leakage: model.fit() used without a pipeline at line 525",
+      "Potential data leakage: model.fit() used without a pipeline at line 529",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 410",
+      "Potential data leakage: model.fit() used without a pipeline at line 417",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 428",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_one_hot_encoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_data_preprocessing_text.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_data_preprocessing_categorical.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/implementations/test_CategoryShift.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_data_preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_data/test_feature_validator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 273",
+      "Potential data leakage: model.fit() used without a pipeline at line 366",
+      "Potential data leakage: model.fit() used without a pipeline at line 413",
+      "Potential data leakage: model.fit() used without a pipeline at line 448",
+      "Potential data leakage: model.fit() used without a pipeline at line 498",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 345",
+      "Potential data leakage: model.fit() used without a pipeline at line 347",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 510"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 505",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/test_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 442",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 496",
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_evaluation/test_dummy_pipelines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/implementations/test_MinorityCoalescer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/data_preprocessing/test_balancing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/implementations/test_SparseOneHotEncoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_ensemble_builder/test_multiobjective_dummy_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_ensemble_builder/test_ensemble_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_optimizer/test_smbo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_ensemble_builder/test_singlebest_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_util/test_trials_callback.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/components/regression/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 421",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 316"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/fixtures/ensembles.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_scripts/test_metadata_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/20_basic/example_multioutput_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/20_basic/example_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_parallel_n_jobs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/20_basic/example_multilabel_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_sequential.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/20_basic/example_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_parallel_manual_spawning_python.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_random_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_inspect_predictions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_pandas_train_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_parallel_manual_spawning_cli.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_interpretable_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_feature_types.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_single_configuration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_get_pipeline_components.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_early_stopping_and_callbacks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/fixtures/ensemble_building.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_pipeline/test_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 854",
+      "Potential data leakage: model.fit() used without a pipeline at line 889",
+      "Potential data leakage: model.fit() used without a pipeline at line 923",
+      "Potential data leakage: model.fit() used without a pipeline at line 946",
+      "Potential data leakage: model.fit() used without a pipeline at line 985",
+      "Potential data leakage: model.fit() used without a pipeline at line 1012",
+      "Potential data leakage: model.fit() used without a pipeline at line 1040",
+      "Potential data leakage: model.fit() used without a pipeline at line 1328",
+      "Potential data leakage: model.fit() used without a pipeline at line 591"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_calc_multiple_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_text_preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_debug_logging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_resampling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/60_search/example_successive_halving.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_multi_objective.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/80_extending/example_extending_data_preprocessor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/80_extending/example_restrict_number_of_hyperparameters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/80_extending/example_extending_preprocessor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/80_extending/example_extending_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/80_extending/example_extending_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/examples/40_advanced/example_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/scripts/2015_nips_paper/run/run_auto_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_metric/test_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/scripts/2015_nips_paper/plot/plot_ranks.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/scripts/run_auto-sklearn_for_metadata_generation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_util/test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/scripts/2015_nips_paper/run/score_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/scripts/03_calculate_metafeatures.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 233",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 236",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 238"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/bernoulli_nb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_estimators/test_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 498",
+      "Potential data leakage: model.fit() used without a pipeline at line 638",
+      "Potential data leakage: model.fit() used without a pipeline at line 789",
+      "Potential data leakage: model.fit() used without a pipeline at line 864",
+      "Potential data leakage: model.fit() used without a pipeline at line 918",
+      "Potential data leakage: model.fit() used without a pipeline at line 947",
+      "Potential data leakage: model.fit() used without a pipeline at line 976",
+      "Potential data leakage: model.fit() used without a pipeline at line 1001",
+      "Potential data leakage: model.fit() used without a pipeline at line 1047",
+      "Potential data leakage: model.fit() used without a pipeline at line 1073",
+      "Potential data leakage: model.fit() used without a pipeline at line 1114",
+      "Potential data leakage: model.fit() used without a pipeline at line 1142",
+      "Potential data leakage: model.fit() used without a pipeline at line 1175",
+      "Potential data leakage: model.fit() used without a pipeline at line 1204",
+      "Potential data leakage: model.fit() used without a pipeline at line 1232",
+      "Potential data leakage: model.fit() used without a pipeline at line 1257",
+      "Potential data leakage: model.fit() used without a pipeline at line 1277",
+      "Potential data leakage: model.fit() used without a pipeline at line 1308",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 268",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 1685",
+      "Potential data leakage: model.fit() used without a pipeline at line 1696"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/adaboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/multinomial_nb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/gaussian_nb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 473"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_ensemble_builder/test_ensemble_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 484",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 574"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/.github/workflows/benchmarking-files/regressions-util.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 298; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 338; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 339; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 326; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 333; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 352; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 353; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 354; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 141",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 142",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 146",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 147",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 278",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 279",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/extra_trees.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/k_nearest_neighbors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/gradient_boosting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/qda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/sgd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/decision_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/libsvm_svc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/kernel_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/select_percentile_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/liblinear_svc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/passive_aggressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/truncatedSVD.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/random_trees_embedding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/fast_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/extra_trees_preproc_for_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/select_percentile.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/classification/mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/select_rates_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/polynomial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/kitchen_sinks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/feature_agglomeration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/select_rates_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/categorical_encoding/encoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/liblinear_svc_preprocessor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/nystroem_sampler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/categorical_encoding/one_hot_encoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/feature_preprocessing/extra_trees_preproc_for_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/rescaling/abstract_rescaling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/rescaling/standardize.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/rescaling/robust_scaler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/imputation/numerical_imputation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/variance_threshold/variance_threshold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/text_feature_reduction/truncated_svd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/imputation/categorical_imputation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/minority_coalescense/minority_coalescer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 547",
+      "Potential data leakage: model.fit() used without a pipeline at line 1455",
+      "Potential data leakage: model.fit() used without a pipeline at line 1594",
+      "Potential data leakage: model.fit() used without a pipeline at line 1374"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/category_shift/category_shift.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/adaboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/gaussian_process.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/k_nearest_neighbors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/liblinear_svr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/feature_type.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/ard_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/data_preprocessing/text_encoding/tfidf_encoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/extra_trees.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/decision_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/gradient_boosting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/implementations/MinorityCoalescer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/sgd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/libsvm_svr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/implementations/SparseOneHotEncoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 64",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/ensembles/multiobjective_dummy_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/pipeline/components/regression/mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/experimental/askl2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 546",
+      "Potential data leakage: model.fit() used without a pipeline at line 402"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/util/logging_.py": {
+    "R2": [
+      "Random Seed Not Set at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/metalearning/optimizers/metalearn_optimizer/metalearner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/metalearning/metalearning/clustering/gmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 33",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/metalearning/metalearning/kNearestDatasets/kND.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/util/data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/data/validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/experimental/selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/data/target_validator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/ensemble_building/builder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 936"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/evaluation/abstract_evaluator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/automl.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 2201; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 2202; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 2199; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 2200; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/autosklearn/metalearning/metafeatures/metafeatures.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 930",
+      "Potential data leakage: model.fit() used without a pipeline at line 792",
+      "Potential data leakage: model.fit() used without a pipeline at line 798",
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 839",
+      "Potential data leakage: model.fit() used without a pipeline at line 886",
+      "Potential data leakage: model.fit() used without a pipeline at line 892",
+      "Potential data leakage: model.fit() used without a pipeline at line 988",
+      "Potential data leakage: model.fit() used without a pipeline at line 994",
+      "Potential data leakage: model.fit() used without a pipeline at line 1028",
+      "Potential data leakage: model.fit() used without a pipeline at line 1050",
+      "Potential data leakage: model.fit() used without a pipeline at line 746",
+      "Potential data leakage: model.fit() used without a pipeline at line 752"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 988",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 994",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1028"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_auto-sklearn/auto-sklearn-development/test/test_evaluation/test_train_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 2301",
+      "Random Seed Not Set at line 2405",
+      "Random Seed Not Set at line 2603",
+      "Random Seed Not Set at line 2647",
+      "Random Seed Not Set at line 2695"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/PyTorch/Param.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/pytorch_parametric.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/speedtest.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/PyTorch/Nodes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/PyTorch/Network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/mnist_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/testcuda.py": {
+    "R2": [
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/TensorFlow.py": {
+    "R7": [
+      "Missing mask for tf.log at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/Vectorized.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/gpu/cuda.py": {
+    "R2": [
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/layers/spflow_vs_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs_layerwise/distributions.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs/LearnRGSPN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs_layerwise/train_mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs_layerwise/rat_spn.py": {
+    "R2": [
+      "Random Seed Not Set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/layerwise/clipper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/Inference.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/splitting/Clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/SamplingRange.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/splitting/Conditioning.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/Posteriors.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 564"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_parameter_space.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_pwl.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/layerwise/layers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/splitting/RDC.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_symbolic_parametric.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_parametric.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/layerwise/distributions.py": {
+    "R2": [
+      "Random Seed Not Set at line 543",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 445",
+      "Random Seed Not Set at line 446",
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 500",
+      "Random Seed Not Set at line 519"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/experiments/RandomSPNs/RAT_SPN.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 320"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 381",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 393",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 394"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 292",
+      "Missing mask for tf.log at line 302",
+      "Missing mask for tf.log at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/structure/leaves/piecewise/PiecewiseLinear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/structure/leaves/cltree/MPE.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 33",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/tests/test_layerwise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/structure/leaves/parametric/MLE.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SPFlow_SPFlow/SPFlow-master/src/spn/algorithms/splitting/PoissonStabilityTest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 3093"
+    ]
+  }
+}

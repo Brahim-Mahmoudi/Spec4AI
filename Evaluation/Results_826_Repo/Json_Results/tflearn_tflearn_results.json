@@ -1,0 +1,441 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_objectives.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/finetuning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/weights_persistence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/use_dask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_inputs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_models_loading_scope.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/multiple_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/use_hdf5.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/dnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/convnet_highway_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/convnet_cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/densenet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 88"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 58",
+      "Missing mask for tf.log at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/vgg_network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_validation_monitors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/residual_network_cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/logical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/highway_dnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/residual_network_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/variational_autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 58",
+      "Missing mask for tf.log at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/vgg_network_finetuning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/network_in_network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/rnn_pixels.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/convnet_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tests/test_layers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/resnext_cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/alexnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/dcgan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/basics/weights_loading_scope.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/dynamic_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/extending_tensorflow/variables.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/extending_tensorflow/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/extending_tensorflow/builtin_ops.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/bidirectional_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/lstm_generator_shakespeare.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/extending_tensorflow/summaries.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/cnn_sentence_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/lstm_generator_cityname.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/googlenet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/lstm_generator_textfile.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tutorials/intro/quickstart.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/config.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/images/inception_resnet_v2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/variables.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/objectives.py": {
+    "R7": [
+      "Missing mask for tf.log at line 70",
+      "Missing mask for tf.log at line 252",
+      "Missing mask for tf.log at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/data_augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/reinforcement_learning/atari_1step_qlearning.py": {
+    "R2": [
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 243"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 239",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 444"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/data_flow.py": {
+    "R2": [
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/data_preprocessing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 277",
+      "Use np.matmul() instead of np.dot() for matrices at line 227",
+      "Use np.matmul() instead of np.dot() for matrices at line 275"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 502",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 521"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 303",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/others/recommender_wide_and_deep.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 326"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 92",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/models/dnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 196"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/models/generator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/layers/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 364"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/examples/nlp/seq2seq_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 252"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 457",
+      "Random Seed Not Set at line 524",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/data_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 231"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 678"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/layers/recurrent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 724"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/estimators/ensemble/forest.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/estimators/cluster/kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 419"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/helpers/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 767"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 883",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 508"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tflearn_tflearn/tflearn-master/tflearn/layers/conv.py": {
+    "R3": [
+      "TensorArray Not Used at line 129",
+      "TensorArray Not Used at line 1207"
+    ]
+  }
+}

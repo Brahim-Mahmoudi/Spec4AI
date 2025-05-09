@@ -1,0 +1,402 @@
+{
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/video/tools/random_pick.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/lstm_utils_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/music_vae_generate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/music_vae_train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/lstm_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/image_stylization/image_stylization_transform.py": {
+    "R3": [
+      "TensorArray Not Used at line 78"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/trained_model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 380"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/image_stylization/learning.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/coconet/lib_mask.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/coconet/lib_tfsampling.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 288"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/coconet/coconet_train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 348"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/coconet/lib_evaluation.py": {
+    "R2": [
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/piano_genie/loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/coconet/lib_sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_graph.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/lstm_models.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 329",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/rl_tuner/rl_tuner_ops.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 186"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 184"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/shared/events_rnn_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/nsynth/wavenet/fastgen_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/piano_genie/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 388"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 321",
+      "Missing mask for tf.log at line 360"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/nsynth/wavenet/fastgen.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/svg_vae/svg_decoder_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/generate_util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/svg_vae/glyphazzn.py": {
+    "R2": [
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/svg_vae/image_vae.py": {
+    "R7": [
+      "Missing mask for tf.log at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/specgrams_helper.py": {
+    "R7": [
+      "Missing mask for tf.log at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/spectral_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/spectral_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/svg_vae/svg_decoder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 271",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 94",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/nsynth/utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 671"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 321"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/music_vae/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 1511",
+      "Random Seed Not Set at line 512"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/mfcc_mel_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/train_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/melspec_input.py": {
+    "R3": [
+      "TensorArray Not Used at line 62"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/audio_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/gansynth/lib/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 483",
+      "Random Seed Not Set at line 505"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/infer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 221",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/infer_util.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/score2perf/music_encoders.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/latent_transfer/nn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/rl_tuner/rl_tuner.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 471"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 400",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 1079",
+      "Random Seed Not Set at line 703"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/onsets_frames_transcription/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 596"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/score2perf/transformer_autoencoder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/common/nade_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/common/tf_utils.py": {
+    "R7": [
+      "Missing mask for tf.log at line 67",
+      "Missing mask for tf.log at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/common/beam_search_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/common/nade.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 117",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 119",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 193",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 195"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/latent_transfer/common_joint.py": {
+    "R2": [
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/sketch_rnn/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 46"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 110"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/sketch_rnn/rnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/models/sketch_rnn/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 213"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 377"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 434"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/contrib/seq2seq_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/contrib/rnn.py": {
+    "R3": [
+      "TensorArray Not Used at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/contrib/seq2seq.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 961"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/magenta_magenta/magenta-main/magenta/contrib/rnn_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 126",
+      "TensorArray Not Used at line 130"
+    ]
+  }
+}

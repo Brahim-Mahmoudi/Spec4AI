@@ -1,0 +1,36 @@
+{
+  "/Users/bramss/Desktop/All_Repo/kstaats_karoo_gp/karoo_gp-master/karoo_gp/test/util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kstaats_karoo_gp/karoo_gp-master/karoo_gp/test/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kstaats_karoo_gp/karoo_gp-master/karoo-gp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 593"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 553"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kstaats_karoo_gp/karoo_gp-master/karoo_gp/base_class.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 760",
+      "Potential data leakage: model.fit() used without a pipeline at line 827",
+      "Potential data leakage: model.fit() used without a pipeline at line 828"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/cox_spline_custom_knots.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/perf_tests/ctv_perf_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/perf_tests/lognormal_perf_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/perf_tests/aaf_perf_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/aalen_and_cook_simulation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/cure_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18",
+      "Use np.matmul() instead of np.dot() for matrices at line 19",
+      "Use np.matmul() instead of np.dot() for matrices at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/haft_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 23",
+      "Use np.matmul() instead of np.dot() for matrices at line 21"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/copula_frailty_weibull_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/perf_tests/cp_perf_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/mixture_cure_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/left_censoring_experiments.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/test_generate_datasets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/datasets/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/perf_tests/batch_vs_single.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/crowther_royston_clements_splines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 38"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/examples/royston_parmar_splines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/utils/test_concordance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/breslow_fleming_harrington_fitter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/generate_datasets.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 237",
+      "Use np.matmul() instead of np.dot() for matrices at line 243"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/log_normal_aft_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 91",
+      "Use np.matmul() instead of np.dot() for matrices at line 95",
+      "Use np.matmul() instead of np.dot() for matrices at line 103",
+      "Use np.matmul() instead of np.dot() for matrices at line 107",
+      "Use np.matmul() instead of np.dot() for matrices at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/piecewise_exponential_regression_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 128",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/piecewise_exponential_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/mixins.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 280"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/aalen_johansen_fitter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/nelson_aalen_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 218",
+      "Use np.matmul() instead of np.dot() for matrices at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/crc_spline_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/log_logistic_aft_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 91",
+      "Use np.matmul() instead of np.dot() for matrices at line 95",
+      "Use np.matmul() instead of np.dot() for matrices at line 107",
+      "Use np.matmul() instead of np.dot() for matrices at line 111",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/statistics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 822",
+      "Potential data leakage: model.fit() used without a pipeline at line 866"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 841"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/test_statistics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 396",
+      "Potential data leakage: model.fit() used without a pipeline at line 427",
+      "Potential data leakage: model.fit() used without a pipeline at line 456",
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 529",
+      "Potential data leakage: model.fit() used without a pipeline at line 530",
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 539",
+      "Potential data leakage: model.fit() used without a pipeline at line 488"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/npmle.py": {
+    "R2": [
+      "Random Seed Not Set at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/aalen_additive_fitter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 476"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/cox_time_varying_fitter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 720"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 528",
+      "Use np.matmul() instead of np.dot() for matrices at line 620",
+      "Use np.matmul() instead of np.dot() for matrices at line 563",
+      "Use np.matmul() instead of np.dot() for matrices at line 526",
+      "Use np.matmul() instead of np.dot() for matrices at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/utils/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 897",
+      "Potential data leakage: model.fit() used without a pipeline at line 921",
+      "Potential data leakage: model.fit() used without a pipeline at line 927",
+      "Potential data leakage: model.fit() used without a pipeline at line 937",
+      "Potential data leakage: model.fit() used without a pipeline at line 954"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 1001"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/test_plotting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 347",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 366",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 382",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 456",
+      "Potential data leakage: model.fit() used without a pipeline at line 459",
+      "Potential data leakage: model.fit() used without a pipeline at line 475",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 502",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 518",
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 535",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 576",
+      "Potential data leakage: model.fit() used without a pipeline at line 585",
+      "Potential data leakage: model.fit() used without a pipeline at line 593",
+      "Potential data leakage: model.fit() used without a pipeline at line 602",
+      "Potential data leakage: model.fit() used without a pipeline at line 610",
+      "Potential data leakage: model.fit() used without a pipeline at line 618",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 673",
+      "Potential data leakage: model.fit() used without a pipeline at line 687",
+      "Potential data leakage: model.fit() used without a pipeline at line 696",
+      "Potential data leakage: model.fit() used without a pipeline at line 705",
+      "Potential data leakage: model.fit() used without a pipeline at line 714",
+      "Potential data leakage: model.fit() used without a pipeline at line 794",
+      "Potential data leakage: model.fit() used without a pipeline at line 817",
+      "Potential data leakage: model.fit() used without a pipeline at line 826",
+      "Potential data leakage: model.fit() used without a pipeline at line 827",
+      "Potential data leakage: model.fit() used without a pipeline at line 835",
+      "Potential data leakage: model.fit() used without a pipeline at line 843",
+      "Potential data leakage: model.fit() used without a pipeline at line 846",
+      "Potential data leakage: model.fit() used without a pipeline at line 854",
+      "Potential data leakage: model.fit() used without a pipeline at line 862",
+      "Potential data leakage: model.fit() used without a pipeline at line 875",
+      "Potential data leakage: model.fit() used without a pipeline at line 876",
+      "Potential data leakage: model.fit() used without a pipeline at line 877",
+      "Potential data leakage: model.fit() used without a pipeline at line 878",
+      "Potential data leakage: model.fit() used without a pipeline at line 879",
+      "Potential data leakage: model.fit() used without a pipeline at line 901",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 903",
+      "Potential data leakage: model.fit() used without a pipeline at line 904",
+      "Potential data leakage: model.fit() used without a pipeline at line 905",
+      "Potential data leakage: model.fit() used without a pipeline at line 923",
+      "Potential data leakage: model.fit() used without a pipeline at line 942",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 736",
+      "Potential data leakage: model.fit() used without a pipeline at line 809",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 439",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 191"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 600",
+      "Random Seed Not Set at line 772",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 446",
+      "Random Seed Not Set at line 275"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 542"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/utils/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 780"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 842",
+      "Use np.matmul() instead of np.dot() for matrices at line 845",
+      "Use np.matmul() instead of np.dot() for matrices at line 840",
+      "Use np.matmul() instead of np.dot() for matrices at line 847"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/coxph_fitter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 848"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 3254",
+      "Use np.matmul() instead of np.dot() for matrices at line 3239",
+      "Use np.matmul() instead of np.dot() for matrices at line 3255",
+      "Use np.matmul() instead of np.dot() for matrices at line 3241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/fitters/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CamDavidsonPilon_lifelines/lifelines-master/lifelines/tests/test_estimation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 360",
+      "Potential data leakage: model.fit() used without a pipeline at line 501",
+      "Potential data leakage: model.fit() used without a pipeline at line 508",
+      "Potential data leakage: model.fit() used without a pipeline at line 515",
+      "Potential data leakage: model.fit() used without a pipeline at line 741",
+      "Potential data leakage: model.fit() used without a pipeline at line 763",
+      "Potential data leakage: model.fit() used without a pipeline at line 778",
+      "Potential data leakage: model.fit() used without a pipeline at line 797",
+      "Potential data leakage: model.fit() used without a pipeline at line 812",
+      "Potential data leakage: model.fit() used without a pipeline at line 826",
+      "Potential data leakage: model.fit() used without a pipeline at line 840",
+      "Potential data leakage: model.fit() used without a pipeline at line 852",
+      "Potential data leakage: model.fit() used without a pipeline at line 884",
+      "Potential data leakage: model.fit() used without a pipeline at line 894",
+      "Potential data leakage: model.fit() used without a pipeline at line 909",
+      "Potential data leakage: model.fit() used without a pipeline at line 925",
+      "Potential data leakage: model.fit() used without a pipeline at line 942",
+      "Potential data leakage: model.fit() used without a pipeline at line 993",
+      "Potential data leakage: model.fit() used without a pipeline at line 1000",
+      "Potential data leakage: model.fit() used without a pipeline at line 1019",
+      "Potential data leakage: model.fit() used without a pipeline at line 1031",
+      "Potential data leakage: model.fit() used without a pipeline at line 1080",
+      "Potential data leakage: model.fit() used without a pipeline at line 1087",
+      "Potential data leakage: model.fit() used without a pipeline at line 1093",
+      "Potential data leakage: model.fit() used without a pipeline at line 1099",
+      "Potential data leakage: model.fit() used without a pipeline at line 1106",
+      "Potential data leakage: model.fit() used without a pipeline at line 1112",
+      "Potential data leakage: model.fit() used without a pipeline at line 1144",
+      "Potential data leakage: model.fit() used without a pipeline at line 1155",
+      "Potential data leakage: model.fit() used without a pipeline at line 1165",
+      "Potential data leakage: model.fit() used without a pipeline at line 1197",
+      "Potential data leakage: model.fit() used without a pipeline at line 1203",
+      "Potential data leakage: model.fit() used without a pipeline at line 1219",
+      "Potential data leakage: model.fit() used without a pipeline at line 1225",
+      "Potential data leakage: model.fit() used without a pipeline at line 1279",
+      "Potential data leakage: model.fit() used without a pipeline at line 1283",
+      "Potential data leakage: model.fit() used without a pipeline at line 1293",
+      "Potential data leakage: model.fit() used without a pipeline at line 1297",
+      "Potential data leakage: model.fit() used without a pipeline at line 1305",
+      "Potential data leakage: model.fit() used without a pipeline at line 1318",
+      "Potential data leakage: model.fit() used without a pipeline at line 1327",
+      "Potential data leakage: model.fit() used without a pipeline at line 1330",
+      "Potential data leakage: model.fit() used without a pipeline at line 1356",
+      "Potential data leakage: model.fit() used without a pipeline at line 1365",
+      "Potential data leakage: model.fit() used without a pipeline at line 1417",
+      "Potential data leakage: model.fit() used without a pipeline at line 1423",
+      "Potential data leakage: model.fit() used without a pipeline at line 1521",
+      "Potential data leakage: model.fit() used without a pipeline at line 1551",
+      "Potential data leakage: model.fit() used without a pipeline at line 1557",
+      "Potential data leakage: model.fit() used without a pipeline at line 1563",
+      "Potential data leakage: model.fit() used without a pipeline at line 1567",
+      "Potential data leakage: model.fit() used without a pipeline at line 1571",
+      "Potential data leakage: model.fit() used without a pipeline at line 1579",
+      "Potential data leakage: model.fit() used without a pipeline at line 1586",
+      "Potential data leakage: model.fit() used without a pipeline at line 1588",
+      "Potential data leakage: model.fit() used without a pipeline at line 1594",
+      "Potential data leakage: model.fit() used without a pipeline at line 1601",
+      "Potential data leakage: model.fit() used without a pipeline at line 1612",
+      "Potential data leakage: model.fit() used without a pipeline at line 1623",
+      "Potential data leakage: model.fit() used without a pipeline at line 1626",
+      "Potential data leakage: model.fit() used without a pipeline at line 1634",
+      "Potential data leakage: model.fit() used without a pipeline at line 1651",
+      "Potential data leakage: model.fit() used without a pipeline at line 1662",
+      "Potential data leakage: model.fit() used without a pipeline at line 1666",
+      "Potential data leakage: model.fit() used without a pipeline at line 1671",
+      "Potential data leakage: model.fit() used without a pipeline at line 1672",
+      "Potential data leakage: model.fit() used without a pipeline at line 1679",
+      "Potential data leakage: model.fit() used without a pipeline at line 1680",
+      "Potential data leakage: model.fit() used without a pipeline at line 1713",
+      "Potential data leakage: model.fit() used without a pipeline at line 1714",
+      "Potential data leakage: model.fit() used without a pipeline at line 1782",
+      "Potential data leakage: model.fit() used without a pipeline at line 1783",
+      "Potential data leakage: model.fit() used without a pipeline at line 1784",
+      "Potential data leakage: model.fit() used without a pipeline at line 1812",
+      "Potential data leakage: model.fit() used without a pipeline at line 1832",
+      "Potential data leakage: model.fit() used without a pipeline at line 1927",
+      "Potential data leakage: model.fit() used without a pipeline at line 1928",
+      "Potential data leakage: model.fit() used without a pipeline at line 1933",
+      "Potential data leakage: model.fit() used without a pipeline at line 1934",
+      "Potential data leakage: model.fit() used without a pipeline at line 1937",
+      "Potential data leakage: model.fit() used without a pipeline at line 1938",
+      "Potential data leakage: model.fit() used without a pipeline at line 1943",
+      "Potential data leakage: model.fit() used without a pipeline at line 2180",
+      "Potential data leakage: model.fit() used without a pipeline at line 2216",
+      "Potential data leakage: model.fit() used without a pipeline at line 2279",
+      "Potential data leakage: model.fit() used without a pipeline at line 2283",
+      "Potential data leakage: model.fit() used without a pipeline at line 2379",
+      "Potential data leakage: model.fit() used without a pipeline at line 2380",
+      "Potential data leakage: model.fit() used without a pipeline at line 2381",
+      "Potential data leakage: model.fit() used without a pipeline at line 2394",
+      "Potential data leakage: model.fit() used without a pipeline at line 2395",
+      "Potential data leakage: model.fit() used without a pipeline at line 2396",
+      "Potential data leakage: model.fit() used without a pipeline at line 2409",
+      "Potential data leakage: model.fit() used without a pipeline at line 2410",
+      "Potential data leakage: model.fit() used without a pipeline at line 2411",
+      "Potential data leakage: model.fit() used without a pipeline at line 2467",
+      "Potential data leakage: model.fit() used without a pipeline at line 2484",
+      "Potential data leakage: model.fit() used without a pipeline at line 2505",
+      "Potential data leakage: model.fit() used without a pipeline at line 2516",
+      "Potential data leakage: model.fit() used without a pipeline at line 2558",
+      "Potential data leakage: model.fit() used without a pipeline at line 2584",
+      "Potential data leakage: model.fit() used without a pipeline at line 2603",
+      "Potential data leakage: model.fit() used without a pipeline at line 2621",
+      "Potential data leakage: model.fit() used without a pipeline at line 2635",
+      "Potential data leakage: model.fit() used without a pipeline at line 2640",
+      "Potential data leakage: model.fit() used without a pipeline at line 2649",
+      "Potential data leakage: model.fit() used without a pipeline at line 2660",
+      "Potential data leakage: model.fit() used without a pipeline at line 2661",
+      "Potential data leakage: model.fit() used without a pipeline at line 2667",
+      "Potential data leakage: model.fit() used without a pipeline at line 2668",
+      "Potential data leakage: model.fit() used without a pipeline at line 2674",
+      "Potential data leakage: model.fit() used without a pipeline at line 2678",
+      "Potential data leakage: model.fit() used without a pipeline at line 2684",
+      "Potential data leakage: model.fit() used without a pipeline at line 2699",
+      "Potential data leakage: model.fit() used without a pipeline at line 2708",
+      "Potential data leakage: model.fit() used without a pipeline at line 2723",
+      "Potential data leakage: model.fit() used without a pipeline at line 2794",
+      "Potential data leakage: model.fit() used without a pipeline at line 2811",
+      "Potential data leakage: model.fit() used without a pipeline at line 2925",
+      "Potential data leakage: model.fit() used without a pipeline at line 2930",
+      "Potential data leakage: model.fit() used without a pipeline at line 2941",
+      "Potential data leakage: model.fit() used without a pipeline at line 2946",
+      "Potential data leakage: model.fit() used without a pipeline at line 2962",
+      "Potential data leakage: model.fit() used without a pipeline at line 2984",
+      "Potential data leakage: model.fit() used without a pipeline at line 3003",
+      "Potential data leakage: model.fit() used without a pipeline at line 3004",
+      "Potential data leakage: model.fit() used without a pipeline at line 3005",
+      "Potential data leakage: model.fit() used without a pipeline at line 3013",
+      "Potential data leakage: model.fit() used without a pipeline at line 3023",
+      "Potential data leakage: model.fit() used without a pipeline at line 3031",
+      "Potential data leakage: model.fit() used without a pipeline at line 3060",
+      "Potential data leakage: model.fit() used without a pipeline at line 3063",
+      "Potential data leakage: model.fit() used without a pipeline at line 3077",
+      "Potential data leakage: model.fit() used without a pipeline at line 3080",
+      "Potential data leakage: model.fit() used without a pipeline at line 3083",
+      "Potential data leakage: model.fit() used without a pipeline at line 3087",
+      "Potential data leakage: model.fit() used without a pipeline at line 3097",
+      "Potential data leakage: model.fit() used without a pipeline at line 3108",
+      "Potential data leakage: model.fit() used without a pipeline at line 3143",
+      "Potential data leakage: model.fit() used without a pipeline at line 3149",
+      "Potential data leakage: model.fit() used without a pipeline at line 3152",
+      "Potential data leakage: model.fit() used without a pipeline at line 3155",
+      "Potential data leakage: model.fit() used without a pipeline at line 3158",
+      "Potential data leakage: model.fit() used without a pipeline at line 3161",
+      "Potential data leakage: model.fit() used without a pipeline at line 3164",
+      "Potential data leakage: model.fit() used without a pipeline at line 3176",
+      "Potential data leakage: model.fit() used without a pipeline at line 3189",
+      "Potential data leakage: model.fit() used without a pipeline at line 3194",
+      "Potential data leakage: model.fit() used without a pipeline at line 3196",
+      "Potential data leakage: model.fit() used without a pipeline at line 3206",
+      "Potential data leakage: model.fit() used without a pipeline at line 3207",
+      "Potential data leakage: model.fit() used without a pipeline at line 3214",
+      "Potential data leakage: model.fit() used without a pipeline at line 3215",
+      "Potential data leakage: model.fit() used without a pipeline at line 3220",
+      "Potential data leakage: model.fit() used without a pipeline at line 3224",
+      "Potential data leakage: model.fit() used without a pipeline at line 3227",
+      "Potential data leakage: model.fit() used without a pipeline at line 3231",
+      "Potential data leakage: model.fit() used without a pipeline at line 3255",
+      "Potential data leakage: model.fit() used without a pipeline at line 3261",
+      "Potential data leakage: model.fit() used without a pipeline at line 3262",
+      "Potential data leakage: model.fit() used without a pipeline at line 3295",
+      "Potential data leakage: model.fit() used without a pipeline at line 3301",
+      "Potential data leakage: model.fit() used without a pipeline at line 3310",
+      "Potential data leakage: model.fit() used without a pipeline at line 3313",
+      "Potential data leakage: model.fit() used without a pipeline at line 3335",
+      "Potential data leakage: model.fit() used without a pipeline at line 3347",
+      "Potential data leakage: model.fit() used without a pipeline at line 3359",
+      "Potential data leakage: model.fit() used without a pipeline at line 3360",
+      "Potential data leakage: model.fit() used without a pipeline at line 3387",
+      "Potential data leakage: model.fit() used without a pipeline at line 3400",
+      "Potential data leakage: model.fit() used without a pipeline at line 3408",
+      "Potential data leakage: model.fit() used without a pipeline at line 3420",
+      "Potential data leakage: model.fit() used without a pipeline at line 3433",
+      "Potential data leakage: model.fit() used without a pipeline at line 3442",
+      "Potential data leakage: model.fit() used without a pipeline at line 3455",
+      "Potential data leakage: model.fit() used without a pipeline at line 3458",
+      "Potential data leakage: model.fit() used without a pipeline at line 3466",
+      "Potential data leakage: model.fit() used without a pipeline at line 3470",
+      "Potential data leakage: model.fit() used without a pipeline at line 3475",
+      "Potential data leakage: model.fit() used without a pipeline at line 3481",
+      "Potential data leakage: model.fit() used without a pipeline at line 3494",
+      "Potential data leakage: model.fit() used without a pipeline at line 3526",
+      "Potential data leakage: model.fit() used without a pipeline at line 3550",
+      "Potential data leakage: model.fit() used without a pipeline at line 3579",
+      "Potential data leakage: model.fit() used without a pipeline at line 3610",
+      "Potential data leakage: model.fit() used without a pipeline at line 3623",
+      "Potential data leakage: model.fit() used without a pipeline at line 3631",
+      "Potential data leakage: model.fit() used without a pipeline at line 3663",
+      "Potential data leakage: model.fit() used without a pipeline at line 3678",
+      "Potential data leakage: model.fit() used without a pipeline at line 3691",
+      "Potential data leakage: model.fit() used without a pipeline at line 3699",
+      "Potential data leakage: model.fit() used without a pipeline at line 3708",
+      "Potential data leakage: model.fit() used without a pipeline at line 3795",
+      "Potential data leakage: model.fit() used without a pipeline at line 3801",
+      "Potential data leakage: model.fit() used without a pipeline at line 3805",
+      "Potential data leakage: model.fit() used without a pipeline at line 3809",
+      "Potential data leakage: model.fit() used without a pipeline at line 3815",
+      "Potential data leakage: model.fit() used without a pipeline at line 3828",
+      "Potential data leakage: model.fit() used without a pipeline at line 3838",
+      "Potential data leakage: model.fit() used without a pipeline at line 3846",
+      "Potential data leakage: model.fit() used without a pipeline at line 3859",
+      "Potential data leakage: model.fit() used without a pipeline at line 3952",
+      "Potential data leakage: model.fit() used without a pipeline at line 3955",
+      "Potential data leakage: model.fit() used without a pipeline at line 3971",
+      "Potential data leakage: model.fit() used without a pipeline at line 3981",
+      "Potential data leakage: model.fit() used without a pipeline at line 4010",
+      "Potential data leakage: model.fit() used without a pipeline at line 4042",
+      "Potential data leakage: model.fit() used without a pipeline at line 4074",
+      "Potential data leakage: model.fit() used without a pipeline at line 4106",
+      "Potential data leakage: model.fit() used without a pipeline at line 4139",
+      "Potential data leakage: model.fit() used without a pipeline at line 4168",
+      "Potential data leakage: model.fit() used without a pipeline at line 4199",
+      "Potential data leakage: model.fit() used without a pipeline at line 4236",
+      "Potential data leakage: model.fit() used without a pipeline at line 4268",
+      "Potential data leakage: model.fit() used without a pipeline at line 4297",
+      "Potential data leakage: model.fit() used without a pipeline at line 4306",
+      "Potential data leakage: model.fit() used without a pipeline at line 4429",
+      "Potential data leakage: model.fit() used without a pipeline at line 4432",
+      "Potential data leakage: model.fit() used without a pipeline at line 4444",
+      "Potential data leakage: model.fit() used without a pipeline at line 4447",
+      "Potential data leakage: model.fit() used without a pipeline at line 4473",
+      "Potential data leakage: model.fit() used without a pipeline at line 4489",
+      "Potential data leakage: model.fit() used without a pipeline at line 4505",
+      "Potential data leakage: model.fit() used without a pipeline at line 4516",
+      "Potential data leakage: model.fit() used without a pipeline at line 4528",
+      "Potential data leakage: model.fit() used without a pipeline at line 4535",
+      "Potential data leakage: model.fit() used without a pipeline at line 4546",
+      "Potential data leakage: model.fit() used without a pipeline at line 4557",
+      "Potential data leakage: model.fit() used without a pipeline at line 4567",
+      "Potential data leakage: model.fit() used without a pipeline at line 4572",
+      "Potential data leakage: model.fit() used without a pipeline at line 4581",
+      "Potential data leakage: model.fit() used without a pipeline at line 4597",
+      "Potential data leakage: model.fit() used without a pipeline at line 4620",
+      "Potential data leakage: model.fit() used without a pipeline at line 4634",
+      "Potential data leakage: model.fit() used without a pipeline at line 4656",
+      "Potential data leakage: model.fit() used without a pipeline at line 4665",
+      "Potential data leakage: model.fit() used without a pipeline at line 4669",
+      "Potential data leakage: model.fit() used without a pipeline at line 4677",
+      "Potential data leakage: model.fit() used without a pipeline at line 4684",
+      "Potential data leakage: model.fit() used without a pipeline at line 4690",
+      "Potential data leakage: model.fit() used without a pipeline at line 4697",
+      "Potential data leakage: model.fit() used without a pipeline at line 4708",
+      "Potential data leakage: model.fit() used without a pipeline at line 4711",
+      "Potential data leakage: model.fit() used without a pipeline at line 4721",
+      "Potential data leakage: model.fit() used without a pipeline at line 4728",
+      "Potential data leakage: model.fit() used without a pipeline at line 4744",
+      "Potential data leakage: model.fit() used without a pipeline at line 4747",
+      "Potential data leakage: model.fit() used without a pipeline at line 4811",
+      "Potential data leakage: model.fit() used without a pipeline at line 4817",
+      "Potential data leakage: model.fit() used without a pipeline at line 4821",
+      "Potential data leakage: model.fit() used without a pipeline at line 4827",
+      "Potential data leakage: model.fit() used without a pipeline at line 4854",
+      "Potential data leakage: model.fit() used without a pipeline at line 4879",
+      "Potential data leakage: model.fit() used without a pipeline at line 4889",
+      "Potential data leakage: model.fit() used without a pipeline at line 4910",
+      "Potential data leakage: model.fit() used without a pipeline at line 4913",
+      "Potential data leakage: model.fit() used without a pipeline at line 4925",
+      "Potential data leakage: model.fit() used without a pipeline at line 4933",
+      "Potential data leakage: model.fit() used without a pipeline at line 4936",
+      "Potential data leakage: model.fit() used without a pipeline at line 4942",
+      "Potential data leakage: model.fit() used without a pipeline at line 4947",
+      "Potential data leakage: model.fit() used without a pipeline at line 4952",
+      "Potential data leakage: model.fit() used without a pipeline at line 4961",
+      "Potential data leakage: model.fit() used without a pipeline at line 4972",
+      "Potential data leakage: model.fit() used without a pipeline at line 4990",
+      "Potential data leakage: model.fit() used without a pipeline at line 5003",
+      "Potential data leakage: model.fit() used without a pipeline at line 5036",
+      "Potential data leakage: model.fit() used without a pipeline at line 5048",
+      "Potential data leakage: model.fit() used without a pipeline at line 5076",
+      "Potential data leakage: model.fit() used without a pipeline at line 5101",
+      "Potential data leakage: model.fit() used without a pipeline at line 5104",
+      "Potential data leakage: model.fit() used without a pipeline at line 5113",
+      "Potential data leakage: model.fit() used without a pipeline at line 5116",
+      "Potential data leakage: model.fit() used without a pipeline at line 5123",
+      "Potential data leakage: model.fit() used without a pipeline at line 5132",
+      "Potential data leakage: model.fit() used without a pipeline at line 5139",
+      "Potential data leakage: model.fit() used without a pipeline at line 5140",
+      "Potential data leakage: model.fit() used without a pipeline at line 5179",
+      "Potential data leakage: model.fit() used without a pipeline at line 5226",
+      "Potential data leakage: model.fit() used without a pipeline at line 5230",
+      "Potential data leakage: model.fit() used without a pipeline at line 5234",
+      "Potential data leakage: model.fit() used without a pipeline at line 5240",
+      "Potential data leakage: model.fit() used without a pipeline at line 5245",
+      "Potential data leakage: model.fit() used without a pipeline at line 5255",
+      "Potential data leakage: model.fit() used without a pipeline at line 5261",
+      "Potential data leakage: model.fit() used without a pipeline at line 5276",
+      "Potential data leakage: model.fit() used without a pipeline at line 5283",
+      "Potential data leakage: model.fit() used without a pipeline at line 5295",
+      "Potential data leakage: model.fit() used without a pipeline at line 5335",
+      "Potential data leakage: model.fit() used without a pipeline at line 5372",
+      "Potential data leakage: model.fit() used without a pipeline at line 5449",
+      "Potential data leakage: model.fit() used without a pipeline at line 5456",
+      "Potential data leakage: model.fit() used without a pipeline at line 5468",
+      "Potential data leakage: model.fit() used without a pipeline at line 5472",
+      "Potential data leakage: model.fit() used without a pipeline at line 5478",
+      "Potential data leakage: model.fit() used without a pipeline at line 5482",
+      "Potential data leakage: model.fit() used without a pipeline at line 5499",
+      "Potential data leakage: model.fit() used without a pipeline at line 5557",
+      "Potential data leakage: model.fit() used without a pipeline at line 5560",
+      "Potential data leakage: model.fit() used without a pipeline at line 5572",
+      "Potential data leakage: model.fit() used without a pipeline at line 5580",
+      "Potential data leakage: model.fit() used without a pipeline at line 5584",
+      "Potential data leakage: model.fit() used without a pipeline at line 5588",
+      "Potential data leakage: model.fit() used without a pipeline at line 5601",
+      "Potential data leakage: model.fit() used without a pipeline at line 5639",
+      "Potential data leakage: model.fit() used without a pipeline at line 5645",
+      "Potential data leakage: model.fit() used without a pipeline at line 5649",
+      "Potential data leakage: model.fit() used without a pipeline at line 5669",
+      "Potential data leakage: model.fit() used without a pipeline at line 5670",
+      "Potential data leakage: model.fit() used without a pipeline at line 5678",
+      "Potential data leakage: model.fit() used without a pipeline at line 5679",
+      "Potential data leakage: model.fit() used without a pipeline at line 5685",
+      "Potential data leakage: model.fit() used without a pipeline at line 5701",
+      "Potential data leakage: model.fit() used without a pipeline at line 5725",
+      "Potential data leakage: model.fit() used without a pipeline at line 5758",
+      "Potential data leakage: model.fit() used without a pipeline at line 5759",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 368",
+      "Potential data leakage: model.fit() used without a pipeline at line 376",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 410",
+      "Potential data leakage: model.fit() used without a pipeline at line 427",
+      "Potential data leakage: model.fit() used without a pipeline at line 435",
+      "Potential data leakage: model.fit() used without a pipeline at line 444",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 454",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 489",
+      "Potential data leakage: model.fit() used without a pipeline at line 524",
+      "Potential data leakage: model.fit() used without a pipeline at line 539",
+      "Potential data leakage: model.fit() used without a pipeline at line 549",
+      "Potential data leakage: model.fit() used without a pipeline at line 558",
+      "Potential data leakage: model.fit() used without a pipeline at line 564",
+      "Potential data leakage: model.fit() used without a pipeline at line 609",
+      "Potential data leakage: model.fit() used without a pipeline at line 610",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 624",
+      "Potential data leakage: model.fit() used without a pipeline at line 636",
+      "Potential data leakage: model.fit() used without a pipeline at line 637",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 650",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 690",
+      "Potential data leakage: model.fit() used without a pipeline at line 702",
+      "Potential data leakage: model.fit() used without a pipeline at line 713",
+      "Potential data leakage: model.fit() used without a pipeline at line 770",
+      "Potential data leakage: model.fit() used without a pipeline at line 774",
+      "Potential data leakage: model.fit() used without a pipeline at line 874",
+      "Potential data leakage: model.fit() used without a pipeline at line 878",
+      "Potential data leakage: model.fit() used without a pipeline at line 1009",
+      "Potential data leakage: model.fit() used without a pipeline at line 1013",
+      "Potential data leakage: model.fit() used without a pipeline at line 1042",
+      "Potential data leakage: model.fit() used without a pipeline at line 1235",
+      "Potential data leakage: model.fit() used without a pipeline at line 1339",
+      "Potential data leakage: model.fit() used without a pipeline at line 1348",
+      "Potential data leakage: model.fit() used without a pipeline at line 1649",
+      "Potential data leakage: model.fit() used without a pipeline at line 1873",
+      "Potential data leakage: model.fit() used without a pipeline at line 1950",
+      "Potential data leakage: model.fit() used without a pipeline at line 1956",
+      "Potential data leakage: model.fit() used without a pipeline at line 1965",
+      "Potential data leakage: model.fit() used without a pipeline at line 1971",
+      "Potential data leakage: model.fit() used without a pipeline at line 1976",
+      "Potential data leakage: model.fit() used without a pipeline at line 1981",
+      "Potential data leakage: model.fit() used without a pipeline at line 1991",
+      "Potential data leakage: model.fit() used without a pipeline at line 2001",
+      "Potential data leakage: model.fit() used without a pipeline at line 2018",
+      "Potential data leakage: model.fit() used without a pipeline at line 2095",
+      "Potential data leakage: model.fit() used without a pipeline at line 2127",
+      "Potential data leakage: model.fit() used without a pipeline at line 2135",
+      "Potential data leakage: model.fit() used without a pipeline at line 2139",
+      "Potential data leakage: model.fit() used without a pipeline at line 2156",
+      "Potential data leakage: model.fit() used without a pipeline at line 2166",
+      "Potential data leakage: model.fit() used without a pipeline at line 2281",
+      "Potential data leakage: model.fit() used without a pipeline at line 2285",
+      "Potential data leakage: model.fit() used without a pipeline at line 2289",
+      "Potential data leakage: model.fit() used without a pipeline at line 2332",
+      "Potential data leakage: model.fit() used without a pipeline at line 2345",
+      "Potential data leakage: model.fit() used without a pipeline at line 2349",
+      "Potential data leakage: model.fit() used without a pipeline at line 2353",
+      "Potential data leakage: model.fit() used without a pipeline at line 2359",
+      "Potential data leakage: model.fit() used without a pipeline at line 2418",
+      "Potential data leakage: model.fit() used without a pipeline at line 2431",
+      "Potential data leakage: model.fit() used without a pipeline at line 3029",
+      "Potential data leakage: model.fit() used without a pipeline at line 3074",
+      "Potential data leakage: model.fit() used without a pipeline at line 3112",
+      "Potential data leakage: model.fit() used without a pipeline at line 3114",
+      "Potential data leakage: model.fit() used without a pipeline at line 3118",
+      "Potential data leakage: model.fit() used without a pipeline at line 3120",
+      "Potential data leakage: model.fit() used without a pipeline at line 3129",
+      "Potential data leakage: model.fit() used without a pipeline at line 3132",
+      "Potential data leakage: model.fit() used without a pipeline at line 3504",
+      "Potential data leakage: model.fit() used without a pipeline at line 3506",
+      "Potential data leakage: model.fit() used without a pipeline at line 3721",
+      "Potential data leakage: model.fit() used without a pipeline at line 3732",
+      "Potential data leakage: model.fit() used without a pipeline at line 3743",
+      "Potential data leakage: model.fit() used without a pipeline at line 4315",
+      "Potential data leakage: model.fit() used without a pipeline at line 4342",
+      "Potential data leakage: model.fit() used without a pipeline at line 4366",
+      "Potential data leakage: model.fit() used without a pipeline at line 4398",
+      "Potential data leakage: model.fit() used without a pipeline at line 4415",
+      "Potential data leakage: model.fit() used without a pipeline at line 4458",
+      "Potential data leakage: model.fit() used without a pipeline at line 4735",
+      "Potential data leakage: model.fit() used without a pipeline at line 4770",
+      "Potential data leakage: model.fit() used without a pipeline at line 4779",
+      "Potential data leakage: model.fit() used without a pipeline at line 4783",
+      "Potential data leakage: model.fit() used without a pipeline at line 4788",
+      "Potential data leakage: model.fit() used without a pipeline at line 4797",
+      "Potential data leakage: model.fit() used without a pipeline at line 4807",
+      "Potential data leakage: model.fit() used without a pipeline at line 4885",
+      "Potential data leakage: model.fit() used without a pipeline at line 5062",
+      "Potential data leakage: model.fit() used without a pipeline at line 5155",
+      "Potential data leakage: model.fit() used without a pipeline at line 5193",
+      "Potential data leakage: model.fit() used without a pipeline at line 5205",
+      "Potential data leakage: model.fit() used without a pipeline at line 5211",
+      "Potential data leakage: model.fit() used without a pipeline at line 5223",
+      "Potential data leakage: model.fit() used without a pipeline at line 5312",
+      "Potential data leakage: model.fit() used without a pipeline at line 5327",
+      "Potential data leakage: model.fit() used without a pipeline at line 5369",
+      "Potential data leakage: model.fit() used without a pipeline at line 5492",
+      "Potential data leakage: model.fit() used without a pipeline at line 5496",
+      "Potential data leakage: model.fit() used without a pipeline at line 5508",
+      "Potential data leakage: model.fit() used without a pipeline at line 5633",
+      "Potential data leakage: model.fit() used without a pipeline at line 475",
+      "Potential data leakage: model.fit() used without a pipeline at line 665",
+      "Potential data leakage: model.fit() used without a pipeline at line 672",
+      "Potential data leakage: model.fit() used without a pipeline at line 1240",
+      "Potential data leakage: model.fit() used without a pipeline at line 1262",
+      "Potential data leakage: model.fit() used without a pipeline at line 2025",
+      "Potential data leakage: model.fit() used without a pipeline at line 2075",
+      "Potential data leakage: model.fit() used without a pipeline at line 2076",
+      "Potential data leakage: model.fit() used without a pipeline at line 2120",
+      "Potential data leakage: model.fit() used without a pipeline at line 2146",
+      "Potential data leakage: model.fit() used without a pipeline at line 2152",
+      "Potential data leakage: model.fit() used without a pipeline at line 2338",
+      "Potential data leakage: model.fit() used without a pipeline at line 3271",
+      "Potential data leakage: model.fit() used without a pipeline at line 3272",
+      "Potential data leakage: model.fit() used without a pipeline at line 3273",
+      "Potential data leakage: model.fit() used without a pipeline at line 3276",
+      "Potential data leakage: model.fit() used without a pipeline at line 3279",
+      "Potential data leakage: model.fit() used without a pipeline at line 3282",
+      "Potential data leakage: model.fit() used without a pipeline at line 3364",
+      "Potential data leakage: model.fit() used without a pipeline at line 3369",
+      "Potential data leakage: model.fit() used without a pipeline at line 3375",
+      "Potential data leakage: model.fit() used without a pipeline at line 3380",
+      "Potential data leakage: model.fit() used without a pipeline at line 4760",
+      "Potential data leakage: model.fit() used without a pipeline at line 5303",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 577",
+      "Potential data leakage: model.fit() used without a pipeline at line 578",
+      "Potential data leakage: model.fit() used without a pipeline at line 579",
+      "Potential data leakage: model.fit() used without a pipeline at line 584",
+      "Potential data leakage: model.fit() used without a pipeline at line 585",
+      "Potential data leakage: model.fit() used without a pipeline at line 586",
+      "Potential data leakage: model.fit() used without a pipeline at line 1265",
+      "Potential data leakage: model.fit() used without a pipeline at line 1268",
+      "Potential data leakage: model.fit() used without a pipeline at line 1271",
+      "Potential data leakage: model.fit() used without a pipeline at line 2030",
+      "Potential data leakage: model.fit() used without a pipeline at line 2046",
+      "Potential data leakage: model.fit() used without a pipeline at line 527",
+      "Potential data leakage: model.fit() used without a pipeline at line 953",
+      "Potential data leakage: model.fit() used without a pipeline at line 531"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 1051"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1434",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1435",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1436"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 950"
+    ]
+  }
+}

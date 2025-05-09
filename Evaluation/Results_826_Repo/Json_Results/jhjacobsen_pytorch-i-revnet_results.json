@@ -1,0 +1,47 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jhjacobsen_pytorch-i-revnet/pytorch-i-revnet-master/models/tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jhjacobsen_pytorch-i-revnet/pytorch-i-revnet-master/models/model_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jhjacobsen_pytorch-i-revnet/pytorch-i-revnet-master/CIFAR_main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jhjacobsen_pytorch-i-revnet/pytorch-i-revnet-master/models/utils_cifar.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 95",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jhjacobsen_pytorch-i-revnet/pytorch-i-revnet-master/models/iRevNet.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 52",
+      "Use module() instead of forward() at line 59",
+      "Use module() instead of forward() at line 60",
+      "Use module() instead of forward() at line 129"
+    ]
+  }
+}

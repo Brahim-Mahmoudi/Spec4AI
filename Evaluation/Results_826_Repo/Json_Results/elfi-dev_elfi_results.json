@@ -1,0 +1,158 @@
+{
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_mcmc.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_results.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/functional/test_bolfire.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_methods.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/functional/test_classifiers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 19",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 29"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_bo.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/bsl/gaussian_copula_density.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/functional/test_inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/post_processing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/density_ratio_estimation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 142",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/tests/unit/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 277"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/bsl/pre_sample_methods.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/inference/bolfire.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 209"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/testbench/testbench.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/inference/bolfi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 514"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/examples/mg1.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/bo/acquisition.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 798"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/inference/samplers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 804"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elfi-dev_elfi/elfi-dev/elfi/methods/inference/romc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1733",
+      "Use np.matmul() instead of np.dot() for matrices at line 1771"
+    ]
+  }
+}

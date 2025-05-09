@@ -1,0 +1,27 @@
+{
+  "/Users/bramss/Desktop/All_Repo/abhiskk_fast-neural-style/fast-neural-style-master/neural_style/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/abhiskk_fast-neural-style/fast-neural-style-master/neural_style/transformer_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/abhiskk_fast-neural-style/fast-neural-style-master/neural_style/neural_style.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 58",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 63"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

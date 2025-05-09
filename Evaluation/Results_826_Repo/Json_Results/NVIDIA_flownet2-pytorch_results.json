@@ -1,0 +1,95 @@
+{
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/run_a_pair.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/channelnorm_package/channelnorm.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/FlowNetFusion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/resample2d_package/resample2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/submodules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/correlation_package/correlation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/FlowNetS.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/FlowNetSD.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/convert.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/networks/FlowNetC.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/utils/tools.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/utils/param_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_flownet2-pytorch/flownet2-pytorch-master/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 345"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

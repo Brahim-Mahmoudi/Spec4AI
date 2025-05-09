@@ -1,0 +1,123 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/tensorboard/pytorchtensorboardlogger.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/message/telegrammessagelogger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/file/pytorchplotfilelogger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/util/pytorchutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/experiment/pytorchexperimentlogger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/message/slackmessagelogger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/test/test_pytorchtensorboardxlogger.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/examples/train_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/test/test_pytorchvisdomlogger.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 100"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 99",
+      "Hyperparameter not explicitly set at line 125",
+      "Hyperparameter not explicitly set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/logger/visdom/pytorchvisdomlogger.py": {
+    "R2": [
+      "Random Seed Not Set at line 262"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/examples/train_net_pytorchexperiment.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/test/test_pytorchexperimentlogger.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 111"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 75",
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 109",
+      "Hyperparameter not explicitly set at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/test/test_pytorchexperiment.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 52",
+      "Hyperparameter not explicitly set at line 107",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MIC-DKFZ_trixi/trixi-develop/trixi/experiment/pytorchexperiment.py": {
+    "R2": [
+      "Random Seed Not Set at line 320"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/rnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/nn_matrix.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 72",
+      "Use np.matmul() instead of np.dot() for matrices at line 73",
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/mlp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/vae.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/random_forest_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 179"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/layers.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 126",
+      "Use np.matmul() instead of np.dot() for matrices at line 129",
+      "Use np.matmul() instead of np.dot() for matrices at line 136",
+      "Use np.matmul() instead of np.dot() for matrices at line 185",
+      "Use np.matmul() instead of np.dot() for matrices at line 188",
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 194",
+      "Use np.matmul() instead of np.dot() for matrices at line 199",
+      "Use np.matmul() instead of np.dot() for matrices at line 77"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bfortuner_ml-glossary/ml-glossary-master/code/decision_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 294"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 278"
+    ]
+  }
+}

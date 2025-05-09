@@ -1,0 +1,1203 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/setup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_backprop.py": {
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 17",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 18",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 27",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 41",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 92",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 132",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 153",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 128",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 130",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 145",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 147",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_tanh.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_log_softmax.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_elu.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_clipped_relu.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_selu.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_function_and_function_node.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 224",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 357",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 491"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_relu.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_leaky_relu.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_softmax.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/activation_tests/test_sigmoid.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_function.py": {
+    "R8": [
+      "Use module() instead of forward() at line 82"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 99",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 288",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 494",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 148",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 401",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 404"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/graph_optimization_tests/test_static_graph_models.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 272",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 281",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 314",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 320",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 345",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 352",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_optimizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 622",
+      "Random Seed Not Set at line 624"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 635",
+      "Hyperparameter not explicitly set at line 763"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 398"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/loss_tests/test_sigmoid_cross_entropy.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/loss_tests/test_absolute_error.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/loss_tests/test_cross_covariance.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/math_tests/test_bias.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/math_tests/test_batch_l2_norm_squared.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/math_tests/test_clip.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_function_node.py": {
+    "R8": [
+      "Use module() instead of forward() at line 99"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 789",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 834",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1341",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1386",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 580",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 584"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_linear.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_dilated_convolution_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_convolution_nd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 273",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 285",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_deconvolution_nd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/array_tests/test_copy.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 138",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_convolution_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 331",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 301",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/connection_tests/test_deconvolution_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 355",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 280",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/noise_tests/test_zoneout.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/array_tests/test_spatial_transformer_sampler.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/normalization_tests/test_batch_renormalization.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/noise_tests/test_dropout.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/util_tests/test_forget.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 137",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 159",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 207",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 212",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_max_pooling_nd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_average_pooling_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_spatial_pyramid_pooling_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_max_pooling_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_average_pooling_nd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 168",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/pooling_tests/test_unpooling_nd.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 30",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 31",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 34"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 156",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/normalization_tests/test_batch_normalization.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 452"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/rnn_tests/test_link_gru.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/loss_tests/test_negative_sampling.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 177",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/rnn_tests/test_link_peephole.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/rnn_tests/test_link_lstm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 107",
+      "Hyperparameter not explicitly set at line 168",
+      "Hyperparameter not explicitly set at line 230",
+      "Hyperparameter not explicitly set at line 262",
+      "Hyperparameter not explicitly set at line 271",
+      "Hyperparameter not explicitly set at line 38",
+      "Hyperparameter not explicitly set at line 34",
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_bias.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_mlp_convolution_2d.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_inceptionbn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_scale.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_inception.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/function_hooks_tests/test_cuda_profile.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/function_hooks_tests/test_debug_print.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 86",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/links_tests/connection_tests/test_zoneoutlstm.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/distributions_tests/test_utils.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/functions_tests/math_tests/test_basic_math.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 535",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 559",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 586"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/function_hooks_tests/test_cupy_memory_profile.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 106",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/function_hooks_tests/test_timer.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 119",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/distributions_tests/test_bernoulli.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/datasets_tests/test_concatenated_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/utils_tests/test_conv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 136",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 139",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/utils_tests/test_conv_nd.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 183",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 184",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 185",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/utils_tests/test_type_check.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 358",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 268",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 269",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 321",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 323",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 325",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 331",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 337",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 345",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/optimizers_tests/test_optimizers_by_linear_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 331"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/optimizers_tests/test_optimizers.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/training_tests/updaters_tests/test_multiprocess_parallel_updater.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/training_tests/extensions_tests/test_computational_graph.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/training_tests/extensions_tests/test_fail_on_nonnumber.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/dataset_tests/tabular_tests/dummy_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/optimizer_hooks_tests/test_lasso.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/optimizer_hooks_tests/test_weight_decay.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/optimizer_hooks_tests/test_gradient_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/onnx_chainer_tests/functions_tests/test_connections.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/onnx_chainer_tests/functions_tests/test_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/onnx_chainer_tests/functions_tests/test_maths.py": {
+    "R2": [
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/links_tests/test_n_step_rnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 117"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/functions_tests/test_point_to_point_communication.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 255",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 93",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 159",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 169",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 197",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 262",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 268",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 111",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 205",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/onnx_chainer_tests/test_inout.py": {
+    "R2": [
+      "Random Seed Not Set at line 338"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/functions_tests/test_collective_communication.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 49",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 129",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 244",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 170",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/extensions_tests/test_observation_aggregator.py": {
+    "R2": [
+      "Random Seed Not Set at line 89"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/links_tests/test_batch_normalization.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 139",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 143",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 148",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/datasets_tests/test_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/extensions_tests/test_multi_node_snapshot.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/extensions_tests/test_checkpoint.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainermn_tests/links_tests/test_multi_node_chain_list.py": {
+    "R2": [
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 415",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 246"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 302",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 396",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 440",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 257",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 266",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 334",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 342"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainerx_tests/unit_tests/routines_tests/test_activation.py": {
+    "R2": [
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 371"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainerx_tests/unit_tests/test_backward.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 553",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 554"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 36",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 247",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 273",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 434",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainerx_tests/unit_tests/test_array.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 642",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 646"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/train_mnist_data_parallel.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/train_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/tests/chainer_tests/test_variable.py": {
+    "R2": [
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 684",
+      "Random Seed Not Set at line 708",
+      "Random Seed Not Set at line 727",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 1460",
+      "Random Seed Not Set at line 1558",
+      "Random Seed Not Set at line 1737",
+      "Random Seed Not Set at line 1738",
+      "Random Seed Not Set at line 1837",
+      "Random Seed Not Set at line 1838",
+      "Random Seed Not Set at line 1900",
+      "Random Seed Not Set at line 1901",
+      "Random Seed Not Set at line 1977",
+      "Random Seed Not Set at line 2048",
+      "Random Seed Not Set at line 2255",
+      "Random Seed Not Set at line 2352",
+      "Random Seed Not Set at line 2787",
+      "Random Seed Not Set at line 2788",
+      "Random Seed Not Set at line 2837",
+      "Random Seed Not Set at line 2921",
+      "Random Seed Not Set at line 2945",
+      "Random Seed Not Set at line 2947",
+      "Random Seed Not Set at line 2959",
+      "Random Seed Not Set at line 2971",
+      "Random Seed Not Set at line 2983",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 770",
+      "Random Seed Not Set at line 772",
+      "Random Seed Not Set at line 791",
+      "Random Seed Not Set at line 793",
+      "Random Seed Not Set at line 2732",
+      "Random Seed Not Set at line 2749",
+      "Random Seed Not Set at line 2764",
+      "Random Seed Not Set at line 2769",
+      "Random Seed Not Set at line 2949",
+      "Random Seed Not Set at line 2961",
+      "Random Seed Not Set at line 2973",
+      "Random Seed Not Set at line 2985",
+      "Random Seed Not Set at line 2987",
+      "Random Seed Not Set at line 2989",
+      "Random Seed Not Set at line 174"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 196",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 202",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 430",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 464",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 468",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 494",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2244",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2280",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2377",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2634",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2637",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2643",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2651",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2658",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2666",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2795",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 3014",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 376",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2102",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2135",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2168",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2210",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2237",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2645",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2653",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2679",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2684",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2691",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2703",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2714",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2723",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 3068",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 3070",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2229",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2696",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2708"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/train_mnist_data_parallel_updater.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/train_mnist_model_parallel.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/.testdata/replacements/train_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/mnist/train_mnist_custom_loop.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/serialization/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/ptb/train_ptb_custom_loop.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/wavenet/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/ptb/train_ptb.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 34",
+      "Hyperparameter not explicitly set at line 35"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/wavenet/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/word2vec/train_word2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 93"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/static_graph_optimizations/mnist/train_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/reinforcement_learning/dqn_cartpole.py": {
+    "R2": [
+      "Random Seed Not Set at line 175"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/static_graph_optimizations/mnist/train_mnist_custom_loop.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/reinforcement_learning/ddpg_pendulum.py": {
+    "R2": [
+      "Random Seed Not Set at line 220"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/optuna/chainer_integration.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/pos/postagging.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/imagenet/dataset_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/static_graph_optimizations/ptb/train_ptb_custom_loop.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 48"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 299"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/memnn/train_memnn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/text_classification/train_text_classifier.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/glance/glance.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/image_captioning/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/chainermn/mnist/train_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/seq2seq/seq2seq.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/chainermn/mnist/train_mnist_model_parallel.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/chainermn/mnist/train_mnist_dual_parallel.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/image_captioning/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/pix2pix/facade_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/chainermn/imagenet/train_imagenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/onnx_chainer/export_testcase.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/sentiment/test_thin_stack.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 55",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/examples/vae/train_vae.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainermn/optimizers.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 26",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainerx_cc/examples/imagenet_py/image_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainerx_cc/examples/imagenet_py/train_imagenet.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainerx_cc/examples/mnist_py/train_mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 43"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainerx_cc/examples/imagenet_py/resnet50.py": {
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/_backprop_utils.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/_backprop.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/function.py": {
+    "R8": [
+      "Use module() instead of forward() at line 179",
+      "Use module() instead of forward() at line 177"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 209",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/optimizer.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 879"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/training/updaters/parallel_updater.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/function_node.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 851"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/training/updaters/multiprocess_parallel_updater.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 243",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/gradient_check.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 660",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1039"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/utils/conv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 138",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/utils/conv_nd.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/variable.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1552"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/utils/type_check.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 283",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 583"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/pooling/pooling_nd.py": {
+    "R8": [
+      "Use module() instead of forward() at line 56"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/pooling/roi_max_pooling_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/pooling/roi_pooling_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 218",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 232",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 233",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 244",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 245",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/linear.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/local_convolution_2d.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/bilinear.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/deconvolution_2d.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/normalization/local_response_normalization.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 74",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/normalization/batch_renormalization.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/deconvolution_nd.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/convolution_nd.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/array/vstack.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 17",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/connection/convolution_2d.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/array/concat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/array/hstack.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/array/dstack.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/array/broadcast.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/activation/rrelu.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/activation/prelu.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/activation/swish.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/normalization/batch_normalization.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 338",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 596",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 597"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 439"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 497"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/math/einsum.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 297",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 298",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 311"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/math/matmul.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/evaluation/accuracy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/evaluation/classification_summary.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/noise/dropout.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 123",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/noise/simplified_dropconnect.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/math/sparse_matmul.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/rnn/tree_lstm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/rnn/lstm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainer/chainer-master/chainer/functions/rnn/slstm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ]
+  }
+}

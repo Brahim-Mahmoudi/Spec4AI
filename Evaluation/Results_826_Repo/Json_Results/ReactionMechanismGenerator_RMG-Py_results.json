@@ -1,0 +1,217 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/test/rmgpy/statmech/ndTorsionsTest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/test/rmgpy/rmg/mainTest.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/test/arkane/encorr/aeTest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/test/arkane/encorr/bacTest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/pdep/sls.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 174",
+      "Use np.matmul() instead of np.dot() for matrices at line 185",
+      "Use np.matmul() instead of np.dot() for matrices at line 198",
+      "Use np.matmul() instead of np.dot() for matrices at line 208",
+      "Use np.matmul() instead of np.dot() for matrices at line 222",
+      "Use np.matmul() instead of np.dot() for matrices at line 234"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/pdep/draw.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 213",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/statmech/ndTorsions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 681",
+      "Potential data leakage: model.fit() used without a pipeline at line 706"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 680"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/data/statmechfit.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 473",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/pdep/network.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 991",
+      "Use np.matmul() instead of np.dot() for matrices at line 1073"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1036",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1039",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1040",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1041"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/rmg/reactors.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 510",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 553",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 558",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 646",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 657",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 680"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/data/solvation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 527"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/molecule/draw.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 747",
+      "Use np.matmul() instead of np.dot() for matrices at line 923",
+      "Use np.matmul() instead of np.dot() for matrices at line 784",
+      "Use np.matmul() instead of np.dot() for matrices at line 408",
+      "Use np.matmul() instead of np.dot() for matrices at line 480",
+      "Use np.matmul() instead of np.dot() for matrices at line 499",
+      "Use np.matmul() instead of np.dot() for matrices at line 950",
+      "Use np.matmul() instead of np.dot() for matrices at line 951",
+      "Use np.matmul() instead of np.dot() for matrices at line 971",
+      "Use np.matmul() instead of np.dot() for matrices at line 842"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1060",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1795",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1853",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 637",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 917",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 668",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1068",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 645"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/molecule/group.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1421",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1980",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1429",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1433"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/data/thermo.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/rmg/input.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 879"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/arkane/encorr/ae.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/arkane/encorr/data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/arkane/kinetics.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 525",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 599"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/rmg/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2305"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1422"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/arkane/encorr/bac.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 1042"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 803",
+      "Random Seed Not Set at line 805",
+      "Random Seed Not Set at line 804",
+      "Random Seed Not Set at line 808"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/arkane/statmech.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1058",
+      "Use np.matmul() instead of np.dot() for matrices at line 1130",
+      "Use np.matmul() instead of np.dot() for matrices at line 1192",
+      "Use np.matmul() instead of np.dot() for matrices at line 1198",
+      "Use np.matmul() instead of np.dot() for matrices at line 1202",
+      "Use np.matmul() instead of np.dot() for matrices at line 1226",
+      "Use np.matmul() instead of np.dot() for matrices at line 1234",
+      "Use np.matmul() instead of np.dot() for matrices at line 1235",
+      "Use np.matmul() instead of np.dot() for matrices at line 1238",
+      "Use np.matmul() instead of np.dot() for matrices at line 990"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1030"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 134; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ReactionMechanismGenerator_RMG-Py/RMG-Py-main/rmgpy/data/kinetics/family.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 4711",
+      "Use np.matmul() instead of np.dot() for matrices at line 4686",
+      "Use np.matmul() instead of np.dot() for matrices at line 4712",
+      "Use np.matmul() instead of np.dot() for matrices at line 4617",
+      "Use np.matmul() instead of np.dot() for matrices at line 4645",
+      "Use np.matmul() instead of np.dot() for matrices at line 4687",
+      "Use np.matmul() instead of np.dot() for matrices at line 4618",
+      "Use np.matmul() instead of np.dot() for matrices at line 4646"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3440"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 3542",
+      "Random Seed Not Set at line 3344",
+      "Random Seed Not Set at line 3348",
+      "Random Seed Not Set at line 3352"
+    ]
+  }
+}

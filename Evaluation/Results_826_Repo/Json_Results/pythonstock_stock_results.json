@@ -1,0 +1,94 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/jobs/guess_indicators_daily_buy_job.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 27; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 31; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 35; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/old_jobs/guess_period_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 99",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 95"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/jobs/guess_indicators_daily_sell_job.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/old_jobs/guess_sklearn_ma_daily_job.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 67"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/old_jobs/guess_indicators_lite_buy_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 103",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 46",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 99"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/old_jobs/guess_indicators_lite_sell_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 92",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 107"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/old_jobs/guess_return_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 95",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 119",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 120",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 121"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/jobs/guess_indicators_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 178"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pythonstock_stock/stock-master/backend/jobs/guess_rsrs_daily_job.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 246"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 358",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 121"
+    ]
+  }
+}

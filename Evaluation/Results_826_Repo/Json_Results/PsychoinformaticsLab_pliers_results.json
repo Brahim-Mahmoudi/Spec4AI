@@ -1,0 +1,82 @@
+{
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/tests/test_updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/tests/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/datasets/text.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 46",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 89",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/tests/test_diagnostics.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/stimuli/misc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/tests/extractors/api/test_clarifai_extractors.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 53",
+      "Do not compare with np.nan. Use df.isna() instead at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/utils/updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/tests/test_stims.py": {
+    "R2": [
+      "Random Seed Not Set at line 363"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/stimuli/text.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 190"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/extractors/audio.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 583"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PsychoinformaticsLab_pliers/pliers-master/pliers/extractors/text.py": {
+    "R2": [
+      "Random Seed Not Set at line 270"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75"
+    ]
+  }
+}

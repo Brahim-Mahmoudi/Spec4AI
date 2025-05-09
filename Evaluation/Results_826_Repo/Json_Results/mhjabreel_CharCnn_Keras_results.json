@@ -1,0 +1,23 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mhjabreel_CharCnn_Keras/CharCnn_Keras-master/models/char_cnn_kim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mhjabreel_CharCnn_Keras/CharCnn_Keras-master/models/char_cnn_zhang.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mhjabreel_CharCnn_Keras/CharCnn_Keras-master/models/char_tcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 74"
+    ]
+  }
+}

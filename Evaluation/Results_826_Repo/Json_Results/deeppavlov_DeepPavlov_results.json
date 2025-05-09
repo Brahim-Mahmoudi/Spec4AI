@@ -1,0 +1,219 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/core/trainers/torch_trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/metrics/google_bleu.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/paramsearch.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/core/models/torch_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/core/trainers/fit_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/dataset_readers/basic_classification_reader.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/metrics/fmeasure.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/relation_extraction/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/dataset_readers/docred_reader.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/relation_extraction/relation_extraction_bert.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/embedders/transformers_embedder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/sklearn/sklearn_component.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_bert_ranker.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/crf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_multiplechoice.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/preprocessors/torch_transformers_preprocessor.py": {
+    "R2": [
+      "Random Seed Not Set at line 639"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_sequence_tagger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/entity_extraction/entity_detection_parser.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 196",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 207",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_nll_ranking.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/spelling_correction/levenshtein/tabled_trie.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 469"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_el_ranker.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/classifiers/torch_nets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/classifiers/torch_classification_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/spelling_correction/levenshtein/levenshtein_searcher.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_syntax_parser.py": {
+    "R2": [
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/doc_retrieval/bpr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/dataset_iterators/basic_classification_iterator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/torch_transformers_squad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/classifiers/re_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/dataset_iterators/squad_iterator.py": {
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/models/torch_bert/multitask_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 510"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deeppavlov_DeepPavlov/DeepPavlov-master/deeppavlov/dataset_iterators/multitask_iterator.py": {
+    "R2": [
+      "Random Seed Not Set at line 212"
+    ]
+  }
+}

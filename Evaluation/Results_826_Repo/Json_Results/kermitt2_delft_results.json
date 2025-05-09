@@ -1,0 +1,151 @@
+{
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/utilities/numpy.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/citationClassifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/toxicCommentClassifier.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/softwareClassifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/datasetTagger.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 170"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/softwareContextClassifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/utilities/simple_elmo/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/nerTagger.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 349"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 480",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 525"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/licenseClassifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/grobidTagger.py": {
+    "R2": [
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 248"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 304",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/utilities/Utilities.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 167",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 168"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 163",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/applications/dataseerClassifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/sequenceLabelling/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/tests/sequence_labelling/preprocess_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/sequenceLabelling/wrapper.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 415",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 429"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/textClassification/reader.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 67",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 97",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 274",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 263",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 286"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 89",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 119",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/textClassification/wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/sequenceLabelling/preprocess.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 911",
+      "Potential data leakage: model.fit() used without a pipeline at line 734"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/sequenceLabelling/models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 398",
+      "Hyperparameter not explicitly set at line 745",
+      "Hyperparameter not explicitly set at line 906",
+      "Hyperparameter not explicitly set at line 1025"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kermitt2_delft/delft-master/delft/textClassification/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ]
+  }
+}

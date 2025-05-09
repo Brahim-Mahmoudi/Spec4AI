@@ -1,0 +1,20 @@
+{
+  "/Users/bramss/Desktop/All_Repo/imfing_audio-classification/audio-classification-master/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/imfing_audio-classification/audio-classification-master/nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/imfing_audio-classification/audio-classification-master/cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  }
+}

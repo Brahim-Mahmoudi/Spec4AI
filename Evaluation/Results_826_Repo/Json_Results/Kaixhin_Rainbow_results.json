@@ -1,0 +1,47 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Kaixhin_Rainbow/Rainbow-master/memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

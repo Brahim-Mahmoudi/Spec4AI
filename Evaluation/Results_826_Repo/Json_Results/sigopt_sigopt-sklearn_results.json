@@ -1,0 +1,38 @@
+{
+  "/Users/bramss/Desktop/All_Repo/sigopt_sigopt-sklearn/sigopt-sklearn-main/test/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sigopt_sigopt-sklearn/sigopt-sklearn-main/sigopt_sklearn/sklearn_fit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sigopt_sigopt-sklearn/sigopt-sklearn-main/test/test_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 142",
+      "Hyperparameter not explicitly set at line 175",
+      "Hyperparameter not explicitly set at line 197",
+      "Hyperparameter not explicitly set at line 210",
+      "Hyperparameter not explicitly set at line 223",
+      "Hyperparameter not explicitly set at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sigopt_sigopt-sklearn/sigopt-sklearn-main/sigopt_sklearn/search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 422"
+    ]
+  }
+}

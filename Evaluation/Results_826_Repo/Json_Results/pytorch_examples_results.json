@@ -1,0 +1,519 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/tensor_parallelism/log_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/word_language_model/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/tensor_parallelism/sequence_parallel_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/tensor_parallelism/tensor_parallel_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/FSDP/utils/environment.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp/example.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/tensor_parallelism/fsdp_tp_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/word_language_model/generate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp-tutorial-series/datautils.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/FSDP/utils/train_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/minGPT-ddp/mingpt/char_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/minGPT-ddp/mingpt/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/word_language_model/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/mnist_rnn/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 134"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/FSDP/T5_training.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/mnist/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp-tutorial-series/single_gpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp-tutorial-series/multinode.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp-tutorial-series/multigpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/ddp-tutorial-series/multigpu_torchrun.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/minGPT-ddp/mingpt/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/ddp_rpc/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 34"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/word_language_model/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/FSDP/model_checkpointing/checkpoint_handler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/subgraph_rewriter_basic_use.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/rnn/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/replace_op.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/proxy_based_graph_creation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/custom_tracer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/batch/parameter_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/rnn/rnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/wrap_output_dynamically.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/invert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/gat/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/profiling_tracer.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/inline_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/tensor_parallelism/llama2_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/primitive_library.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/pipeline/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/super_resolution/super_resolve.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/minGPT-ddp/mingpt/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/rl/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/time_sequence_prediction/generate_sine_wave.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fx/native_interpreter/use_interpreter.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/batch/reinforce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/cpp/transfer-learning/convert.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/super_resolution/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/cpp/dcgan/display_samples.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/legacy/snli/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fast_neural_style/neural_style/vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/distributed/rpc/parameter_server/rpc_parameter_server.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 197"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/reinforcement_learning/reinforce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/reinforcement_learning/actor_critic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/mnist_hogwild/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/time_sequence_prediction/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/legacy/snli/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fast_neural_style/neural_style/transformer_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/regression/main.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/language_translation/src/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/mnist_hogwild/main.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/language_translation/src/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/mnist_forward_forward/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/vae/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/fast_neural_style/neural_style/neural_style.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/dcgan/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/language_translation/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/siamese_network/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 171"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/gcn/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_examples/examples-main/imagenet/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 392"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

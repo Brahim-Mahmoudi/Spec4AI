@@ -1,0 +1,81 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/datasets/object_detection_dataset_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/utils/test/gt_boxes.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/utils/bbox_transform_tf.py": {
+    "R7": [
+      "Missing mask for tf.log at line 32",
+      "Missing mask for tf.log at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/ssd/proposal.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/fasterrcnn/rcnn_proposal.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/utils/image.py": {
+    "R3": [
+      "TensorArray Not Used at line 569"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/fasterrcnn/rpn_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 229"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/fasterrcnn/rcnn_target_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 415"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/utils/image_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/fasterrcnn/rcnn_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/models/fasterrcnn/fasterrcnn_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tryolabs_luminoth/luminoth-master/luminoth/utils/image_vis.py": {
+    "R2": [
+      "Random Seed Not Set at line 911"
+    ]
+  }
+}

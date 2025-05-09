@@ -1,0 +1,246 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/tests/test_vgsl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/align.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/contrib/baselineset_overlay.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/contrib/heatmap_overlay.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/blla.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/tests/test_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 204"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/ro/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/linegen.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 284",
+      "Use np.matmul() instead of np.dot() for matrices at line 388"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 391",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/ro/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/arrow_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/dataset/ro.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 128"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/pretrain/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/pretrain/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 161"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/ro/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/dataset/segmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 169"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/dataset/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/ketos/pretrain.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/kraken.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/ketos/linegen.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/ketos/ro.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/dataset/recognition.py": {
+    "R2": [
+      "Random Seed Not Set at line 307",
+      "Random Seed Not Set at line 490",
+      "Random Seed Not Set at line 674"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/pretrain/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/ketos/recognition.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/vgsl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/ketos/segmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 359"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 515"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 646",
+      "Random Seed Not Set at line 1074",
+      "Random Seed Not Set at line 550"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mittagessen_kraken/kraken-main/kraken/lib/segmentation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 999",
+      "Use np.matmul() instead of np.dot() for matrices at line 1001"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

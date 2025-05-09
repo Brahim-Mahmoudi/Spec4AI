@@ -1,0 +1,36 @@
+{
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/tests/parser/test_visual_linker.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/src/fonduer/learning/modules/concat_linear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/src/fonduer/learning/modules/soft_cross_entropy_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/src/fonduer/learning/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 137"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/src/fonduer/packaging/fonduer_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HazyResearch_fonduer/fonduer-master/tests/e2e/test_e2e.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 318",
+      "Potential data leakage: model.fit() used without a pipeline at line 449"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/color_spaces.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/tools/tests/test_data_label_tool.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/tests/test_data_frame_plot_data.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 59",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 88",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 111",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 65",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 74",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 95",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 117",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/scales/tests/test_time_scale_resolution.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/examples/demo/basic/candle.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/examples/demo/basic/scatter_inspector.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/examples/demo/basic/scatter_inspector2.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/examples/demo/advanced/scalar_image_function_inspector.py": {
+    "R2": [
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 516",
+      "Random Seed Not Set at line 553"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/chaco/plots/tests/test_image_plot.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/examples/user_guide/h_plot_container_colorbar.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/examples/demo/canvas/canvas.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/enthought_chaco/chaco-main/examples/user_guide/plot_types/create_plot_snapshots.py": {
+    "R2": [
+      "Random Seed Not Set at line 616",
+      "Random Seed Not Set at line 617"
+    ]
+  }
+}

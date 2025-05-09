@@ -1,0 +1,29 @@
+{
+  "/Users/bramss/Desktop/All_Repo/fgnt_nara_wpe/nara_wpe-master/nara_wpe/torch_wpe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fgnt_nara_wpe/nara_wpe-master/tests/test_wpe.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fgnt_nara_wpe/nara_wpe-master/nara_wpe/tf_wpe.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fgnt_nara_wpe/nara_wpe-master/nara_wpe/wpe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

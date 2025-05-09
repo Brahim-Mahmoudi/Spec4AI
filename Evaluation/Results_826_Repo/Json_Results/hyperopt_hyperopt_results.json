@@ -1,0 +1,73 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/fmin.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 611"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/tests/unit/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/tests/unit/test_pyll_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/tests/integration/test_sklearn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/pyll/stochastic.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/pyll/tests/test_base.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/pyll/base.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 277",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt/hyperopt-master/hyperopt/atpe.py": {
+    "R2": [
+      "Random Seed Not Set at line 1233",
+      "Random Seed Not Set at line 707",
+      "Random Seed Not Set at line 1265",
+      "Random Seed Not Set at line 1130",
+      "Random Seed Not Set at line 1133",
+      "Random Seed Not Set at line 1155",
+      "Random Seed Not Set at line 1177",
+      "Random Seed Not Set at line 1158",
+      "Random Seed Not Set at line 1185",
+      "Random Seed Not Set at line 1195"
+    ]
+  }
+}

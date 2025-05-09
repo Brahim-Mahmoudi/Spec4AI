@@ -1,0 +1,118 @@
+{
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/datastructures/unionfind.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/datastructures/partition_refinement.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/inv.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/bootstrapped.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 55"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/timer.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/cholesky.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/stats/corpus_permutation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/stats/permutation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/iterextras/sorted_intersection.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/pareto.py": {
+    "R2": [
+      "Random Seed Not Set at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/tests/benchmark_sumheap.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/tests/heap_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/compare.py": {
+    "R2": [
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 418"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/rvs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 361"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 453",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/timvieira_arsenal/arsenal-master/arsenal/maths/util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 572"
+    ]
+  }
+}

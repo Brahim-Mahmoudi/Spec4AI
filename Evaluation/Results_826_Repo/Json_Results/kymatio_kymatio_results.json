@@ -1,0 +1,392 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/general/test_numpy_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/general/test_tensorflow_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/general/test_torch_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/generate_test_data_1d.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_numpy_scattering2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_tensorflow_scattering2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/test_numpy_backend_1d.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/test_tensorflow_backend_1d.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/plot_sklearn.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/general/test_jnp_vs_np.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/mnist_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_torch_scattering2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 247"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/regularized_inverse_scattering_MNIST_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 96"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/3d/scattering3d_qm7_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_numpy_backend_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/plot_invert_scattering_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_tensorflow_backend_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/cifar_resnet_torch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/long_mnist_classify_torch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering3d/test_torch_scattering3d.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/cifar_torch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/1d/classif_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/benchmarks/benchmarks/torch_benchmark/scattering3d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/benchmarks/benchmarks/torch_benchmark/scattering2d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/benchmarks/benchmarks/torch_benchmark/scattering1d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/test_torch_backend_1d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 37",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 73"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 135",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/2d/cifar_small_sample.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/1d/reconstruct_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/examples/1d/plot_classif_torch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 213"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering3d/backend/torch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering3d/frontend/torch_frontend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/backend/torch_skcuda_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/test_torch_scattering1d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering2d/test_torch_backend_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 117",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 159",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 160",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 161"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/backend/torch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering1d/backend/torch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering1d/backend/torch_skcuda_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering1d/frontend/torch_frontend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering2d/filter_bank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 163"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/tests/scattering1d/test_timefrequency_scattering.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 433",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 440"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering2d/frontend/torch_frontend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering2d/backend/torch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kymatio_kymatio/kymatio-main/kymatio/scattering2d/backend/torch_skcuda_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/util/image_pool.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/template_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/colorization_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/util/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/pix2pix_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 102",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/options/base_options.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/scripts/edges/batch_hed.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/scripts/eval_cityscapes/evaluate.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/data/unaligned_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/cycle_gan_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 138",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/data/base_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_pytorch-CycleGAN-and-pix2pix/pytorch-CycleGAN-and-pix2pix-master/models/networks.py": {
+    "R2": [
+      "Random Seed Not Set at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

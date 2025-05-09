@@ -1,0 +1,1492 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/optimize.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 364",
+      "Use np.matmul() instead of np.dot() for matrices at line 297",
+      "Use np.matmul() instead of np.dot() for matrices at line 517"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/denoise/tests/test_patch2self.py": {
+    "R2": [
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/sphere_stats.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 123",
+      "Use np.matmul() instead of np.dot() for matrices at line 124",
+      "Use np.matmul() instead of np.dot() for matrices at line 125",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/tests/test_optimize.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/tests/test_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/tests/test_cnn_1denoiser.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/denoise/patch2self.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/torch/histo_resdnn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/denoise/tests/test_lpca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/tf/cnn_1d_denoising.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/tf/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 252"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/tf/histo_resdnn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/tests/test_sphere.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/sphere.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 300",
+      "Use np.matmul() instead of np.dot() for matrices at line 431"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/tests/test_geometry.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 323",
+      "Use np.matmul() instead of np.dot() for matrices at line 334",
+      "Use np.matmul() instead of np.dot() for matrices at line 220",
+      "Use np.matmul() instead of np.dot() for matrices at line 305",
+      "Use np.matmul() instead of np.dot() for matrices at line 358",
+      "Use np.matmul() instead of np.dot() for matrices at line 311"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 293"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/torch/deepn4.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 229"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/segment/threshold.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/segment/tissue.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/nn/torch/evac.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 385"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/geometry.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 386",
+      "Use np.matmul() instead of np.dot() for matrices at line 804",
+      "Use np.matmul() instead of np.dot() for matrices at line 809",
+      "Use np.matmul() instead of np.dot() for matrices at line 811",
+      "Use np.matmul() instead of np.dot() for matrices at line 928",
+      "Use np.matmul() instead of np.dot() for matrices at line 718",
+      "Use np.matmul() instead of np.dot() for matrices at line 722",
+      "Use np.matmul() instead of np.dot() for matrices at line 725",
+      "Use np.matmul() instead of np.dot() for matrices at line 731",
+      "Use np.matmul() instead of np.dot() for matrices at line 737",
+      "Use np.matmul() instead of np.dot() for matrices at line 793",
+      "Use np.matmul() instead of np.dot() for matrices at line 817",
+      "Use np.matmul() instead of np.dot() for matrices at line 860",
+      "Use np.matmul() instead of np.dot() for matrices at line 925",
+      "Use np.matmul() instead of np.dot() for matrices at line 959",
+      "Use np.matmul() instead of np.dot() for matrices at line 1135",
+      "Use np.matmul() instead of np.dot() for matrices at line 919",
+      "Use np.matmul() instead of np.dot() for matrices at line 321",
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 857"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/segment/tests/test_tissue.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/gradients.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 805"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1332"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/segment/tests/test_metric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 86",
+      "Use np.matmul() instead of np.dot() for matrices at line 97",
+      "Use np.matmul() instead of np.dot() for matrices at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/io/tests/test_streamline.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/io/tests/test_io_peaks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/core/tests/test_gradients.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 527",
+      "Use np.matmul() instead of np.dot() for matrices at line 459",
+      "Use np.matmul() instead of np.dot() for matrices at line 466",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 184",
+      "Use np.matmul() instead of np.dot() for matrices at line 164",
+      "Use np.matmul() instead of np.dot() for matrices at line 189",
+      "Use np.matmul() instead of np.dot() for matrices at line 169"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1056",
+      "Random Seed Not Set at line 1016",
+      "Random Seed Not Set at line 1055"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/workflows/stats.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 531"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 448"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/workflows/tests/test_segment.py": {
+    "R2": [
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/utils/tractogram.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 168",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/workflows/io.py": {
+    "R2": [
+      "Random Seed Not Set at line 467"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/workflows/tests/test_io.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 240"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/workflows/reconst.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 603",
+      "Potential data leakage: model.fit() used without a pipeline at line 1565",
+      "Potential data leakage: model.fit() used without a pipeline at line 1702",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/msdki.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 650",
+      "Use np.matmul() instead of np.dot() for matrices at line 651",
+      "Use np.matmul() instead of np.dot() for matrices at line 263",
+      "Use np.matmul() instead of np.dot() for matrices at line 265",
+      "Use np.matmul() instead of np.dot() for matrices at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/forecast.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 316",
+      "Use np.matmul() instead of np.dot() for matrices at line 356",
+      "Use np.matmul() instead of np.dot() for matrices at line 244",
+      "Use np.matmul() instead of np.dot() for matrices at line 247",
+      "Use np.matmul() instead of np.dot() for matrices at line 245",
+      "Use np.matmul() instead of np.dot() for matrices at line 409"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/fwdti.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 297",
+      "Use np.matmul() instead of np.dot() for matrices at line 299",
+      "Use np.matmul() instead of np.dot() for matrices at line 300",
+      "Use np.matmul() instead of np.dot() for matrices at line 298",
+      "Use np.matmul() instead of np.dot() for matrices at line 577",
+      "Use np.matmul() instead of np.dot() for matrices at line 578",
+      "Use np.matmul() instead of np.dot() for matrices at line 307",
+      "Use np.matmul() instead of np.dot() for matrices at line 331",
+      "Use np.matmul() instead of np.dot() for matrices at line 501",
+      "Use np.matmul() instead of np.dot() for matrices at line 502",
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 333"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/dsi.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 579"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/gqi.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 131",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 222",
+      "Use np.matmul() instead of np.dot() for matrices at line 256",
+      "Use np.matmul() instead of np.dot() for matrices at line 293",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/cti.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 584",
+      "Use np.matmul() instead of np.dot() for matrices at line 184",
+      "Use np.matmul() instead of np.dot() for matrices at line 587",
+      "Use np.matmul() instead of np.dot() for matrices at line 589",
+      "Use np.matmul() instead of np.dot() for matrices at line 590",
+      "Use np.matmul() instead of np.dot() for matrices at line 194",
+      "Use np.matmul() instead of np.dot() for matrices at line 588",
+      "Use np.matmul() instead of np.dot() for matrices at line 586"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/dki_micro.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 408"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 187",
+      "Use np.matmul() instead of np.dot() for matrices at line 267",
+      "Use np.matmul() instead of np.dot() for matrices at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/shm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1147",
+      "Use np.matmul() instead of np.dot() for matrices at line 1191",
+      "Use np.matmul() instead of np.dot() for matrices at line 1203",
+      "Use np.matmul() instead of np.dot() for matrices at line 1204",
+      "Use np.matmul() instead of np.dot() for matrices at line 1320",
+      "Use np.matmul() instead of np.dot() for matrices at line 1375",
+      "Use np.matmul() instead of np.dot() for matrices at line 1005",
+      "Use np.matmul() instead of np.dot() for matrices at line 1068",
+      "Use np.matmul() instead of np.dot() for matrices at line 1103",
+      "Use np.matmul() instead of np.dot() for matrices at line 1124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/cross_validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 144"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/rumba.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 484",
+      "Use np.matmul() instead of np.dot() for matrices at line 760"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/ivim.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 681",
+      "Use np.matmul() instead of np.dot() for matrices at line 682",
+      "Use np.matmul() instead of np.dot() for matrices at line 683",
+      "Use np.matmul() instead of np.dot() for matrices at line 684",
+      "Use np.matmul() instead of np.dot() for matrices at line 768"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/shore.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 306",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 379",
+      "Use np.matmul() instead of np.dot() for matrices at line 468",
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/mcsd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 650"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 438",
+      "Use np.matmul() instead of np.dot() for matrices at line 447",
+      "Use np.matmul() instead of np.dot() for matrices at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/sfm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 542",
+      "Potential data leakage: model.fit() used without a pipeline at line 469",
+      "Potential data leakage: model.fit() used without a pipeline at line 464"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 652",
+      "Use np.matmul() instead of np.dot() for matrices at line 690"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_bingham.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 63",
+      "Use np.matmul() instead of np.dot() for matrices at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_shore_odf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_odf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_multi_voxel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/csdeconv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 885",
+      "Potential data leakage: model.fit() used without a pipeline at line 952"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 583",
+      "Use np.matmul() instead of np.dot() for matrices at line 592",
+      "Use np.matmul() instead of np.dot() for matrices at line 696",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 340",
+      "Use np.matmul() instead of np.dot() for matrices at line 341",
+      "Use np.matmul() instead of np.dot() for matrices at line 582",
+      "Use np.matmul() instead of np.dot() for matrices at line 600",
+      "Use np.matmul() instead of np.dot() for matrices at line 621",
+      "Use np.matmul() instead of np.dot() for matrices at line 710",
+      "Use np.matmul() instead of np.dot() for matrices at line 241",
+      "Use np.matmul() instead of np.dot() for matrices at line 617",
+      "Use np.matmul() instead of np.dot() for matrices at line 705",
+      "Use np.matmul() instead of np.dot() for matrices at line 1134"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1109",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dki_micro.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 352"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 151"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_shore_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_weights_method.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 36",
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_gqi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dsi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_vec_val_vect.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_cti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 306"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/dti.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1620",
+      "Use np.matmul() instead of np.dot() for matrices at line 651",
+      "Use np.matmul() instead of np.dot() for matrices at line 694",
+      "Use np.matmul() instead of np.dot() for matrices at line 1154",
+      "Use np.matmul() instead of np.dot() for matrices at line 1647",
+      "Use np.matmul() instead of np.dot() for matrices at line 2027",
+      "Use np.matmul() instead of np.dot() for matrices at line 2201",
+      "Use np.matmul() instead of np.dot() for matrices at line 2502",
+      "Use np.matmul() instead of np.dot() for matrices at line 2063"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_forecast.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 344"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_fwdti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 366"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dsi_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18",
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_qti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 503"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_sfm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_mcsd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 252"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_shore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dsi_deconv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_msdki.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 209",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 281",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 314"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_qtdmri.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 404",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 418",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 577",
+      "Potential data leakage: model.fit() used without a pipeline at line 578",
+      "Potential data leakage: model.fit() used without a pipeline at line 640",
+      "Potential data leakage: model.fit() used without a pipeline at line 641",
+      "Potential data leakage: model.fit() used without a pipeline at line 667",
+      "Potential data leakage: model.fit() used without a pipeline at line 668",
+      "Potential data leakage: model.fit() used without a pipeline at line 744",
+      "Potential data leakage: model.fit() used without a pipeline at line 764",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 363",
+      "Potential data leakage: model.fit() used without a pipeline at line 537",
+      "Potential data leakage: model.fit() used without a pipeline at line 615",
+      "Potential data leakage: model.fit() used without a pipeline at line 616",
+      "Potential data leakage: model.fit() used without a pipeline at line 718",
+      "Potential data leakage: model.fit() used without a pipeline at line 719"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_rumba.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 372"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/align/reslice.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/mapmri.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 331"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2121",
+      "Use np.matmul() instead of np.dot() for matrices at line 2165",
+      "Use np.matmul() instead of np.dot() for matrices at line 339",
+      "Use np.matmul() instead of np.dot() for matrices at line 529",
+      "Use np.matmul() instead of np.dot() for matrices at line 531",
+      "Use np.matmul() instead of np.dot() for matrices at line 568",
+      "Use np.matmul() instead of np.dot() for matrices at line 968",
+      "Use np.matmul() instead of np.dot() for matrices at line 973",
+      "Use np.matmul() instead of np.dot() for matrices at line 982",
+      "Use np.matmul() instead of np.dot() for matrices at line 984",
+      "Use np.matmul() instead of np.dot() for matrices at line 1005",
+      "Use np.matmul() instead of np.dot() for matrices at line 2191",
+      "Use np.matmul() instead of np.dot() for matrices at line 346",
+      "Use np.matmul() instead of np.dot() for matrices at line 445",
+      "Use np.matmul() instead of np.dot() for matrices at line 448",
+      "Use np.matmul() instead of np.dot() for matrices at line 540",
+      "Use np.matmul() instead of np.dot() for matrices at line 2130",
+      "Use np.matmul() instead of np.dot() for matrices at line 326",
+      "Use np.matmul() instead of np.dot() for matrices at line 323",
+      "Use np.matmul() instead of np.dot() for matrices at line 438",
+      "Use np.matmul() instead of np.dot() for matrices at line 446"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_csdeconv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 426",
+      "Potential data leakage: model.fit() used without a pipeline at line 556",
+      "Potential data leakage: model.fit() used without a pipeline at line 596",
+      "Potential data leakage: model.fit() used without a pipeline at line 634",
+      "Potential data leakage: model.fit() used without a pipeline at line 640",
+      "Potential data leakage: model.fit() used without a pipeline at line 680",
+      "Potential data leakage: model.fit() used without a pipeline at line 714",
+      "Potential data leakage: model.fit() used without a pipeline at line 715",
+      "Potential data leakage: model.fit() used without a pipeline at line 791",
+      "Potential data leakage: model.fit() used without a pipeline at line 847"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_shm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 463",
+      "Potential data leakage: model.fit() used without a pipeline at line 498",
+      "Potential data leakage: model.fit() used without a pipeline at line 527",
+      "Potential data leakage: model.fit() used without a pipeline at line 541",
+      "Potential data leakage: model.fit() used without a pipeline at line 595",
+      "Potential data leakage: model.fit() used without a pipeline at line 611",
+      "Potential data leakage: model.fit() used without a pipeline at line 626",
+      "Potential data leakage: model.fit() used without a pipeline at line 637"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 205",
+      "Use np.matmul() instead of np.dot() for matrices at line 291",
+      "Use np.matmul() instead of np.dot() for matrices at line 292",
+      "Use np.matmul() instead of np.dot() for matrices at line 324",
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 378",
+      "Use np.matmul() instead of np.dot() for matrices at line 384",
+      "Use np.matmul() instead of np.dot() for matrices at line 391",
+      "Use np.matmul() instead of np.dot() for matrices at line 678",
+      "Use np.matmul() instead of np.dot() for matrices at line 688",
+      "Use np.matmul() instead of np.dot() for matrices at line 691",
+      "Use np.matmul() instead of np.dot() for matrices at line 701",
+      "Use np.matmul() instead of np.dot() for matrices at line 713",
+      "Use np.matmul() instead of np.dot() for matrices at line 683"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_ivim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 409",
+      "Potential data leakage: model.fit() used without a pipeline at line 421",
+      "Potential data leakage: model.fit() used without a pipeline at line 441",
+      "Potential data leakage: model.fit() used without a pipeline at line 464",
+      "Potential data leakage: model.fit() used without a pipeline at line 573",
+      "Potential data leakage: model.fit() used without a pipeline at line 651",
+      "Potential data leakage: model.fit() used without a pipeline at line 660",
+      "Potential data leakage: model.fit() used without a pipeline at line 669",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 611"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/dki.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1701",
+      "Use np.matmul() instead of np.dot() for matrices at line 2713",
+      "Use np.matmul() instead of np.dot() for matrices at line 2715",
+      "Use np.matmul() instead of np.dot() for matrices at line 2722",
+      "Use np.matmul() instead of np.dot() for matrices at line 2829",
+      "Use np.matmul() instead of np.dot() for matrices at line 2830",
+      "Use np.matmul() instead of np.dot() for matrices at line 1709",
+      "Use np.matmul() instead of np.dot() for matrices at line 2710",
+      "Use np.matmul() instead of np.dot() for matrices at line 2826",
+      "Use np.matmul() instead of np.dot() for matrices at line 2711",
+      "Use np.matmul() instead of np.dot() for matrices at line 2827"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/align/cpd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 411",
+      "Use np.matmul() instead of np.dot() for matrices at line 414",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 330",
+      "Use np.matmul() instead of np.dot() for matrices at line 385",
+      "Use np.matmul() instead of np.dot() for matrices at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/qtdmri.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1909",
+      "Use np.matmul() instead of np.dot() for matrices at line 1937",
+      "Use np.matmul() instead of np.dot() for matrices at line 1975",
+      "Use np.matmul() instead of np.dot() for matrices at line 580",
+      "Use np.matmul() instead of np.dot() for matrices at line 1075",
+      "Use np.matmul() instead of np.dot() for matrices at line 1105",
+      "Use np.matmul() instead of np.dot() for matrices at line 645",
+      "Use np.matmul() instead of np.dot() for matrices at line 647",
+      "Use np.matmul() instead of np.dot() for matrices at line 692",
+      "Use np.matmul() instead of np.dot() for matrices at line 1031",
+      "Use np.matmul() instead of np.dot() for matrices at line 1076",
+      "Use np.matmul() instead of np.dot() for matrices at line 1939",
+      "Use np.matmul() instead of np.dot() for matrices at line 1960",
+      "Use np.matmul() instead of np.dot() for matrices at line 1983",
+      "Use np.matmul() instead of np.dot() for matrices at line 656",
+      "Use np.matmul() instead of np.dot() for matrices at line 1001",
+      "Use np.matmul() instead of np.dot() for matrices at line 1959",
+      "Use np.matmul() instead of np.dot() for matrices at line 280",
+      "Use np.matmul() instead of np.dot() for matrices at line 469",
+      "Use np.matmul() instead of np.dot() for matrices at line 473"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2060",
+      "Random Seed Not Set at line 2124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_mapmri.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 281",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 453",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 522",
+      "Potential data leakage: model.fit() used without a pipeline at line 543",
+      "Potential data leakage: model.fit() used without a pipeline at line 598",
+      "Potential data leakage: model.fit() used without a pipeline at line 632",
+      "Potential data leakage: model.fit() used without a pipeline at line 670",
+      "Potential data leakage: model.fit() used without a pipeline at line 807",
+      "Potential data leakage: model.fit() used without a pipeline at line 827",
+      "Potential data leakage: model.fit() used without a pipeline at line 860",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 954",
+      "Potential data leakage: model.fit() used without a pipeline at line 990",
+      "Potential data leakage: model.fit() used without a pipeline at line 994",
+      "Potential data leakage: model.fit() used without a pipeline at line 999",
+      "Potential data leakage: model.fit() used without a pipeline at line 1054",
+      "Potential data leakage: model.fit() used without a pipeline at line 1058",
+      "Potential data leakage: model.fit() used without a pipeline at line 1063",
+      "Potential data leakage: model.fit() used without a pipeline at line 1099",
+      "Potential data leakage: model.fit() used without a pipeline at line 1144",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 438",
+      "Potential data leakage: model.fit() used without a pipeline at line 700",
+      "Potential data leakage: model.fit() used without a pipeline at line 881",
+      "Potential data leakage: model.fit() used without a pipeline at line 927",
+      "Potential data leakage: model.fit() used without a pipeline at line 1013",
+      "Potential data leakage: model.fit() used without a pipeline at line 1071",
+      "Potential data leakage: model.fit() used without a pipeline at line 1119",
+      "Potential data leakage: model.fit() used without a pipeline at line 751"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 648",
+      "Use np.matmul() instead of np.dot() for matrices at line 686",
+      "Use np.matmul() instead of np.dot() for matrices at line 722",
+      "Use np.matmul() instead of np.dot() for matrices at line 723",
+      "Use np.matmul() instead of np.dot() for matrices at line 726",
+      "Use np.matmul() instead of np.dot() for matrices at line 727",
+      "Use np.matmul() instead of np.dot() for matrices at line 731",
+      "Use np.matmul() instead of np.dot() for matrices at line 732",
+      "Use np.matmul() instead of np.dot() for matrices at line 768",
+      "Use np.matmul() instead of np.dot() for matrices at line 769",
+      "Use np.matmul() instead of np.dot() for matrices at line 1016",
+      "Use np.matmul() instead of np.dot() for matrices at line 1017",
+      "Use np.matmul() instead of np.dot() for matrices at line 1074",
+      "Use np.matmul() instead of np.dot() for matrices at line 1075",
+      "Use np.matmul() instead of np.dot() for matrices at line 1018",
+      "Use np.matmul() instead of np.dot() for matrices at line 1076"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 409",
+      "Potential data leakage: model.fit() used without a pipeline at line 570",
+      "Potential data leakage: model.fit() used without a pipeline at line 588",
+      "Potential data leakage: model.fit() used without a pipeline at line 795",
+      "Potential data leakage: model.fit() used without a pipeline at line 803",
+      "Potential data leakage: model.fit() used without a pipeline at line 812",
+      "Potential data leakage: model.fit() used without a pipeline at line 823",
+      "Potential data leakage: model.fit() used without a pipeline at line 825",
+      "Potential data leakage: model.fit() used without a pipeline at line 892",
+      "Potential data leakage: model.fit() used without a pipeline at line 896",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 929",
+      "Potential data leakage: model.fit() used without a pipeline at line 940",
+      "Potential data leakage: model.fit() used without a pipeline at line 962",
+      "Potential data leakage: model.fit() used without a pipeline at line 973",
+      "Potential data leakage: model.fit() used without a pipeline at line 979",
+      "Potential data leakage: model.fit() used without a pipeline at line 987",
+      "Potential data leakage: model.fit() used without a pipeline at line 995",
+      "Potential data leakage: model.fit() used without a pipeline at line 1032",
+      "Potential data leakage: model.fit() used without a pipeline at line 1045",
+      "Potential data leakage: model.fit() used without a pipeline at line 1046",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 425",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 509",
+      "Potential data leakage: model.fit() used without a pipeline at line 543",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 677",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 667",
+      "Potential data leakage: model.fit() used without a pipeline at line 695",
+      "Potential data leakage: model.fit() used without a pipeline at line 696",
+      "Potential data leakage: model.fit() used without a pipeline at line 1117",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 658",
+      "Potential data leakage: model.fit() used without a pipeline at line 881"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 460",
+      "Use np.matmul() instead of np.dot() for matrices at line 462",
+      "Use np.matmul() instead of np.dot() for matrices at line 463",
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 375",
+      "Use np.matmul() instead of np.dot() for matrices at line 461",
+      "Use np.matmul() instead of np.dot() for matrices at line 495",
+      "Use np.matmul() instead of np.dot() for matrices at line 725",
+      "Use np.matmul() instead of np.dot() for matrices at line 789",
+      "Use np.matmul() instead of np.dot() for matrices at line 864",
+      "Use np.matmul() instead of np.dot() for matrices at line 1104",
+      "Use np.matmul() instead of np.dot() for matrices at line 151",
+      "Use np.matmul() instead of np.dot() for matrices at line 447"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 896"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/align/streamlinear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 826",
+      "Use np.matmul() instead of np.dot() for matrices at line 874",
+      "Use np.matmul() instead of np.dot() for matrices at line 1345",
+      "Use np.matmul() instead of np.dot() for matrices at line 1346"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1416",
+      "Random Seed Not Set at line 1426",
+      "Random Seed Not Set at line 1409",
+      "Random Seed Not Set at line 1411"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/reconst/tests/test_dki.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 801",
+      "Potential data leakage: model.fit() used without a pipeline at line 819",
+      "Potential data leakage: model.fit() used without a pipeline at line 895",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 906",
+      "Potential data leakage: model.fit() used without a pipeline at line 963",
+      "Potential data leakage: model.fit() used without a pipeline at line 1004",
+      "Potential data leakage: model.fit() used without a pipeline at line 1084",
+      "Potential data leakage: model.fit() used without a pipeline at line 1119",
+      "Potential data leakage: model.fit() used without a pipeline at line 1134",
+      "Potential data leakage: model.fit() used without a pipeline at line 1147",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 344",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 857",
+      "Potential data leakage: model.fit() used without a pipeline at line 375"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 236",
+      "Use np.matmul() instead of np.dot() for matrices at line 238",
+      "Use np.matmul() instead of np.dot() for matrices at line 239",
+      "Use np.matmul() instead of np.dot() for matrices at line 237",
+      "Use np.matmul() instead of np.dot() for matrices at line 968",
+      "Use np.matmul() instead of np.dot() for matrices at line 975",
+      "Use np.matmul() instead of np.dot() for matrices at line 1009",
+      "Use np.matmul() instead of np.dot() for matrices at line 1016",
+      "Use np.matmul() instead of np.dot() for matrices at line 214"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 572",
+      "Random Seed Not Set at line 573",
+      "Random Seed Not Set at line 778",
+      "Random Seed Not Set at line 779",
+      "Random Seed Not Set at line 993",
+      "Random Seed Not Set at line 994",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 1070",
+      "Random Seed Not Set at line 1071"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/viz/projections.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/viz/tests/test_apps.py": {
+    "R2": [
+      "Random Seed Not Set at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/align/tests/test_sumsqdiff.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 31",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/tests/test_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/local_tracking.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 27",
+      "Use np.matmul() instead of np.dot() for matrices at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/tests/test_tracker.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 28",
+      "Use np.matmul() instead of np.dot() for matrices at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/direction/tests/test_prob_direction_getter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/life.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 391",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 394",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/streamline.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 656"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/direction/tests/test_ptt_direction_getter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/tests/test_life.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 52",
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/stats/sketching.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 416",
+      "Use np.matmul() instead of np.dot() for matrices at line 531",
+      "Use np.matmul() instead of np.dot() for matrices at line 867",
+      "Use np.matmul() instead of np.dot() for matrices at line 864"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/direction/tests/test_bootstrap_direction_getter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 257"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/stats/tests/test_qc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/benchmarks/benchmarks/bench_reconst.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/sims/tests/test_phantom.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/direction/peaks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 526"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 659",
+      "Use np.matmul() instead of np.dot() for matrices at line 529"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/sims/phantom.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_gqi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_shore_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_ptt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/segment_extending_clustering_framework.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dki.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/fiber_to_bundle_coherence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_rumba.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 376"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dsi_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_csa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_sfm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/sims/tests/test_voxel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dki_micro.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_msdki.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/restore_dti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_deterministic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_pft.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_csd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_shore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/sims/voxel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 791",
+      "Use np.matmul() instead of np.dot() for matrices at line 792",
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_rumba.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dsid.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/denoise_gibbs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_fwdti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_disco_phantom.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_forecast.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_mapmri.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 352"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/denoise_mppca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/direction/tests/test_peaks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 756",
+      "Use np.matmul() instead of np.dot() for matrices at line 786",
+      "Use np.matmul() instead of np.dot() for matrices at line 1020",
+      "Use np.matmul() instead of np.dot() for matrices at line 251"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 991"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_cti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_mcsd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/contextual_enhancement.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_qtiplus.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_probabilistic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/tests/test_streamline.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 602"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_qtdmri.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_bootstrap_peaks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_qti.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/snr_in_cc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_dsi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/tracking/tests/test_tracking.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1127",
+      "Use np.matmul() instead of np.dot() for matrices at line 278",
+      "Use np.matmul() instead of np.dot() for matrices at line 1130",
+      "Use np.matmul() instead of np.dot() for matrices at line 1149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/linear_fascicle_evaluation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_ivim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/reconst_bingham.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/doc/examples/tracking_stopping_criterion.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dipy_dipy/dipy-master/dipy/data/fetcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ]
+  }
+}

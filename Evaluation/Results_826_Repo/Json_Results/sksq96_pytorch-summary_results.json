@@ -1,0 +1,26 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/sksq96_pytorch-summary/pytorch-summary-master/torchsummary/tests/unit_tests/torchsummary_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sksq96_pytorch-summary/pytorch-summary-master/torchsummary/tests/test_models/test_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sksq96_pytorch-summary/pytorch-summary-master/torchsummary/torchsummary.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

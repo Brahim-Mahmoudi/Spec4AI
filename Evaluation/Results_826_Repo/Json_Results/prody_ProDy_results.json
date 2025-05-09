@@ -1,0 +1,243 @@
+{
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/logistic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/database/cath.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/nma.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/ensemble/pdbensemble.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/rtb.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/mode.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/editing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 611",
+      "Use np.matmul() instead of np.dot() for matrices at line 612",
+      "Use np.matmul() instead of np.dot() for matrices at line 613",
+      "Use np.matmul() instead of np.dot() for matrices at line 494"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/anm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/adaptive.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/analysis.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 205",
+      "Use np.matmul() instead of np.dot() for matrices at line 510",
+      "Use np.matmul() instead of np.dot() for matrices at line 684",
+      "Use np.matmul() instead of np.dot() for matrices at line 331",
+      "Use np.matmul() instead of np.dot() for matrices at line 699",
+      "Use np.matmul() instead of np.dot() for matrices at line 261"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/perturb.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 117"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/compare.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 228",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 257",
+      "Use np.matmul() instead of np.dot() for matrices at line 349",
+      "Use np.matmul() instead of np.dot() for matrices at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/proteins/functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/tests/dynamics/test_lda.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/tests/dynamics/test_pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/tests/dynamics/test_enms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 96",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/proteins/emdfile.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 514"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/signature.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 278",
+      "Use np.matmul() instead of np.dot() for matrices at line 303",
+      "Use np.matmul() instead of np.dot() for matrices at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/proteins/header.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 560"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/atomic/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/proteins/cifheader.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1088",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1257"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/dynamics/plotting.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 98",
+      "Use np.matmul() instead of np.dot() for matrices at line 101"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2007"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/utilities/seqtools.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/trajectory/frame.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 204",
+      "Use np.matmul() instead of np.dot() for matrices at line 189",
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/utilities/TreeConstruction.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 494",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 496"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/chromatin/functions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/chromatin/norm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18",
+      "Use np.matmul() instead of np.dot() for matrices at line 38",
+      "Use np.matmul() instead of np.dot() for matrices at line 151",
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 217",
+      "Use np.matmul() instead of np.dot() for matrices at line 148",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 171",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 214",
+      "Use np.matmul() instead of np.dot() for matrices at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/measure/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 160",
+      "Use np.matmul() instead of np.dot() for matrices at line 145",
+      "Use np.matmul() instead of np.dot() for matrices at line 148",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 153",
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 307"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 537"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/chromatin/cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 259"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 169",
+      "Use np.matmul() instead of np.dot() for matrices at line 160",
+      "Use np.matmul() instead of np.dot() for matrices at line 192"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/utilities/catchall.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1257",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/prody_ProDy/ProDy-main/prody/proteins/interactions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 83"
+    ]
+  }
+}

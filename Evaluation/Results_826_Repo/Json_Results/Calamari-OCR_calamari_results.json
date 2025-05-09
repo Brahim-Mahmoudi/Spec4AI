@@ -1,0 +1,96 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/dataset/imageprocessors/augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/dataset/datareader/generated_line_dataset/text_generation/text_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/training/warmstart.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/voting/confidence_voter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/dataset/datareader/generated_line_dataset/line_generator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 183"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/voting/sequence_voter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/scripts/benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/training/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/ocr/model/ensemblegraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/thirdparty/ctcwordbeamsearch/Metrics.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/thirdparty/ctcwordbeamsearch/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/thirdparty/ctcwordbeamsearch/LanguageModel.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/thirdparty/ctcwordbeamsearch/Beam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/Calamari-OCR_calamari/calamari-master/calamari_ocr/thirdparty/ocrodeg/degrade.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 42"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 219"
+    ]
+  }
+}

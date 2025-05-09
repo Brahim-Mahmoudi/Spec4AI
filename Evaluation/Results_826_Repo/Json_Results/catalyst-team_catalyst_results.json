@@ -1,0 +1,1118 @@
+{
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_r2_squared.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_accumulative.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_auc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_confusion_matrix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_r2_squared.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_mrr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_cmc_score.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_auc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_focal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_hitrate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_ndcg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_average_precision.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/core/engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_segmentation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/loggers/tensorboard.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/settings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_segmentation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/callbacks/backward.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/callbacks/metric_aggregation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/functional/_misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/callbacks/profiler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/callbacks/sklearn_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/utils/onnx.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/smoothing_dice.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/ntxent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/circle.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/wing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/trevsky.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/utils/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/regression.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/core/runner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/amsoftmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/contrastive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/ce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/metrics/_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/common.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/supervised_contrastive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/arcmargin.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/rms_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/factorized.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/se.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/curricularface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/cosface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/triplet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/lovasz.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/arcface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/utils/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/utils/swa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/pooling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/layers/lama.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/datasets/market1501.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/models/resnet_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/utils/torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/datasets/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/utils/report.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 114; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 115; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 117; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 120; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 94; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/losses/recsys.py": {
+    "R2": [
+      "Random Seed Not Set at line 430",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/qhadamw.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/lookahead.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/lamb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/adamp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/radam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/sgdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/data/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/optimizers/ralamb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/scripts/project_embeddings.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 115",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 122",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 141"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/datasets/mnist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/datasets/cifar.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/engines/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_r2squared.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_r2_squared.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/data/loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/datasets/movielens.py": {
+    "R2": [
+      "Random Seed Not Set at line 721"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 555",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 556",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 557",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 560",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 561",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 563",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 564",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 565",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 566",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 567"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/runners/supervised.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/data/sampler_inbatch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_functional_metric.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/data/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 260"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_additive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_fbeta_precision_recall.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/contrib/scripts/collect_env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_auc.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_dice.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/runners/runner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_iou.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_mrr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_cmc_score.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_hitrate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_ndcg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_optimizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_optuna.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_mixup.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_region_statictics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/utils/test_onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/catalyst/data/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 388",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 467",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 384",
+      "Random Seed Not Set at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_batch_overfit.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_checkpoint.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 28"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_metric_aggregation.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/runners/test_profiler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_segmentation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_profiler.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/utils/test_quantization.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/data/test_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_cmc_metric.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/runners/test_sklearn_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/functional/test_average_precision.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/runners/test_sklearn_classifier_mnist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/runners/test_runner.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_optuna.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_mnist_multioptimizer.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_mnist_multicriterion.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/runners/test_reid.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 160"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 166"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_mnist_custom.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_multilabel_classification.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 33"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/data/test_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_recsys.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 33"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/nn/test_onecyle.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_multihead_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/utils/test_swa.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_mnist_multimodel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/datasets/test_movielens.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_vae.py": {
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/utils/test_torch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_control_flow.py": {
+    "R2": [
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_classification.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 33"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/pipelines/test_regression.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 32"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/catalyst_rl/sampler.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/callbacks/test_periodic_loader.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 444",
+      "Random Seed Not Set at line 445",
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 504",
+      "Random Seed Not Set at line 563",
+      "Random Seed Not Set at line 564",
+      "Random Seed Not Set at line 623",
+      "Random Seed Not Set at line 624",
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 684",
+      "Random Seed Not Set at line 760",
+      "Random Seed Not Set at line 761",
+      "Random Seed Not Set at line 919",
+      "Random Seed Not Set at line 920"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 156",
+      "Hyperparameter not explicitly set at line 221",
+      "Hyperparameter not explicitly set at line 287",
+      "Hyperparameter not explicitly set at line 458",
+      "Hyperparameter not explicitly set at line 517",
+      "Hyperparameter not explicitly set at line 577",
+      "Hyperparameter not explicitly set at line 637",
+      "Hyperparameter not explicitly set at line 697",
+      "Hyperparameter not explicitly set at line 772",
+      "Hyperparameter not explicitly set at line 931"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/benchmarks/test_benchmark.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/recsys/multidae.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/catalyst_rl/dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/catalyst_rl/ddpg.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 284"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/self_supervised/supervised_contrastive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/nn/test_criterion.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/reinforcement_learning/reinforce.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/data/test_sampler_inbatch.py": {
+    "R2": [
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/recsys/macridvae.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/recsys/multivae.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/contrib/nn/test_modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 443"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/tests/catalyst/metrics/test_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/custom_runner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/reinforcement_learning/dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/self_supervised/src/runner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/models/centernet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/reinforcement_learning/ddpg.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 102"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 405"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/models/ssd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/callbacks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-team_catalyst/catalyst-master/examples/detection/models/yolo_x.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

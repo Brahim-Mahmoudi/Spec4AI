@@ -1,0 +1,205 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_study/test_study_examples.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/20_basic/simple_flows_and_runs_tutorial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 29"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/flow_id_tutorial.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_setups/test_setup_functions.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/40_paper/2018_neurips_perrone_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/run_setup_tutorial.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/suites_tutorial.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/flows_and_runs_tutorial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 33",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 48"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/study_tutorial.py": {
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_runs/test_run.py": {
+    "R2": [
+      "Random Seed Not Set at line 164"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/custom_flow_.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/fetch_evaluations_tutorial.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/examples/30_extended/fetch_runtimes_tutorial.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 310"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 389"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_flows/test_flow_functions.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 393"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_flows/test_flow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 536"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 258",
+      "Hyperparameter not explicitly set at line 294",
+      "Hyperparameter not explicitly set at line 389",
+      "Hyperparameter not explicitly set at line 161",
+      "Hyperparameter not explicitly set at line 433",
+      "Hyperparameter not explicitly set at line 352",
+      "Hyperparameter not explicitly set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_runs/test_run_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 803",
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 858",
+      "Random Seed Not Set at line 1885",
+      "Random Seed Not Set at line 823",
+      "Random Seed Not Set at line 859",
+      "Random Seed Not Set at line 832",
+      "Random Seed Not Set at line 861",
+      "Random Seed Not Set at line 950",
+      "Random Seed Not Set at line 769",
+      "Random Seed Not Set at line 918",
+      "Random Seed Not Set at line 951",
+      "Random Seed Not Set at line 1045",
+      "Random Seed Not Set at line 1074",
+      "Random Seed Not Set at line 960"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 405",
+      "Hyperparameter not explicitly set at line 641",
+      "Hyperparameter not explicitly set at line 1020",
+      "Hyperparameter not explicitly set at line 1227",
+      "Hyperparameter not explicitly set at line 1246",
+      "Hyperparameter not explicitly set at line 1278",
+      "Hyperparameter not explicitly set at line 1303",
+      "Hyperparameter not explicitly set at line 804",
+      "Hyperparameter not explicitly set at line 1596",
+      "Hyperparameter not explicitly set at line 1640",
+      "Hyperparameter not explicitly set at line 1889",
+      "Hyperparameter not explicitly set at line 716",
+      "Hyperparameter not explicitly set at line 919"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_datasets/test_dataset_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/openml/extensions/sklearn/extension.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1747",
+      "Potential data leakage: model.fit() used without a pipeline at line 1749"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 1840"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1609"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openml_openml-python/openml-python-develop/tests/test_extensions/test_sklearn_extension/test_sklearn_extension.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 2249",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1330",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 2083",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 131"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 308",
+      "Hyperparameter not explicitly set at line 508",
+      "Hyperparameter not explicitly set at line 373",
+      "Hyperparameter not explicitly set at line 1061",
+      "Hyperparameter not explicitly set at line 1299",
+      "Hyperparameter not explicitly set at line 1855",
+      "Hyperparameter not explicitly set at line 2074",
+      "Hyperparameter not explicitly set at line 812",
+      "Hyperparameter not explicitly set at line 1163",
+      "Hyperparameter not explicitly set at line 1408",
+      "Hyperparameter not explicitly set at line 1452",
+      "Hyperparameter not explicitly set at line 1497",
+      "Hyperparameter not explicitly set at line 1661",
+      "Hyperparameter not explicitly set at line 1537",
+      "Hyperparameter not explicitly set at line 653",
+      "Hyperparameter not explicitly set at line 1270",
+      "Hyperparameter not explicitly set at line 1276",
+      "Hyperparameter not explicitly set at line 1499",
+      "Hyperparameter not explicitly set at line 1723",
+      "Hyperparameter not explicitly set at line 1797",
+      "Hyperparameter not explicitly set at line 1983",
+      "Hyperparameter not explicitly set at line 2029",
+      "Hyperparameter not explicitly set at line 2302"
+    ]
+  }
+}

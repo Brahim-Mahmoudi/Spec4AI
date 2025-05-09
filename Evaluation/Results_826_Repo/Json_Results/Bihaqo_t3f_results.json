@@ -1,0 +1,85 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/utils_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 30",
+      "Use np.matmul() instead of np.dot() for matrices at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/nn_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/docs/benchmark/benchmark_ttpy.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/approximate_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/approximate.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/tensor_train_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/batch_ops_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 84",
+      "Use np.matmul() instead of np.dot() for matrices at line 85",
+      "Use np.matmul() instead of np.dot() for matrices at line 140",
+      "Use np.matmul() instead of np.dot() for matrices at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/initializers.py": {
+    "R2": [
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 429"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/riemannian.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 491",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 493",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 152",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 154",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 157",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 159",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 324",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 326",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 329",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 331",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 856",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 857"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 594",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 597",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 666",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 669"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 446"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Bihaqo_t3f/t3f-develop/t3f/ops_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 20"
+    ]
+  }
+}

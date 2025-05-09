@@ -1,0 +1,65 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/test_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/util/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/lpips_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/data/dataset/jnd_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/data/dataset/twoafc_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/lpips/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/lpips/pretrained_networks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/lpips/lpips.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 138"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 184",
+      "Use module() instead of forward() at line 195",
+      "Use module() instead of forward() at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_PerceptualSimilarity/PerceptualSimilarity-master/lpips/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 94",
+      "Use module() instead of forward() at line 132"
+    ]
+  }
+}

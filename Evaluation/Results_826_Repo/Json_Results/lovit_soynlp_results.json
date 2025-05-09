@@ -1,0 +1,22 @@
+{
+  "/Users/bramss/Desktop/All_Repo/lovit_soynlp/soynlp-master/soynlp/vectorizer/_word_context.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 81",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lovit_soynlp/soynlp-master/soynlp/vectorizer/_vectorizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lovit_soynlp/soynlp-master/soynlp/tokenizer/_tokenizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ]
+  }
+}

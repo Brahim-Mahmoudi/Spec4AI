@@ -1,0 +1,147 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_tree_nonmonotonous.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/tests/test_plot_2d_separator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 12",
+      "Hyperparameter not explicitly set at line 22",
+      "Hyperparameter not explicitly set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_rbf_svm_parameters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_linear_svc_regularization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_kneighbors_regularization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_knn_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_knn_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/datasets.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 39",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 38"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_ridge.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_dbscan.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_grid_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_nmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_agglomerative.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12",
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_interactive_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 16",
+      "Use np.matmul() instead of np.dot() for matrices at line 74"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 19",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 51",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/amueller_mglearn/mglearn-main/mglearn/plot_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  }
+}

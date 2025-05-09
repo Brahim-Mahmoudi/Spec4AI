@@ -1,0 +1,18 @@
+{
+  "/Users/bramss/Desktop/All_Repo/amansrivastava17_lstm-siamese-text-similarity/lstm-siamese-text-similarity-master/controller.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/amansrivastava17_lstm-siamese-text-similarity/lstm-siamese-text-similarity-master/inputHandler.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/amansrivastava17_lstm-siamese-text-similarity/lstm-siamese-text-similarity-master/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 153"
+    ]
+  }
+}

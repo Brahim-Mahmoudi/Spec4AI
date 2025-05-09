@@ -1,0 +1,440 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/regression-pruning/models/channel_selection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/regression-pruning/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/thinet/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/l1-norm-pruning/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/network-slimming/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/weight-level/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/models/channel_selection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/models/vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/weight-level/prune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 199"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/models/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/soft-filter-pruning/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/main_B.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 149",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 174"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/soft-filter-pruning/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/weight-level/main_B.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 309"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/weight-level/main_E.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/imagenet/weight-level/main_finetune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 280"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/main_finetune.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/main_E.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 143",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 168"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/vggprune.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/models/vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/denseprune.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/lottery_resprune.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/network-slimming/resprune.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/lottery_vggprune.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/models/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/utils/visualize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/lottery_res110prune.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/main_scratch_mask.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 144",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 177"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/models/cifar/wrn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/models/cifar/resnext.py": {
+    "R8": [
+      "Use module() instead of forward() at line 38",
+      "Use module() instead of forward() at line 40",
+      "Use module() instead of forward() at line 42",
+      "Use module() instead of forward() at line 43",
+      "Use module() instead of forward() at line 44",
+      "Use module() instead of forward() at line 108",
+      "Use module() instead of forward() at line 110",
+      "Use module() instead of forward() at line 111",
+      "Use module() instead of forward() at line 112",
+      "Use module() instead of forward() at line 39",
+      "Use module() instead of forward() at line 41",
+      "Use module() instead of forward() at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/models/cifar/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 146",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 171"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/compute_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/l1-norm-pruning/main_lottery.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 145",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 178"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/models/vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/weight-level/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/lottery-ticket/weight-level/cifar_prune_iterative.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 253"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/main_B.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 133",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 154"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/models/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/weight-level/count_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/main_finetune.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 127",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 148"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/main_E.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 147"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/weight-level/utils/visualize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/res110prune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/res56prune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/weight-level/models/cifar/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/l1-norm-pruning/vggprune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Eric-mingjie_rethinking-network-pruning/rethinking-network-pruning-master/cifar/weight-level/cifar_prune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

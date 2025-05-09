@@ -1,0 +1,4901 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/utils/early_stop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/model/edge_encoder/dot.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/model/edge_encoder/ele.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/model/edge_encoder/bilinear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/apply_pipeline/nodepred_sample/gen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/apply_pipeline/nodepred/gen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/apply_pipeline/graphpred/gen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dglgo/dglgo/model/graph_encoder/pna.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/change_etype_to_canonical_etype.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/gloo_wrapper.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/partition_algo/random_partition.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/chunk_graph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/globalids.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/homophily.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/dist_lookup.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/generators.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 650"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/label_informativeness.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/batch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 408",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/dataset_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/storages/pytorch_tensor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distgnn/tools/tools.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/tensorflow/conv/edgeconv.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 69",
+      "Hyperparameter not explicitly set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/tensorflow/glob.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/tensorflow/conv/chebconv.py": {
+    "R3": [
+      "TensorArray Not Used at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tools/distpartitioning/data_shuffle.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/tensorflow/conv/sageconv.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/linear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/gt/egt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/cugraph_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/network_emb.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/egnnconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/cugraph_relgraphconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/gatedgcnconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/pnaconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/sageconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/glob.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 572"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/cugraph_gatconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/grouprevres.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/link/transe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/dgnconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/explain/gnnexplainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 546",
+      "Random Seed Not Set at line 559"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/link/transr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/explain/pgexplainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 199"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/link/edgepred.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/explain/subgraphx.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 492",
+      "Random Seed Not Set at line 617",
+      "Random Seed Not Set at line 620"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 332",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 771"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/nn/pytorch/conv/hgtconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/multiprocessing/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/cuda/nccl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distributed/rpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 703",
+      "Random Seed Not Set at line 874",
+      "Random Seed Not Set at line 943"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sampling/neighbor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distributed/graph_services.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/backend/mxnet/tensor.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 547"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/heterograph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/dataloading/spot_target.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/backend/pytorch/tensor.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 508"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distributed/kvstore.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1319",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1425",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1492",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1330"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/backend/tensorflow/tensor.py": {
+    "R2": [
+      "Random Seed Not Set at line 487",
+      "Random Seed Not Set at line 363",
+      "Random Seed Not Set at line 369"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 602"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/ops/gather_mm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/dataloading/graphsaint.py": {
+    "R2": [
+      "Random Seed Not Set at line 137"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distributed/dist_graph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/dataloading/capped_neighbor_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 151"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/reduction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/sddmm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/matmul.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/elementwise_op_sp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/tree.py": {
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/heterophilous_graphs.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/sparse/sparse_matrix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/distributed/partition.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/backend/pytorch/sparse.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/adapter.py": {
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 553"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/actor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 482"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/movielens.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 545"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 515",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 555",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 523",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 572"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/sbm.py": {
+    "R2": [
+      "Random Seed Not Set at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/gindt.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/geom_gcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/transforms/module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/feature_store.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/external_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/dataloading/dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 316"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/csv_dataset_base.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/uniform_negative_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/feature_fetcher.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/data/lrgb.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 216; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 192",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 460"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/sampled_subgraph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/minibatch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/temporal_neighbor_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/gpu_feature_cache.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/gpu_graph_cache.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/item_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 553"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/itemset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/dgl_sparse/find_cmake.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/cooperative_conv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/cpu_feature_cache.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/cpu_cached_feature.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/subgraph_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/internal/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 163"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_array_readwriter.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/torch_based_feature_store.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/internal/sample_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_parmetis.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 80",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 110",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 82",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_dist_lookup.py": {
+    "R2": [
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/mxnet/test_geometry.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/cugraph/cugraph-ops/test_cugraph_gatconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 56",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/transforms/functional.py": {
+    "R2": [
+      "Random Seed Not Set at line 3706",
+      "Random Seed Not Set at line 4073"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/cugraph/cugraph-ops/test_cugraph_sageconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_convert_partition.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/cugraph/cugraph-ops/test_cugraph_relgraphconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/go/test_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/neighbor_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 685"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/fused_csc_sampling_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 1433"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_dist_part.py": {
+    "R2": [
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 281"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/python/dgl/graphbolt/impl/ondisk_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_heterograph-apply-edges.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 103",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 162",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 92",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 153",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 227",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_heterograph-remove.py": {
+    "R2": [
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/pytest_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 418",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 365"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/tools/test_dist_partition_graphbolt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_traversal.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/utils/test_filter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/data/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_heterograph-update-all.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 306",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 120",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 144",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 197",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 224",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/transforms/test_functional-sort.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_sparse_ops-csr.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 25"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 104",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 244",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 166",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/test_heterograph-pickle.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/ops/test_edge_softmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 36",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 156",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_heterograph-kernel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 117",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 131",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 184",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 198",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 273",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/test_ffi-stream.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/cuda/test_nccl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/utils/test_pin_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/dataloading/test_spot_target.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/mpops/test_edgewise.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 28",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 34",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 82",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 118",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 165",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 175",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 194",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/mxnet/test_nn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 600"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_unary_op.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_sddmm.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 42",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 51",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 80",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_elementwise_op_sp.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_broadcast.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_matrix_op.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_softmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 41",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_reduction.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 157"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 111",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 158",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_matmul.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 43",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 50",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 71",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 77",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 103",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 109",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 166",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 172",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/function/test_basics.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/tensorflow/test_nn.py": {
+    "R2": [
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 293"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 204",
+      "Hyperparameter not explicitly set at line 431",
+      "Hyperparameter not explicitly set at line 442"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/ops/test_ops.py": {
+    "R2": [
+      "Random Seed Not Set at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 373",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 385",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 441",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 448",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 476",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 483",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 278",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 322",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 327",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 143",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 156",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_elementwise_op.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 237"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/geometry/test_geometry.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_graphbolt_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_integration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_hetero_cached_feature.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_gpu_graph_cache.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/gb_test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 269"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_feature_fetcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_disk_based_feature_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/dataloading/test_dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 581",
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 733",
+      "Random Seed Not Set at line 734",
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 598",
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 610"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_cooperative_minibatching_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_neighbor_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_feature_cache.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_basic_feature_store.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_in_subgraph_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_negative_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_minibatch.py": {
+    "R2": [
+      "Random Seed Not Set at line 454",
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 456",
+      "Random Seed Not Set at line 457",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 521"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/sparse/test_sparse_matrix.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 400",
+      "Random Seed Not Set at line 707",
+      "Random Seed Not Set at line 734",
+      "Random Seed Not Set at line 762",
+      "Random Seed Not Set at line 793",
+      "Random Seed Not Set at line 823",
+      "Random Seed Not Set at line 832",
+      "Random Seed Not Set at line 872"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_legacy_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_torch_based_feature_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_cpu_cached_feature.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 163"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_gpu_cached_feature.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_itemset.py": {
+    "R2": [
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 461"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/internal/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_sampled_subgraph_impl.py": {
+    "R2": [
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 582"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/distributed/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/internal/test_sample_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_item_sampler.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1009",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1010"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/dist/python/run_dist_objects.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 696"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tensoradapter/pytorch/find_cmake.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/sampling/test_sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 1592",
+      "Random Seed Not Set at line 1593",
+      "Random Seed Not Set at line 1594",
+      "Random Seed Not Set at line 1595",
+      "Random Seed Not Set at line 1596",
+      "Random Seed Not Set at line 1606",
+      "Random Seed Not Set at line 1607",
+      "Random Seed Not Set at line 1608",
+      "Random Seed Not Set at line 1609",
+      "Random Seed Not Set at line 1618",
+      "Random Seed Not Set at line 1619",
+      "Random Seed Not Set at line 1620",
+      "Random Seed Not Set at line 1621",
+      "Random Seed Not Set at line 1734",
+      "Random Seed Not Set at line 1735",
+      "Random Seed Not Set at line 1736",
+      "Random Seed Not Set at line 1737",
+      "Random Seed Not Set at line 1738",
+      "Random Seed Not Set at line 1269",
+      "Random Seed Not Set at line 1294",
+      "Random Seed Not Set at line 1353",
+      "Random Seed Not Set at line 1372",
+      "Random Seed Not Set at line 1567",
+      "Random Seed Not Set at line 1573",
+      "Random Seed Not Set at line 1579",
+      "Random Seed Not Set at line 1728",
+      "Random Seed Not Set at line 1219",
+      "Random Seed Not Set at line 1233",
+      "Random Seed Not Set at line 1243",
+      "Random Seed Not Set at line 1251",
+      "Random Seed Not Set at line 1564",
+      "Random Seed Not Set at line 1570",
+      "Random Seed Not Set at line 1576",
+      "Random Seed Not Set at line 1725",
+      "Random Seed Not Set at line 1786",
+      "Random Seed Not Set at line 1816",
+      "Random Seed Not Set at line 1817",
+      "Random Seed Not Set at line 1820",
+      "Random Seed Not Set at line 1821"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/advanced/cugraph/rgcn.py": {
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/advanced/cugraph/graphsage.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/distributed/test_mp_dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 1093"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/multigpu/graphbolt/node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/multigpu/node_classification_sage.py": {
+    "R2": [
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 196"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/core/gat/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/core/Graphormer/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/core/graphsage/node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/core/gated_gcn/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/test_subgraph_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/distributed/test_dist_graph_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 684",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 494",
+      "Random Seed Not Set at line 893",
+      "Random Seed Not Set at line 1179",
+      "Random Seed Not Set at line 1180",
+      "Random Seed Not Set at line 1267",
+      "Random Seed Not Set at line 1268"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 353",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 385"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/gat/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/core/rgcn/hetero_rgcn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 484",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 533"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/data/test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 457",
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 459",
+      "Random Seed Not Set at line 523",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 541",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 764",
+      "Random Seed Not Set at line 765",
+      "Random Seed Not Set at line 1579",
+      "Random Seed Not Set at line 1580",
+      "Random Seed Not Set at line 532",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 544",
+      "Random Seed Not Set at line 545",
+      "Random Seed Not Set at line 586",
+      "Random Seed Not Set at line 591",
+      "Random Seed Not Set at line 610",
+      "Random Seed Not Set at line 611",
+      "Random Seed Not Set at line 665",
+      "Random Seed Not Set at line 680",
+      "Random Seed Not Set at line 681",
+      "Random Seed Not Set at line 687",
+      "Random Seed Not Set at line 688",
+      "Random Seed Not Set at line 692",
+      "Random Seed Not Set at line 693",
+      "Random Seed Not Set at line 1197",
+      "Random Seed Not Set at line 1198",
+      "Random Seed Not Set at line 1208",
+      "Random Seed Not Set at line 1209",
+      "Random Seed Not Set at line 1292",
+      "Random Seed Not Set at line 1293",
+      "Random Seed Not Set at line 1308",
+      "Random Seed Not Set at line 1309",
+      "Random Seed Not Set at line 1333",
+      "Random Seed Not Set at line 1334",
+      "Random Seed Not Set at line 1431",
+      "Random Seed Not Set at line 1445",
+      "Random Seed Not Set at line 1468",
+      "Random Seed Not Set at line 1555",
+      "Random Seed Not Set at line 1590",
+      "Random Seed Not Set at line 1623",
+      "Random Seed Not Set at line 1816",
+      "Random Seed Not Set at line 595",
+      "Random Seed Not Set at line 596",
+      "Random Seed Not Set at line 613",
+      "Random Seed Not Set at line 614",
+      "Random Seed Not Set at line 673",
+      "Random Seed Not Set at line 676",
+      "Random Seed Not Set at line 1588",
+      "Random Seed Not Set at line 1589",
+      "Random Seed Not Set at line 964",
+      "Random Seed Not Set at line 981",
+      "Random Seed Not Set at line 996",
+      "Random Seed Not Set at line 1017",
+      "Random Seed Not Set at line 1018",
+      "Random Seed Not Set at line 1032",
+      "Random Seed Not Set at line 1033",
+      "Random Seed Not Set at line 1034",
+      "Random Seed Not Set at line 1051",
+      "Random Seed Not Set at line 1052",
+      "Random Seed Not Set at line 1054",
+      "Random Seed Not Set at line 1055",
+      "Random Seed Not Set at line 1072",
+      "Random Seed Not Set at line 1084",
+      "Random Seed Not Set at line 1119",
+      "Random Seed Not Set at line 1134",
+      "Random Seed Not Set at line 1135",
+      "Random Seed Not Set at line 1148",
+      "Random Seed Not Set at line 1212",
+      "Random Seed Not Set at line 1213",
+      "Random Seed Not Set at line 1569",
+      "Random Seed Not Set at line 1608",
+      "Random Seed Not Set at line 1828",
+      "Random Seed Not Set at line 1829",
+      "Random Seed Not Set at line 1314",
+      "Random Seed Not Set at line 1320",
+      "Random Seed Not Set at line 1450",
+      "Random Seed Not Set at line 1456"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 748"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/nn/test_nn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2288",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2434",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2447"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/tagcn/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/graphsage/main.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/monet/citation.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/sgc/sgc.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/distributed/graphsage/node_classification_unsupervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 179"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/scenegraph/utils/sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/rgcn/entity_classify.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/scenegraph/model/reldn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 127",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 120",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/distributed/test_distributed_sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 1428",
+      "Random Seed Not Set at line 1484",
+      "Random Seed Not Set at line 1700",
+      "Random Seed Not Set at line 1773"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/scenegraph/train_reldn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/distributed/rgcn/node_classification.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 584",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 608"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/gcn/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/scenegraph/utils/metric.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 240",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/gcn/gcn_concat.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27",
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 52"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/gin/main.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/tree_lstm/tree_lstm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/distributed/test_partition.py": {
+    "R2": [
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 446",
+      "Random Seed Not Set at line 574",
+      "Random Seed Not Set at line 575",
+      "Random Seed Not Set at line 1520",
+      "Random Seed Not Set at line 1523",
+      "Random Seed Not Set at line 1864",
+      "Random Seed Not Set at line 1867"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/appnp/appnp.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_fused_csc_sampling_graph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/legacy/node_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/tensorflow/dgi/dgi.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/scenegraph/train_faster_rcnn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 555",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 553"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/tensorflow/sgc/sgc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/mxnet/tree_lstm/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/sgc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/tensorflow/rgcn/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/gcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/legacy/link_prediction.py": {
+    "R2": [
+      "Random Seed Not Set at line 338"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/appnp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/pagerank.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/gcnii.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/hgnn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/sign.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pagerank.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dagnn/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 9"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/hetero-rgcn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/c_and_s.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/gat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/twirls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/pytorch/graphbolt/impl/test_ondisk_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 462",
+      "Random Seed Not Set at line 605",
+      "Random Seed Not Set at line 611",
+      "Random Seed Not Set at line 617",
+      "Random Seed Not Set at line 716",
+      "Random Seed Not Set at line 723",
+      "Random Seed Not Set at line 730",
+      "Random Seed Not Set at line 851",
+      "Random Seed Not Set at line 861",
+      "Random Seed Not Set at line 949",
+      "Random Seed Not Set at line 959",
+      "Random Seed Not Set at line 1681",
+      "Random Seed Not Set at line 1694",
+      "Random Seed Not Set at line 1700",
+      "Random Seed Not Set at line 1707",
+      "Random Seed Not Set at line 1713",
+      "Random Seed Not Set at line 1719",
+      "Random Seed Not Set at line 1962",
+      "Random Seed Not Set at line 2430",
+      "Random Seed Not Set at line 2443",
+      "Random Seed Not Set at line 2448",
+      "Random Seed Not Set at line 2850",
+      "Random Seed Not Set at line 3063",
+      "Random Seed Not Set at line 3075",
+      "Random Seed Not Set at line 3080",
+      "Random Seed Not Set at line 855",
+      "Random Seed Not Set at line 865",
+      "Random Seed Not Set at line 953",
+      "Random Seed Not Set at line 963"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/hypergraphatt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/han.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/graph_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/sampling/graphsage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/infograph/evaluate_embedding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 78"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 83"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/sparse/sampling/ladies.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jknet/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/multigpu/multi_gpu_graph_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/infograph/unsupervised.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dagnn/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/correct_and_smooth/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/correct_and_smooth/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/multigpu/multi_gpu_node_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/grace/eval.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/multigpu/multi_gpu_link_prediction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 146"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gat/train_ppi.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gat/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/infograph/semisupervised.py": {
+    "R2": [
+      "Random Seed Not Set at line 173"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/train_full.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/node_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gas/main_sampling.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/advanced/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gas/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rect/classify.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rect/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rect/label_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/link_pred.py": {
+    "R2": [
+      "Random Seed Not Set at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/lightning/node_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/advanced/train_lightning_unsupervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rect/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/monet/citation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/jtnn_enc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/nnutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/vaetrain_dgl.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/mpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/capsule/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/test_heterograph.py": {
+    "R2": [
+      "Random Seed Not Set at line 1468",
+      "Random Seed Not Set at line 1469",
+      "Random Seed Not Set at line 1472",
+      "Random Seed Not Set at line 1473"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2062"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/datautils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsage/dist/train_dist_unsupervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 179"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/capsule/DGLDigitCapsule.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/jtmpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/capsule/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgat/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 157"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/metapath2vec/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/vrgcn/train_cv.py": {
+    "R2": [
+      "Random Seed Not Set at line 245"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/caregnn/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/metapath2vec/metapath2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/vrgcn/train_cv_multi_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 279"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 365"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gatv2/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/metapath2vec/test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/metapath2vec/reading_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tests/python/common/transforms/test_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 688",
+      "Random Seed Not Set at line 689",
+      "Random Seed Not Set at line 700",
+      "Random Seed Not Set at line 842",
+      "Random Seed Not Set at line 2334"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/jtnn_vae.py": {
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgnn/run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 235"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 118",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 119"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/caregnn/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsaint/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/deepergcn/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/tagcn/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/caregnn/main_sampling.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsaint/train_sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgt/train_acm.py": {
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgnn/BGNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 264"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/lda/example_20newsgroups.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/deepergcn/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/jtnn/jtnn/jtnn_dec.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/eges/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/deepergcn/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgt/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/mvgrl/graph/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsaint/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/ggnn_gc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/ggnn_ns.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/mvgrl/node/dataset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/train_gc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/grand/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 242",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/train_path_finding.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/ggsnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/train_ns.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/mvgrl/node/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/mvgrl/node/main_sample.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/utils/misc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/utils/metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/dataset/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/utils/faiss_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/utils/faiss_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/models/focal_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/models/graphconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/test_subg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/train_subg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/lda/lda_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 485"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 363"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/evaluate_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/netlib.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/models/lander.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/utils/deduce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/train_subg_inat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/cluster_gcn/cluster_gcn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ggnn/data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/geniepath/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 14",
+      "Hyperparameter not explicitly set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/geniepath/ppi.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/geniepath/pubmed.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/node2vec/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 193"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 176"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/model_zoo/citation_network/run.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/get_features.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 378"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 342",
+      "Hyperparameter not explicitly set at line 344"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hardgat/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/evaluate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/finetune_1head.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 488"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 348",
+      "Hyperparameter not explicitly set at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/seal/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/seal/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 510"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 360",
+      "Hyperparameter not explicitly set at line 362"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hardgat/hgao.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphwriter/opts.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hardgat/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/model_zoo/geometric/mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/deepwalk/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/seal/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/seal/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/cluster-gat/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/model_zoo/geometric/coarsening.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphwriter/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/deepwalk/reading_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphwriter/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/test_subg_inat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 178"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-arxiv/correct_and_smooth.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 602",
+      "Random Seed Not Set at line 624",
+      "Random Seed Not Set at line 728",
+      "Random Seed Not Set at line 750",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 599",
+      "Random Seed Not Set at line 706",
+      "Random Seed Not Set at line 725"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hilander/PSS/Smooth_AP/src/auxiliaries.py": {
+    "R2": [
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 461"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 821"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/deepwalk/deepwalk.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 239"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/cluster-gat/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphwriter/graphwriter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphwriter/utlis.py": {
+    "R2": [
+      "Random Seed Not Set at line 334"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-arxiv/gcn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ngnn_seal/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/line/line.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/line/reading_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 194"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-arxiv/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ngnn_seal/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-arxiv/gat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 206"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/deepwalk/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-proteins/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/sign/dataset.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-products/gat/models.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 250"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/cluster-sage/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-proteins/main_proteins_full_dgl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/line/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/directional_GSN/preprocessing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-products/mlp/mlp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-mag/hetero_rgcn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 311",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 356",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 362",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/sign/sign.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/seal_ogbl/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 289",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 335",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 341",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 364",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 375"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-proteins/models.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 463"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/cluster-sage/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 285"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/evaluation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/mixhop/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 261"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/TAHIN/TAHIN.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-products/gat/gat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 206",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ogbn-proteins/gat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/process_nowplaying_rs.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 71",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 74",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 68",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 40",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 61",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 66"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/TAHIN/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ngnn/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 293"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 330",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 357",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 363",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 369"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogc/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/process_movielens1m.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/eeg-gcnn/EEGGraphDataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/directional_GSN/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/model_sparse.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/TAHIN/data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 384"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pinsage/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/dgl_layers/bundler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/tensorized_layers/graphsage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/tensorized_layers/diffpool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/evolveGCN/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/evolveGCN/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/dgl_layers/aggregator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/evolveGCN/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/eeg-gcnn/main.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 96"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 239"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgrl/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/dgl_layers/gnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn-hetero/test_classify.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb/ngnn_seal/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 240",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 207",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/model/encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgrl/eval_function.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 14"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/compGCN/data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn-hetero/entity_classify_heteroAPI.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/diffpool/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 258",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 265"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 342"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/label_propagation/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/compGCN/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgrl/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgmg/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn-hetero/entity_classify.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgmg/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sagpool/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sagpool/layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/bgrl/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 256"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgmg/cycles.py": {
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgp_sl/networks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sagpool/network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rrn/rrn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sgc/sgc_reddit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgp_sl/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sgc/sgc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rrn/sudoku_solver.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rrn/sudoku.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgp_sl/functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rrn/sudoku_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sagpool/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgmg/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rrn/train_sudoku.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgp_sl/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/NGCF/NGCF/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/NGCF/NGCF/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/NGCF/NGCF/utility/load_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/entity.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/NGCF/NGCF/utility/batch_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 140",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/entity_sample.py": {
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/experimental/preprocessing_dist_training/metis_creation.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 68"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/hgp_sl/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/entity_sample_multi_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/PCQM4M/gnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/PCQM4M/test_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GATNE-T/src/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/link.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 341",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 282"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/MAG240M/preprocess.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/data_preprocess.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/PCQM4M/conv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 129",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 151",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 284"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/PCQM4M/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/qm9.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/bessel_basis_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GATNE-T/src/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 303"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 340"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/activations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/convert_tf_ckpt_to_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/MAG240M/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 167",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 254",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 187"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 252",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 185"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GATNE-T/src/main_sparse.py": {
+    "R2": [
+      "Random Seed Not Set at line 340"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 379"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/main_early_stop.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/ogb_lsc/MAG240M/train_multi_gpus.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 206",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 316",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 231"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 314",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 228"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GATNE-T/src/main_sparse_multi_gpus.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 426"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/spherical_basis_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gxn/networks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/embedding_block.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/dimenet_pp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/dimenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/vgae/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/modules/interaction_block.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/stgcn_wave/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 9"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 6",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/stgcn_wave/load_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dimenet/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 172"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/stgcn_wave/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/dataloading.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/rgcn/experimental/entity_classify_dist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 584",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 608"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/arma/model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 89"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/stgcn_wave/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 148",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 151"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/arma/citation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/dcrnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/vgae/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/han/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GNN-FiLM/data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/gaan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 215"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/han/model_hetero.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/argo/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/han/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgi/dgi.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/vgae/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sign/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsim/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gcn/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dtgrnn/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 234"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/P-GNN/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/dgi/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/han/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsim/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/GNN-FiLM/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/han/train_sampling.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 249"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsim/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/P-GNN/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/sign/sign.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 197"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/appnp/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graphsim/n_body_sim.py": {
+    "R2": [
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gin/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/ModelNetDataLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/edgeconv/modelnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/edgeconv/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/P-GNN/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 228"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gcmc/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/tree_lstm/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/train_cls.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/ShapeNet.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/edgeconv/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/graph_matching/ged.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 484",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 491",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 497",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 700",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 701",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 320",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 381",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 425",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 540",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 750",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 340",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 388",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 432",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 558",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 355",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 397",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 441",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 573"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/ModelNetDataLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/pct.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gcmc/train_sampling.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 335",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 342"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/train_partseg.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 150"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 119"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pct/provider.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 161",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 250",
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 279"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 307",
+      "Random Seed Not Set at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/bipointnet/ModelNetDataLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/point_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/bipointnet/bipointnet2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/ModelNetDataLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/ShapeNet.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/train_cls.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/bipointnet/train_cls.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/pointnet2_partseg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/gcmc/data.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 580"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 164"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 550",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 670",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 558",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 686"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/bipointnet/bipointnet_cls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/provider.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 161",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 250",
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 279"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 307",
+      "Random Seed Not Set at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/bipointnet/basic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/labor/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/point_transformer/train_partseg.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 133",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 154"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/train_cls.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/ShapeNet.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/pointnet_cls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/quickstart/node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/train_partseg.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 134",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/pointnet_partseg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/quickstart/link_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/provider.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 161",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 250",
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 279"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 307",
+      "Random Seed Not Set at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/lightning/node_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 233"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/labor/ladies_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/temporal_link_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/link_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/rgcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/node_classification.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_acc/bench_gat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/pointcloud/pointnet/pointnet2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/pytorch/labor/train_lightning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 494"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/sparse/graphsage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/node_classification_advanced.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 301"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_acc/bench_rgcn_base.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_acc/bench_sage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_acc/bench_gcn_udf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/multigpu/node_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_acc/bench_gcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/link_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/rgcn/hetero_rgcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/disk_based_feature/node_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 247",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 287"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_speed/bench_gat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_speed/bench_sage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/hetero/node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_speed/bench_rgcn_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_to_block.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_in_subgraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_fused_sample_neighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_nn_heterographconv.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_speed/bench_gcn_udf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/examples/graphbolt/pyg/labor/node_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 314"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_builtin_apply_edges.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_knn_graph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_udf_apply_edges.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_in_edges.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_builtin_apply_edges_hetero.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_nn_graphconv.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_random_walk.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_sample_neighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_find_edges.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_node_subgraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_edge_subgraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_udf_update_all.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_udf_multi_update_all.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_in_degrees.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_builtin_update_all_csc.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_builtin_update_all_coo.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_edge_ids.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/kernel/bench_edgesoftmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/kernel/bench_gspmm_copy_u.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_builtin_multi_update_all.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/api/bench_readout.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/kernel/bench_gspmm_u_mul_e_sum.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/kernel/bench_gsddmm_u_dot_v.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/2_dglgraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/5_graph_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/1_introduction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/graphbolt/find_cmake.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/6_load_data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 208"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 185",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 186",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 103",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 198",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 199"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/multi/1_graph_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/3_message_passing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/blitz/4_link_predict.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/models/1_gnn/1_gcn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/multi/2_node_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/models/1_gnn/9_gat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/multigpu/bench_multigpu_rgcn.py": {
+    "R2": [
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/benchmarks/benchmarks/model_speed/bench_pinsage.py": {
+    "R2": [
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 263"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/models/1_gnn/4_rgcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_dgl/dgl-master/tutorials/models/3_generative_model/5_dgmg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 750"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

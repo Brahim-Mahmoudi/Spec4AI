@@ -1,0 +1,407 @@
+{
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_tree_properties.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/demo_aad.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_hard_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_hyperplane_angles.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/query_model_other.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/multiview_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/anomaly_vs_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_concept_drift_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/precomputed_aad.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_concept_drift.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/test_tree_detectors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/classifier_trees.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/anomaly_dataset_support.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 36",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 50",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 61"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/activity_word2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/casas.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/forest_description.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 535"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/aad_batch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/word2vec.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/timeseries_shingles.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/timeseries_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/ad/ad_outlier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/word2vec_custom.py": {
+    "R2": [
+      "Random Seed Not Set at line 190"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/activity_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/ad/pca_reconstruct.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/ad/pseudo_anom_outlier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/simulate_timeseries.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 151",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 155",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/ad/gmm_outlier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/loda/test_loda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/timeseries_rnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/timeseries/timeseries_arima.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/graph/test_gcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/expressions_tutorial.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/classifier/test_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/ad/spectral_outlier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/forest_aad_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 794"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/random_split_trees.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 990",
+      "Potential data leakage: model.fit() used without a pipeline at line 1122",
+      "Potential data leakage: model.fit() used without a pipeline at line 1171",
+      "Potential data leakage: model.fit() used without a pipeline at line 1224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/nn_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/classifier/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 326"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/timeseries_datasets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/dnn_classifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/sgd_optimization.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/loda/loda.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 269",
+      "Do not compare with np.nan. Use df.isna() instead at line 287",
+      "Do not compare with np.nan. Use df.isna() instead at line 392"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/gen_samples.py": {
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/aad/aad_stream.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 756"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/ad_autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/graph/gcn_test_support.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 499",
+      "Potential data leakage: model.fit() used without a pipeline at line 548",
+      "Potential data leakage: model.fit() used without a pipeline at line 483"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 333",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/common/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 435",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 493"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/test_gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/glad/glad_test_support.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 218"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/bayesian_ruleset/bayesian_ruleset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 485"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/test_iso_gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/percept/percept.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/iso_gan_test_support.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/gan_test_support.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/glad/afss.py": {
+    "R7": [
+      "Missing mask for tf.log at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/graph/simple_gcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 993"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 591"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 416"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 198",
+      "Missing mask for tf.log at line 207",
+      "Missing mask for tf.log at line 208",
+      "Missing mask for tf.log at line 274",
+      "Missing mask for tf.log at line 300",
+      "Missing mask for tf.log at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shubhomoydas_ad_examples/ad_examples-master/ad_examples/dnn/iso_gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 502"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 233",
+      "Missing mask for tf.log at line 241",
+      "Missing mask for tf.log at line 242",
+      "Missing mask for tf.log at line 475",
+      "Missing mask for tf.log at line 306",
+      "Missing mask for tf.log at line 309"
+    ]
+  }
+}

@@ -1,0 +1,1006 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/transformer_glow_layers_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/modalities_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_audio.py": {
+    "R7": [
+      "Missing mask for tf.log at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/transformer_memory.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 151",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 328",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 333",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 139",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/latent_layers_test.py": {
+    "R7": [
+      "Missing mask for tf.log at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/area_attention_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 247"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/transformer_glow_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 328"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 240",
+      "Missing mask for tf.log at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_video_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/transformer_glow_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/message_passing_attention.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 775",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 508",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 715"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/latent_layers.py": {
+    "R7": [
+      "Missing mask for tf.log at line 77",
+      "Missing mask for tf.log at line 754",
+      "Missing mask for tf.log at line 753"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_video.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 357",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 651"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/rouge_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/modalities.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 695"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 609"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/yellowfin.py": {
+    "R7": [
+      "Missing mask for tf.log at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/learning_rate.py": {
+    "R7": [
+      "Missing mask for tf.log at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/discretization.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 50"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 415",
+      "Missing mask for tf.log at line 1334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/bleu_hook.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/checkpoint_compatibility_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/metrics.py": {
+    "R7": [
+      "Missing mask for tf.log at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/sari_hook_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/beam_search.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 82",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 214",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 461",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 257",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 467",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 259",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 260"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/data_reader.py": {
+    "R2": [
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/beam_search_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 196",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 197",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 227",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 228",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 267",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 268",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 311"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 114",
+      "Missing mask for tf.log at line 145",
+      "Missing mask for tf.log at line 182",
+      "Missing mask for tf.log at line 214",
+      "Missing mask for tf.log at line 254",
+      "Missing mask for tf.log at line 296",
+      "Missing mask for tf.log at line 374",
+      "Missing mask for tf.log at line 335",
+      "Missing mask for tf.log at line 420",
+      "Missing mask for tf.log at line 468"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/metrics_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 420"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/adv_attack_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 143"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 121",
+      "Missing mask for tf.log at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/image_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/yellowfin_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/bytenet_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/video/prediction2gif.py": {
+    "R2": [
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/text_cnn.py": {
+    "R3": [
+      "TensorArray Not Used at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/mtf_image_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/decoding.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 922"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 478"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/image_transformer_2d_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/mtf_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 411",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 475",
+      "Random Seed Not Set at line 476",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 632",
+      "Random Seed Not Set at line 633",
+      "Random Seed Not Set at line 634",
+      "Random Seed Not Set at line 648",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 704",
+      "Random Seed Not Set at line 705",
+      "Random Seed Not Set at line 718",
+      "Random Seed Not Set at line 719",
+      "Random Seed Not Set at line 733",
+      "Random Seed Not Set at line 734",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 687",
+      "Random Seed Not Set at line 805",
+      "Random Seed Not Set at line 764",
+      "Random Seed Not Set at line 784"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 594"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/slicenet_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 85"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 199",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 338",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 358",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 359",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 379",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/neural_gpu_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/slicenet.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/basic_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/resnet_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/xception_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/evolved_transformer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 184",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 212",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 414",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 495"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 170",
+      "Hyperparameter not explicitly set at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_vae_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/vqa_attention_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/neural_assistant.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 164"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/evolved_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 136",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 250",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 293",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_seq2edits.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/gene_expression_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_revnet_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_attention_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1318",
+      "Use np.matmul() instead of np.dot() for matrices at line 1323",
+      "Use np.matmul() instead of np.dot() for matrices at line 1327",
+      "Use np.matmul() instead of np.dot() for matrices at line 1333",
+      "Use np.matmul() instead of np.dot() for matrices at line 1337"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 600",
+      "Random Seed Not Set at line 601",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 689",
+      "Random Seed Not Set at line 731",
+      "Random Seed Not Set at line 807",
+      "Random Seed Not Set at line 863",
+      "Random Seed Not Set at line 864",
+      "Random Seed Not Set at line 878",
+      "Random Seed Not Set at line 879",
+      "Random Seed Not Set at line 895",
+      "Random Seed Not Set at line 896",
+      "Random Seed Not Set at line 912",
+      "Random Seed Not Set at line 913",
+      "Random Seed Not Set at line 928",
+      "Random Seed Not Set at line 929",
+      "Random Seed Not Set at line 950",
+      "Random Seed Not Set at line 1005",
+      "Random Seed Not Set at line 1037",
+      "Random Seed Not Set at line 1082",
+      "Random Seed Not Set at line 1141",
+      "Random Seed Not Set at line 1142",
+      "Random Seed Not Set at line 1143",
+      "Random Seed Not Set at line 1226",
+      "Random Seed Not Set at line 1359",
+      "Random Seed Not Set at line 1360",
+      "Random Seed Not Set at line 1361",
+      "Random Seed Not Set at line 1392",
+      "Random Seed Not Set at line 1393",
+      "Random Seed Not Set at line 1394",
+      "Random Seed Not Set at line 1418",
+      "Random Seed Not Set at line 1419",
+      "Random Seed Not Set at line 1435",
+      "Random Seed Not Set at line 1436",
+      "Random Seed Not Set at line 1452",
+      "Random Seed Not Set at line 1453",
+      "Random Seed Not Set at line 1469",
+      "Random Seed Not Set at line 1470",
+      "Random Seed Not Set at line 1487",
+      "Random Seed Not Set at line 1488",
+      "Random Seed Not Set at line 1505",
+      "Random Seed Not Set at line 1506",
+      "Random Seed Not Set at line 1522",
+      "Random Seed Not Set at line 1523"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_nat.py": {
+    "R3": [
+      "TensorArray Not Used at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1979",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3794",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2867"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 638"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 2004",
+      "Missing mask for tf.log at line 188",
+      "Missing mask for tf.log at line 1313",
+      "Missing mask for tf.log at line 2045",
+      "Missing mask for tf.log at line 2063",
+      "Missing mask for tf.log at line 3235",
+      "Missing mask for tf.log at line 156",
+      "Missing mask for tf.log at line 2098",
+      "Missing mask for tf.log at line 2099"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/cycle_gan.py": {
+    "R7": [
+      "Missing mask for tf.log at line 61",
+      "Missing mask for tf.log at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/universal_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/utils/t2t_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 910",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 881",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1375",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1631",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1739"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 983"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_vae_flow_prior_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 341",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_aux_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/autoencoders_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/residual_shuffle_exchange.py": {
+    "R7": [
+      "Missing mask for tf.log at line 200",
+      "Missing mask for tf.log at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/vqa_recurrent_self_attention.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/rl.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 716"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 790"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/vqa_self_attention.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 181",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/universal_transformer_util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1441",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1479"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/shuffle_network.py": {
+    "R7": [
+      "Missing mask for tf.log at line 90",
+      "Missing mask for tf.log at line 303",
+      "Missing mask for tf.log at line 232",
+      "Missing mask for tf.log at line 403"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/nfg_interpolate.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/tests_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/autoencoders.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 980"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 866"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/transformer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 617",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 890"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 1156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/epva.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 444"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/neural_architecture_search/nas_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_vae_flow_prior.py": {
+    "R2": [
+      "Random Seed Not Set at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/emily.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/transformer_vae.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 276",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 277"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/envs/env_problem_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/next_frame_glow.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/envs/env_problem_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/video/sv2p.py": {
+    "R3": [
+      "TensorArray Not Used at line 547"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/research/glow_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 117",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1020"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 362"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 318",
+      "Missing mask for tf.log at line 732"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/neural_architecture_search/nas_layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 144",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/envs/trajectory.py": {
+    "R2": [
+      "Random Seed Not Set at line 555"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/timeseries_data_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/models/neural_architecture_search/nas_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 489"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/layers/common_attention.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3566",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3571",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3986",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 612",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2316",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3979",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 4104",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 4105"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 1498",
+      "Missing mask for tf.log at line 1499",
+      "Missing mask for tf.log at line 1585"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/image_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/envs/trajectory_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/video_generated.py": {
+    "R2": [
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/transduction_problems.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/translate_enro.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/cipher.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/tokenizer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/wiki_revision_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 336"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 560",
+      "Random Seed Not Set at line 565",
+      "Random Seed Not Set at line 580",
+      "Random Seed Not Set at line 569",
+      "Random Seed Not Set at line 571"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/mscoco.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/cnn_dailymail.py": {
+    "R2": [
+      "Random Seed Not Set at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/allen_brain.py": {
+    "R2": [
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/problem.py": {
+    "R2": [
+      "Random Seed Not Set at line 683"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/allen_brain_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/multi_problem.py": {
+    "R3": [
+      "TensorArray Not Used at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/wiki.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/vqa.py": {
+    "R2": [
+      "Random Seed Not Set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/text_problems.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1252",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1285"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/algorithmic.py": {
+    "R2": [
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 433",
+      "Random Seed Not Set at line 434",
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 522",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 528"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/gym_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/trainer_model_based.py": {
+    "R2": [
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/envs/tf_atari_wrappers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/ops/pack_sequences_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 325"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/generator_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 1248",
+      "Random Seed Not Set at line 1162",
+      "Random Seed Not Set at line 1244",
+      "Random Seed Not Set at line 1246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/data_generators/gym_env.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 541",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 543"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 750"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/envs/simulated_batch_env.py": {
+    "R3": [
+      "TensorArray Not Used at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/dopamine_connector.py": {
+    "R2": [
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_tensor2tensor/tensor2tensor-master/tensor2tensor/rl/rl_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 329"
+    ]
+  }
+}

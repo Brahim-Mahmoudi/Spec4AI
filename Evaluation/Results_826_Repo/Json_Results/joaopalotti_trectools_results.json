@@ -1,0 +1,27 @@
+{
+  "/Users/bramss/Desktop/All_Repo/joaopalotti_trectools/trectools-master/trectools/trec_res.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/joaopalotti_trectools/trectools-master/trectools/trec_pool_maker.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/joaopalotti_trectools/trectools-master/trectools/trec_run.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/joaopalotti_trectools/trectools-master/trectools/fusion.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/joaopalotti_trectools/trectools-master/trectools/trec_qrel.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85"
+    ]
+  }
+}

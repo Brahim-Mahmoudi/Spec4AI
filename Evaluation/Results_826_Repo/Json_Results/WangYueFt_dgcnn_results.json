@@ -1,0 +1,93 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/pytorch/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/sem_seg/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/part_seg/part_seg_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/provider.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 93",
+      "Use np.matmul() instead of np.dot() for matrices at line 95"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 121"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/pytorch/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/utils/pc_util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/pytorch/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/pytorch/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/utils/tf_util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 703"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/part_seg/train_multi_gpu.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 323",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 344"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 377"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/WangYueFt_dgcnn/dgcnn-master/tensorflow/sem_seg/indoor3d_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 298"
+    ]
+  }
+}

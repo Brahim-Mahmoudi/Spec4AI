@@ -1,0 +1,42 @@
+{
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/test/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/tool/convert_t7.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/meijieru_crnn.pytorch/crnn.pytorch-master/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 120"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

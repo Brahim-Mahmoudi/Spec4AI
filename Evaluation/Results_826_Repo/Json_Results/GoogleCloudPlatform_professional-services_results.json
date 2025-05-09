@@ -1,0 +1,302 @@
+{
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/cloud-composer-migration-complexity-assessment/dags/migration_assessment.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bigdata-generator/lib.py": {
+    "R2": [
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bigquery_user_info_updater_tool/bigquery_user_info_updater/tests/test_nested_user_info_updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 165",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bigquery_user_info_updater_tool/cron/bigquery_user_info_updater/tests/test_nested_user_info_updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 165",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bigquery_user_info_updater_tool/bigquery_user_info_updater/tests/test_user_info_updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 156",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 179",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 250",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bigquery_user_info_updater_tool/cron/bigquery_user_info_updater/tests/test_user_info_updater.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 156",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 179",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 250",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/asset-inventory/asset_inventory/import_pipeline.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/datacatalog-tagging-using-tag-templates/tagging/insert_landing.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/hive-bigquery/tests/generate_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/quota-monitoring-alerting/python/src/common/utils/common_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/vector-search-load-testing-framework/locust_tests/locust.py": {
+    "R2": [
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 397"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/bqtag/bqtag/bqtag.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 499"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/tools/tpu-triton-jetstream/locust/load_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 637",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 647"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/tensorflow-unit-testing/example.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-xml-pubsub-to-gcs/python/beamPubSubXml2Gcs.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/tensorflow-unit-testing/example_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-collaborative-filtering/preprocessing/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/e2e-home-appliance-status-monitoring/ml/trainer/util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-collaborative-filtering/trainer/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 154",
+      "Hyperparameter not explicitly set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/e2e-home-appliance-status-monitoring/ml/trainer/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 172",
+      "Hyperparameter not explicitly set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/e2e-home-appliance-status-monitoring/ml/trainer/task.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-sklearn-pipeline/trainer/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-sklearn-pipeline/trainer/util/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-churn-prediction/preprocessor/preprocessor/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/mm2-gmk-migration/producer.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-dlp-hash-pipeline/scripts/generate-input-file.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/bigquery-translation-validator-utility/main.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 443"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-data-generator/bigquery-scripts/bq_load_batches.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 130; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-data-generator/data-generator-pipeline/tests/test_performant_data_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/bigquery-translation-validator-utility/main_dag.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/model_training/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/cloudml-fraud-detection/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/kfp_pipelines/src/reformat_preds.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/model_training/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/kfp_pipelines/src/eval.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/kfp_pipelines/src/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 22"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/kfp_pipelines/src/load.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_mlops_enterprise/src/kfp_pipelines/src/model_card.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-data-generator/data-generator-pipeline/data_generator/PerformantDataGenerator.py": {
+    "R2": [
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 452",
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/dataflow-data-generator/data-generator-pipeline/data_generator/PrettyDataGenerator.py": {
+    "R2": [
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 506",
+      "Random Seed Not Set at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/tf-load-testing/locust/locustfile.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/vertex_pipeline/images/training/app.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/tf-load-testing/tensorflow/create_model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/bigquery-ddl-validator/main_dag.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_professional-services/professional-services-main/examples/bigquery-ddl-validator/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69"
+    ]
+  }
+}

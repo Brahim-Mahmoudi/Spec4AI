@@ -1,0 +1,169 @@
+{
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/intrusion_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 45"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 16"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/k-means.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/topic_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/defensive_chap7/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 58",
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/anomaly_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Security_and_MachineLearning/src/spam_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 77",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 78"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Generator/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Analytics/analyze_kmeans.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/DeepExploit/CreateReport.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Recommender/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/CNN_test/search_adv.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/DeepExploit/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Recommender/Recommender.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 72"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 54",
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 60",
+      "Hyperparameter not explicitly set at line 111",
+      "Hyperparameter not explicitly set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Generator/ga_main.py": {
+    "R2": [
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Recommender/Investigator.py": {
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/Generator/gan_main.py": {
+    "R2": [
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 227"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/13o-bbr-bbq_machine_learning_security/machine_learning_security-master/DeepExploit/DeepExploit.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 917",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 921"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1524",
+      "Random Seed Not Set at line 1413",
+      "Random Seed Not Set at line 1782",
+      "Random Seed Not Set at line 729",
+      "Random Seed Not Set at line 1106",
+      "Random Seed Not Set at line 1064",
+      "Random Seed Not Set at line 1094",
+      "Random Seed Not Set at line 1785"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 1695",
+      "Missing mask for tf.log at line 1701"
+    ]
+  }
+}

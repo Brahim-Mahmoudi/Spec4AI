@@ -1,0 +1,45 @@
+{
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/phe/tests/math_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 56",
+      "Use np.matmul() instead of np.dot() for matrices at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/examples/benchmarks.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/phe/tests/util_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/examples/federated_learning_with_encryption.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/examples/logistic_regression_encrypted_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/phe/tests/cli_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/data61_python-paillier/python-paillier-master/phe/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 406"
+    ]
+  }
+}

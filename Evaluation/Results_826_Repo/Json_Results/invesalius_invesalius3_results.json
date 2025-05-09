@@ -1,0 +1,137 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/math_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/tests/test_tracker.py": {
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/segmentation/deep_learning/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/segmentation/deep_learning/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/navigation/mtms.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/gui/task_imports.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/segmentation/deep_learning/segment.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/gui/deep_learning_seg_dialog.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/ruler.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/mask.py": {
+    "R2": [
+      "Random Seed Not Set at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/bases.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 99",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 105",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/actor_factory.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/geometry.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 548"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/markers/marker_transformator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/surface.py": {
+    "R2": [
+      "Random Seed Not Set at line 661"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/viewer_volume.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1922"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1317",
+      "Use np.matmul() instead of np.dot() for matrices at line 2402"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/gui/task_navigator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 3631"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/data/styles.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/invesalius_invesalius3/invesalius3-master/invesalius/gui/dialogs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 5928",
+      "Use np.matmul() instead of np.dot() for matrices at line 5925",
+      "Use np.matmul() instead of np.dot() for matrices at line 6410",
+      "Use np.matmul() instead of np.dot() for matrices at line 5975"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 5946"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1327",
+      "Random Seed Not Set at line 5745",
+      "Random Seed Not Set at line 5746"
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/tools/run_img_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/models/encoder_decoder_segmentation_semantic.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 128"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 122",
+      "Missing mask for tf.log at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/models/encoder_decoder_segmentation.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 127"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 121",
+      "Missing mask for tf.log at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/models/siamese_nets.py": {
+    "R7": [
+      "Missing mask for tf.log at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/models/pairwise_siamese.py": {
+    "R7": [
+      "Missing mask for tf.log at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/models/cycle_siamese_nets.py": {
+    "R7": [
+      "Missing mask for tf.log at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_notebooks_transitive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 207"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/validate_losses_with_tf.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_video_old.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_img_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_notebooks_single.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 262"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_single_task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/tools/task_viz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 140",
+      "Use np.matmul() instead of np.dot() for matrices at line 282"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_video_low_sat.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 300"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 335"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/run_viz_video.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 331"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/rand_baseline.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 118"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/vid_task_viz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 269"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/script/generate_samples_for_transitivity.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/encoder_decoder_segmentation_semantic.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 128"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 122",
+      "Missing mask for tf.log at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/siamese_nets.py": {
+    "R7": [
+      "Missing mask for tf.log at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/pairwise_siamese.py": {
+    "R7": [
+      "Missing mask for tf.log at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/encoder_decoder_segmentation.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 127"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 121",
+      "Missing mask for tf.log at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/get_mean_image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/FCRN_depth.py": {
+    "R7": [
+      "Missing mask for tf.log at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/script/preprocess/preprocess_all_tar.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/constant_predictor.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 151"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 145",
+      "Missing mask for tf.log at line 146",
+      "Missing mask for tf.log at line 527",
+      "Missing mask for tf.log at line 360"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/taskbank/lib/data/load_ops.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 431"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1208",
+      "Use np.matmul() instead of np.dot() for matrices at line 1267",
+      "Use np.matmul() instead of np.dot() for matrices at line 1215",
+      "Use np.matmul() instead of np.dot() for matrices at line 1257",
+      "Use np.matmul() instead of np.dot() for matrices at line 1294",
+      "Use np.matmul() instead of np.dot() for matrices at line 1185",
+      "Use np.matmul() instead of np.dot() for matrices at line 1188",
+      "Use np.matmul() instead of np.dot() for matrices at line 1250"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 934",
+      "Random Seed Not Set at line 994",
+      "Random Seed Not Set at line 1033",
+      "Random Seed Not Set at line 1048",
+      "Random Seed Not Set at line 1049",
+      "Random Seed Not Set at line 1089",
+      "Random Seed Not Set at line 1090",
+      "Random Seed Not Set at line 1817",
+      "Random Seed Not Set at line 1883"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/models/cycle_siamese_nets.py": {
+    "R7": [
+      "Missing mask for tf.log at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/tools/script/preprocess/preprocess_per_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 535",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 468",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 363",
+      "Random Seed Not Set at line 403",
+      "Random Seed Not Set at line 523",
+      "Random Seed Not Set at line 570"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/StanfordVL_taskonomy/taskonomy-master/code/lib/data/load_ops.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 514"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2429",
+      "Use np.matmul() instead of np.dot() for matrices at line 2543",
+      "Use np.matmul() instead of np.dot() for matrices at line 2436",
+      "Use np.matmul() instead of np.dot() for matrices at line 2533",
+      "Use np.matmul() instead of np.dot() for matrices at line 2577",
+      "Use np.matmul() instead of np.dot() for matrices at line 2400",
+      "Use np.matmul() instead of np.dot() for matrices at line 2403",
+      "Use np.matmul() instead of np.dot() for matrices at line 2526"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2096",
+      "Random Seed Not Set at line 2156",
+      "Random Seed Not Set at line 2196",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 2214",
+      "Random Seed Not Set at line 2215",
+      "Random Seed Not Set at line 2258",
+      "Random Seed Not Set at line 2259",
+      "Random Seed Not Set at line 3383",
+      "Random Seed Not Set at line 3525",
+      "Random Seed Not Set at line 3980",
+      "Random Seed Not Set at line 4116"
+    ]
+  }
+}

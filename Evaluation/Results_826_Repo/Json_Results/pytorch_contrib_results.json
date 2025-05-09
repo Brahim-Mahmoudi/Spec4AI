@@ -1,0 +1,55 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pytorch_contrib/contrib-master/test/test_nn.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_contrib/contrib-master/torchcontrib/optim/swa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_contrib/contrib-master/test/common.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_contrib/contrib-master/test/test_swa.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 600"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 626",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 237"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 637"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 270"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/common/tf_helper.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 42",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/tile.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/common/pooling_helper.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 164",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/split_to_sequence.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/tfidf_vectorizer.py": {
+    "R3": [
+      "TensorArray Not Used at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/gather_elements.py": {
+    "R3": [
+      "TensorArray Not Used at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/non_max_suppression.py": {
+    "R3": [
+      "TensorArray Not Used at line 30",
+      "TensorArray Not Used at line 71",
+      "TensorArray Not Used at line 75",
+      "TensorArray Not Used at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/example/train_onnx_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 191",
+      "Hyperparameter not explicitly set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/onnx_tf/handlers/backend/dilated_pooling.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 415"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/test/backend/test_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 507",
+      "Random Seed Not Set at line 508",
+      "Random Seed Not Set at line 509",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/test/backend/test_dynamic_shape.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnx-tensorflow/onnx-tensorflow-main/test/backend/test_node.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 768"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1064",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1065",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1067",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1068"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 1237",
+      "Random Seed Not Set at line 1236",
+      "Random Seed Not Set at line 345"
+    ]
+  }
+}

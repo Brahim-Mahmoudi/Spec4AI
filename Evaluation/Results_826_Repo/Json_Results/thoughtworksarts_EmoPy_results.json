@@ -1,0 +1,104 @@
+{
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/examples/convolutional_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/examples/convolutional_dropout_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/examples/convolutional_lstm_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/examples/timedelay_conv_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/examples/transferlearning_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/src/data_generator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/tests/unittests/test_data_generator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12",
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/tests/unittests/library/image_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/src/neuralnets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thoughtworksarts_EmoPy/EmoPy-master/EmoPy/library/image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 346",
+      "Use np.matmul() instead of np.dot() for matrices at line 352",
+      "Use np.matmul() instead of np.dot() for matrices at line 358",
+      "Use np.matmul() instead of np.dot() for matrices at line 364",
+      "Use np.matmul() instead of np.dot() for matrices at line 461",
+      "Use np.matmul() instead of np.dot() for matrices at line 284",
+      "Use np.matmul() instead of np.dot() for matrices at line 459"
+    ]
+  }
+}

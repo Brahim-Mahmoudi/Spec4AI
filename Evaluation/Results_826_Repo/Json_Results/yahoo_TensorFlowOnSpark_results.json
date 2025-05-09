@@ -1,0 +1,121 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/keras/mnist_tf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/keras/mnist_spark.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/keras/mnist_tf_ds.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/keras/mnist_pipeline.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/estimator/mnist_tf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/estimator/mnist_spark.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/segmentation/segmentation.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/tests/test_pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/segmentation/segmentation_dist.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/estimator/mnist_spark_streaming.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/segmentation/segmentation_spark.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/mnist/estimator/mnist_pipeline.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/tensorflowonspark/gpu_info.py": {
+    "R2": [
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/resnet/resnet_cifar_main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/examples/resnet/resnet_cifar_dist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/yahoo_TensorFlowOnSpark/TensorFlowOnSpark-master/scripts/spark_ec2.py": {
+    "R2": [
+      "Random Seed Not Set at line 1356",
+      "Random Seed Not Set at line 714"
+    ]
+  }
+}

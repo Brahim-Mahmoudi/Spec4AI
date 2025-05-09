@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/encoders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/tasks/text_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/datasets/img_cap_retrieval.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/get_flickr30k.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/tasks/nli.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/embedders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DME/DME-master/dme/tasks/img_cap_retrieval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

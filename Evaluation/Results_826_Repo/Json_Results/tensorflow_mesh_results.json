@@ -1,0 +1,91 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/test_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/experimental/data_aug_lib.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/transformer/adaptive_softmax.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/placement_mesh_impl.py": {
+    "R2": [
+      "Random Seed Not Set at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/simd_mesh_impl.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 726",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 730",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 731"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 546",
+      "Random Seed Not Set at line 550",
+      "Random Seed Not Set at line 581",
+      "Random Seed Not Set at line 587"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/transformer/funnel_transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/transformer/transformer_layers_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 341"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_mesh/mesh-master/mesh_tensorflow/auto_mtf/layout_optimizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 370",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 372"
+    ]
+  }
+}

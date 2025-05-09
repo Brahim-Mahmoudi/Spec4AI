@@ -1,0 +1,135 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/keras_callbacks_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/loss_functions_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/keras_saving_utils_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 261"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 121",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 249",
+      "Hyperparameter not explicitly set at line 250",
+      "Hyperparameter not explicitly set at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/ops/kfac_utils/data_reader_alt.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/ops/tensormatch/graph_patterns.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/utils_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 247",
+      "Use np.matmul() instead of np.dot() for matrices at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/keras_utils_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 515",
+      "Random Seed Not Set at line 516",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 543",
+      "Random Seed Not Set at line 506",
+      "Random Seed Not Set at line 507",
+      "Random Seed Not Set at line 518",
+      "Random Seed Not Set at line 519",
+      "Random Seed Not Set at line 563",
+      "Random Seed Not Set at line 564",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 584",
+      "Random Seed Not Set at line 585"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40",
+      "Hyperparameter not explicitly set at line 449",
+      "Hyperparameter not explicitly set at line 450",
+      "Hyperparameter not explicitly set at line 319",
+      "Hyperparameter not explicitly set at line 377",
+      "Hyperparameter not explicitly set at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/examples/autoencoder_mnist.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/kernel_tests/keras_optimizers_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 592",
+      "Potential data leakage: model.fit() used without a pipeline at line 607",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 839",
+      "Potential data leakage: model.fit() used without a pipeline at line 946"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 103",
+      "Hyperparameter not explicitly set at line 656",
+      "Hyperparameter not explicitly set at line 658",
+      "Hyperparameter not explicitly set at line 680",
+      "Hyperparameter not explicitly set at line 683",
+      "Hyperparameter not explicitly set at line 581",
+      "Hyperparameter not explicitly set at line 633",
+      "Hyperparameter not explicitly set at line 704",
+      "Hyperparameter not explicitly set at line 706",
+      "Hyperparameter not explicitly set at line 847",
+      "Hyperparameter not explicitly set at line 953"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_kfac/kfac-master/kfac/python/ops/fisher_factors.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2374",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2234",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2222"
+    ]
+  }
+}

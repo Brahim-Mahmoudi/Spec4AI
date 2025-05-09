@@ -1,0 +1,183 @@
+{
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/tests/test_arima_diagnostics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/datasets/_base.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/stationarity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 452"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 186",
+      "Hyperparameter not explicitly set at line 452"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/utils/tests/test_meta.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/preprocessing/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/seasonality.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/tests/test_seasonality.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/preprocessing/exog/tests/test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/auto.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 493"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 493"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/preprocessing/endog/log.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/tests/test_auto.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 129"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/tests/test_pipeline.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/_auto_solvers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 508"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/preprocessing/endog/tests/test_boxcox.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/examples/arima/example_persisting_a_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/preprocessing/exog/tests/test_fourier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/utils/tests/test_array.py": {
+    "R2": [
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 261"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/examples/example_pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/benchmarks/benchmark_funcs.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/examples/preprocessing/example_date_featurizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/arima.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 510"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/model_selection/tests/test_split.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/model_selection/_validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alkaline-ml_pmdarima/pmdarima-master/pmdarima/arima/tests/test_arima.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 406",
+      "Potential data leakage: model.fit() used without a pipeline at line 443",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 499",
+      "Potential data leakage: model.fit() used without a pipeline at line 674",
+      "Potential data leakage: model.fit() used without a pipeline at line 711",
+      "Potential data leakage: model.fit() used without a pipeline at line 723",
+      "Potential data leakage: model.fit() used without a pipeline at line 744",
+      "Potential data leakage: model.fit() used without a pipeline at line 244",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 586",
+      "Potential data leakage: model.fit() used without a pipeline at line 547"
+    ]
+  }
+}

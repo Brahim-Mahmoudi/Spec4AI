@@ -1,0 +1,1470 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/fixes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 164",
+      "Use np.matmul() instead of np.dot() for matrices at line 423",
+      "Use np.matmul() instead of np.dot() for matrices at line 389"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/proj.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 277",
+      "Use np.matmul() instead of np.dot() for matrices at line 368",
+      "Use np.matmul() instead of np.dot() for matrices at line 458",
+      "Use np.matmul() instead of np.dot() for matrices at line 489",
+      "Use np.matmul() instead of np.dot() for matrices at line 492"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_freesurfer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_ola.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 392",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/morph.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 624",
+      "Use np.matmul() instead of np.dot() for matrices at line 1115",
+      "Use np.matmul() instead of np.dot() for matrices at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/rank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 497",
+      "Use np.matmul() instead of np.dot() for matrices at line 514"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/ar.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 23",
+      "Use np.matmul() instead of np.dot() for matrices at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/chpi.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 525",
+      "Use np.matmul() instead of np.dot() for matrices at line 527",
+      "Use np.matmul() instead of np.dot() for matrices at line 528",
+      "Use np.matmul() instead of np.dot() for matrices at line 541",
+      "Use np.matmul() instead of np.dot() for matrices at line 542",
+      "Use np.matmul() instead of np.dot() for matrices at line 567",
+      "Use np.matmul() instead of np.dot() for matrices at line 1345",
+      "Use np.matmul() instead of np.dot() for matrices at line 517",
+      "Use np.matmul() instead of np.dot() for matrices at line 1512",
+      "Use np.matmul() instead of np.dot() for matrices at line 1528",
+      "Use np.matmul() instead of np.dot() for matrices at line 1534"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/cov.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1558",
+      "Potential data leakage: model.fit() used without a pipeline at line 1610",
+      "Potential data leakage: model.fit() used without a pipeline at line 1304",
+      "Potential data leakage: model.fit() used without a pipeline at line 1310",
+      "Potential data leakage: model.fit() used without a pipeline at line 1324",
+      "Potential data leakage: model.fit() used without a pipeline at line 1321",
+      "Potential data leakage: model.fit() used without a pipeline at line 1338",
+      "Potential data leakage: model.fit() used without a pipeline at line 1335",
+      "Potential data leakage: model.fit() used without a pipeline at line 1344",
+      "Potential data leakage: model.fit() used without a pipeline at line 1361",
+      "Potential data leakage: model.fit() used without a pipeline at line 1357",
+      "Potential data leakage: model.fit() used without a pipeline at line 1375",
+      "Potential data leakage: model.fit() used without a pipeline at line 1389"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1216",
+      "Use np.matmul() instead of np.dot() for matrices at line 1264",
+      "Use np.matmul() instead of np.dot() for matrices at line 1275",
+      "Use np.matmul() instead of np.dot() for matrices at line 1831",
+      "Use np.matmul() instead of np.dot() for matrices at line 2097",
+      "Use np.matmul() instead of np.dot() for matrices at line 2101",
+      "Use np.matmul() instead of np.dot() for matrices at line 2338",
+      "Use np.matmul() instead of np.dot() for matrices at line 737",
+      "Use np.matmul() instead of np.dot() for matrices at line 1406",
+      "Use np.matmul() instead of np.dot() for matrices at line 2283",
+      "Use np.matmul() instead of np.dot() for matrices at line 2284",
+      "Use np.matmul() instead of np.dot() for matrices at line 1130",
+      "Use np.matmul() instead of np.dot() for matrices at line 1424"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 734",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1120"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1355"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/coreg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 459",
+      "Use np.matmul() instead of np.dot() for matrices at line 483",
+      "Use np.matmul() instead of np.dot() for matrices at line 495",
+      "Use np.matmul() instead of np.dot() for matrices at line 1617",
+      "Use np.matmul() instead of np.dot() for matrices at line 496",
+      "Use np.matmul() instead of np.dot() for matrices at line 512",
+      "Use np.matmul() instead of np.dot() for matrices at line 528"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/annotations.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1271",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1257",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1270",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1276"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/tests/test_ar.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/transforms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1187"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 269",
+      "Use np.matmul() instead of np.dot() for matrices at line 727",
+      "Use np.matmul() instead of np.dot() for matrices at line 1432",
+      "Use np.matmul() instead of np.dot() for matrices at line 1433",
+      "Use np.matmul() instead of np.dot() for matrices at line 1466",
+      "Use np.matmul() instead of np.dot() for matrices at line 555",
+      "Use np.matmul() instead of np.dot() for matrices at line 1464",
+      "Use np.matmul() instead of np.dot() for matrices at line 1465",
+      "Use np.matmul() instead of np.dot() for matrices at line 713",
+      "Use np.matmul() instead of np.dot() for matrices at line 1032",
+      "Use np.matmul() instead of np.dot() for matrices at line 1178",
+      "Use np.matmul() instead of np.dot() for matrices at line 1180",
+      "Use np.matmul() instead of np.dot() for matrices at line 1497",
+      "Use np.matmul() instead of np.dot() for matrices at line 1435"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/tests/test_stft.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/dipole.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1250",
+      "Use np.matmul() instead of np.dot() for matrices at line 1305",
+      "Use np.matmul() instead of np.dot() for matrices at line 1324",
+      "Use np.matmul() instead of np.dot() for matrices at line 1418",
+      "Use np.matmul() instead of np.dot() for matrices at line 1419",
+      "Use np.matmul() instead of np.dot() for matrices at line 1828",
+      "Use np.matmul() instead of np.dot() for matrices at line 1038",
+      "Use np.matmul() instead of np.dot() for matrices at line 1040",
+      "Use np.matmul() instead of np.dot() for matrices at line 1042",
+      "Use np.matmul() instead of np.dot() for matrices at line 1048",
+      "Use np.matmul() instead of np.dot() for matrices at line 1216",
+      "Use np.matmul() instead of np.dot() for matrices at line 1383",
+      "Use np.matmul() instead of np.dot() for matrices at line 1439",
+      "Use np.matmul() instead of np.dot() for matrices at line 1212",
+      "Use np.matmul() instead of np.dot() for matrices at line 1435",
+      "Use np.matmul() instead of np.dot() for matrices at line 1225",
+      "Use np.matmul() instead of np.dot() for matrices at line 1241",
+      "Use np.matmul() instead of np.dot() for matrices at line 1592",
+      "Use np.matmul() instead of np.dot() for matrices at line 1949"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 831",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 837"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/_rap_music.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 64",
+      "Use np.matmul() instead of np.dot() for matrices at line 167",
+      "Use np.matmul() instead of np.dot() for matrices at line 169",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/_lcmv.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 294",
+      "Use np.matmul() instead of np.dot() for matrices at line 305"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/bem.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 770",
+      "Use np.matmul() instead of np.dot() for matrices at line 775",
+      "Use np.matmul() instead of np.dot() for matrices at line 789",
+      "Use np.matmul() instead of np.dot() for matrices at line 125",
+      "Use np.matmul() instead of np.dot() for matrices at line 126",
+      "Use np.matmul() instead of np.dot() for matrices at line 771",
+      "Use np.matmul() instead of np.dot() for matrices at line 777",
+      "Use np.matmul() instead of np.dot() for matrices at line 788",
+      "Use np.matmul() instead of np.dot() for matrices at line 298",
+      "Use np.matmul() instead of np.dot() for matrices at line 739"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1631"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/_compute_beamformer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 602",
+      "Use np.matmul() instead of np.dot() for matrices at line 599"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/filter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 369"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/_dics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 628",
+      "Use np.matmul() instead of np.dot() for matrices at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/tests/test_csd.py": {
+    "R2": [
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 445"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/label.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1406",
+      "Use np.matmul() instead of np.dot() for matrices at line 1408",
+      "Use np.matmul() instead of np.dot() for matrices at line 1413",
+      "Use np.matmul() instead of np.dot() for matrices at line 1419",
+      "Use np.matmul() instead of np.dot() for matrices at line 1489"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2006"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/source_estimate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 3381",
+      "Use np.matmul() instead of np.dot() for matrices at line 838",
+      "Use np.matmul() instead of np.dot() for matrices at line 1291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/tests/test_spectrum.py": {
+    "R2": [
+      "Random Seed Not Set at line 678"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/tests/test_rap_music.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 99",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 193",
+      "Use np.matmul() instead of np.dot() for matrices at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/datasets/sleep_physionet/tests/test_physionet.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 187",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/datasets/sleep_physionet/_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 184",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/datasets/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 768"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/surface.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1206",
+      "Use np.matmul() instead of np.dot() for matrices at line 1647",
+      "Use np.matmul() instead of np.dot() for matrices at line 1648"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/beamformer/tests/test_lcmv.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 774",
+      "Use np.matmul() instead of np.dot() for matrices at line 775",
+      "Use np.matmul() instead of np.dot() for matrices at line 1084"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/epochs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 4917",
+      "Use np.matmul() instead of np.dot() for matrices at line 4919",
+      "Use np.matmul() instead of np.dot() for matrices at line 1586",
+      "Use np.matmul() instead of np.dot() for matrices at line 685"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 3228"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3242",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3324"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 3263; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 3286; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 3310; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 3302; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/array/tests/test_array.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/time_frequency/tests/test_tfr.py": {
+    "R2": [
+      "Random Seed Not Set at line 872",
+      "Random Seed Not Set at line 877",
+      "Random Seed Not Set at line 1326",
+      "Random Seed Not Set at line 1439",
+      "Random Seed Not Set at line 1478",
+      "Random Seed Not Set at line 1650",
+      "Random Seed Not Set at line 1653",
+      "Random Seed Not Set at line 874"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/ctf/info.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/kit/tests/test_kit.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/fil/sensors.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/eeglab/tests/test_eeglab.py": {
+    "R2": [
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/base.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2974",
+      "Use np.matmul() instead of np.dot() for matrices at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/tests/test_raw.py": {
+    "R2": [
+      "Random Seed Not Set at line 1052"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/hitachi/hitachi.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/edf/edf.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 394",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_dipole.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_coreg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_proj.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/bti/bti.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 111",
+      "Use np.matmul() instead of np.dot() for matrices at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/simulation/evoked.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 179"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_cov.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 87",
+      "Use np.matmul() instead of np.dot() for matrices at line 614"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_label.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1080",
+      "Use np.matmul() instead of np.dot() for matrices at line 1086",
+      "Use np.matmul() instead of np.dot() for matrices at line 1089"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/simulation/metrics/metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 454",
+      "Use np.matmul() instead of np.dot() for matrices at line 519"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/simulation/source.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 282",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 545",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_transforms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 138",
+      "Use np.matmul() instead of np.dot() for matrices at line 506"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/simulation/raw.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 674"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/utils/tests/test_linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_evoked.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 512"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 955"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/time_frequency.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_time_frequency.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_annotations.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/search_light.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/io/fiff/tests/test_raw_fiff.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1008",
+      "Use np.matmul() instead of np.dot() for matrices at line 1031"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1177",
+      "Random Seed Not Set at line 1490"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_ems.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/time_delaying_ridge.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 360"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 148",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 478",
+      "Potential data leakage: model.fit() used without a pipeline at line 480",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/receptive_field.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 688",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 371",
+      "Potential data leakage: model.fit() used without a pipeline at line 706"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_ssd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/utils/numerics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 269"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/csp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 674",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 225",
+      "Use np.matmul() instead of np.dot() for matrices at line 661",
+      "Use np.matmul() instead of np.dot() for matrices at line 764",
+      "Use np.matmul() instead of np.dot() for matrices at line 767",
+      "Use np.matmul() instead of np.dot() for matrices at line 772",
+      "Use np.matmul() instead of np.dot() for matrices at line 923"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 220"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_search_light.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 302",
+      "Hyperparameter not explicitly set at line 58",
+      "Hyperparameter not explicitly set at line 325",
+      "Hyperparameter not explicitly set at line 352",
+      "Hyperparameter not explicitly set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 470"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 468",
+      "Hyperparameter not explicitly set at line 106",
+      "Hyperparameter not explicitly set at line 249",
+      "Hyperparameter not explicitly set at line 278",
+      "Hyperparameter not explicitly set at line 411",
+      "Hyperparameter not explicitly set at line 114",
+      "Hyperparameter not explicitly set at line 119",
+      "Hyperparameter not explicitly set at line 386",
+      "Hyperparameter not explicitly set at line 399",
+      "Hyperparameter not explicitly set at line 479"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_csp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 404",
+      "Use np.matmul() instead of np.dot() for matrices at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 418"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/circle.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/_proj.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_source_estimate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1080",
+      "Use np.matmul() instead of np.dot() for matrices at line 737",
+      "Use np.matmul() instead of np.dot() for matrices at line 1460"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/decoding/tests/test_receptive_field.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 459",
+      "Potential data leakage: model.fit() used without a pipeline at line 465",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 503",
+      "Potential data leakage: model.fit() used without a pipeline at line 530",
+      "Potential data leakage: model.fit() used without a pipeline at line 559",
+      "Potential data leakage: model.fit() used without a pipeline at line 561",
+      "Potential data leakage: model.fit() used without a pipeline at line 585",
+      "Potential data leakage: model.fit() used without a pipeline at line 408"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 196",
+      "Use np.matmul() instead of np.dot() for matrices at line 276",
+      "Use np.matmul() instead of np.dot() for matrices at line 287",
+      "Use np.matmul() instead of np.dot() for matrices at line 300",
+      "Use np.matmul() instead of np.dot() for matrices at line 320",
+      "Use np.matmul() instead of np.dot() for matrices at line 335",
+      "Use np.matmul() instead of np.dot() for matrices at line 544",
+      "Use np.matmul() instead of np.dot() for matrices at line 573",
+      "Use np.matmul() instead of np.dot() for matrices at line 369"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 181",
+      "Hyperparameter not explicitly set at line 102",
+      "Hyperparameter not explicitly set at line 614"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/misc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 160"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/topo.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 643"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 429",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 448",
+      "Potential data leakage: model.fit() used without a pipeline at line 486"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_topomap.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 797"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 615",
+      "Random Seed Not Set at line 670",
+      "Random Seed Not Set at line 761"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/evoked.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 484"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_evoked.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2089",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1055"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1403"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_raw.py": {
+    "R2": [
+      "Random Seed Not Set at line 1065",
+      "Random Seed Not Set at line 1118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/tests/test_3d.py": {
+    "R2": [
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 1395"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/compensator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 61",
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/tests/test_what.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/topomap.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1644",
+      "Use np.matmul() instead of np.dot() for matrices at line 3630"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/tests/test_compensator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/proj.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 871",
+      "Use np.matmul() instead of np.dot() for matrices at line 341"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 780",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 793"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/tests/test_reference.py": {
+    "R2": [
+      "Random Seed Not Set at line 922"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/_css.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/tests/test_epochs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 3301"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 4002"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 3954",
+      "Random Seed Not Set at line 4109",
+      "Random Seed Not Set at line 4130",
+      "Random Seed Not Set at line 4933",
+      "Random Seed Not Set at line 4389"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/viz/_3d.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 4015",
+      "Use np.matmul() instead of np.dot() for matrices at line 3090"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/otp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 25",
+      "Use np.matmul() instead of np.dot() for matrices at line 125",
+      "Use np.matmul() instead of np.dot() for matrices at line 133",
+      "Use np.matmul() instead of np.dot() for matrices at line 138"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/_csd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 49",
+      "Use np.matmul() instead of np.dot() for matrices at line 165",
+      "Use np.matmul() instead of np.dot() for matrices at line 180",
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/_pca_obs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/infomax_.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 189",
+      "Use np.matmul() instead of np.dot() for matrices at line 190",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 196",
+      "Use np.matmul() instead of np.dot() for matrices at line 228",
+      "Use np.matmul() instead of np.dot() for matrices at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/realign.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/_regress.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/report/tests/test_report.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 933"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/xdawn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 93",
+      "Use np.matmul() instead of np.dot() for matrices at line 193",
+      "Use np.matmul() instead of np.dot() for matrices at line 314",
+      "Use np.matmul() instead of np.dot() for matrices at line 533",
+      "Use np.matmul() instead of np.dot() for matrices at line 662",
+      "Use np.matmul() instead of np.dot() for matrices at line 674",
+      "Use np.matmul() instead of np.dot() for matrices at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_infomax.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 51",
+      "Use np.matmul() instead of np.dot() for matrices at line 57",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 150",
+      "Use np.matmul() instead of np.dot() for matrices at line 160",
+      "Use np.matmul() instead of np.dot() for matrices at line 63",
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 172",
+      "Use np.matmul() instead of np.dot() for matrices at line 173",
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 110",
+      "Use np.matmul() instead of np.dot() for matrices at line 170",
+      "Use np.matmul() instead of np.dot() for matrices at line 107",
+      "Use np.matmul() instead of np.dot() for matrices at line 177",
+      "Use np.matmul() instead of np.dot() for matrices at line 178",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 115",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/_fine_cal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 417",
+      "Use np.matmul() instead of np.dot() for matrices at line 266",
+      "Use np.matmul() instead of np.dot() for matrices at line 432",
+      "Use np.matmul() instead of np.dot() for matrices at line 433",
+      "Use np.matmul() instead of np.dot() for matrices at line 496",
+      "Use np.matmul() instead of np.dot() for matrices at line 500"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_eeglab_infomax.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 64",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_xdawn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_fine_cal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_regress.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_interpolate.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/mxne_debiasing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 105",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/tests/test_mxne_debiasing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/_gamma_map.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 275",
+      "Use np.matmul() instead of np.dot() for matrices at line 75",
+      "Use np.matmul() instead of np.dot() for matrices at line 111",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 118",
+      "Use np.matmul() instead of np.dot() for matrices at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/tests/test_gamma_map.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/tests/test_mxne_optim.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 130",
+      "Use np.matmul() instead of np.dot() for matrices at line 338"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/nirs/tests/test_nirs.py": {
+    "R2": [
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/minimum_norm/_eloreta.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/tests/test_mxne_inverse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 529",
+      "Use np.matmul() instead of np.dot() for matrices at line 387",
+      "Use np.matmul() instead of np.dot() for matrices at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/_fiff/meas_info.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2565"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/mxne_inverse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 110",
+      "Use np.matmul() instead of np.dot() for matrices at line 514",
+      "Use np.matmul() instead of np.dot() for matrices at line 827",
+      "Use np.matmul() instead of np.dot() for matrices at line 527",
+      "Use np.matmul() instead of np.dot() for matrices at line 586",
+      "Use np.matmul() instead of np.dot() for matrices at line 587",
+      "Use np.matmul() instead of np.dot() for matrices at line 605",
+      "Use np.matmul() instead of np.dot() for matrices at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 963"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1024",
+      "Use np.matmul() instead of np.dot() for matrices at line 1028",
+      "Use np.matmul() instead of np.dot() for matrices at line 2043",
+      "Use np.matmul() instead of np.dot() for matrices at line 2393",
+      "Use np.matmul() instead of np.dot() for matrices at line 2407",
+      "Use np.matmul() instead of np.dot() for matrices at line 2408",
+      "Use np.matmul() instead of np.dot() for matrices at line 1087"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/permutations.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/_adjacency.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/parametric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 381",
+      "Use np.matmul() instead of np.dot() for matrices at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/minimum_norm/time_frequency.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1002",
+      "Use np.matmul() instead of np.dot() for matrices at line 365",
+      "Use np.matmul() instead of np.dot() for matrices at line 408",
+      "Use np.matmul() instead of np.dot() for matrices at line 1019",
+      "Use np.matmul() instead of np.dot() for matrices at line 1045"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1001",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1037"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/inverse_sparse/mxne_optim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 1057",
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 418",
+      "Use np.matmul() instead of np.dot() for matrices at line 1118",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 978",
+      "Use np.matmul() instead of np.dot() for matrices at line 479",
+      "Use np.matmul() instead of np.dot() for matrices at line 1146",
+      "Use np.matmul() instead of np.dot() for matrices at line 1151",
+      "Use np.matmul() instead of np.dot() for matrices at line 1472",
+      "Use np.matmul() instead of np.dot() for matrices at line 1590",
+      "Use np.matmul() instead of np.dot() for matrices at line 467",
+      "Use np.matmul() instead of np.dot() for matrices at line 528",
+      "Use np.matmul() instead of np.dot() for matrices at line 1198",
+      "Use np.matmul() instead of np.dot() for matrices at line 701",
+      "Use np.matmul() instead of np.dot() for matrices at line 1652"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/source_space/tests/test_source_space.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/_lead_dots.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/maxwell.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2167",
+      "Use np.matmul() instead of np.dot() for matrices at line 2182",
+      "Use np.matmul() instead of np.dot() for matrices at line 870",
+      "Use np.matmul() instead of np.dot() for matrices at line 872",
+      "Use np.matmul() instead of np.dot() for matrices at line 1527",
+      "Use np.matmul() instead of np.dot() for matrices at line 2413",
+      "Use np.matmul() instead of np.dot() for matrices at line 865",
+      "Use np.matmul() instead of np.dot() for matrices at line 868",
+      "Use np.matmul() instead of np.dot() for matrices at line 905",
+      "Use np.matmul() instead of np.dot() for matrices at line 940",
+      "Use np.matmul() instead of np.dot() for matrices at line 941",
+      "Use np.matmul() instead of np.dot() for matrices at line 1158",
+      "Use np.matmul() instead of np.dot() for matrices at line 1332",
+      "Use np.matmul() instead of np.dot() for matrices at line 911",
+      "Use np.matmul() instead of np.dot() for matrices at line 933",
+      "Use np.matmul() instead of np.dot() for matrices at line 945",
+      "Use np.matmul() instead of np.dot() for matrices at line 946",
+      "Use np.matmul() instead of np.dot() for matrices at line 2335",
+      "Use np.matmul() instead of np.dot() for matrices at line 936",
+      "Use np.matmul() instead of np.dot() for matrices at line 2267",
+      "Use np.matmul() instead of np.dot() for matrices at line 2278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/_field_interpolation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 52",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 279"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/preprocessing/tests/test_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 1025",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 507",
+      "Potential data leakage: model.fit() used without a pipeline at line 511",
+      "Potential data leakage: model.fit() used without a pipeline at line 523",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 579",
+      "Potential data leakage: model.fit() used without a pipeline at line 589",
+      "Potential data leakage: model.fit() used without a pipeline at line 597",
+      "Potential data leakage: model.fit() used without a pipeline at line 601",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 663",
+      "Potential data leakage: model.fit() used without a pipeline at line 673",
+      "Potential data leakage: model.fit() used without a pipeline at line 759",
+      "Potential data leakage: model.fit() used without a pipeline at line 777",
+      "Potential data leakage: model.fit() used without a pipeline at line 788",
+      "Potential data leakage: model.fit() used without a pipeline at line 866",
+      "Potential data leakage: model.fit() used without a pipeline at line 1005",
+      "Potential data leakage: model.fit() used without a pipeline at line 1039",
+      "Potential data leakage: model.fit() used without a pipeline at line 1122",
+      "Potential data leakage: model.fit() used without a pipeline at line 1161",
+      "Potential data leakage: model.fit() used without a pipeline at line 1192",
+      "Potential data leakage: model.fit() used without a pipeline at line 1196",
+      "Potential data leakage: model.fit() used without a pipeline at line 1265",
+      "Potential data leakage: model.fit() used without a pipeline at line 1354",
+      "Potential data leakage: model.fit() used without a pipeline at line 1362",
+      "Potential data leakage: model.fit() used without a pipeline at line 1384",
+      "Potential data leakage: model.fit() used without a pipeline at line 1429",
+      "Potential data leakage: model.fit() used without a pipeline at line 1458",
+      "Potential data leakage: model.fit() used without a pipeline at line 1483",
+      "Potential data leakage: model.fit() used without a pipeline at line 1519",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 1228",
+      "Potential data leakage: model.fit() used without a pipeline at line 1320",
+      "Potential data leakage: model.fit() used without a pipeline at line 1716",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 1231",
+      "Potential data leakage: model.fit() used without a pipeline at line 1317",
+      "Potential data leakage: model.fit() used without a pipeline at line 1318",
+      "Potential data leakage: model.fit() used without a pipeline at line 1417",
+      "Potential data leakage: model.fit() used without a pipeline at line 1575"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 170",
+      "Use np.matmul() instead of np.dot() for matrices at line 1676",
+      "Use np.matmul() instead of np.dot() for matrices at line 1666"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/_make_forward.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 249",
+      "Use np.matmul() instead of np.dot() for matrices at line 188",
+      "Use np.matmul() instead of np.dot() for matrices at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/tests/test_cluster_level.py": {
+    "R2": [
+      "Random Seed Not Set at line 749"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/minimum_norm/inverse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 864",
+      "Use np.matmul() instead of np.dot() for matrices at line 871",
+      "Use np.matmul() instead of np.dot() for matrices at line 1086",
+      "Use np.matmul() instead of np.dot() for matrices at line 1091",
+      "Use np.matmul() instead of np.dot() for matrices at line 1092",
+      "Use np.matmul() instead of np.dot() for matrices at line 1093",
+      "Use np.matmul() instead of np.dot() for matrices at line 1097",
+      "Use np.matmul() instead of np.dot() for matrices at line 1847",
+      "Use np.matmul() instead of np.dot() for matrices at line 2208",
+      "Use np.matmul() instead of np.dot() for matrices at line 2209",
+      "Use np.matmul() instead of np.dot() for matrices at line 1095",
+      "Use np.matmul() instead of np.dot() for matrices at line 1264",
+      "Use np.matmul() instead of np.dot() for matrices at line 1257",
+      "Use np.matmul() instead of np.dot() for matrices at line 1350",
+      "Use np.matmul() instead of np.dot() for matrices at line 1363"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 385"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/channels/interpolation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 332"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/_compute_forward.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 503",
+      "Use np.matmul() instead of np.dot() for matrices at line 224",
+      "Use np.matmul() instead of np.dot() for matrices at line 310",
+      "Use np.matmul() instead of np.dot() for matrices at line 543",
+      "Use np.matmul() instead of np.dot() for matrices at line 589"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/stats/cluster_level.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 444",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 457",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 504"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/tests/test_make_forward.py": {
+    "R2": [
+      "Random Seed Not Set at line 748",
+      "Random Seed Not Set at line 747"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/inverse/custom_inverse_solver.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 128",
+      "Use np.matmul() instead of np.dot() for matrices at line 170",
+      "Use np.matmul() instead of np.dot() for matrices at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/minimum_norm/tests/test_inverse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 193",
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 1571"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/channels/tests/test_interpolation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/datasets/spm_faces_dataset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/forward/forward.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1603",
+      "Use np.matmul() instead of np.dot() for matrices at line 1434"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 688"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/decoding/decoding_spoc_CMC.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/decoding/ssd_spatial_filters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/decoding/ems_filtering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/preprocessing/eog_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/preprocessing/find_ref_artifacts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/preprocessing/muscle_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/preprocessing/ica_comparison.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/preprocessing/xdawn_denoising.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/inverse/70_eeg_mri_coords.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/examples/decoding/receptive_field_mtrf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/inverse/90_phantom_4DBTi.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/io/30_reading_fnirs_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 177"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/intro/10_overview.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/stats-source-space/60_cluster_rmANOVA_spatiotemporal.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/io/60_ctf_bst_auditory.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 119",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 117",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 118",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 114"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/intro/70_report.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/preprocessing/35_artifact_correction_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/preprocessing/80_opm_processing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/mne/channels/tests/test_montage.py": {
+    "R2": [
+      "Random Seed Not Set at line 1802"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/preprocessing/40_artifact_correction_ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 473",
+      "Potential data leakage: model.fit() used without a pipeline at line 675",
+      "Potential data leakage: model.fit() used without a pipeline at line 545"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mne-tools_mne-python/mne-python-main/tutorials/machine-learning/30_strf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 290"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 142"
+    ]
+  }
+}

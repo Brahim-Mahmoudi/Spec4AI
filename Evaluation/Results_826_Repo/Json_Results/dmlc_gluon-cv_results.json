@@ -1,0 +1,1377 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/auto/test_hybrid_auto_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/auto/test_torch_auto_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/unittests/test_utils_parallel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/auto/test_auto_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/unittests/test_data_dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials_torch/action_recognition/demo_i3d_kinetics400.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/auto/test_torch_auto_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/unittests/test_data_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/auto/test_auto_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tools/batch/submit-job.py": {
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/model_zoo_torch/test_tvm_torch_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/datasets/imagenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/classification/dive_deep_cifar10.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/classification/transfer_learning_minc.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 199"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/segmentation/train_psp.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/segmentation/train_fcn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/datasets/ucf101.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/pose/dive_deep_simple_pose.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/model_zoo_torch/test_model_zoo_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 211"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/datasets/hmdb51.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/action_recognition/decord_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/datasets/kinetics400.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/action_recognition/dive_deep_i3d_kinetics400.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/action_recognition/finetune_custom.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/auto_module/train_image_classifier_basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/auto_module/demo_auto_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/action_recognition/dive_deep_slowfast_kinetics400.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/action_recognition/dive_deep_tsn_ucf101.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/tracking/train_siamrpn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/detection/finetune_detection.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/detection/train_yolo_v3.py": {
+    "R2": [
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/detection/train_ssd_voc.py": {
+    "R2": [
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/tests/unittests/test_data_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/detection/train_faster_rcnn_voc.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/docs/tutorials/instance/train_mask_rcnn_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/torch_image_classification/utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/torch_image_classification/utils/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/nn/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 286"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/base_estimator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/tasks/object_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/tasks/image_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/focal_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/keypoint_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/deform_conv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/smooth_l1_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/iou_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/group_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/center_net/center_net.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/random.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/nms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/model_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/nn/batch_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/ssd/ssd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 194",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/comm.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/coot_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 166",
+      "Use np.matmul() instead of np.dot() for matrices at line 172"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/task_utils/coot.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 125"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/yolo/yolo.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 189",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/task_utils/classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/task_utils/pose.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/ircsnv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/actionrec_resnetv1b.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/eval_utils/coco_eval.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/non_local.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/r2plus1dv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/torch_image_classification/torch_image_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 415",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 649",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 719"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/pose/directpose.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/estimators/image_classification/image_classification.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/auto/data/dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/instances.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/r2plus1dv1.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/beziers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/image_list.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/keypoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/i3d_slow.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/coot/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/instance_transforms/transform_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/videotransforms/tensor_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/boxes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/pose/directpose_resnet_fpn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 279"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/slowfast.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/structures/masks.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/videotransforms/stack_transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/i3d_resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/videotransforms/volume_transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/videotransforms/functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/utils/visualizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 1322",
+      "Random Seed Not Set at line 1130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/video_language/coot_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/video_cls/dataset_classification.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 49",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 157"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/action_recognition/tpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/pose/dataset_pose.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/videotransforms/video_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/object_detection/fcos.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/engine/launch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/detection/samplers/distributed_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/utils/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/instance_transforms/transform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/instance_transforms/augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 755",
+      "Random Seed Not Set at line 769",
+      "Random Seed Not Set at line 770",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 559",
+      "Random Seed Not Set at line 560",
+      "Random Seed Not Set at line 619",
+      "Random Seed Not Set at line 657",
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 711",
+      "Random Seed Not Set at line 739",
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 466",
+      "Random Seed Not Set at line 518",
+      "Random Seed Not Set at line 525",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 622",
+      "Random Seed Not Set at line 623",
+      "Random Seed Not Set at line 521",
+      "Random Seed Not Set at line 522",
+      "Random Seed Not Set at line 577",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 584"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/transforms/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 782",
+      "Random Seed Not Set at line 783",
+      "Random Seed Not Set at line 813",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 420",
+      "Random Seed Not Set at line 494",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 430"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/detection/detection_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 208",
+      "Use np.matmul() instead of np.dot() for matrices at line 187"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 642",
+      "Random Seed Not Set at line 643"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/utils/viz/mask.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/data/detection/detection_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 168"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 402"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/utils/parallel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 376",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/torch/model_zoo/pose/directpose_outputs.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/utils/viz/bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/cifarresnext.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/densenet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/senet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/cifarwideresnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/inception.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 154",
+      "Hyperparameter not explicitly set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/resnext.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/mobilenet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/alexnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/shufflenet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/monodepthv2/depth_decoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/nasnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 645",
+      "Hyperparameter not explicitly set at line 626"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/rcnn/rpn/rpn_target.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/rcnn/mask_rcnn/data_parallel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 103",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/rcnn/faster_rcnn/data_parallel.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/alpha_pose/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/yolo/darknet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/segbase.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/model_zoo/alpha_pose/fast_pose.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/mixup/detection.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/kitti/mono_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/kitti/kitti_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/block.py": {
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/experimental/bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/track.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/experimental/image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 143",
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 216"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/bbox.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/market1501/label_read.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/presets/simple_pose.py": {
+    "R2": [
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/presets/yolo.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/presets/center_net.py": {
+    "R2": [
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/presets/ssd.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/presets/alpha_pose.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/video_custom/classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/fit_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/auto_classification/train_auto_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/finetune/finetune_minc.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 105"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/gan/stylegan/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 149"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 194"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 225",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/video.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 436",
+      "Random Seed Not Set at line 655",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 446",
+      "Random Seed Not Set at line 447",
+      "Random Seed Not Set at line 659",
+      "Random Seed Not Set at line 662",
+      "Random Seed Not Set at line 666",
+      "Random Seed Not Set at line 667",
+      "Random Seed Not Set at line 773",
+      "Random Seed Not Set at line 817",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 306",
+      "Random Seed Not Set at line 756",
+      "Random Seed Not Set at line 767",
+      "Random Seed Not Set at line 770"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/cifar/train_cifar10.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/tracking_data/track.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 378",
+      "Random Seed Not Set at line 509",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 422"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/cifar/train_mixup_cifar10.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/train_ddp_shortonly_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/get_fps.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/depth/test_pose.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 32",
+      "Use np.matmul() instead of np.dot() for matrices at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/imagenet/train_imagenet_nasnet.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 320"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/feat_extract_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/get_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/gan/srgan/train_srgan.py": {
+    "R2": [
+      "Random Seed Not Set at line 271"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 115",
+      "Hyperparameter not explicitly set at line 97"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 289",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 332",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/train_ddp_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/imagenet/train_horovod.py": {
+    "R2": [
+      "Random Seed Not Set at line 192"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 474"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/test_ddp_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/gluoncv/data/transforms/pose.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 307",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 349"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/gan/wgan/train_wgan.py": {
+    "R2": [
+      "Random Seed Not Set at line 383"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 496",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 484"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/segmentation/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/gan/cycle_gan/train_cgan.py": {
+    "R2": [
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 374"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 552",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 576"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/classification/imagenet/train_imagenet.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 453"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/directpose/export_directpose_tvm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/directpose/demo_directpose.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/re-id/baseline/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/depth/trainer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 500"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/instance/mask_rcnn/fit_mask_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/directpose/tvm_evaluation/pose_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/vision-language/video-language/coot/train_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/datasets/ucf101.py": {
+    "R2": [
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 264"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/simple_pose/train_simple_pose.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/center_net/fit_center_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/directpose/tvm_evaluation/evaluate_pose.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/ssd/fit_ssd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/pose/alpha_pose/train_alpha_pose.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/faster_rcnn/fit_faster_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/datasets/kinetics400.py": {
+    "R2": [
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/datasets/hmdb51.py": {
+    "R2": [
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/yolo/fit_yolo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/action-recognition/train_recognizer.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 482",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 480"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/auto_detection/train_auto_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/auto_detection/train_auto_yolo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/auto_detection/train_auto_ssd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/auto_detection/train_auto_faster_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/auto_detection/train_auto_center_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/tracking/siamrpn/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 250",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/center_net/train_center_net.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/ssd/train_ssd.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 331",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 329"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/yolo/train_yolo.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 292",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-cv/gluon-cv-master/scripts/detection/yolo/train_yolo3.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 292",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 290"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/tools/demos/process_histogram_samples.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 33",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/db_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/cloud_harmony_util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/pkb.py": {
+    "R2": [
+      "Random Seed Not Set at line 1620",
+      "Random Seed Not Set at line 1488",
+      "Random Seed Not Set at line 1514"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/linux_benchmarks/dpb_dataflow_template_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/linux_benchmarks/unmanaged_mysql_sysbench_benchmark.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/linux_benchmarks/unmanaged_postgresql_sysbench_benchmark.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/linux_benchmarks/apachebench_benchmark.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 363"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 355"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/scripts/messaging_service_scripts/common/e2e/latency_runner.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/time_triggers/base_time_trigger.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/scripts/object_storage_api_test_scripts/object_storage_api_tests.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1289",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1368"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 1354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_PerfKitBenchmarker/PerfKitBenchmarker-master/perfkitbenchmarker/linux_packages/memtier.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1464",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1465"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 515"
+    ]
+  }
+}

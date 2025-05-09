@@ -1,0 +1,66 @@
+{
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/third_party/nucleus/util/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/third_party/nucleus/util/vis_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/keras_modeling_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/show_examples.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/runtime_by_region_vis.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 119",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/dashboard_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/keras_modeling.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/data_providers.py": {
+    "R2": [
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/small_model/keras_config.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/train_inceptionv3.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 545"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_deepvariant/deepvariant-r1.8/deepvariant/make_examples_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 2642"
+    ]
+  }
+}

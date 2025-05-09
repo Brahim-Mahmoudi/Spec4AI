@@ -1,0 +1,87 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/examples/numba_speed_diff.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12",
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/examples/multiple_gaussian_2d.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/examples/iris_dist_grid.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/examples/stream.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/examples/iris.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13",
+      "Potential data leakage: model.fit() used without a pipeline at line 14",
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/tests/test_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 383",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 444",
+      "Potential data leakage: model.fit() used without a pipeline at line 496",
+      "Potential data leakage: model.fit() used without a pipeline at line 522",
+      "Potential data leakage: model.fit() used without a pipeline at line 661",
+      "Potential data leakage: model.fit() used without a pipeline at line 665",
+      "Potential data leakage: model.fit() used without a pipeline at line 666",
+      "Potential data leakage: model.fit() used without a pipeline at line 703",
+      "Potential data leakage: model.fit() used without a pipeline at line 732",
+      "Potential data leakage: model.fit() used without a pipeline at line 736",
+      "Potential data leakage: model.fit() used without a pipeline at line 761",
+      "Potential data leakage: model.fit() used without a pipeline at line 776",
+      "Potential data leakage: model.fit() used without a pipeline at line 784",
+      "Potential data leakage: model.fit() used without a pipeline at line 803",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 453",
+      "Potential data leakage: model.fit() used without a pipeline at line 473",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 475",
+      "Potential data leakage: model.fit() used without a pipeline at line 528",
+      "Potential data leakage: model.fit() used without a pipeline at line 546",
+      "Potential data leakage: model.fit() used without a pipeline at line 563",
+      "Potential data leakage: model.fit() used without a pipeline at line 579",
+      "Potential data leakage: model.fit() used without a pipeline at line 609",
+      "Potential data leakage: model.fit() used without a pipeline at line 815",
+      "Potential data leakage: model.fit() used without a pipeline at line 816"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/vc1492a_PyNomaly/PyNomaly-main/PyNomaly/loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 856"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 516",
+      "Use np.matmul() instead of np.dot() for matrices at line 557"
+    ]
+  }
+}

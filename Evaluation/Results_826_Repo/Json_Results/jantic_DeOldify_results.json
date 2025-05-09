@@ -1,0 +1,301 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/launch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/deoldify/generators.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/deoldify/loss.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 12",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/collab.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/general_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/deoldify/unet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 119",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/mixup.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/lr_finder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/oversampling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/mem.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/csv_logger.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/fp16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/basic_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/callbacks/hooks.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/tabular/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/tta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/torch_core.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 224"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/interpret.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/tabular/data.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/models/unet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/models/xresnet2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/interpret.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 231"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/models/presnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/cyclegan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/basic_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/learner.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 140"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/models/qrnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/widgets/image_downloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 130",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 297"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/models/awd_lstm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 222"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fid/fid_score.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fid/inception.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/widgets/image_cleaner.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/data_block.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/learner.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/models/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/vision/image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jantic_DeOldify/DeOldify-master/fastai/text/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 217"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 216",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 220"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

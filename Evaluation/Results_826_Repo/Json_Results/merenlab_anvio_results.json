@@ -1,0 +1,334 @@
+{
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/db.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1068",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1070"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/agglomeration.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 183",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 217",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/sge.py": {
+    "R2": [
+      "Random Seed Not Set at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/sequence.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 412"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/scgdomainclassifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/kgml.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 407",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 854",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/interacdome.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 542",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 689"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/mcgclassifier.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 241"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 239; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 242; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 247; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 241; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 244; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/panops.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/splitter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 557"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/trnaidentifier.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1139",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1760",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1788",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1790"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/learning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/bamops.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1487",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1546"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/structureops.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1943"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/genomedescriptions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1328",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/hmmops.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1042"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/profiler.py": {
+    "R2": [
+      "Random Seed Not Set at line 716"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/sequencefeatures.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/summarizer.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 487",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 488"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 855",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1625",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1634",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1654"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/bottleroutes.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/codonusage.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 227"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1022"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2342"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/parsers/agnostos.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 75"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 4273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/parsers/interproscan.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 45"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 43; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 51; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 52; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 45; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 48; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 49; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/variabilityops.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 3153",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 3157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/parsers/krakenuniq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/dbops.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2823",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2830",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2831"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/keggmapping.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2754"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 171",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/drivers/fastani.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/drivers/diamond.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/workflows/ecophylo/scripts/subset_external_gene_calls_file.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/workflows/sra_download/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/drivers/MODELLER.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 443"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/workflows/trnaseq/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/workflows/ecophylo/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 191",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 226",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 415",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 495"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/workflows/metagenomics/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/taxonomyops/scg.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 803; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/drivers/vmatch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 582"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 480",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 412",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/taxonomyops/__init__.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 906",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 912",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 914"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/reactionnetwork.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5871",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6166",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6167",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6307",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6308",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10190",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10199",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5622"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/kegg.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 10064"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 4855",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 5270",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 9647",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 5279",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 9672",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 9690"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 10051; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 6305; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2674",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6277",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9903"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/merenlab_anvio/anvio-master/anvio/trnaseq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1181",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1204",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6129",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6172",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6288",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6304",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6423",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1191",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1262",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6141",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6180",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6183",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6289",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6320",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6330",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6426",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6430",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1950",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6181",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6184",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6326",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6336",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6428",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 6432"
+    ]
+  }
+}

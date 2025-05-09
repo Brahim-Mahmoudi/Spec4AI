@@ -1,0 +1,227 @@
+{
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/training/schedulers/test_schedulers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/test_classifier_convergence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/test_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/labeling/test_convergence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/test_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/labeling/model/test_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/training/test_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 244",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/slicing/test_sliceaware_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/slicing/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/classification/training/schedulers/shuffled_scheduler.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/classification/test_multitask_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/classification/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/augmentation/policy/sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/analysis/metrics.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/slicing/test_slice_combiner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/labeling/model/baselines.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/synthetic/synthetic_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/slicing/modules/slice_combiner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/slicing/sliceaware_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/utils/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/slicing/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/classification/multitask_classifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 304",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 341",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 409"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/classification/training/trainer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 187",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 194",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 207"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/test/labeling/model/test_label_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 345",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 371",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 385",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 387",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 396",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 423",
+      "Potential data leakage: model.fit() used without a pipeline at line 426",
+      "Potential data leakage: model.fit() used without a pipeline at line 429",
+      "Potential data leakage: model.fit() used without a pipeline at line 439",
+      "Potential data leakage: model.fit() used without a pipeline at line 442",
+      "Potential data leakage: model.fit() used without a pipeline at line 445",
+      "Potential data leakage: model.fit() used without a pipeline at line 450",
+      "Potential data leakage: model.fit() used without a pipeline at line 458",
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 595",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 433",
+      "Potential data leakage: model.fit() used without a pipeline at line 467"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/snorkel-team_snorkel/snorkel-main/snorkel/labeling/model/label_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 973"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

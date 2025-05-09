@@ -1,0 +1,62 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/baselines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40",
+      "Hyperparameter not explicitly set at line 44",
+      "Hyperparameter not explicitly set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/optimize_hyper_params.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/node2vec_recommender.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/trans_recommender.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 123",
+      "Use np.matmul() instead of np.dot() for matrices at line 125"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 82"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/entity2rec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/fmrec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/D2KLab_entity2rec/entity2rec-master/entity2rec/node2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 275"
+    ]
+  }
+}

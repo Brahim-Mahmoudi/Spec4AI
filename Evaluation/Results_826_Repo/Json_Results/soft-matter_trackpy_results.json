@@ -1,0 +1,181 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_correlations.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_feature_saving.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_plots.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/predict.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/motion.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/static.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/artificial.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 268",
+      "Use np.matmul() instead of np.dot() for matrices at line 418"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/refine/brightfield_ring.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 262",
+      "Use np.matmul() instead of np.dot() for matrices at line 246",
+      "Use np.matmul() instead of np.dot() for matrices at line 372"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_static.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 379"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 447",
+      "Random Seed Not Set at line 456",
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 430",
+      "Random Seed Not Set at line 457"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/refine/center_of_mass.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 371",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 468",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 582",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 432",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 533",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 663",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 676"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_feature.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 285"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 566",
+      "Random Seed Not Set at line 679",
+      "Random Seed Not Set at line 718"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_legacy_linking.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 218"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 533",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 539"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_linking.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 495",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 501"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/tests/test_leastsq.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 223",
+      "Use np.matmul() instead of np.dot() for matrices at line 225"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 923",
+      "Random Seed Not Set at line 924",
+      "Random Seed Not Set at line 941",
+      "Random Seed Not Set at line 952",
+      "Random Seed Not Set at line 976",
+      "Random Seed Not Set at line 977",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 927"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/soft-matter_trackpy/trackpy-master/trackpy/refine/least_squares.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 370",
+      "Do not compare with np.nan. Use df.isna() instead at line 375",
+      "Do not compare with np.nan. Use df.isna() instead at line 357",
+      "Do not compare with np.nan. Use df.isna() instead at line 359",
+      "Do not compare with np.nan. Use df.isna() instead at line 361",
+      "Do not compare with np.nan. Use df.isna() instead at line 363",
+      "Do not compare with np.nan. Use df.isna() instead at line 365",
+      "Do not compare with np.nan. Use df.isna() instead at line 367"
+    ]
+  }
+}

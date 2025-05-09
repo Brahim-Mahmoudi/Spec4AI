@@ -1,0 +1,44 @@
+{
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/tests/utils/test_visualizations.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/tests/networks/base.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 56",
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/examples/embedding_minimal_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/tests/backend/test_layer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 84",
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/examples/utils/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/src/innvestigate/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 243"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albermax_innvestigate/innvestigate-master/src/innvestigate/tools/perturbate.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  }
+}

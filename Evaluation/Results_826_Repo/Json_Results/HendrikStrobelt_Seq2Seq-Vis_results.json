@@ -1,0 +1,15 @@
+{
+  "/Users/bramss/Desktop/All_Repo/HendrikStrobelt_Seq2Seq-Vis/Seq2Seq-Vis-master/model_api/opennmt_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HendrikStrobelt_Seq2Seq-Vis/Seq2Seq-Vis-master/server.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 114"
+    ]
+  }
+}

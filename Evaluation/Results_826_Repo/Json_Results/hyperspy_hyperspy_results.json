@@ -1,0 +1,453 @@
+{
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/misc/array_tools.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/drawing/_widgets/line2d.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 346",
+      "Use np.matmul() instead of np.dot() for matrices at line 368",
+      "Use np.matmul() instead of np.dot() for matrices at line 476"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/drawing/image.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 273",
+      "Do not compare with np.nan. Use df.isna() instead at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/learn/ornmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 429"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/learn/rpca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 560"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/drawing/test_horizontal_plotting.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/drawing/test_plot_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/drawing/test_plot_mva.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 203",
+      "Use np.matmul() instead of np.dot() for matrices at line 220",
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/axes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 801"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/drawing/test_widget.py": {
+    "R2": [
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1592",
+      "Potential data leakage: model.fit() used without a pipeline at line 1603",
+      "Potential data leakage: model.fit() used without a pipeline at line 2394",
+      "Potential data leakage: model.fit() used without a pipeline at line 2451"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2071"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1592",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1603"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/signal_tools.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1392"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/learn/test_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_image_contrast_editor_tool.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_transpose.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/learn/test_decomposition.py": {
+    "R2": [
+      "Random Seed Not Set at line 569"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_signal_subclass_conversion.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_apodization.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/learn/mva.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1793",
+      "Potential data leakage: model.fit() used without a pipeline at line 946",
+      "Potential data leakage: model.fit() used without a pipeline at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_assign_subclass.py": {
+    "R2": [
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_spectrum.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_fancy_indexing.py": {
+    "R2": [
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_interpolate_on_axis.py": {
+    "R2": [
+      "Random Seed Not Set at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_cuda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_complex_signal.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/samfire/test_samfire.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/component/test_scalablefixedpattern.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/component/test_polynomial.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/component/test_backcompatibility.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_model_selection_criteria.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_fancy_indexing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/component/test_component.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_chi_squared.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/utils/test_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_model_storing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_model_convolution.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_model2d.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_fit_component.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_model_as_dictionary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 201"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/models/model1d.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_fitting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 377",
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 406",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 433",
+      "Potential data leakage: model.fit() used without a pipeline at line 439",
+      "Potential data leakage: model.fit() used without a pipeline at line 446",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 513",
+      "Potential data leakage: model.fit() used without a pipeline at line 520",
+      "Potential data leakage: model.fit() used without a pipeline at line 698",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 480",
+      "Potential data leakage: model.fit() used without a pipeline at line 484",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 497"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/samfire_utils/samfire_kernel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/samfire_utils/samfire_worker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/external/astropy/histogram.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/external/astropy/bayesian_blocks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 351"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/model/test_linear_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 733",
+      "Potential data leakage: model.fit() used without a pipeline at line 790",
+      "Potential data leakage: model.fit() used without a pipeline at line 820",
+      "Potential data leakage: model.fit() used without a pipeline at line 878",
+      "Potential data leakage: model.fit() used without a pipeline at line 906",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 273",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 513",
+      "Potential data leakage: model.fit() used without a pipeline at line 556",
+      "Potential data leakage: model.fit() used without a pipeline at line 572",
+      "Potential data leakage: model.fit() used without a pipeline at line 661",
+      "Potential data leakage: model.fit() used without a pipeline at line 666",
+      "Potential data leakage: model.fit() used without a pipeline at line 708",
+      "Potential data leakage: model.fit() used without a pipeline at line 716",
+      "Potential data leakage: model.fit() used without a pipeline at line 719",
+      "Potential data leakage: model.fit() used without a pipeline at line 744",
+      "Potential data leakage: model.fit() used without a pipeline at line 318",
+      "Potential data leakage: model.fit() used without a pipeline at line 610",
+      "Potential data leakage: model.fit() used without a pipeline at line 615",
+      "Potential data leakage: model.fit() used without a pipeline at line 702",
+      "Potential data leakage: model.fit() used without a pipeline at line 315"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/create_signal/spectrum_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/io/export_single_spectrum.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/create_signal/2D_image_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/create_signal/line_spectrum.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/model_fitting/simple_arctan_fit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/create_signal/1D_image_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/Markers/making_inset_images.py": {
+    "R2": [
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/extensions/model_convolution.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/examples/simple_simulations/two_gaussians.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/utils/test_roi.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 362",
+      "Do not compare with np.nan. Use df.isna() instead at line 363",
+      "Do not compare with np.nan. Use df.isna() instead at line 365",
+      "Do not compare with np.nan. Use df.isna() instead at line 366"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hyperspy_hyperspy/hyperspy-RELEASE_next_minor/hyperspy/tests/signals/test_map_method.py": {
+    "R2": [
+      "Random Seed Not Set at line 972",
+      "Random Seed Not Set at line 973",
+      "Random Seed Not Set at line 1159",
+      "Random Seed Not Set at line 1174",
+      "Random Seed Not Set at line 1258",
+      "Random Seed Not Set at line 678",
+      "Random Seed Not Set at line 692",
+      "Random Seed Not Set at line 693",
+      "Random Seed Not Set at line 694",
+      "Random Seed Not Set at line 726",
+      "Random Seed Not Set at line 1192",
+      "Random Seed Not Set at line 1265",
+      "Random Seed Not Set at line 1207"
+    ]
+  }
+}

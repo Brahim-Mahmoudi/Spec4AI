@@ -1,0 +1,152 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/openTSNE/sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_sklearn_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/benchmarks/benchmark_nns.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/benchmarks/benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_different_usages.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_correctness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 334"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 75",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 83",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 102",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 110",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 208",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/examples/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130",
+      "Use np.matmul() instead of np.dot() for matrices at line 103",
+      "Use np.matmul() instead of np.dot() for matrices at line 105"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_affinities.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 317"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/openTSNE/nearest_neighbors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 703"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_nearest_neighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pavlin-policar_openTSNE/openTSNE-master/tests/test_tsne.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 351",
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 381",
+      "Potential data leakage: model.fit() used without a pipeline at line 390",
+      "Potential data leakage: model.fit() used without a pipeline at line 441",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 458",
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 539",
+      "Potential data leakage: model.fit() used without a pipeline at line 561",
+      "Potential data leakage: model.fit() used without a pipeline at line 591",
+      "Potential data leakage: model.fit() used without a pipeline at line 594",
+      "Potential data leakage: model.fit() used without a pipeline at line 605",
+      "Potential data leakage: model.fit() used without a pipeline at line 608",
+      "Potential data leakage: model.fit() used without a pipeline at line 618",
+      "Potential data leakage: model.fit() used without a pipeline at line 921",
+      "Potential data leakage: model.fit() used without a pipeline at line 929",
+      "Potential data leakage: model.fit() used without a pipeline at line 941",
+      "Potential data leakage: model.fit() used without a pipeline at line 954",
+      "Potential data leakage: model.fit() used without a pipeline at line 967",
+      "Potential data leakage: model.fit() used without a pipeline at line 975",
+      "Potential data leakage: model.fit() used without a pipeline at line 990",
+      "Potential data leakage: model.fit() used without a pipeline at line 996",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 503",
+      "Potential data leakage: model.fit() used without a pipeline at line 1004"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 975"
+    ]
+  }
+}

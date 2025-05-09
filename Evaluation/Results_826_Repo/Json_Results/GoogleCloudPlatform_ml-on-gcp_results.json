@@ -1,0 +1,183 @@
+{
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/tensorflow/mlflow_gcp/trainer/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/sklearn/hpsearch/source/worker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/sklearn/titanic/titanic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 36"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/gce/burst-training/census-analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/gce/survival-training/wrapper/train_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/gce/survival-training/wrapper/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/tensorflow/mlflow_gcp/trainer/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 244"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 217",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/tensorflow/mlflow_gcp/trainer/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/logistic_regression/trainer/logistic_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 84"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/generative_adversarial_network/trainer/generative_adversarial_network.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/mnist/official/mnist/mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/grammar_vae/trainer/grammar_vae.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/tutorials/sklearn/hpsearch/gke_parallel.py": {
+    "R2": [
+      "Random Seed Not Set at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/bayesian_neural_network/trainer/bayesian_neural_network.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/keras_imagenet_main/official/resnet/keras/keras_imagenet_main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/latent_dirichlet_allocation_distributions/trainer/latent_dirichlet_allocation_distributions.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 459"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/latent_dirichlet_allocation_edward2/trainer/latent_dirichlet_allocation_edward2.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 466"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/vae/trainer/vae.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 465"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/keras_cifar_main/official/resnet/keras/keras_cifar_main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/probability/vq_vae/trainer/vq_vae.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 373"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/ncf_main/official/recommendation/stat_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/ncf_main/official/recommendation/data_preprocessing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/ncf_main/official/datasets/movielens.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 248",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_ml-on-gcp/ml-on-gcp-master/example_zoo/tensorflow/models/ncf_main/official/recommendation/neumf_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 328"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 405"
+    ]
+  }
+}

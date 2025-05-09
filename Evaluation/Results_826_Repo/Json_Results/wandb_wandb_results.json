@@ -1,0 +1,1008 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_torch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_profiler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tools/perf/scripts/bench_run_log.py": {
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_launch/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_file_stream.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_metaflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 249"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 235"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 159",
+      "Hyperparameter not explicitly set at line 163",
+      "Hyperparameter not explicitly set at line 196",
+      "Hyperparameter not explicitly set at line 249",
+      "Hyperparameter not explicitly set at line 253",
+      "Hyperparameter not explicitly set at line 282"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_step_upload.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_artifacts/saved_model_constructors.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 13",
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_lib/test_redir.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_media/test_media_logging.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_artifacts/test_storage.py": {
+    "R2": [
+      "Random Seed Not Set at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_system_metrics/test_open_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_dtypes.py": {
+    "R2": [
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 418",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 656",
+      "Random Seed Not Set at line 673",
+      "Random Seed Not Set at line 701",
+      "Random Seed Not Set at line 711",
+      "Random Seed Not Set at line 691",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 502",
+      "Random Seed Not Set at line 521",
+      "Random Seed Not Set at line 543"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_artifacts/test_misc.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_artifacts/test_data_types.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/unit_tests/test_data_types.py": {
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 415",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 590",
+      "Random Seed Not Set at line 598",
+      "Random Seed Not Set at line 605",
+      "Random Seed Not Set at line 1009",
+      "Random Seed Not Set at line 1010",
+      "Random Seed Not Set at line 1011",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 1046",
+      "Random Seed Not Set at line 1074",
+      "Random Seed Not Set at line 1044",
+      "Random Seed Not Set at line 1049",
+      "Random Seed Not Set at line 1077",
+      "Random Seed Not Set at line 1452",
+      "Random Seed Not Set at line 1047",
+      "Random Seed Not Set at line 1065",
+      "Random Seed Not Set at line 1075",
+      "Random Seed Not Set at line 1471",
+      "Random Seed Not Set at line 1475",
+      "Random Seed Not Set at line 1051",
+      "Random Seed Not Set at line 1079"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_core/test_footer.py": {
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_core/test_torch_full.py": {
+    "R2": [
+      "Random Seed Not Set at line 195"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 221",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 239",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/keras/keras_deprecated.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/keras/keras_model_checkpoint.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/keras/keras_metrics_logger.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/keras/keras_metrics_logger_epochwise.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/lightning/strategy_ddp_spawn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/keras/keras_eval_tables_builder.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/lightning/strategy_ddp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/lightning/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/xgboost/classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/xgboost/regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_importers/test_wandb/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_core/test_wandb_run.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/metaflow/flow_decostep.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/metaflow/flow_decoclass.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/metaflow/flow_foreach.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/metaflow/flow_decoboth.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/catboost/regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/test_tensorboard/test_tensorboardX.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/test_tensorboard/test_keras_tb_callback.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_artifacts/test_wandb_artifacts_full.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/assets/scripts/eval.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/assets/scripts/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/log-image-artifact-path.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_artifacts/test_object_references.py": {
+    "R2": [
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 1028",
+      "Random Seed Not Set at line 1039",
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/metaflow/flow_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/link-model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/link-model-outside-run.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/use-and-link-model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/core/t5_log_media.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/core/t6_log_images.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/diffusers/t4_audioldm2_generation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/public-link-model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/diffusers/t3_sd_batched_generation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/diffusers/t2_pixart_alpha_generation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/log-model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/diffusers/t5_animatediff_generation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/diffusers/t1_sdxl_generation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/artifacts/use-model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sacred/t1_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_core/test_wandb.py": {
+    "R2": [
+      "Random Seed Not Set at line 505"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/kfp/kfp-pipeline-simple.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightning_fabric/test_lightning_trainer_logging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/test_tensorboard/test_torch_tb.py": {
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 152"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/plot_learning_curve-basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 34"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/t2_fix_error_cond_feature_importances.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 42"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/torch/t3_ddp_basic.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightning_fabric/test_logger_logging.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/plot_summary_metrics-basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 36"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/feature_importance_attribute_exists_for_elasticnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/t1_plot_calibration_curve_nonbinary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 49",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 58"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/fastai/t1_v1.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/feature_importance_attribute_exists_for_randomforest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/feature_importance_attribute_does_not_exist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/plot_classifier-basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 53"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/torch/t1_sparse_tensors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/sklearn/plot_regressor-basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_functional/test_tensorboard/test_tf_summary.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/mp/01-2-simple-no-finish.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/kfp/kfp-pipeline-sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 150"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/torch/t2_mp_simple.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/kfp/kfp-pipeline-helper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 252"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightning_fabric/pl_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightgbm/t2_regression.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightning_fabric/test_fabric_logging.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/lightgbm/t1_regression.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/prefect_ray/t1_prefect_ray_workflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/kfp/kfp-pipeline-pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 224"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 137"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 162"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/functional_tests/profiler/profiler.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/resume-empty.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/pytorch_cuda.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/table_mem_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/point_cloud_scene.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/point_cloud.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/tweets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/sparse_tensors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/basic_plots.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/all_media_types.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/landfill/standalone_tests/simpsons_data_frames.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/tests/system_tests/test_artifacts/test_wandb_artifacts.py": {
+    "R2": [
+      "Random Seed Not Set at line 1386",
+      "Random Seed Not Set at line 1387",
+      "Random Seed Not Set at line 1408",
+      "Random Seed Not Set at line 1409"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/wandb_controller.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/plot/classifier.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/calculate/outlier_candidates.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/calculate/elbow_curve.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/calculate/residuals.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/calculate/calibration_curves.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/sklearn/calculate/summary_metrics.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/metaflow/metaflow.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/torch/wandb_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/ultralytics/callback.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/keras/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 941"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 810"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 1909"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 572"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/integration/openai/fine_tuning.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 252",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 471"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 251",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 470"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/sdk/internal/file_stream.py": {
+    "R2": [
+      "Random Seed Not Set at line 662"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/sdk/lib/retry.py": {
+    "R2": [
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/r.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/erlang.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 173",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 506"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/ruby.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/shell.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/matlab.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/markup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/dylan.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/julia.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/sql.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 630"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/lexers/python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 445"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/wandb_wandb/wandb-main/wandb/vendor/pygments/formatters/latex.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 352",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 357"
+    ]
+  }
+}

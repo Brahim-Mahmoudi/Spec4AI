@@ -1,0 +1,36 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/PacktPublishing_Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition/Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition-master/Chapter14/data_preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PacktPublishing_Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition/Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition-master/Chapter14/text_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PacktPublishing_Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition/Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition-master/Chapter14/k_means.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 10"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 3",
+      "Random Seed Not Set at line 4"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PacktPublishing_Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition/Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition-master/Chapter14/visualization.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57"
+    ]
+  }
+}

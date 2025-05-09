@@ -1,0 +1,1601 @@
+{
+  "PeterHamfelt_mlflow/mlflow-master/tests/helper_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/generate_ui_test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/shap/test_shap.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 233"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/shap/test_log.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 147"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 148"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/onnx/test_onnx_model_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 217"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/xgboost/test_xgboost_autolog.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 259"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/resources/onnx/generate_onnx_models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 73"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 74"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/resources/mlflow-test-plugin/mlflow_test_plugin/dummy_evaluator.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 25"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/paddle/test_paddle_model_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 430"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/paddle/test_paddle_autolog.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 26"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/gluon/test_gluon_autolog.py": {
+    "R2": [
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 152",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 175"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 213"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/gluon/test_gluon_model_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 89"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 118"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pmdarima/test_pmdarima_model_export.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/utils/test_model_utils.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 23"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_model.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_signature.py": {
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_model_input_examples.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 317"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_wheeled_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 344"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_cli.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 163",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 208",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 230",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 255",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 279",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 302",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 329"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 207",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 229",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 254",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 278",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 301",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 328"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sklearn/test_sklearn_model_export.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 94",
+      "Hyperparameter not explicitly set at line 638"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 95"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sklearn/test_sklearn_autolog_without_matplotlib.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sklearn/test_sklearn_autolog.py": {
+    "R2": [
+      "Random Seed Not Set at line 534",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 1213",
+      "Random Seed Not Set at line 1215"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 192",
+      "Hyperparameter not explicitly set at line 332",
+      "Hyperparameter not explicitly set at line 454",
+      "Hyperparameter not explicitly set at line 667",
+      "Hyperparameter not explicitly set at line 690",
+      "Hyperparameter not explicitly set at line 769",
+      "Hyperparameter not explicitly set at line 903",
+      "Hyperparameter not explicitly set at line 1002",
+      "Hyperparameter not explicitly set at line 1021",
+      "Hyperparameter not explicitly set at line 1161",
+      "Hyperparameter not explicitly set at line 1286",
+      "Hyperparameter not explicitly set at line 1313",
+      "Hyperparameter not explicitly set at line 1463",
+      "Hyperparameter not explicitly set at line 1600",
+      "Hyperparameter not explicitly set at line 1685",
+      "Hyperparameter not explicitly set at line 1772",
+      "Hyperparameter not explicitly set at line 434",
+      "Hyperparameter not explicitly set at line 726",
+      "Hyperparameter not explicitly set at line 876",
+      "Hyperparameter not explicitly set at line 964",
+      "Hyperparameter not explicitly set at line 1040",
+      "Hyperparameter not explicitly set at line 1055",
+      "Hyperparameter not explicitly set at line 1072",
+      "Hyperparameter not explicitly set at line 1085",
+      "Hyperparameter not explicitly set at line 1099",
+      "Hyperparameter not explicitly set at line 1126",
+      "Hyperparameter not explicitly set at line 183",
+      "Hyperparameter not explicitly set at line 364",
+      "Hyperparameter not explicitly set at line 399",
+      "Hyperparameter not explicitly set at line 1450",
+      "Hyperparameter not explicitly set at line 1537",
+      "Hyperparameter not explicitly set at line 1617",
+      "Hyperparameter not explicitly set at line 1653",
+      "Hyperparameter not explicitly set at line 1738"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 835",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 856"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 970"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1162",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 64",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 370",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 435",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 495",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 579",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 617",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 676",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 699",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 906",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1005",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1025",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1041",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1056",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1073",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1086",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1100",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1127",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1272",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1290",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1348",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1438",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1623",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1659",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1776",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 400",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 459",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 538",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1693",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 461",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 540",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 463"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 966",
+      "Potential data leakage: model.fit() used without a pipeline at line 1162",
+      "Potential data leakage: model.fit() used without a pipeline at line 1450",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 435",
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 579",
+      "Potential data leakage: model.fit() used without a pipeline at line 617",
+      "Potential data leakage: model.fit() used without a pipeline at line 642",
+      "Potential data leakage: model.fit() used without a pipeline at line 657",
+      "Potential data leakage: model.fit() used without a pipeline at line 676",
+      "Potential data leakage: model.fit() used without a pipeline at line 699",
+      "Potential data leakage: model.fit() used without a pipeline at line 730",
+      "Potential data leakage: model.fit() used without a pipeline at line 880",
+      "Potential data leakage: model.fit() used without a pipeline at line 906",
+      "Potential data leakage: model.fit() used without a pipeline at line 1005",
+      "Potential data leakage: model.fit() used without a pipeline at line 1025",
+      "Potential data leakage: model.fit() used without a pipeline at line 1041",
+      "Potential data leakage: model.fit() used without a pipeline at line 1056",
+      "Potential data leakage: model.fit() used without a pipeline at line 1073",
+      "Potential data leakage: model.fit() used without a pipeline at line 1086",
+      "Potential data leakage: model.fit() used without a pipeline at line 1100",
+      "Potential data leakage: model.fit() used without a pipeline at line 1127",
+      "Potential data leakage: model.fit() used without a pipeline at line 1214",
+      "Potential data leakage: model.fit() used without a pipeline at line 1272",
+      "Potential data leakage: model.fit() used without a pipeline at line 1290",
+      "Potential data leakage: model.fit() used without a pipeline at line 1348",
+      "Potential data leakage: model.fit() used without a pipeline at line 1438",
+      "Potential data leakage: model.fit() used without a pipeline at line 1494",
+      "Potential data leakage: model.fit() used without a pipeline at line 1497",
+      "Potential data leakage: model.fit() used without a pipeline at line 1564",
+      "Potential data leakage: model.fit() used without a pipeline at line 1623",
+      "Potential data leakage: model.fit() used without a pipeline at line 1659",
+      "Potential data leakage: model.fit() used without a pipeline at line 1719",
+      "Potential data leakage: model.fit() used without a pipeline at line 1738",
+      "Potential data leakage: model.fit() used without a pipeline at line 1776",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 459",
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 775",
+      "Potential data leakage: model.fit() used without a pipeline at line 1261",
+      "Potential data leakage: model.fit() used without a pipeline at line 1470",
+      "Potential data leakage: model.fit() used without a pipeline at line 1541",
+      "Potential data leakage: model.fit() used without a pipeline at line 1693",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 540",
+      "Potential data leakage: model.fit() used without a pipeline at line 778",
+      "Potential data leakage: model.fit() used without a pipeline at line 463"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/evaluate/test_evaluation.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 240",
+      "Hyperparameter not explicitly set at line 298",
+      "Hyperparameter not explicitly set at line 1219",
+      "Hyperparameter not explicitly set at line 223"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 280",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 299",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 316",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1220"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 1220"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/evaluate/test_default_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 405"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1717",
+      "Hyperparameter not explicitly set at line 1794",
+      "Hyperparameter not explicitly set at line 1866",
+      "Hyperparameter not explicitly set at line 1891",
+      "Hyperparameter not explicitly set at line 1915",
+      "Hyperparameter not explicitly set at line 1939",
+      "Hyperparameter not explicitly set at line 1757"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1795",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1867",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1892",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1724"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/transformers/test_transformers_autolog.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 354",
+      "Hyperparameter not explicitly set at line 390",
+      "Hyperparameter not explicitly set at line 430",
+      "Hyperparameter not explicitly set at line 472"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 356",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 392",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 432",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 474"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 474"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/prophet/test_prophet_model_export.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/fastai/test_fastai_model_export.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/fastai/test_fastai_autolog.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/helper_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 59",
+      "Hyperparameter not explicitly set at line 72"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 60",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 73"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/test_train_step.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 365",
+      "Hyperparameter not explicitly set at line 371"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/test_ingest_step.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 98",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 186",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 217",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 407"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/test_load_saved_tensorflow_estimator.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 225"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/test_tensorflow2_metric_value_conversion_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/save_keras_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 22"
+    ],
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 91",
+      "Hyperparameter not explicitly set at line 119",
+      "Hyperparameter not explicitly set at line 121",
+      "Hyperparameter not explicitly set at line 168"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 334",
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 475",
+      "Potential data leakage: model.fit() used without a pipeline at line 550",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 618",
+      "Potential data leakage: model.fit() used without a pipeline at line 732",
+      "Potential data leakage: model.fit() used without a pipeline at line 962",
+      "Potential data leakage: model.fit() used without a pipeline at line 1331",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 630",
+      "Potential data leakage: model.fit() used without a pipeline at line 658",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 940",
+      "Potential data leakage: model.fit() used without a pipeline at line 942",
+      "Potential data leakage: model.fit() used without a pipeline at line 984",
+      "Potential data leakage: model.fit() used without a pipeline at line 1081",
+      "Potential data leakage: model.fit() used without a pipeline at line 1092",
+      "Potential data leakage: model.fit() used without a pipeline at line 1111",
+      "Potential data leakage: model.fit() used without a pipeline at line 1144",
+      "Potential data leakage: model.fit() used without a pipeline at line 1210",
+      "Potential data leakage: model.fit() used without a pipeline at line 1220",
+      "Potential data leakage: model.fit() used without a pipeline at line 1236",
+      "Potential data leakage: model.fit() used without a pipeline at line 1252",
+      "Potential data leakage: model.fit() used without a pipeline at line 1266",
+      "Potential data leakage: model.fit() used without a pipeline at line 1282",
+      "Potential data leakage: model.fit() used without a pipeline at line 1299",
+      "Potential data leakage: model.fit() used without a pipeline at line 1311",
+      "Potential data leakage: model.fit() used without a pipeline at line 1323",
+      "Potential data leakage: model.fit() used without a pipeline at line 584",
+      "Potential data leakage: model.fit() used without a pipeline at line 587"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 81",
+      "Hyperparameter not explicitly set at line 112",
+      "Hyperparameter not explicitly set at line 144",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 113",
+      "Hyperparameter not explicitly set at line 146"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/test_keras_model_export.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 117"
+    ],
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/iris_data_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/autologging/test_autologging_behaviors_unit.py": {
+    "R2": [
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 221"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 265"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 181",
+      "Hyperparameter not explicitly set at line 263"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 135",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 145",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 158",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 168",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 216"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 266"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/autologging/test_autologging_utils.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 587"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 590",
+      "Potential data leakage: model.fit() used without a pipeline at line 605",
+      "Potential data leakage: model.fit() used without a pipeline at line 598"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/diviner/test_diviner_model_export.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/db/check_migration.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 99",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 110"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/test_log_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/test_rest_tracking.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 1566"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/test_tracking.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 882",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 898",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 915",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 947",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 963"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/fluent/test_fluent.py": {
+    "R2": [
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 288",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 1018",
+      "Random Seed Not Set at line 1039"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/fluent/test_fluent_autolog.py": {
+    "R2": [
+      "Random Seed Not Set at line 312"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 313"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/fluent/test_metric_value_conversion_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/lightgbm/test_lightgbm_autolog.py": {
+    "R2": [
+      "Random Seed Not Set at line 463",
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 465"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 252"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spacy/test_spacy_model_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 424"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/test_pytorch_metric_value_conversion_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/test_pytorch_model_export.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 877"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 576",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 611",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 665"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/iris.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/test_pytorch_autolog.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 333",
+      "Hyperparameter not explicitly set at line 344"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 405"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/iris_data_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/statsmodels/model_fixtures.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 31"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/data/test_http_dataset_source.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/data/test_tensorflow_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 363",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/entities/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spark/test_spark_model_export.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 184"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spark/autologging/datasource/test_spark_datasource_autologging_crossframework.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 23"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 236",
+      "Hyperparameter not explicitly set at line 265",
+      "Hyperparameter not explicitly set at line 282",
+      "Hyperparameter not explicitly set at line 324",
+      "Hyperparameter not explicitly set at line 367",
+      "Hyperparameter not explicitly set at line 1216",
+      "Hyperparameter not explicitly set at line 189",
+      "Hyperparameter not explicitly set at line 352",
+      "Hyperparameter not explicitly set at line 379",
+      "Hyperparameter not explicitly set at line 990",
+      "Hyperparameter not explicitly set at line 1081",
+      "Hyperparameter not explicitly set at line 1110",
+      "Hyperparameter not explicitly set at line 1165"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 121"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 178"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 237",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 767",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1227",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 268",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 328",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 430",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 517",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 731",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 749",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 787",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 878",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 881",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 991",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1030",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1042",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1070",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 193",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 354",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 357",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 381",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 384",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 482",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 918",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 948",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 291"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sagemaker/test_sagemaker_deployment_client.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sagemaker/test_batch_deployment.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 44"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/store/tracking/test_file_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 382"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/store/artifact/test_sftp_artifact_repo.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 208"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_virtualenv.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_spark.py": {
+    "R2": [
+      "Random Seed Not Set at line 853",
+      "Random Seed Not Set at line 885"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 974"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 142"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_model_export_with_loader_module_and_data_path.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 69"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_scoring_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 436"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 110"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 105"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_dependencies_functions.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 244"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 1093"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 490"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 97",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 105"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_pyfunc_schema_enforcement.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 28"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 179",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 186"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/transformers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/paddle/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 467"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/utils/name_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/models/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 127",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 124",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 126",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 671",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 679",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 694"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/models/evaluation/artifacts.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/sklearn/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 786"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 797"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/recipes/cards/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/recipes/steps/automl/flaml.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/tracking/client.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1536",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1669"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/pytorch/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 757"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/deployments/cli.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 309",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 352"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/store/tracking/sqlalchemy_store.py": {
+    "R2": [
+      "Random Seed Not Set at line 1194"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/pyfunc/scoring_server/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/keras/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/docker/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/explainer_logging.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/regression.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/multiclass_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 18"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/binary_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/rapids/mlflow_project/src/rf_test/train_simple.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 42"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/rapids/mlflow_project/src/rf_test/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 45"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/supply_chain_security/train.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 18"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_elasticnet_wine/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 61"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sktime/test_sktime_model_export.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sktime/train.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_logistic_regression/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 11"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 12"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_autolog/grid_search_cv.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 16"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_autolog/pipeline.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 21"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_autolog/linear_regression.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 16"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/xgboost/xgboost_sklearn/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/flower_classifier/train.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 223"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/paddle/train_high_level_api.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/paddle/train_low_level_api.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 16"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/databricks/log_runs.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 46"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/spark_udf/spark_udf.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 10"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 10"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/spark_udf/spark_udf_datetime.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/gluon/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/hyperparam/train.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/transformers/sentence_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_elasticnet_diabetes/osx/train_diabetes.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_elasticnet_diabetes/linux/train_diabetes.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/prophet/train.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/tensorflow/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 93"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/diviner/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/multistep_workflow/train_keras.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_with_custom_metrics_comprehensive.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 22"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_on_regressor.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 15"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_on_binary_classifier.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 14"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_on_multiclass_classifier.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_with_custom_metrics.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 20"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/evaluation/evaluate_with_model_validation.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 15"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/ray_serve/train_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 23"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/lightgbm/lightgbm_sklearn/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/llms/summarization/summarization.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/spacy/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/mnist_tensorboard_artifact.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/MNIST/mnist_autolog_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris_data_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/ax_hpo_iris.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/BertNewsClassification/bert_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 377"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/CaptumExample/Titanic_Captum_Interpret.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/IterativePruning/iterative_prune_mnist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/IterativePruning/mnist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/torchscript/MNIST/mnist_torchscript.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/torchscript/IrisClassification/iris_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/statsmodels/train.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pyspark_ml_autologging/one_vs_rest.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pyspark_ml_autologging/logistic_regression.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 18"
+    ],
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/catboost/train.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/remote_store/remote_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pyfunc/train.py": {
+    "R11": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  }
+}

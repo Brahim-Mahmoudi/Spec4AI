@@ -1,0 +1,156 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/queries/uncertain.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/queries/cesa_bianchi.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/queries/gornitz.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/monitoring/cluster_eval.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/queries/categories.py": {
+    "R2": [
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/monitoring/labels.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 100; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/tools/plots/density.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/active_learning/monitoring/suggestions_accuracy.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/clustering/cluster.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/classif/conf/test/random_split.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/classif/conf/test/cv.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/projection/algos/unsupervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/projection/algos/rca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/projection/algos/semi_supervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/projection/algos/pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/classif/classifiers/weighted_isolation_forest.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/web/views/active_learning/queries.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/web/views/active_learning/active_learning.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 73",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/classif/classifiers/sssvdd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/web/views/features_analysis/features_analysis.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 48",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 83",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 71"
+    ],
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 51",
+      "API call might be missing reassignment or inplace=True at line 72"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/core/classif/classifiers/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/exp/active_learning/monitoring/exec_times.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/exp/clustering/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/exp/active_learning/monitoring/model_perf.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/exp/projection/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANSSI-FR_SecuML/SecuML-master/secuml/exp/data/load_features.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 179",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 186",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 191",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 177"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 176"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/reader/interactive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/pipeline/interactive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/reader/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/pipeline/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/reader/rnn_reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/reader/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/reader/vector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/reader/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/distant/generate.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/pipeline/drqa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/drqa/reader/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 279"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_DrQA/DrQA-main/scripts/reader/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

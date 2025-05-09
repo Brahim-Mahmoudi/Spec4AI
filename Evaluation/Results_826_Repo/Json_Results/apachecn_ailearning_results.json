@@ -1,0 +1,565 @@
+{
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/8.Regression/sklearn-regression-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/5.Logistic/sklearn_logisticRegression_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/4.NaiveBayes/sklearn-nb-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/6.SVM/sklearn-svm-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/10.kmeans/kMeansSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/7.AdaBoost/sklearn-adaboost-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/9.RegTrees/RTSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/9.RegTrees/sklearn-regressTree-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/tutorials/keras/text_NER.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/5.Logistic/logistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/tutorials/RecommenderSystems/rs_rating_demo.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 240"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/2.KNN/sklearn-knn-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/tutorials/RecommenderSystems/rs_content_demo.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/15.BigData_MapReduce/mrSVMkickStart.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/6.SVM/svm-simple.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/7.AdaBoost/adaboost.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/3.DecisionTree/skelearn_dts_regressor_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/3.DecisionTree/sklearn_dts_classify_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/3.DecisionTree/DTSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/6.SVM/svm-complete_Non-Kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/15.BigData_MapReduce/mrSVM.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/4.NaiveBayes/bayes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 129"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/15.BigData_MapReduce/pegasos.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/8.Regression/sklearn-regression-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/recursive.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107",
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 86"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 47"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 153",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 183",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/ml/6.SVM/svm-complete.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/fc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 44"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 53",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 114",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/6.SVM/sklearn-svm-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/4.NaiveBayes/sklearn-nb-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/rnn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 97",
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 32"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/5.Logistic/sklearn_logisticRegression_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 202"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/10.kmeans/kMeansSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/7.AdaBoost/sklearn-adaboost-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/9.RegTrees/RTSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/9.RegTrees/sklearn-regressTree-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/5.Logistic/logistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/bp.py": {
+    "R2": [
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 767"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/6.SVM/svm-simple.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/6.SVM/svm-complete_Non-Kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/lstm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 231",
+      "Use np.matmul() instead of np.dot() for matrices at line 232",
+      "Use np.matmul() instead of np.dot() for matrices at line 233",
+      "Use np.matmul() instead of np.dot() for matrices at line 234",
+      "Use np.matmul() instead of np.dot() for matrices at line 252",
+      "Use np.matmul() instead of np.dot() for matrices at line 254",
+      "Use np.matmul() instead of np.dot() for matrices at line 256",
+      "Use np.matmul() instead of np.dot() for matrices at line 258",
+      "Use np.matmul() instead of np.dot() for matrices at line 102",
+      "Use np.matmul() instead of np.dot() for matrices at line 187",
+      "Use np.matmul() instead of np.dot() for matrices at line 186",
+      "Use np.matmul() instead of np.dot() for matrices at line 184",
+      "Use np.matmul() instead of np.dot() for matrices at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 64"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 168",
+      "Use module() instead of forward() at line 94"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 305",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 333",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 173",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/7.AdaBoost/adaboost.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/16.RecommenderSystems/python/Recommender.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/16.RecommenderSystems/test_lfm.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/2.KNN/sklearn-knn-demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py2.x/dl/cnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 395",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 416",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 465"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/15.BigData_MapReduce/mrSVMkickStart.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/4.NaiveBayes/bayes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/3.DecisionTree/skelearn_dts_regressor_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/8.Regression/regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/3.DecisionTree/sklearn_dts_classify_demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/6.SVM/svm-complete.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/3.DecisionTree/DTSklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/15.BigData_MapReduce/mrSVM.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/16.RecommenderSystems/sklearn-RS-demo-cf-item-test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/ml/15.BigData_MapReduce/pegasos.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/quickstart.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/zh-NER-keras-master/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 6"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/recursive.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 85"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 46"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 152",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 182",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/overfit_and_underfit.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/rnn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 32",
+      "Use np.matmul() instead of np.dot() for matrices at line 33",
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/fc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 39"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 48",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 109",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/text_PoetryModel.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/text_Emotion.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 237"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/bp.py": {
+    "R2": [
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 767"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/tensorflow2.x/text_bert.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 48"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 111",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 112"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/lstm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 230",
+      "Use np.matmul() instead of np.dot() for matrices at line 231",
+      "Use np.matmul() instead of np.dot() for matrices at line 232",
+      "Use np.matmul() instead of np.dot() for matrices at line 233",
+      "Use np.matmul() instead of np.dot() for matrices at line 251",
+      "Use np.matmul() instead of np.dot() for matrices at line 253",
+      "Use np.matmul() instead of np.dot() for matrices at line 255",
+      "Use np.matmul() instead of np.dot() for matrices at line 257",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 186",
+      "Use np.matmul() instead of np.dot() for matrices at line 185",
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 184"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 63"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 167",
+      "Use module() instead of forward() at line 93"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 304",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 332",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 172",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 175",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/apachecn_ailearning/ailearning-master/src/py3.x/dl/cnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 376",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 398",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 450"
+    ]
+  }
+}

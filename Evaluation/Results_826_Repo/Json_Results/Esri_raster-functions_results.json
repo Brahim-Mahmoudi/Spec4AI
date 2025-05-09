@@ -1,0 +1,50 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/KNearestNeighborsClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/GradientBoostedClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/SeasonalARIMA.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/NearestNeighborsClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/RandomForestClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Esri_raster-functions/raster-functions-master/functions/NearestNeighborClassifier_SKLearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93"
+    ]
+  }
+}

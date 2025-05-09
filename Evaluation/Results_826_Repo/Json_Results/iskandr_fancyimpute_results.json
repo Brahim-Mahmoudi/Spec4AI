@@ -1,0 +1,39 @@
+{
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/test/low_rank_data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/fancyimpute/common.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/fancyimpute/soft_impute.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/fancyimpute/matrix_factorization.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/experiments/readme_example.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 13"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/iskandr_fancyimpute/fancyimpute-master/fancyimpute/scaler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 398"
+    ]
+  }
+}

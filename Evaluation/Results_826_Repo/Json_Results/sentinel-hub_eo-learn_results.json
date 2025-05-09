@@ -1,0 +1,40 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/tests/core/test_utils/test_raster.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/tests/features/test_feature_manipulation.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/tests/io/test_raster_io.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/tests/core/test_core_tasks.py": {
+    "R2": [
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/tests/core/test_eodata.py": {
+    "R2": [
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 430"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/eolearn/features/extra/clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sentinel-hub_eo-learn/eo-learn-master/eolearn/features/extra/interpolation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 509"
+    ]
+  }
+}

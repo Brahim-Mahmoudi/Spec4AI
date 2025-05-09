@@ -1,0 +1,582 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/misc/random.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/misc/init_like_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/misc/async_.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/q_functions/state_action_q_functions.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/q_functions/state_q_functions.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/reinforce.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/misc/prioritized.py": {
+    "R2": [
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/nsq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/experiments/evaluator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/policies/deterministic_policy.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/a3c.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 168"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/explorers/boltzmann.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/soft_actor_critic.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/pcl.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/explorers/additive_gaussian.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/explorers/additive_ou.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/a2c.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/explorers/epsilon_greedy.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/envs/abc.py": {
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tools/plot_scores.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/dqn.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/acer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 211"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 497"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/envs/ale.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 144"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/functions_tests/test_invert_gradients.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 35",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 50",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 55",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/links_tests/test_mlp_bn.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/optimizer_tests/test_nonbias_weight_decay.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/misc_tests/test_random_seed.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/links_tests/test_noisy_chain.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 73",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/links_tests/test_empirical_normalization.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/misc_tests/test_prioritized.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/trpo.py": {
+    "R2": [
+      "Random Seed Not Set at line 323"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/misc_tests/test_copy_param.py": {
+    "R2": [
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 102"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/q_functions_tests/basetest_state_action_q_function.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/chainerrl/agents/ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 554"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/explorers_tests/test_additive_ou.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/policies_tests/test_deterministic_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/test_action_value.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/misc_tests/test_async.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 172",
+      "Hyperparameter not explicitly set at line 175",
+      "Hyperparameter not explicitly set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/test_distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_nsq.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/misc_tests/test_pretrained_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 107"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 261",
+      "Hyperparameter not explicitly set at line 262",
+      "Hyperparameter not explicitly set at line 333",
+      "Hyperparameter not explicitly set at line 460",
+      "Hyperparameter not explicitly set at line 529",
+      "Hyperparameter not explicitly set at line 560",
+      "Hyperparameter not explicitly set at line 442",
+      "Hyperparameter not explicitly set at line 540"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_pcl.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_soft_actor_critic.py": {
+    "R2": [
+      "Random Seed Not Set at line 209"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 187",
+      "Hyperparameter not explicitly set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_a3c.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_td3.py": {
+    "R2": [
+      "Random Seed Not Set at line 203"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 178",
+      "Hyperparameter not explicitly set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/basetest_pgt.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_iqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/basetest_dqn_like.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_reinforce.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_categorical_dqn_ale.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_agents.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 88",
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 121",
+      "Hyperparameter not explicitly set at line 138",
+      "Hyperparameter not explicitly set at line 155",
+      "Hyperparameter not explicitly set at line 180",
+      "Hyperparameter not explicitly set at line 182",
+      "Hyperparameter not explicitly set at line 201",
+      "Hyperparameter not explicitly set at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_acer_ale.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_drqn_ale.py": {
+    "R2": [
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_categorical_dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_dqn_ale.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_nsq_ale.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_trpo.py": {
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_double_iqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_dqn_batch_ale.py": {
+    "R2": [
+      "Random Seed Not Set at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/train_a3c_ale.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/reproduction/dqn/train_dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/links_tests/test_stateless_recurrent.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/tests/agents_tests/test_acer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 46",
+      "Use np.matmul() instead of np.dot() for matrices at line 149"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 279"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 289",
+      "Hyperparameter not explicitly set at line 376",
+      "Hyperparameter not explicitly set at line 391"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 165",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 194",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 215",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/mujoco/train_trpo_gym.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atari/reproduction/iqn/train_iqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/mujoco/reproduction/ddpg/train_ddpg.py": {
+    "R2": [
+      "Random Seed Not Set at line 151"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 139",
+      "Hyperparameter not explicitly set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/mujoco/reproduction/trpo/train_trpo.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/mujoco/reproduction/soft_actor_critic/train_soft_actor_critic.py": {
+    "R2": [
+      "Random Seed Not Set at line 185"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 150",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/mujoco/reproduction/td3/train_td3.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 116",
+      "Hyperparameter not explicitly set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/gym/train_iqn_gym.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/gym/train_categorical_dqn_gym.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/gym/train_a3c_gym.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 68",
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/gym/train_dqn_gym.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/grasping/train_dqn_batch_grasping.py": {
+    "R2": [
+      "Random Seed Not Set at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainerrl/chainerrl-master/examples/atlas/train_soft_actor_critic_atlas.py": {
+    "R2": [
+      "Random Seed Not Set at line 193"
+    ]
+  }
+}

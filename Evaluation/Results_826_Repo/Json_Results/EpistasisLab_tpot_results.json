@@ -1,0 +1,139 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/search_spaces/nodes/fss_node.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 92; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tests/test_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/passkbinsdiscretizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/objectives/tests/test_number_of_nodes.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 22",
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 24",
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 65",
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 97",
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 99",
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 58",
+      "Hyperparameter not explicitly set at line 111",
+      "Hyperparameter not explicitly set at line 113",
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/graphsklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/imputer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/utils/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 148"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 149; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/estimatortransformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/tests/feature_set_selector_tests.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/column_one_hot_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/builtin_modules/nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 345"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tpot_estimator/cross_val_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tpot_estimator/estimator_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tpot_estimator/templates/tpottemplates.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 568"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tpot_estimator/steady_state_estimator.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 580"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 910"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/EpistasisLab_tpot/tpot-main/tpot/tpot_estimator/estimator.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 537"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 907"
+    ]
+  }
+}

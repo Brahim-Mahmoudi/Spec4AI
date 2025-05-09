@@ -1,0 +1,585 @@
+{
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/preprocessing.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 30",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 33",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/build_datasets.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 12",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/clustering_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 95",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 101",
+      "Hyperparameter not explicitly set at line 102",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/initializations.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/wrappers/scikit_learn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/layers/noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/layers/containers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 40",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 64",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 154",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 170",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_embeddings.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_optimizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_regularizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_loss_masking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_shape_inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 97"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/keras/test_constraints.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/keras/layers/test_recurrent.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_loss_weighting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/keras/test_normalization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 52",
+      "Hyperparameter not explicitly set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_constraints.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 45",
+      "Hyperparameter not explicitly set at line 72",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 68",
+      "Hyperparameter not explicitly set at line 81",
+      "Hyperparameter not explicitly set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/preprocessing/image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 187",
+      "Use np.matmul() instead of np.dot() for matrices at line 249",
+      "Use np.matmul() instead of np.dot() for matrices at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/keras/layers/test_core.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_wrappers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 92",
+      "Hyperparameter not explicitly set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/keras/layers/test_convolutional.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 120",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_model_utils.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 13",
+      "Hyperparameter not explicitly set at line 17",
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 33",
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_yaml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_graph_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 202"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 50",
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 54",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 77",
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 101",
+      "Hyperparameter not explicitly set at line 102",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 123",
+      "Hyperparameter not explicitly set at line 124",
+      "Hyperparameter not explicitly set at line 138",
+      "Hyperparameter not explicitly set at line 139",
+      "Hyperparameter not explicitly set at line 140",
+      "Hyperparameter not explicitly set at line 170",
+      "Hyperparameter not explicitly set at line 171",
+      "Hyperparameter not explicitly set at line 172",
+      "Hyperparameter not explicitly set at line 178",
+      "Hyperparameter not explicitly set at line 196",
+      "Hyperparameter not explicitly set at line 197",
+      "Hyperparameter not explicitly set at line 198",
+      "Hyperparameter not explicitly set at line 199",
+      "Hyperparameter not explicitly set at line 221",
+      "Hyperparameter not explicitly set at line 223",
+      "Hyperparameter not explicitly set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_masked_recurrent.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/mnist_mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 49",
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/imdb_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/mnist_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/imdb_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 52",
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/mnist_irnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/imdb_bidirectional_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 451"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/reuters_mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/imdb_cnn_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 70",
+      "Hyperparameter not explicitly set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/lstm_text_generation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/models.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/kaggle_otto_nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 42"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 103",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/manual/check_callbacks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 209",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 220"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 194",
+      "Hyperparameter not explicitly set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/mnist_transfer_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 94",
+      "Hyperparameter not explicitly set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/skipgram_word_embeddings.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/cifar10_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/babi_rnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/addition_rnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/examples/babi_memnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 189",
+      "Hyperparameter not explicitly set at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/tests/auto/test_sequential_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 261",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 294",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 351",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 353",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 355"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 323"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 38",
+      "Hyperparameter not explicitly set at line 65",
+      "Hyperparameter not explicitly set at line 95",
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 148",
+      "Hyperparameter not explicitly set at line 166",
+      "Hyperparameter not explicitly set at line 184",
+      "Hyperparameter not explicitly set at line 218",
+      "Hyperparameter not explicitly set at line 245",
+      "Hyperparameter not explicitly set at line 251",
+      "Hyperparameter not explicitly set at line 288",
+      "Hyperparameter not explicitly set at line 345",
+      "Hyperparameter not explicitly set at line 376",
+      "Hyperparameter not explicitly set at line 406",
+      "Hyperparameter not explicitly set at line 407"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clarkkev_deep-coref/deep-coref-master/modified_keras/keras/layers/core.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 364"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 531"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 185"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/model_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 355"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/torch/saver.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/util/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/optimizer_plugins/cmaes.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/tests/test_array.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/pyrebase.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 471"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/studio/completion_service/completion_service_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/keras/train_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/keras/fashion_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/keras/train_mnist_keras_mutligpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/general/train_linreg.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/keras/train_cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/examples/pytorch/mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/tests/model_util_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/studioml_studio/studio-master/tests/local_worker_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 231"
+    ]
+  }
+}

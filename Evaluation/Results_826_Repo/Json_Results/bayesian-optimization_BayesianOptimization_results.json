@@ -1,0 +1,49 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/bayes_opt/constraint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/examples/typed_hyperparameter_tuning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/tests/test_constraint.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/examples/async_optimization.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/bayes_opt/bayesian_optimization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 461"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/tests/test_parameter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/bayes_opt/target_space.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 557"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/bayes_opt/acquisition.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/bayesian-optimization_BayesianOptimization/BayesianOptimization-master/tests/test_bayesian_optimization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 616"
+    ]
+  }
+}

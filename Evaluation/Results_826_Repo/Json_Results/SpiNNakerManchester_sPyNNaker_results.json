@@ -1,0 +1,59 @@
+{
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/models/neural_projections/connectors/distance_dependent_probability_connector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/models/neural_projections/connectors/index_based_probability_connector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/models/neural_projections/connectors/one_to_one_connector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/models/neural_projections/connectors/abstract_connector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 308",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 342",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 520"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/utilities/utility_calls.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker/pyNN/external_devices_models/push_bot/ethernet/push_bot_retina_connection.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/unittests/model_tests/test_connectors.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker_integration_tests/test_big_connection/test_big_connection.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SpiNNakerManchester_sPyNNaker/sPyNNaker-master/spynnaker_integration_tests/test_various/test_from_file_connector_large.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110"
+    ]
+  }
+}

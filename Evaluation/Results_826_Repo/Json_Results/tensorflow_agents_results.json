@@ -1,0 +1,755 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/keras_layers/rnn_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/benchmark/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/benchmark/dqn_benchmark_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/keras_layers/dynamic_unroll_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/drivers/test_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/piecewise_bernoulli_py_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/wheel_py_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/metrics/tf_metrics_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/bernoulli_py_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/stationary_stochastic_structured_py_environment_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/bernoulli_action_mask_tf_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/stationary_stochastic_per_arm_py_environment_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/movielens_per_arm_py_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/drifting_linear_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/ranking_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/metrics/tf_metrics_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 252",
+      "TensorArray Not Used at line 359"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/environment_utilities.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/stationary_stochastic_py_environment_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 57",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/environments/ranking_environment_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 46",
+      "Use np.matmul() instead of np.dot() for matrices at line 229"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/mixture_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/exp3_mixture_agent.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/exp3_mixture_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/ranking_agent.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 421",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 451"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/examples/v2/train_eval_sparse_features.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/dropout_thompson_sampling_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/neural_falcon_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/neural_linucb_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 454"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/examples/v2/train_eval_ranking.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/examples/v2/train_eval_per_arm_stationary_linear.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 208"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/linalg.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/linalg_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/falcon_reward_prediction_policy.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 151",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 446",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 458"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/mixture_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/ranking_policy.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/neural_linucb_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/constraints.py": {
+    "R3": [
+      "TensorArray Not Used at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/networks/global_and_arm_feature_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/networks/global_and_arm_feature_network.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/agents/linear_bandit_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 543",
+      "Random Seed Not Set at line 667",
+      "Random Seed Not Set at line 741",
+      "Random Seed Not Set at line 866",
+      "Random Seed Not Set at line 977",
+      "Random Seed Not Set at line 1099",
+      "Random Seed Not Set at line 1238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/reward_prediction_policies_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 442"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/networks/heteroscedastic_q_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 99",
+      "Hyperparameter not explicitly set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/falcon_reward_prediction_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 448"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/specs/tensor_spec.py": {
+    "R2": [
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 222"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 235",
+      "TensorArray Not Used at line 436"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/policies/greedy_multi_objective_neural_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/bandits/multi_objective/multi_objective_scalarizer_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 390",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/environments/random_tf_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/environments/tf_environment_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/sac/tanh_normal_projection_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/ddpg/critic_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/ddpg/actor_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/cql/cql_sac_agent_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/cql/cql_sac_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 607",
+      "Random Seed Not Set at line 833"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/categorical_dqn/categorical_dqn_agent.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 671",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 682",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 374"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/categorical_dqn/categorical_dqn_agent_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 194",
+      "Hyperparameter not explicitly set at line 229",
+      "Hyperparameter not explicitly set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/behavioral_cloning/behavioral_cloning_agent_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 391"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/ppo/ppo_policy_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 169",
+      "Hyperparameter not explicitly set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/dqn/dqn_agent_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/composite_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/td3/td3_agent_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/value_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/epsilon_greedy_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/tensor_normalizer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 327"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/nest_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1216"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 838",
+      "TensorArray Not Used at line 865"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/random_py_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/qtopt_cem_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 443"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/common.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1141"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 673"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/categorical_q_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/tf_policy_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/eager_utils_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 600"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/agents/ppo/ppo_agent_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/q_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/random_tf_policy.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/actor_policy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/nest_map_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 152",
+      "Hyperparameter not explicitly set at line 241",
+      "Hyperparameter not explicitly set at line 206",
+      "Hyperparameter not explicitly set at line 214",
+      "Hyperparameter not explicitly set at line 221",
+      "Hyperparameter not explicitly set at line 73",
+      "Hyperparameter not explicitly set at line 145",
+      "Hyperparameter not explicitly set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/categorical_projection_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/utils/common_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 830",
+      "Random Seed Not Set at line 831",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 989",
+      "Hyperparameter not explicitly set at line 990",
+      "Hyperparameter not explicitly set at line 1002",
+      "Hyperparameter not explicitly set at line 1015",
+      "Hyperparameter not explicitly set at line 1016",
+      "Hyperparameter not explicitly set at line 1028",
+      "Hyperparameter not explicitly set at line 1029",
+      "Hyperparameter not explicitly set at line 1045",
+      "Hyperparameter not explicitly set at line 1059",
+      "Hyperparameter not explicitly set at line 1060"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/actor_distribution_network_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 128",
+      "Hyperparameter not explicitly set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/categorical_q_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/value_network_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 90",
+      "Hyperparameter not explicitly set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/policies/samplers/qtopt_cem_actions_sampler_continuous_and_one_hot.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 314",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/value_rnn_network_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/actor_distribution_rnn_network_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 232",
+      "Hyperparameter not explicitly set at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/q_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/normal_projection_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/sequential_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 86",
+      "Use np.matmul() instead of np.dot() for matrices at line 168"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 199",
+      "Hyperparameter not explicitly set at line 52",
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 54",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 107",
+      "Hyperparameter not explicitly set at line 185",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 218",
+      "Hyperparameter not explicitly set at line 221",
+      "Hyperparameter not explicitly set at line 238",
+      "Hyperparameter not explicitly set at line 176",
+      "Hyperparameter not explicitly set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/q_rnn_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 65",
+      "Hyperparameter not explicitly set at line 106",
+      "Hyperparameter not explicitly set at line 68",
+      "Hyperparameter not explicitly set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/examples/cql_sac/kumar20/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/network_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 87",
+      "Hyperparameter not explicitly set at line 237",
+      "Hyperparameter not explicitly set at line 280",
+      "Hyperparameter not explicitly set at line 273",
+      "Hyperparameter not explicitly set at line 295",
+      "Hyperparameter not explicitly set at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/eval/metric_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/networks/encoding_network_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 424"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/replay_buffers/py_uniform_replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/replay_buffers/tf_uniform_replay_buffer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 284",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 285"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/trajectories/trajectory_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/trajectories/time_step_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_agents/agents-master/tf_agents/replay_buffers/episodic_replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 645",
+      "Random Seed Not Set at line 1224"
+    ]
+  }
+}

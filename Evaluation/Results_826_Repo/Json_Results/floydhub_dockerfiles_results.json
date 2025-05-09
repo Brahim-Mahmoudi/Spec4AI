@@ -1,0 +1,185 @@
+{
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/mxnet/tests/linear-regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.7.0/keras_mnist_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.13/keras_mnist_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/2.0/keras_mnist_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/2.0/tf_keras_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.4.0/keras_mnist_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/2.0/mnist_eager.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 70",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/symeig.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.5.0/keras_mnist_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/nn.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/chainer/tests/linear_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 27"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 18",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/0.3.1/tensorboardx.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/0.3.1/benchmark.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/1.0.0/tensorboardx.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/1.0.0/benchmark.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/0.2.0/benchmark.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.7.0/mnist_eager.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.13/mnist_eager.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/0.3.1/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/0.2.0/mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/pytorch/tests/1.0.0/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/chainer/tests/mnist.2.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/floydhub_dockerfiles/dockerfiles-master/dl/tensorflow/tests/1.5.0/mnist_eager.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 70"
+    ]
+  }
+}

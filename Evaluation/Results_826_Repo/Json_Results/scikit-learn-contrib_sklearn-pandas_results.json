@@ -1,0 +1,26 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_sklearn-pandas/sklearn-pandas-master/test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_sklearn-pandas/sklearn-pandas-master/tests/test_transformers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_sklearn-pandas/sklearn-pandas-master/sklearn_pandas/dataframe_mapper.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_sklearn-pandas/sklearn-pandas-master/tests/test_dataframe_mapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 137"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 931"
+    ]
+  }
+}

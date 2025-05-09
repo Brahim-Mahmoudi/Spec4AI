@@ -1,0 +1,27 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_hub/hub-master/tensorflow_hub/feature_column_v2_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_hub/hub-master/tensorflow_hub/keras_layer_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 429",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 619"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 269"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 369",
+      "Hyperparameter not explicitly set at line 425",
+      "Hyperparameter not explicitly set at line 466"
+    ]
+  }
+}

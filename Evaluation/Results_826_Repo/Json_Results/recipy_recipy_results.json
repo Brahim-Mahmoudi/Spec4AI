@@ -1,0 +1,27 @@
+{
+  "/Users/bramss/Desktop/All_Repo/recipy_recipy/recipy-master/integration_test/packages/run_iris.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/recipy_recipy/recipy-master/integration_test/packages/run_xarray.py": {
+    "R2": [
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/recipy_recipy/recipy-master/test/examples/example_script.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/recipy_recipy/recipy-master/integration_test/packages/run_pandas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 122",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 129",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136"
+    ]
+  }
+}

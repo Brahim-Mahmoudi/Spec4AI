@@ -1,0 +1,99 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_explainers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_samplers_patch.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_trainers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_workflows.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_trainers_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_bugs.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/transforms/image_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/trainers/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/trainers/torch_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/datasets/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/transforms/spatial_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/readers/column.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 97",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/nitrain/loaders/loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nitrain_nitrain/nitrain-main/tests/test_transforms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 389"
+    ]
+  }
+}

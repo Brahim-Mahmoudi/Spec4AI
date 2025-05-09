@@ -1,0 +1,962 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/experimental/links/model/fcis/utils/proposal_target_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/datasets/siamese_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/generate_random_bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_semantic_segmentation_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_point_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_instance_segmentation_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_label_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_detection_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_bbox_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_semantic_segmentation_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/utils/testing/assertions/assert_is_instance_segmentation_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/experimental/links/model/pspnet/pspnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/pca_lighting.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/random_rotate.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/random_flip.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/random_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/random_expand.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/transforms/image/random_sized_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/faster_rcnn/utils/proposal_target_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/ssd/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/faster_rcnn/utils/anchor_target_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/fpn/misc.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/test_pixelwise_softmax_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/connection_tests/test_conv_2d_activ.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 40"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/connection_tests/test_separable_conv_2d_bn_activ.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 39"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/fpn/rpn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 94",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 144",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/test_feature_predictor.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_random_distort.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_multibox.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_ssd.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/functions_tests/test_ps_roi_max_align.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 144"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_random_crop_with_bbox_constraints.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/functions_tests/test_ps_roi_average_align_2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 138"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/functions/ps_roi_max_pooling_2d.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_resize_with_random_interpolation.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/functions_tests/test_ps_roi_average_pooling_2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 140"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/functions_tests/test_ps_roi_max_pooling.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 145"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/connection_tests/test_conv_2d_bn_activ.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 136"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/chainercv/links/model/fpn/bbox_head.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_ssd_vgg16.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_normalize.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/test_faster_rcnn_train_chain.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/utils_tests/test_proposal_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/dummy_faster_rcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/test_faster_rcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/utils_tests/test_proposal_target_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/senet_tests/test_se_resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/test_region_proposal_network.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/ssd_tests/test_multibox_coder.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/senet_tests/test_se_resnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/faster_rcnn_tests/test_faster_rcnn_vgg.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/resnet_tests/test_resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/test_pickable_sequential_chain.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_fpn.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_faster_rcnn_fpn_resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/yolo_tests/test_yolo_v3.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/yolo_tests/test_yolo_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/light_head_rcnn_tests/test_global_context_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/light_head_rcnn_tests/test_light_head_rcnn_train_chain.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/yolo_tests/test_yolo_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/vgg_tests/test_vgg16.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/mobilenet_tests/test_mobilenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/pspnet_tests/test_convolution_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/yolo_tests/test_yolo_v2_tiny.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/mobilenet_tests/test_tf_convolution_2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 34"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_faster_rcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_rpn.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/fcis_tests/test_fcis_train_chain.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/light_head_rcnn_tests/test_light_head_rcnn_resnet101.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/mobilenet_tests/test_expanded_conv_2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 29"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/fcis_tests/utils_tests/test_mask_voting.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/fcis_tests/utils_tests/test_proposal_target_creator.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/visualizations_tests/test_vis_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/visualizations_tests/test_vis_point.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/light_head_rcnn_tests/test_light_head_rcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/visualizations_tests/test_vis_semantic_segmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/fcis_tests/test_fcis_resnet101.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_center_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/vis_report_tests/test_detection_vis_report.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/mobilenet_tests/test_tf_conv_2d_bn_activ.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 137"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_flip_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_bbox_head.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_resize.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_random_flip.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_pca_lighting.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/visualizations_tests/test_vis_bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/links_tests/model_tests/fpn_tests/test_mask_head.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_resize_contain.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_random_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/evaluator_tests/test_instance_segmentation_voc_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/experimental_tests/links_tests/model_tests/fcis_tests/test_fcis.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_ten_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/evaluator_tests/test_detection_voc_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_scale.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_random_rotate.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/visualizations_tests/test_vis_instance_segmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_random_sized_crop.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/point_tests/test_resize_point.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/evaluator_tests/test_instance_segmentation_coco_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_rotate.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/point_tests/test_translate_point.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/evaluator_tests/test_detection_coco_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/point_tests/test_flip_point.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/transforms_tests/image_tests/test_random_expand.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/extensions_tests/evaluator_tests/test_semantic_segmentation_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/iterator_tests/test_progress_hook.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/image_tests/test_read_label.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/image_tests/test_write_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/image_tests/test_tile_images.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/mask_tests/test_scale_mask.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_semantic_segmentation_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/test_constant_stub_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_semantic_segmentation_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_bbox_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_detection_link.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_label_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_instance_segmentation_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_point_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/online_products_tests/test_online_products_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/iterator_tests/test_apply_to_iterator.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/testing_tests/assertions_tests/test_assert_is_point.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/cub_tests/test_cub_keypoint_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/ade20k_tests/test_ade20k.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/test_mixup_soft_label_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/bbox_tests/test_non_maximum_suppression.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/cub_tests/test_cub_label_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/utils_tests/image_tests/test_read_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/evaluations_tests/test_eval_semantic_segmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/cityscapes_tests/test_cityscapes.py": {
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/voc_tests/test_voc_bbox_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/test_siamese_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/coco_tests/test_coco_bbox_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/coco_tests/test_coco_instance_segmentation_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/tests/datasets_tests/test_directory_parsing_label_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/examples/ssd/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/examples/pspnet/caffe2npz.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/examples/segnet/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/chainer_chainercv/chainercv-master/examples/pspnet/train_multi.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 126"
+    ]
+  }
+}

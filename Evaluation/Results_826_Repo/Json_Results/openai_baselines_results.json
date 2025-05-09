@@ -1,0 +1,157 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/setup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/gail/adversary.py": {
+    "R7": [
+      "Missing mask for tf.log at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/gail/dataset/mujoco_dset.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/bench/monitor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/ddpg/noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/ddpg/memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/acer/buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/acer/acer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 133",
+      "Missing mask for tf.log at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/mpi_running_mean_std.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/running_mean_std.py": {
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/tests/envs/identity_env.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/tf_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/retro_wrappers.py": {
+    "R2": [
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/distributions.py": {
+    "R7": [
+      "Missing mask for tf.log at line 201",
+      "Missing mask for tf.log at line 192",
+      "Missing mask for tf.log at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/her/her_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/her/replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/ppo2/ppo2.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/common/plot_util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 413"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/acktr/utils.py": {
+    "R7": [
+      "Missing mask for tf.log at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/her/her.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/deepq/replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/deepq/build_graph.py": {
+    "R7": [
+      "Missing mask for tf.log at line 279"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/a2c/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 8",
+      "Missing mask for tf.log at line 15",
+      "Missing mask for tf.log at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_baselines/baselines-master/baselines/her/ddpg.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 146"
+    ]
+  }
+}

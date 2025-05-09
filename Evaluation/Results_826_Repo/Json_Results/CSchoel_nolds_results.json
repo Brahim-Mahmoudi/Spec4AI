@@ -1,0 +1,37 @@
+{
+  "/Users/bramss/Desktop/All_Repo/CSchoel_nolds/nolds-main/nolds/datasets.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 86",
+      "Use np.matmul() instead of np.dot() for matrices at line 88"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSchoel_nolds/nolds-main/nolds/examples.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 394",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSchoel_nolds/nolds-main/nolds/measures.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 625",
+      "Use np.matmul() instead of np.dot() for matrices at line 626",
+      "Use np.matmul() instead of np.dot() for matrices at line 619"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 537"
+    ]
+  }
+}

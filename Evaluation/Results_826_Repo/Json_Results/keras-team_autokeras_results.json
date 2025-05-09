@@ -1,0 +1,346 @@
+{
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/benchmark/experiments/experiment.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/keras_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/benchmark/performance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/preprocessors/encoders_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/blocks/heads_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/tasks/text_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/tasks/image_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/preprocessors/postprocessors_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/integration_tests/io_api_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/integration_tests/functional_api_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/utils/utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/utils/data_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/tasks/text.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/integration_tests/task_api_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/tasks/image.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 302"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/blocks/heads.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/adapters/output_adapters_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/graph.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/utils/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/analysers/input_analysers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/auto_model_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 299"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/export.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/tuners/greedy.py": {
+    "R2": [
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/analysers/output_analysers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/customized.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/image_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/image_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/text_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/multi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 186"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/text_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/py/load.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 153"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/utils/io_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/new_pop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/automodel_with_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/imdb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/reuters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/blocks/basic.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/engine/tuner_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 202"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 187",
+      "Hyperparameter not explicitly set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/autokeras/engine/tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/examples/celeb_age.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keras-team_autokeras/autokeras-master/docs/tutobooks.py": {
+    "R2": [
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 320"
+    ]
+  }
+}

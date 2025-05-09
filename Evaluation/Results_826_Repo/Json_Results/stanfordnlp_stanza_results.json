@@ -1,0 +1,692 @@
+{
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/sentiment_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/constituency_processor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/mwt_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/depparse_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/pos_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/langid_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/ner_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/lemma_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/pipeline/tokenize_processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/pipeline/pipeline_device_tests.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/ner/test_ner_training.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/constituency/test_positional_encoding.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/constituency/test_transformer_tree_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 182"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/common/test_bert_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/depparse/test_parser.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/common/test_pretrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/common/test_dropout.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/constituency/test_lstm_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 466",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 470"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/lemma/test_lemma_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/pos/test_tagger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/constituency/test_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/tests/classifiers/test_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/utils/training/separate_ner_pretrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/utils/datasets/ner/convert_hy_armtdp.py": {
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/utils/datasets/constituency/selftrain.py": {
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/utils/datasets/tokenization/process_thai_tokenization.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/utils/languages/kazakh_transliteration.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lang_identifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/charlm.py": {
+    "R2": [
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 284"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/ner/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/transformer_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/ner/data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 166",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 174"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/train_transformer_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/mwt/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/ner/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 137"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/base_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/tagger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/mwt/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/base_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/ner_tagger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/evaluate_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/base_trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/transformer_tree_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/text_processing.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma_classifier/lstm_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/lstm_tree_stack.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/positional_encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/tree_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 388"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/langid/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/tokenization/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/tokenization/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/partitioned_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/langid/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/ensemble.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 287"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/langid/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/top_down_oracle.py": {
+    "R2": [
+      "Random Seed Not Set at line 551"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/seq2seq_utils.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 18",
+      "Hyperparameter not explicitly set at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/maxout_linear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/crf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/depparse/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/pretrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/depparse/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/biaffine.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/label_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/dropout.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/large_margin_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/parser_training.py": {
+    "R2": [
+      "Random Seed Not Set at line 531",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 617",
+      "Random Seed Not Set at line 614"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 695"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/depparse/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/beam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/seq2seq_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/tokenization/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 291"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/packed_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/seq2seq_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/hlstm.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifiers/base_classifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifiers/constituency_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/char_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/pos/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/anaphoricity_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/bert_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/pairwise_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/word_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/rough_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifiers/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/pos/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/pos/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/lemma/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifiers/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/span_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/common/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/constituency/lstm_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 350",
+      "Random Seed Not Set at line 521",
+      "Random Seed Not Set at line 522",
+      "Random Seed Not Set at line 723",
+      "Random Seed Not Set at line 734",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 550"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/classifiers/cnn_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 410"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stanfordnlp_stanza/stanza-main/stanza/models/coref/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 453"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/nn/parallel/data_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/nn/modules/tests/test_numeric_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/utils/th.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/nn/modules/tests/test_sync_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 56",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/utils/data/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/nn/modules/batchnorm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/eval_multipro.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/utils/data/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/lib/utils/data/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/models/hrnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CSAILVision_semantic-segmentation-pytorch/semantic-segmentation-pytorch-master/mit_semseg/models/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

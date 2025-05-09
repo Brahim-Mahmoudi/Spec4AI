@@ -1,0 +1,150 @@
+{
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/compat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_sparse_linear.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 94",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 89"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_basic_tagger.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 46",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/shims/test_pytorch_grad_scaler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_mxnet_wrapper.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 119",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 95",
+      "Hyperparameter not explicitly set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/regression/test_issue564.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_pytorch_wrapper.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 74",
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 128"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_tensorflow_wrapper.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 113",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 193",
+      "Hyperparameter not explicitly set at line 348"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/examples/mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 30",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/layers/test_lstm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 109",
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/shims/mxnet.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/examples/benchmarks/lstm_tagger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/shims/pytorch.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/examples/benchmarks/mappers.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/examples/transformers_tagger.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 189",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/model/test_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 446",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 455"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 443"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_thinc/thinc-main/thinc/tests/backends/test_ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 753",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1510"
+    ]
+  }
+}

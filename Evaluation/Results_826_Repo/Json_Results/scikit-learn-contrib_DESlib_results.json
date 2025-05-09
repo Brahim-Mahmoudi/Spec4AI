@@ -1,0 +1,792 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/util/instance_hardness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/des/knop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/des/probabilistic/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/util/dfp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/des/des_knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_des_integration_multiclass.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 38"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_integration_DFP_IH.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 31"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/des/des_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/util/knne.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/des/meta_des.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 399",
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_knorae.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_desp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_knop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_knorau.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_metric.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 70"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/conftest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/util/test_fire.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/util/test_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_des_mi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_integration_dfp.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 38"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/util/test_faiss.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/util/test_knne.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_des_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 240"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 125"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 497"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/util/test_prob_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_probabilistic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/static/test_oracle.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 62"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_lca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/static/test_stacked.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 46",
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 76",
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_ola.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_meta_des.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 255"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 69"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/static/test_single_best.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_rank.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_a_priori.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/dcs/a_posteriori.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/static/test_static_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 83"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_mcb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/static/oracle.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/static/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/static/single_best.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_mla.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 261",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 315",
+      "Potential data leakage: model.fit() used without a pipeline at line 335",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 346"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 207"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/static/stacked.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/dcs/a_priori.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/static/static_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/simple_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_a_posteriori.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_influence_k_value.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/des/test_des_knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 273",
+      "Potential data leakage: model.fit() used without a pipeline at line 281",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 318"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/example_calibrating_classifiers.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 62"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/benchmarks/bench_knn_backbone.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_using_instance_hardness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_example_DFP.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/example_heterogeneous.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 46"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_comparing_dynamic_static.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/benchmarks/bench_speed_faiss.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 53"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/benchmarks/bench_ds_performance_faiss.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_xor_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/test_des_integration.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 128"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 381",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 404",
+      "Potential data leakage: model.fit() used without a pipeline at line 423",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 490",
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 505",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 519",
+      "Potential data leakage: model.fit() used without a pipeline at line 524",
+      "Potential data leakage: model.fit() used without a pipeline at line 534",
+      "Potential data leakage: model.fit() used without a pipeline at line 539",
+      "Potential data leakage: model.fit() used without a pipeline at line 548",
+      "Potential data leakage: model.fit() used without a pipeline at line 553",
+      "Potential data leakage: model.fit() used without a pipeline at line 563",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 577",
+      "Potential data leakage: model.fit() used without a pipeline at line 582",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 69",
+      "Hyperparameter not explicitly set at line 431",
+      "Hyperparameter not explicitly set at line 447",
+      "Hyperparameter not explicitly set at line 461",
+      "Hyperparameter not explicitly set at line 476",
+      "Hyperparameter not explicitly set at line 490",
+      "Hyperparameter not explicitly set at line 505",
+      "Hyperparameter not explicitly set at line 519",
+      "Hyperparameter not explicitly set at line 534",
+      "Hyperparameter not explicitly set at line 548",
+      "Hyperparameter not explicitly set at line 563",
+      "Hyperparameter not explicitly set at line 577"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/examples/plot_example_P2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 180"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_DESlib/DESlib-master/deslib/tests/dcs/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 223"
+    ]
+  }
+}

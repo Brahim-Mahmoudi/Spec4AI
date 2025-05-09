@@ -1,0 +1,546 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_unit_utils_gpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 34",
+      "Hyperparameter not explicitly set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_unit_utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_unit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_time_wait_for_batch_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_loop_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_iteration_time_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_app_state_mixin.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 262"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_progress_reporter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_tensorfloat32.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_torchsnapshot_saver_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_fit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_optimizer.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_auto_unit_gpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 161",
+      "Hyperparameter not explicitly set at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_module_summary.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_dcp_saver_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_misc.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_distributed_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_early_stop_checker_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_oom_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_throughput_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_timer_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_memory_snapshot_profiler_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_nan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 35",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_prepare_module.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/loggers/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_swa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_torchsnapshot_saver.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/loggers/test_anomaly_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_device_gpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/data/test_data_prefetcher_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/data/test_profile_dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_prepare_module_gpu.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/data/test_data_prefetcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_module_summary.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 148"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/mingpt/char_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_dcp_saver.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/test_auto_unit.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 770"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 424",
+      "Hyperparameter not explicitly set at line 477"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/train_unit_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_early_stop_checker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/mingpt/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/mnist/main.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 178"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/auto_unit_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/_loop_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/torchrec/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/framework/callbacks/test_base_checkpointer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/evaluate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/examples/mingpt/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/callbacks/tensorfloat32.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/callbacks/slow_rank_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/_test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/callbacks/empty_cuda_cache.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/data/test_multi_dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/swa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/oom.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/memory_snapshot_profiler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/early_stop_checker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/nan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/framework/auto_unit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/data/synthetic_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/data/data_prefetcher.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/timer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/tests/utils/test_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/prepare_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/data/iterators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_tnt/tnt-master/torchtnt/utils/module_summary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

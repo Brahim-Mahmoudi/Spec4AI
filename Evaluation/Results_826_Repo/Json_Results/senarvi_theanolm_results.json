@@ -1,0 +1,18 @@
+{
+  "/Users/bramss/Desktop/All_Repo/senarvi_theanolm/theanolm-master/tests/wordclasses/bigramoptimizer_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/senarvi_theanolm/theanolm-master/theanolm/backend/operations.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/senarvi_theanolm/theanolm-master/theanolm/parsing/shufflingbatchiterator.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 216"
+    ]
+  }
+}

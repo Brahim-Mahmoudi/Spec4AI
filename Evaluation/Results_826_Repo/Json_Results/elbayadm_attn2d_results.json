@@ -1,0 +1,1349 @@
+{
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_sparse_multihead_attention.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_backtranslation_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_convtbc.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 35",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_memory_efficient_fp16.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_sequence_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_lstm_jitable.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 109"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_label_smoothing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_concat_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_reproducibility.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_bmuf.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_character_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_multi_corpus_sampled_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/speech_recognition/test_collaters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_export.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_token_block_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_average_checkpoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 236"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/nan_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/legacy_distributed_data_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/sequence_scorer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_noising.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/binarizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/benchmark/dummy_masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/benchmark/dummy_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/hub_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/distributed_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 163"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/iterative_refinement_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/speech_recognition/asr_test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 290",
+      "Use module() instead of forward() at line 300",
+      "Use module() instead of forward() at line 355",
+      "Use module() instead of forward() at line 368",
+      "Use module() instead of forward() at line 417",
+      "Use module() instead of forward() at line 463"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/translation_from_pretrained_bart.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/fairseq_task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 347"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/options.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/multilingual_denoising.py": {
+    "R2": [
+      "Random Seed Not Set at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/translation_lev.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/language_modeling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/checkpoint_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/nag.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/sentence_prediction.py": {
+    "R2": [
+      "Random Seed Not Set at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/masked_lm.py": {
+    "R2": [
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/sentence_ranking.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/bmuf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/fairseq_optimizer.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/multilingual_translation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 268",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 278",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 288",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 295"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 284"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_binaries.py": {
+    "R2": [
+      "Random Seed Not Set at line 790",
+      "Random Seed Not Set at line 830",
+      "Random Seed Not Set at line 833",
+      "Random Seed Not Set at line 795",
+      "Random Seed Not Set at line 808",
+      "Random Seed Not Set at line 842",
+      "Random Seed Not Set at line 809",
+      "Random Seed Not Set at line 810",
+      "Random Seed Not Set at line 835"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/tests/test_sequence_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/fused_adam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/multilingual_masked_lm.py": {
+    "R2": [
+      "Random Seed Not Set at line 257"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/adamax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/adafactor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/adam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 497",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 498"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/model_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/tasks/semisupervised_translation.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/optim/fp16_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 115",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/fairseq_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/fairseq_nat_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/iterative_nonautoregressive_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/levenshtein_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/roberta/alignment_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/nonautoregressive_ensembles.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/bart/hub_interface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/huggingface/hf_gpt2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/fconv_self_att.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 460"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/insertion_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/beamable_mm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/roberta/hub_interface.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 203"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/levenshtein_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/nat/nonautoregressive_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/bart/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/learned_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/gelu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/conv_tbc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/wav2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 587",
+      "Random Seed Not Set at line 598",
+      "Random Seed Not Set at line 611"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/vggblock.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/fconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/roberta/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quant_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/linearized_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/transformer_sentence_encoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/adaptive_input.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/character_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/model_parallel/modules/multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/dynamic_crf_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/downsampled_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/lightconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/kmeans_vector_quantizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/layer_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/adaptive_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/pq/modules/qlinear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/gumbel_vector_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/sparse_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/models/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/sinusoidal_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/scalar/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/pq/modules/qemb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/pq/modules/qconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/scalar/modules/qact.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/scalar/modules/qlinear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/scalar/modules/qconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/id_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/pq/em.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/dynamic_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/quantization/scalar/modules/qemb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/lightweight_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/transformer_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/backtranslation_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/numel_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/subsample_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/lightconv_layer/lightconv_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/multi_corpus_sampled_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/raw_label_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/colorize_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/prepend_token_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/concat_sentences_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/roll_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/append_token_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/transform_eos_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/mask_tokens_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/monolingual_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 189"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/modules/dynamicconv_layer/dynamicconv_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/lm_context_window_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/transform_eos_lang_pair_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/noising.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 125"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/token_block_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/encoders/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/audio/raw_audio_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/legacy/masked_lm_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/language_pair_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 275"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/iterators.py": {
+    "R2": [
+      "Random Seed Not Set at line 292"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/criterions/masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/dictionary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/legacy/block_pair_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 184"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/criterions/sentence_ranking.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/criterions/nat_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/logging/meters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/denoising_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 288",
+      "Random Seed Not Set at line 301"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq_cli/validate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/criterions/binary_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/logging/progress_bar.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/tasks/dynamic_simultaneous_translation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq/data/indexed_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq_cli/interactive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq_cli/eval_lm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 172",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 187",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 207"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq_cli/generate.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/simultrans_pervasive_oracle.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/fairseq_cli/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 349"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/pervasive_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_sim.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/generators/dynamic_simultaneous_sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/masked_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/oracle.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_dynamic_v2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/shallow_oracle_attn2d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_dynamic_ll.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/double_attn2d_dynamic_ll.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet11.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_waitk.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet10.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_dynamic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_pono.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/pa_controller.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_waitk_v2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_cascade.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/transformer_cumul.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_bn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet4.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_ffn_pono.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/aggregators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet5.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_nonorm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_pono_kmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/above_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/models/archive/attn2d_sim_hmm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet7.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_ln.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_scalenet2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/densenet_ffn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/generators/waitk_sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet9.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet8.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_scalenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/pa_gatenet12.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/shallow_controller.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/ll_controls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/oracle_controls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/pa_grid_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/sim_translation_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/hmm_controls3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/grid_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/hmm_controls2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/hmm_controls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/align_label_smoothed_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/simultrans_dynamic_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/dynamic_controls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/fb_controls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/weighted_label_smoothed_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/simultaneous_hmm_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/simultaneous_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/adpative_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/dynamic_ll_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/criterions/archive/hmm_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/qv_v1.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/scripts/average_checkpoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/wip/dynamic_halters.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 408"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/waitk/modules/multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/waitk/models/waitk_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 352"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/waitk/generators/waitk_sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/elbayadm_attn2d/attn2d-master/examples/pervasive/modules/archive/qv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

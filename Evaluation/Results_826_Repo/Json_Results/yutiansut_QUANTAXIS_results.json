@@ -1,0 +1,115 @@
+{
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/trans_ss.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/trans_gm.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_tusharepro_pg.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_bitfinex.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 171",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 346",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 480"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_binance.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 170",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 358",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 492"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAFetch/QAQAWEB.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAFetch/QACrawler.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_bitmex.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 397"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 289",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 412"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_okex.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 171",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 347",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 473"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QASU/save_huobi.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 182",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 373",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAFetch/QAThs.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAFactor/featureAnalysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAPubSub/consumer.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAIndicator/talib_numpy.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAUtil/QAcrypto.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAUtil/QARandom.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAAnalysis/QAAnalysis_signal.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 382",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 436"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yutiansut_QUANTAXIS/QUANTAXIS-master/QUANTAXIS/QAFetch/QATdx.py": {
+    "R2": [
+      "Random Seed Not Set at line 1367"
+    ]
+  }
+}

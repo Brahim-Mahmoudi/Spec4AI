@@ -1,0 +1,196 @@
+{
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tools/manual/frameviewer/editor/mask.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 254",
+      "Use np.matmul() instead of np.dot() for matrices at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tools/preview/preview.py": {
+    "R2": [
+      "Random Seed Not Set at line 343"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/dfl_h128.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/lightweight.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/original.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 116",
+      "Hyperparameter not explicitly set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/iae.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/dlight.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 99",
+      "Hyperparameter not explicitly set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/extract/detect/cv2_dnn.py": {
+    "R8": [
+      "Use module() instead of forward() at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/dfl_sae.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 88",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 110",
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/realface.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 107",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 154",
+      "Hyperparameter not explicitly set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tools/alignments/jobs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 651"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/extract/align/cv2_dnn.py": {
+    "R8": [
+      "Use module() instead of forward() at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/extract/align/_base/aligner.py": {
+    "R2": [
+      "Random Seed Not Set at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/lib/model/nn_blocks_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/lib/model/optimizers_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/lib/model/normalization_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/lib/model/losses_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/lib/model/layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/plugins/train/model/phaze_a.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 509",
+      "Hyperparameter not explicitly set at line 966",
+      "Hyperparameter not explicitly set at line 1253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/vgg_face.py": {
+    "R8": [
+      "Use module() instead of forward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/tools/preview/viewer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/tests/tools/alignments/media_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 734",
+      "Random Seed Not Set at line 781",
+      "Random Seed Not Set at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/training/augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 288",
+      "Random Seed Not Set at line 372"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/align/aligned_mask.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/image.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 661"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/gui/analysis/stats.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 443"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/model/networks/clip.py": {
+    "R2": [
+      "Random Seed Not Set at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepfakes_faceswap/faceswap-master/lib/gui/control_helper.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1165",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1167"
+    ]
+  }
+}

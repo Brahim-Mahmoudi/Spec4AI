@@ -1,0 +1,39 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/test/performance/long_running.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/test/performance/general_questions.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/src/programy/security/linking/accountlinker.py": {
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/src/programy/parser/template/nodes/get.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 130",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 136",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/src/utils/test_creator/test_creator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/keiffster_program-y/program-y-master/src/utils/braintree_viewer/viewer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  }
+}

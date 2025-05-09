@@ -1,0 +1,25 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/agisoft-llc_metashape-scripts/metashape-scripts-master/src/frame_based_fiducials_detector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 148",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/agisoft-llc_metashape-scripts/metashape-scripts-master/src/align_model_to_model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/agisoft-llc_metashape-scripts/metashape-scripts-master/src/detect_objects.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 641"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 975"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

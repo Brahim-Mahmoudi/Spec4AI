@@ -1,0 +1,76 @@
+{
+  "/Users/bramss/Desktop/All_Repo/junyanz_interactive-deep-colorization/interactive-deep-colorization-master/caffe_files/color_quantization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_interactive-deep-colorization/interactive-deep-colorization-master/docker/models/pytorch/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_interactive-deep-colorization/interactive-deep-colorization-master/models/pytorch/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_interactive-deep-colorization/interactive-deep-colorization-master/docker/data/colorize_image.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 341",
+      "Potential data leakage: model.fit() used without a pipeline at line 530"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 525",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 530"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 401"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 308",
+      "Use module() instead of forward() at line 428",
+      "Use module() instead of forward() at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_interactive-deep-colorization/interactive-deep-colorization-master/data/colorize_image.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 341",
+      "Potential data leakage: model.fit() used without a pipeline at line 530"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 525",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 530"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 401"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 308",
+      "Use module() instead of forward() at line 428",
+      "Use module() instead of forward() at line 263"
+    ]
+  }
+}

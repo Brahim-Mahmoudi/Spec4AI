@@ -1,0 +1,103 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/tests/integration/test_core_class.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 28"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/io/ascii.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/ransac/fitters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/ransac/samplers.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/io/off.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/scalar_fields/voxelgrid.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/utils/numba.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/geometry/areas.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/io/pcd.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/samplers/points.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/geometry/models/plane.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/samplers/mesh.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/io/ply.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 139",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/daavoo_pyntcloud/pyntcloud-main/src/pyntcloud/geometry/models/sphere.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 27",
+      "Use np.matmul() instead of np.dot() for matrices at line 34",
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  }
+}

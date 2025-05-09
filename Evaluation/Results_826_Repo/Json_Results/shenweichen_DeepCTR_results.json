@@ -1,0 +1,200 @@
+{
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/tests/feature_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/tests/utils_mtl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_regression_movielens.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 19"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_classification_criteo.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 24",
+      "Potential data leakage: fit_transform called before train/test split at line 22"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_multivalue_movielens.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 67",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 32"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_classification_criteo_hash.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 21"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_multivalue_movielens_vocab_hash.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 22",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 56",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 53"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_multivalue_movielens_hash.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 18"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_estimator_pandas_classification.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 25",
+      "Potential data leakage: fit_transform called before train/test split at line 23"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_din.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_flen.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 26"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_classification_criteo_multi_gpu.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 25",
+      "Potential data leakage: fit_transform called before train/test split at line 23"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_mtl.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 36",
+      "Potential data leakage: fit_transform called before train/test split at line 40"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 23"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_dsin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/examples/run_dien.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/tests/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 368"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 400",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/deepctr/models/sequence/dien.py": {
+    "R7": [
+      "Missing mask for tf.log at line 47",
+      "Missing mask for tf.log at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/deepctr/layers/sequence.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 84",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 571",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 574",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 592",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 594",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shenweichen_DeepCTR/DeepCTR-master/deepctr/layers/interaction.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 1529"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/ants/registration/create_jacobian_determinant_image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/ants/label/label_geometry_measures.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/ants/learn/decomposition.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 200",
+      "Use np.matmul() instead of np.dot() for matrices at line 201",
+      "Use np.matmul() instead of np.dot() for matrices at line 232",
+      "Use np.matmul() instead of np.dot() for matrices at line 233"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/ants/math/quantile.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_learn.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_bugs.py": {
+    "R2": [
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_core_ants_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/ants/registration/landmark_transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 202",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 204",
+      "Use np.matmul() instead of np.dot() for matrices at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_core_ants_image_io.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_core_ants_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 642",
+      "Random Seed Not Set at line 643",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 631"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ANTsX_ANTsPy/ANTsPy-master/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 384",
+      "Random Seed Not Set at line 385",
+      "Random Seed Not Set at line 909",
+      "Random Seed Not Set at line 910",
+      "Random Seed Not Set at line 911",
+      "Random Seed Not Set at line 912",
+      "Random Seed Not Set at line 927",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 875",
+      "Random Seed Not Set at line 881",
+      "Random Seed Not Set at line 310"
+    ]
+  }
+}

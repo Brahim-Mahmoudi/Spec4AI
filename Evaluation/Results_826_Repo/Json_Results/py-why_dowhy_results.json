@@ -1,0 +1,1456 @@
+{
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/test_causal_refuter.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/causal_estimators/test_two_stage_regression_estimator.py": {
+    "R2": [
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/causal_estimators/test_causalml_estimator.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 128",
+      "Hyperparameter not explicitly set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_anomaly_scorers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 10",
+      "Potential data leakage: model.fit() used without a pipeline at line 14",
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_stochastic_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/causal_estimators/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 264"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/timeseries/test_temporal_causal_graph_creation.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_divergence.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_density_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_distribution_change_robust.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/do_sampler/test_pandas_do_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 168"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 64"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/causal_estimators/test_econml_estimator.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 250"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 189",
+      "Hyperparameter not explicitly set at line 229"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_uncertainty.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_equation_parser.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_validation.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_feature_relevance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/independence_test/test_generalised_cov_measure.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_anomaly.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 301"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/independence_test/test_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/ml/test_autogluon.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/ml/test_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_unit_change.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 231"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 233"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 167",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 95",
+      "Hyperparameter not explicitly set at line 102",
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 191",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_whatif.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_distribution_change.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_arrow_strength.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/ml/test_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_fcms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 273"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_model_evaluation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 286"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/causal_identifiers/test_frontdoor_identifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_stats.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 235",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 323",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 377",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 381",
+      "Potential data leakage: model.fit() used without a pipeline at line 383"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 448",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 487",
+      "Random Seed Not Set at line 490",
+      "Random Seed Not Set at line 498",
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 501",
+      "Random Seed Not Set at line 502",
+      "Random Seed Not Set at line 509",
+      "Random Seed Not Set at line 510",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 514",
+      "Random Seed Not Set at line 532",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 536",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 488",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 511",
+      "Random Seed Not Set at line 515",
+      "Random Seed Not Set at line 534",
+      "Random Seed Not Set at line 538",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/data_transformers/test_pca_reducer.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/util/test_general.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/independence_test/test_kernel.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_anomaly_attribution.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 305"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_intrinsic_influence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 120"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 134",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 177"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_falsify.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 334",
+      "Random Seed Not Set at line 350",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 369"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/regression_discontinuity_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/propensity_score_matching_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/linear_regression_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/two_stage_regression_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/propensity_score_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/propensity_score_weighting_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/generalized_linear_model_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/econml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/instrumental_variable_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/data_subset_refuter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/tests/gcm/test_auto.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 496",
+      "Random Seed Not Set at line 511",
+      "Random Seed Not Set at line 557",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 572",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 568",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/assess_overlap.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/propensity_score_stratification_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/bootstrap_refuter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/placebo_treatment_refuter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimators/distance_matching_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/random_common_cause.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 752",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 539"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/non_parametric_sensitivity_analyzer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/assess_overlap_overrule.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 221"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/reisz.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48",
+      "Hyperparameter not explicitly set at line 45",
+      "Hyperparameter not explicitly set at line 267"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/graph_learners/lingam.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/overrule/ruleset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/overrule/BCS/load_process_data_BCS.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/evalue_sensitivity_analyzer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/feature_relevance.py": {
+    "R2": [
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/overrule/BCS/beam_search.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 37",
+      "Use np.matmul() instead of np.dot() for matrices at line 38",
+      "Use np.matmul() instead of np.dot() for matrices at line 204"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/partial_linear_sensitivity_analyzer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 352",
+      "Hyperparameter not explicitly set at line 365",
+      "Hyperparameter not explicitly set at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/fitting_sampling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/dummy_outcome_refuter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 790",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 574"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 832"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 451",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 517"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 861",
+      "Random Seed Not Set at line 811",
+      "Random Seed Not Set at line 841",
+      "Random Seed Not Set at line 835"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/linear_sensitivity_analyzer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/stochastic_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/confidence_intervals.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/density_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/confidence_intervals_cms.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/uncertainty.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/causal_mechanisms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 235",
+      "Potential data leakage: model.fit() used without a pipeline at line 339"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/overrule/BCS/overlap_boolean_rule.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 172",
+      "Use np.matmul() instead of np.dot() for matrices at line 212",
+      "Use np.matmul() instead of np.dot() for matrices at line 359",
+      "Use np.matmul() instead of np.dot() for matrices at line 369"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/anomaly.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/divergence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/_noise.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/anomaly_scorers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/stats.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 278"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 226"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 275",
+      "Hyperparameter not explicitly set at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/independence_test/regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/independence_test/generalised_cov_measure.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/influence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 473",
+      "Potential data leakage: model.fit() used without a pipeline at line 479"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/ml/classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/ml/autogluon.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/distribution_change.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 484"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 488"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/ml/regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_refuters/add_unobserved_common_cause.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 843",
+      "Potential data leakage: model.fit() used without a pipeline at line 891",
+      "Potential data leakage: model.fit() used without a pipeline at line 967",
+      "Potential data leakage: model.fit() used without a pipeline at line 1025"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 870",
+      "Random Seed Not Set at line 947",
+      "Random Seed Not Set at line 1005"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 256",
+      "Hyperparameter not explicitly set at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/model_evaluation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 438",
+      "Potential data leakage: model.fit() used without a pipeline at line 450",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 504"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 553",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 594"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/util/general.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/auto.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 496",
+      "Potential data leakage: model.fit() used without a pipeline at line 505",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 543",
+      "Potential data leakage: model.fit() used without a pipeline at line 567"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 479",
+      "Random Seed Not Set at line 484",
+      "Random Seed Not Set at line 551"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 495",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 505"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 503"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/independence_test/kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/datasets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 899"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 994",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 997",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1035"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/dgps/quadratic_dgp.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/propensity_score.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 45"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 53",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 63",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/dgps/cubic_dgp.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/shapley.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 585",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 547",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 339"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/dgps/linear_dgp.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/do_samplers/kernel_density_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/timeseries.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/algorithms/erm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/graph_operations.py": {
+    "R2": [
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 229"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/dataloaders/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/dgps/random_neural_network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/dataloaders/fast_data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/utils/networkx_plotting.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/algorithms/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/algorithms/base_algorithm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/algorithms/cacm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/distribution_change_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/models/networks.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/datasets/mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 337"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/causal_prediction/algorithms/regularization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/py-why_dowhy/dowhy-main/dowhy/gcm/falsify.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 967",
+      "Random Seed Not Set at line 963"
+    ]
+  }
+}

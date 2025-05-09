@@ -1,0 +1,254 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/docker/examples/data/data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/bayes/test_naive_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/lazy/test_knn_adwin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/lazy/test_knn_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/prototype/test_robust_soft_learning_vector_quantization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/neural_networks/test_perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/transform/test_one_hot_to_categorical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/data/test_data_stream.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/drift_detection/kswin.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/tests/data/test_temporal_data_stream.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 152",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 153",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 162",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 163",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 176",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 177",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 187",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 188"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 151",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 161",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 175",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/core/pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/extremely_fast_decision_tree.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/_nodes/htr_nodes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/isoup_tree.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 365"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/_split_criterion/gini_split_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/_split_criterion/hellinger_distance_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/hoeffding_tree_regressor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/_split_criterion/info_gain_split_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 51",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/batch_incremental.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/trees/hoeffding_tree.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 296",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/online_under_over_bagging.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 309",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 319",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 320"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/learn_pp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 233"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 12",
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/oza_bagging.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 247",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 257",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/multi_output_learner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/accuracy_weighted_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/online_smote_bagging.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 335",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 345",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/classifier_chains.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 88",
+      "Hyperparameter not explicitly set at line 324",
+      "Hyperparameter not explicitly set at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/regressor_chains.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/learn_nse.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 10",
+      "Hyperparameter not explicitly set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/adaptive_random_forests.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 416",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 428"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/meta/leverage_bagging.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 385",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 395",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/_demos/_test_knn_adwin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/rules/hellinger_distance_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/rules/foil_gain_rule_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/rules/info_gain_rule_criterion.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 52",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/neural_networks/perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/utils/data_structures.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 566",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 825"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-multiflow_scikit-multiflow/scikit-multiflow-master/src/skmultiflow/lazy/sam_knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 175"
+    ]
+  }
+}

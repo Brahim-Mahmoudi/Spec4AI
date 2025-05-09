@@ -1,0 +1,1913 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/test_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/test_settings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_spectral_delta_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_gaussian_symmetrized_kl_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_grid_interpolation_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_rbf_kernel_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_matern52_kernel_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_rbf_kernel_gradgrad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_grid_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_hamming_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 19"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_constant_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_inducing_point_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 20"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_cylindrical_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_linear_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_periodic_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 39"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/mlls/test_inducing_point_kernel_added_loss_term.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_spectral_mixture_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/metrics/test_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_scale_kernel.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_polynomial_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 97"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_piecewise_polynomial_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 19",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/mlls/test_leave_one_out_pseudo_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/mlls/test_exact_marginal_log_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_rff_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_newton_girard_additive_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_horseshoe_prior.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_half_normal_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_cosine_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_gamma_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_smoothed_box_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_linear_mean_grad.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_constant_mean_grad.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_half_cauchy_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_linear_mean.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_linear_mean_gradgrad.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_constant_mean_gradgrad.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_constant_mean.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_normal_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/utils/test_grid.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/means/test_multitask_mean.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_multivariate_normal_prior.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_rq_kernel.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 136",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 145",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 148",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 196",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/optim/test_ngd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_matern_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/utils/test_sum_interaction_terms.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_rbf_kernel.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 28",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 157",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 161",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_beta_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_student_t_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_laplace_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_bernoulli_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/models/test_variational_gp.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/models/test_model_list.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 27"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 25",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_softmax_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_noise_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/constraints/test_constraints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_multitask_gaussian_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/utils/test_quadrature.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/utils/test_nearest_neighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_general_multitask_gaussian_likelihood.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/utils/test_interpolation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_rff_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_lcm_kernel_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 48"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_svgp_gp_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_keops_gp_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 23"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_model_list_gp_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_multiplicative_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/priors/test_lkj_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kronecker_multitask_sgpr_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 33"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_derivative_gp_fantasy.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 52"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_dkl_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 136",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 137"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_variational_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kronecker_multitask_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/kernels/test_additive_and_product_kernels.py": {
+    "R2": [
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 348"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 280",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 289",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 303",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 313"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/likelihoods/test_gaussian_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_white_noise_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_independent_multitask_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_kronecker_product_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_hadamard_multitask_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_unwhitened_svgp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_simple_gp_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/models/test_exact_gp.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 192"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 253",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_decoupled_svgp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_white_noise_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_dspp_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_lmc_svgp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_grid_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_svgp_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_gp_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_batch_decoupled_ppgpr_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_additive_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_ciq_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_fixed_noise_fanatasy_updates.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_additive_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kronecker_multitask_ski_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_kronecker_product_classification.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_batch_multitask_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_spectral_mixture_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_orthogonally_decoupled_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_sgpr_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_missing_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_unwhitened_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/functions/test_rbf_covariance.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/functions/test_log_normal_cdf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_batch_svgp_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_kissgp_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_grid_interpolation_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_batch_decoupled_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 182"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/distributions/test_delta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_independent_multitask_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 156"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_batch_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_nearest_neighbor_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_lmc_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 214"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 221"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/functions/test_matern_covariance.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/lazy/test_lazy_evaluated_kernel_tensor.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 41",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 96",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/metrics/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/linear_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/multitask_kernel.py": {
+    "R8": [
+      "Use module() instead of forward() at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/distributional_input_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_pyro_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 288",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 319"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 215",
+      "Hyperparameter not explicitly set at line 250",
+      "Hyperparameter not explicitly set at line 300"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/settings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/variational/test_natural_variational_distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/rff_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/newton_girard_additive_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/index_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/grid_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/inducing_point_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/cylindrical_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/rq_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/examples/test_simple_gp_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 473",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 429",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 430"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/arc_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/cosine_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/constant_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/rbf_kernel_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/matern_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/hamming_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/multi_device_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 67",
+      "Use module() instead of forward() at line 70",
+      "Use module() instead of forward() at line 51",
+      "Use module() instead of forward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/periodic_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/piecewise_polynomial_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/grid_interpolation_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/polynomial_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/mlls/deep_approximate_mll.py": {
+    "R8": [
+      "Use module() instead of forward() at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/scale_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/spectral_mixture_kernel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 207"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/spectral_delta_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/rbf_kernel_gradgrad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/keops/keops_kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/mlls/_approximate_mll.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/mlls/leave_one_out_pseudo_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/matern52_kernel_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/mlls/inducing_point_kernel_added_loss_term.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/mlls/gamma_robust_variational_elbo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/polynomial_kernel_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/priors/horseshoe_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/base_mean_test_case.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/priors/smoothed_box_prior.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/base_test_case.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/priors/torch_priors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/priors/wishart_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/priors/lkj_prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/multitask_mean.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/linear_mean_gradgrad.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/kernels/kernel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/zero_mean.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/linear_mean.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/base_likelihood_test_case.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/linear_mean_grad.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/constant_mean_grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/constant_mean.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/optim/ngd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/means/constant_mean_gradgrad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/deprecation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/base_keops_test_case.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/sum_interaction_terms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/quadrature.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/model_test_case.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/constraints/constraints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/grid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/model_list.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/gplvm/latent_variable.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/deep_gps/dspp.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/base_kernel_test_case.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/bernoulli_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/pyro/_pyro_mixin.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/laplace_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/deep_gps/deep_gp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/softmax_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/beta_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/distributions/test_multivariate_normal.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 250"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/cholesky_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/interpolation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/student_t_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/utils/nearest_neighbors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/orthogonally_decoupled_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/delta_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/additive_grid_interpolation_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/noise_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/test/variational_test_case.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 110"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/mean_field_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/natural_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/exact_gp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/batch_decoupled_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/lmc_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/tril_natural_variational_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/multitask_gaussian_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 226"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/functions/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/grid_interpolation_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/independent_multitask_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/distributions/delta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/functions/_log_normal_cdf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/unwhitened_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 63",
+      "Use module() instead of forward() at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/likelihoods/gaussian_likelihood.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/_variational_strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 194"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/lazy/lazy_evaluated_kernel_tensor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/examples/06_PyTorch_NN_Integration_DKL/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/ciq_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 203",
+      "Use module() instead of forward() at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/test/distributions/test_multitask_multivariate_normal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/variational/nearest_neighbor_variational_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 124",
+      "Use module() instead of forward() at line 315",
+      "Use module() instead of forward() at line 363",
+      "Use module() instead of forward() at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/distributions/multivariate_normal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/distributions/multitask_multivariate_normal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/gpytorch/models/exact_prediction_strategies.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/cornellius-gp_gpytorch/gpytorch-main/examples/LBFGS.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 860",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 890"
+    ]
+  }
+}

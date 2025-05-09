@@ -1,0 +1,42 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/torch_speech_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/speech_features/speech_features.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/model_zoo/speech_model/pytorch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/speech_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nl8590687_ASRT_SpeechRecognition/ASRT_SpeechRecognition-master/model_zoo/speech_model/keras_backend.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 410",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 504"
+    ]
+  }
+}

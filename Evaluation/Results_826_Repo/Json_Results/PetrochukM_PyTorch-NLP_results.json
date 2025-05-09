@@ -1,0 +1,268 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/word_to_vector/char_n_gram.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/nn/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/random.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/nn/cnn_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/datasets/reverse.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/nn/weight_drop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/metrics/accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/datasets/simple_qa.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/datasets/count.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/_third_party/weighted_random_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/encoders/label_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/samplers/noisy_sorted_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/encoders/text/subword_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/samplers/deterministic_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/encoders/text/text_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/word_to_vector/pretrained_word_vectors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/samplers/distributed_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/torchnlp/encoders/text/static_tokenizer_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/nn/test_lock_dropout.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 15"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/nn/test_cnn_encoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/nn/test_attention.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/test_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/nn/test_weight_drop.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 62"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/encoders/test_label_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/samplers/test_bptt_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/metrics/test_accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/encoders/text/test_text_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/samplers/test_oom_batch_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/test_utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61",
+      "Hyperparameter not explicitly set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/samplers/test_deterministic_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/samplers/test_balanced_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/tests/encoders/text/test_subword_tokenizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/snli/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/snli/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/awd-lstm-lm/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/snli/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 89",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/awd-lstm-lm/splitcross.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PetrochukM_PyTorch-NLP/PyTorch-NLP-master/examples/awd-lstm-lm/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

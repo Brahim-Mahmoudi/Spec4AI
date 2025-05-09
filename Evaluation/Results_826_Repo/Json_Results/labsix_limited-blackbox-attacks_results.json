@@ -1,0 +1,15 @@
+{
+  "/Users/bramss/Desktop/All_Repo/labsix_limited-blackbox-attacks/limited-blackbox-attacks-master/attacks.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 108",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 116",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 144"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 25"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/kronecker_factored_lattice_lib.py": {
+    "R2": [
+      "Random Seed Not Set at line 196"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/aggregation_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/pwl_calibration_lib.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 184"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 129",
+      "TensorArray Not Used at line 472"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/pwl_calibration_layer.py": {
+    "R3": [
+      "TensorArray Not Used at line 845",
+      "TensorArray Not Used at line 917",
+      "TensorArray Not Used at line 997"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/rtl_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/examples/keras_sequential_uci_heart.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 273"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/conditional_pwl_calibration.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 424",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 481",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 404",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/examples/keras_functional_uci_heart.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 318"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/premade_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 511",
+      "Potential data leakage: model.fit() used without a pipeline at line 566",
+      "Potential data leakage: model.fit() used without a pipeline at line 616",
+      "Potential data leakage: model.fit() used without a pipeline at line 659",
+      "Potential data leakage: model.fit() used without a pipeline at line 691",
+      "Potential data leakage: model.fit() used without a pipeline at line 737",
+      "Potential data leakage: model.fit() used without a pipeline at line 782",
+      "Potential data leakage: model.fit() used without a pipeline at line 822",
+      "Potential data leakage: model.fit() used without a pipeline at line 849",
+      "Potential data leakage: model.fit() used without a pipeline at line 877"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 493",
+      "Hyperparameter not explicitly set at line 509",
+      "Hyperparameter not explicitly set at line 564",
+      "Hyperparameter not explicitly set at line 614",
+      "Hyperparameter not explicitly set at line 657",
+      "Hyperparameter not explicitly set at line 689",
+      "Hyperparameter not explicitly set at line 736",
+      "Hyperparameter not explicitly set at line 781",
+      "Hyperparameter not explicitly set at line 821",
+      "Hyperparameter not explicitly set at line 848",
+      "Hyperparameter not explicitly set at line 876"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/kronecker_factored_lattice_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 147"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 929"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 748",
+      "Random Seed Not Set at line 769",
+      "Random Seed Not Set at line 772",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 746",
+      "Random Seed Not Set at line 781",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 506",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/pwl_calibration_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/premade_lib.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/lattice_lib.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 520",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 615"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 605",
+      "Random Seed Not Set at line 595"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_lattice/lattice-master/tensorflow_lattice/python/lattice_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 170"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/utils/test_tabulate_bayes_classes.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/plantcv/photosynthesis/test_reassign_frame_labels.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/plantcv/visualize/test_time_lapse_video.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/plantcv/homology/conftest.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/plantcv/transform/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/learn/train_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/tests/plantcv/threshold/test_threshold_methods.py": {
+    "R2": [
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/color_palette.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/readimage.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 39"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/learn/naive_bayes.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/spatial_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/visualize/obj_sizes.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/roi/roi_methods.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 566",
+      "Potential data leakage: model.fit() used without a pipeline at line 567"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/transform/merge_images.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/homology/constellaqc.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 42",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 52",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 43",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 53",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/homology/starscape.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 50",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/danforthcenter_plantcv/plantcv-main/plantcv/plantcv/transform/find_color_card.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 209",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 252"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 263"
+    ]
+  }
+}

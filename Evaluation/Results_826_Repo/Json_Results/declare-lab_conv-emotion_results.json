@@ -1,0 +1,844 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/roberta_feature_extraxct_dd.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/roberta_feature_extract_emorynlp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/roberta_feature_extract_iemocap.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/train_AVEC.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/train_MELD.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/roberta_feature_extract_meld.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/train_IEMOCAP.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/train_dailydialog.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/preprocess_dailydialog.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN/preprocess_dailydialog.py": {
+    "R2": [
+      "Random Seed Not Set at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/train_E2E.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/main_atomic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/csk_feature_extract.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/main_conceptnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM/baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 357"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/evaluate/conceptnet_generate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/evaluate/evaluate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/train/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN/train_IEMOCAP.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN/train_DailyDialog.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/train/opt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/data/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/data/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/main_atomic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/main_conceptnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/evaluate/conceptnet_generate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/train/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/evaluate/evaluate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/models/gpt.py": {
+    "R2": [
+      "Random Seed Not Set at line 250"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/interactive/functions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/train/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/train/opt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/data/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/data/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/data/atomic.py": {
+    "R2": [
+      "Random Seed Not Set at line 195"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/evaluate/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/train/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/models/gpt.py": {
+    "R2": [
+      "Random Seed Not Set at line 250"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueRNN/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/interactive/functions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/comet/src/data/conceptnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 261"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/train_meld.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/evaluate/sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/utils/mask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/data/atomic.py": {
+    "R2": [
+      "Random Seed Not Set at line 195"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/train_emorynlp.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/dailydialog_preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/utils/bow.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/utils/pad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/utils/probability.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/train_iemocap.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/train_dailydialog.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/util/mask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/util/bow.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/util/pad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/util/probability.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/utils/vocab.py": {
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/layer/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/feature-extraction/src/data/conceptnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 261"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/CMN/IEMOCAP/cmn.py": {
+    "R3": [
+      "TensorArray Not Used at line 124",
+      "TensorArray Not Used at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/layer/rnncells.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/util/vocab.py": {
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/eval_classification.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/train_classification.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 46",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/layer/encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/COSMIC/erc-training/commonsense_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN/model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 682"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/TL-ERC/bert_model/solver.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/classification/multi_label_classification_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/transformer_models/bert_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/transformer_models/camembert_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/transformer_models/roberta_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/transformer_models/xlnet_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/transformer_models/albert_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/multi_label_classification_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/streamlit/streamlit_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/evaluate_squad.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/t5/t5_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/language_representation/representation_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/seq2seq/seq2seq_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/language_generation/language_generation_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/classification/classification_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/config.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/conv_ai/conv_ai_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/ner/ner_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/language_modeling/language_modeling_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/networks/gnn_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/experimental/classification/classification_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 440",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 686"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/networks/gnn_structured_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/custom_models/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/classification/multi_modal_classification_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 851"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/Rank-Emotion-Cause/src/networks/rank_cp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/t5/t5_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 663"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-MLL/utils/tf_funcs.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 209",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 210",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 222",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM-pytorch/train_MELD.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-2D/utils/tf_funcs.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 125",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 126",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 138",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/question_answering/question_answering_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 786",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 936"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM-pytorch/train_DailyDialog.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/seq2seq/seq2seq_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 795"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM-pytorch/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM-pytorch/train_IEMOCAP.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/ICON-end-to-end/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/ICON-end-to-end/model.py": {
+    "R3": [
+      "TensorArray Not Used at line 110",
+      "TensorArray Not Used at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/conv_ai/conv_ai_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 616"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-2D/utils/prepare_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-MLL/utils/prepare_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/bc-LSTM-pytorch/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/Dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-MLL/main.py": {
+    "R7": [
+      "Missing mask for tf.log at line 243",
+      "Missing mask for tf.log at line 244",
+      "Missing mask for tf.log at line 241",
+      "Missing mask for tf.log at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/language_modeling/language_modeling_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/Coach.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/model/DialogueGCN.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/model/EdgeAtt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/classification/classification_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 933",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1296",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1343"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/model/Classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/DialogueGCN-mianzhang/dgcn/model/functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/ECPE-2D/main.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 166",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 167",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 168",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 169",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 172",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 173",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 175"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 302",
+      "Missing mask for tf.log at line 303",
+      "Missing mask for tf.log at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/ICON/IEMOCAP/model.py": {
+    "R3": [
+      "TensorArray Not Used at line 115",
+      "TensorArray Not Used at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/ner/ner_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 774",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 970"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/declare-lab_conv-emotion/conv-emotion-master/emotion-cause-extraction/RoBERTa Baseline/simpletransformers/question_answering/question_answering_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1639"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

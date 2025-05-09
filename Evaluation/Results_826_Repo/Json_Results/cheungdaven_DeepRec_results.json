@@ -1,0 +1,206 @@
+{
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/utils/load_data/load_data_rating.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/utils/load_data/load_data_ranking.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 24",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 79",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 95",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 139"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 71"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 116",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 135",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/gmf.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/bprmf.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/mlp.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/dssm.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 137"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/lrml.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/utils/load_data/load_data_seq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 268",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 65"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 261",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/jrl.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/utils/evaluation/SeqRecMetrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/neumf.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/fm.py": {
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/deepfm.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/cdae.py": {
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 215"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 71",
+      "Missing mask for tf.log at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/nfm.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/item_ranking/cml.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/mf.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/seq_rec/PRME.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 267"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/nrr.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/nnmf.py": {
+    "R2": [
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/seq_rec/Caser.py": {
+    "R2": [
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 337"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 80",
+      "Missing mask for tf.log at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/afm.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/rating_prediction/autorec.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cheungdaven_DeepRec/DeepRec-master/models/seq_rec/AttRec.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 570",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 571",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 589",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 590",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 581"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 444",
+      "Random Seed Not Set at line 464"
+    ]
+  }
+}

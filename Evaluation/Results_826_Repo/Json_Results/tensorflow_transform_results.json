@@ -1,0 +1,104 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/output_wrapper.py": {
+    "R3": [
+      "TensorArray Not Used at line 229"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/impl_helper_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 848"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/mappers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1640"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 1404",
+      "TensorArray Not Used at line 1518",
+      "TensorArray Not Used at line 1985"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/mappers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 891",
+      "Random Seed Not Set at line 890"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 177",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 178",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 285",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 376",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 437",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 450",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 463",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 500",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 511",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 454"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/beam/tft_unit.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/examples/sentiment_example_v2.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 291"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 370"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/tf_utils.py": {
+    "R3": [
+      "TensorArray Not Used at line 1385"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/examples/census_example_v2.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 426"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 524"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/beam/bucketize_integration_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 447"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/tf_utils_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 882",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2267"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_transform/transform-master/tensorflow_transform/beam/impl_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1483",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2036"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 4681"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 4683",
+      "Random Seed Not Set at line 4686"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4510"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/train_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/chiron_eval_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 52",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/chiron_client.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 127",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/utils/lstm.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/utils/easy_assembler.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 440"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/chiron_eval.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 55",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haotianteng_Chiron/Chiron-master/chiron/chiron_input.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 648"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 749",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 757",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 760"
+    ]
+  }
+}

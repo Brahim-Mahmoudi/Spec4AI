@@ -1,0 +1,155 @@
+{
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/factorization/_components.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/torch_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/test_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/factorization/test_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/test_evaluation_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/test_serialization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/bloom_embeddings/helpers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/factorization/test_explicit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/factorization/explicit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/movielens_sequence/helpers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/factorization/test_implicit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/factorization/implicit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/bloom_embeddings/plot.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 47",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 42",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 48",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 49"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 42; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 44; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/sequence/implicit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/bloom_embeddings/performance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/spotlight/sequence/representations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/tests/sequence/test_sequence_implicit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/movielens_sequence/movielens_sequence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maciejkula_spotlight/spotlight-master/examples/bloom_embeddings/example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ]
+  }
+}

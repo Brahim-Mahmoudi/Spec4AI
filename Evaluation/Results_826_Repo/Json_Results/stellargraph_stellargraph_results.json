@@ -1,0 +1,357 @@
+{
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/mapper/corrupted.py": {
+    "R2": [
+      "Random Seed Not Set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/core/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 737",
+      "Potential data leakage: model.fit() used without a pipeline at line 285",
+      "Potential data leakage: model.fit() used without a pipeline at line 709"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 689"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/calibration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 268",
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 424"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/mapper/mini_batch_node_generators.py": {
+    "R2": [
+      "Random Seed Not Set at line 402",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/datasets/datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 228",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 307",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 308",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 309",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 310",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 375",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 383",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 418",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 669",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 836",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 867",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 869"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/test_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/test_losses.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_element_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_indexed_array.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_experimental.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/test_calibration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/reproducibility/test_deep_graph_infomax.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/layer/knowledge_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 919"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/stellargraph/core/graph.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 1359"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/reproducibility/test_graphsage.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 245"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 218",
+      "Hyperparameter not explicitly set at line 235",
+      "Hyperparameter not explicitly set at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/test_utils/graphs.py": {
+    "R2": [
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/test_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 368",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 412"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 314",
+      "Hyperparameter not explicitly set at line 353",
+      "Hyperparameter not explicitly set at line 447",
+      "Hyperparameter not explicitly set at line 487",
+      "Hyperparameter not explicitly set at line 547",
+      "Hyperparameter not explicitly set at line 584",
+      "Hyperparameter not explicitly set at line 640",
+      "Hyperparameter not explicitly set at line 682",
+      "Hyperparameter not explicitly set at line 738",
+      "Hyperparameter not explicitly set at line 768",
+      "Hyperparameter not explicitly set at line 808"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_cluster_gcn.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_attri2vec.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_convert.py": {
+    "R2": [
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_misc.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_graph_classification.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_node2vec.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_watch_your_step.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_ppnp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_cluster_models.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_deep_graph_infomax.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_gcn.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_gcn_lstm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_rgcn.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_appnp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 243",
+      "Hyperparameter not explicitly set at line 211",
+      "Hyperparameter not explicitly set at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_link_inference.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 36",
+      "Use np.matmul() instead of np.dot() for matrices at line 299"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_knowledge_graph.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_graph_attention.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_hinsage.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/layer/test_graphsage.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/data/test_directed_breadth_first_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/demos/community_detection/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/mapper/test_link_mappers.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stellargraph_stellargraph/stellargraph-develop/tests/core/test_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 1036"
+    ]
+  }
+}

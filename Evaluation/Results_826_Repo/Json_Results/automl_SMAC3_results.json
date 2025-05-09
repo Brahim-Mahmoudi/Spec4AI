@@ -1,0 +1,83 @@
+{
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/benchmark/src/datasets/ac_branin.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/benchmark/src/models/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/test_model/test_abstract_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/test_intensifier/test_abstract_intensifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/fixtures/models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/test_model/_test_boing_kernel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/test_model/_test_lgpga.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/tests/test_model/_test_gp_gpytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/examples/4_advanced_optimizer/4_intensify_crossvalidation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/examples/2_multi_fidelity/2_sgd_datasets.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/smac/scenario.py": {
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/smac/model/gaussian_process/gaussian_process.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/smac/model/gaussian_process/mcmc_gaussian_process.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_SMAC3/SMAC3-main/smac/model/random_forest/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 154"
+    ]
+  }
+}

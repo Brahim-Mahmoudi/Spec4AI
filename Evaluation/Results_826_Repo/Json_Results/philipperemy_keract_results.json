@@ -1,0 +1,41 @@
+{
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keract/keract-master/tests/display_activations_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keract/keract-master/examples/multi_outputs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keract/keract-master/examples/model_in_model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keract/keract-master/examples/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keract/keract-master/tests/get_activations_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 140"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 347",
+      "Hyperparameter not explicitly set at line 339",
+      "Hyperparameter not explicitly set at line 340",
+      "Hyperparameter not explicitly set at line 364"
+    ]
+  }
+}

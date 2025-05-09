@@ -1,0 +1,322 @@
+{
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/penguins/tf-keras/trainer/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/penguins/tf-keras/trainer/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/molecules/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/penguins/tf-keras/trainer/util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 206",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/xgboost/iris_training.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/sklearn/iris_training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/xgboost/notebooks/census_training/train.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/sklearn/sklearn-template/template/trainer/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/sklearn/sklearn-template/template/trainer/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/sklearn/notebooks/census_training/train.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 77",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 79"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/mnist/deprecated/trainer/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/reinforcement_learning/rl_on_gcp_demo/trainer/ddpg_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/reinforcement_learning/rl_on_gcp_demo/trainer/td3_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/boston/trainer/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/reinforcement_learning/rl_on_gcp_demo/trainer/c2a2_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/boston/trainer/task.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/containers/unsupported_runtime/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/containers/unsupported_runtime/data_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 25",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 26"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/estimator/preprocessing/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/mnist/deprecated/distributed/trainer/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/tf-keras/trainer/task.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/keras/trainer/model.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/tf-keras/trainer/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/mnist/deprecated/hptuning/trainer/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/legacy/flowers/trainer/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/tf-keras/trainer/util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 206",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/tensorflowcore/trainer/model.py": {
+    "R3": [
+      "TensorArray Not Used at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/census/tensorflowcore/trainer/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tensorflow/standard/legacy/movielens/trainer/task.py": {
+    "R3": [
+      "TensorArray Not Used at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_estimator/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_lstm_estimator/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_cnn_estimator/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_lstm_keras/trainer.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_rewrite/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_film_estimator/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 146"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 71",
+      "Hyperparameter not explicitly set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_rewrite/trainer_infeed_outfeed.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/tpu/templates/tpu_grl_estimator/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 169"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76",
+      "Hyperparameter not explicitly set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/custom_container/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 67"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/custom_container/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/hp_tuning/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 66"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/published_container/sonar_training/trainer/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 77"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/hp_tuning/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/published_container/sonar_training/trainer/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/pytorch/containers/quickstart/mnist/trainer/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GoogleCloudPlatform_cloudml-samples/cloudml-samples-main/chainer/containers/quickstart/mnist/trainer/mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 153"
+    ]
+  }
+}

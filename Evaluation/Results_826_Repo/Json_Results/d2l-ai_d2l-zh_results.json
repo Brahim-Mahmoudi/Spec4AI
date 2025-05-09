@@ -1,0 +1,171 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/ci/submit-job.py": {
+    "R2": [
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/contrib/to-rm-mx-contrib-text/d2lzh/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 365"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 425",
+      "Hyperparameter not explicitly set at line 435",
+      "Hyperparameter not explicitly set at line 737"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 602",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 639",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 664",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 690",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 722",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 754",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 546"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/d2l/tensorflow.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 486"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1351",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1380",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1352",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1381"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 613",
+      "Random Seed Not Set at line 632",
+      "Random Seed Not Set at line 1341",
+      "Random Seed Not Set at line 606"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 964",
+      "TensorArray Not Used at line 971",
+      "TensorArray Not Used at line 974"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 751",
+      "Hyperparameter not explicitly set at line 773",
+      "Hyperparameter not explicitly set at line 1228",
+      "Hyperparameter not explicitly set at line 1230"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/d2l/mxnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1311",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1337",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1727",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1312",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1338"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 593",
+      "Random Seed Not Set at line 612",
+      "Random Seed Not Set at line 1302",
+      "Random Seed Not Set at line 2204",
+      "Random Seed Not Set at line 2237",
+      "Random Seed Not Set at line 2209",
+      "Random Seed Not Set at line 2213",
+      "Random Seed Not Set at line 586",
+      "Random Seed Not Set at line 1947",
+      "Random Seed Not Set at line 1964",
+      "Random Seed Not Set at line 2243",
+      "Random Seed Not Set at line 2247",
+      "Random Seed Not Set at line 2251"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1724"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 751",
+      "Hyperparameter not explicitly set at line 1330",
+      "Hyperparameter not explicitly set at line 1394",
+      "Hyperparameter not explicitly set at line 2162"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 256",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 709",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1425",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 454",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 946",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1315",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1341"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/d2l/torch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1418",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1446",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1830",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1419",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1447"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 641",
+      "Random Seed Not Set at line 660",
+      "Random Seed Not Set at line 2333",
+      "Random Seed Not Set at line 2366",
+      "Random Seed Not Set at line 2338",
+      "Random Seed Not Set at line 2342",
+      "Random Seed Not Set at line 634",
+      "Random Seed Not Set at line 2052",
+      "Random Seed Not Set at line 2069",
+      "Random Seed Not Set at line 2244",
+      "Random Seed Not Set at line 2372",
+      "Random Seed Not Set at line 2376",
+      "Random Seed Not Set at line 2380"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1827"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2622"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 784"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/d2l-ai_d2l-zh/d2l-zh-master/d2l/paddle.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1420",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1449",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1834",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1421",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1450"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 654",
+      "Random Seed Not Set at line 673",
+      "Random Seed Not Set at line 2343",
+      "Random Seed Not Set at line 2376",
+      "Random Seed Not Set at line 2348",
+      "Random Seed Not Set at line 2352",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 2061",
+      "Random Seed Not Set at line 2078",
+      "Random Seed Not Set at line 2382",
+      "Random Seed Not Set at line 2386",
+      "Random Seed Not Set at line 2390"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1831"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2635"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1532"
+    ]
+  }
+}

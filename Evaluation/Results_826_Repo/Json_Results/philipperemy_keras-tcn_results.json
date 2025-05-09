@@ -1,0 +1,154 @@
+{
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/non_causal.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/many_to_many.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/plot_tcn_model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/imdb_tcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/mnist_pixel/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/sequential.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/multi_length_sequences.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/tcn_tensorboard.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/save_reload_sequential_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/time_series_forecasting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 23"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/bidirect_tcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/copy_memory/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/video_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 27"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/receptive-field/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 6"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/adding_problem/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/adding_problem/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/copy_memory/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/receptive-field/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/exchange_rate/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/est_receptive_field.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/visualise_activations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tasks/word_ptb/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/philipperemy_keras-tcn/keras-tcn-master/tcn/tcn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 467",
+      "Hyperparameter not explicitly set at line 487"
+    ]
+  }
+}

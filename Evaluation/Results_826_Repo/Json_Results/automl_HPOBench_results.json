@@ -1,0 +1,137 @@
+{
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/utils/activations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/utils/scaler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/traditional_benchmark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/models/autoencoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/backbones/mlp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/od/od_ocsvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/od/od_kde.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/surrogates/svm_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/ml/ml_benchmark_template.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/dependencies/od/data_manager.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/container/client_abstract_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 325"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/nas/tabular_benchmarks.py": {
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/od/od_ae.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 134"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/nas/nasbench_1shot1.py": {
+    "R2": [
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 409"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/nas/nasbench_201.py": {
+    "R2": [
+      "Random Seed Not Set at line 387",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 518"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/ml/svm_benchmark_old.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/nas/nasbench_101.py": {
+    "R2": [
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/ml/xgboost_benchmark_old.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 246"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/rl/learna_benchmark.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 562"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/automl_HPOBench/HPOBench-master/hpobench/benchmarks/surrogates/paramnet_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 412"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/faucetsdn_NetworkML/NetworkML-main/networkml/helpers/pandas_csv_importer.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/faucetsdn_NetworkML/NetworkML-main/tests/test_algorithms_host_footprint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/faucetsdn_NetworkML/NetworkML-main/networkml/algorithms/host_footprint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 324"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 317"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 353",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 238"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 552"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 310"
+    ]
+  }
+}

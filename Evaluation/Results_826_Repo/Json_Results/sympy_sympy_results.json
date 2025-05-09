@@ -1,0 +1,608 @@
+{
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/series/approximants.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 80",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/series/formal.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 831"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/core/function.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1342"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/core/tests/test_relational.py": {
+    "R2": [
+      "Random Seed Not Set at line 587",
+      "Random Seed Not Set at line 588",
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 590"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/polyroots.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 797",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1037"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/densebasic.py": {
+    "R2": [
+      "Random Seed Not Set at line 1882",
+      "Random Seed Not Set at line 1885"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/galoistools.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2458"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/polytools.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2514",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2479",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 607",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2457",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2490",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2467"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/numberfields/galoisgroups.py": {
+    "R2": [
+      "Random Seed Not Set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/tests/test_polyclasses.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/ntheory/multinomial.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/ntheory/partitions_.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/glsl.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/rcode.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/jscode.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/holonomic/holonomic.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2053",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 955",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 956"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/julia.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 500"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/c.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/rust.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 630"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/octave.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 557"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/fortran.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 598"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/tests/test_theanocode.py": {
+    "R2": [
+      "Random Seed Not Set at line 459"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 636",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 639"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/tests/test_polytools.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1640",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1641",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1642",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1644",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1645",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1646",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1648",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1649",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1650",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1652",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1653",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1654",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1660",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1661",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1662",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1664",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1665",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1666",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1668",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1669",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1670",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1672",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1673",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1675",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1676",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1678",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1679",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1681",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1682",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1692",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1695",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1656",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1657",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1658",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1685"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/tests/test_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 182"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 371"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/tests/test_aesaracode.py": {
+    "R2": [
+      "Random Seed Not Set at line 467"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/printing/tests/test_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/solvers/polysys.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 457"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/logic/boolalg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1439"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/solvers/ode/nonhomogeneous.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 467"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/solvers/solveset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3533",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3537",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 3579"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/codegen/cfunctions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 266",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/polys/polyquinticconst.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/testing/tests/test_code_quality.py": {
+    "R2": [
+      "Random Seed Not Set at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/integrals/rde.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/integrals/intpoly.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 951",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 964",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1052",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 956"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/integrals/prde.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/utilities/tests/test_lambdify.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 957",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 961",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 862",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 873",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 885",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 895",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 905",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 906",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 907",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 917",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 927",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 937",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 954",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 955",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 975"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/integrals/risch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/assumptions/assume.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/assumptions/relation/binrel.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/integrals/manualintegrate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 363",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 372",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 408",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 443",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 349",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 199",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1299",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 425",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1277",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/combinatorics/graycode.py": {
+    "R2": [
+      "Random Seed Not Set at line 333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/plotting/series.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2543"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1404",
+      "Random Seed Not Set at line 1679",
+      "Random Seed Not Set at line 2387",
+      "Random Seed Not Set at line 2392"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/combinatorics/group_constructs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/combinatorics/permutations.py": {
+    "R2": [
+      "Random Seed Not Set at line 2922"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/interactive/traversal.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/combinatorics/fp_groups.py": {
+    "R2": [
+      "Random Seed Not Set at line 334",
+      "Random Seed Not Set at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/combinatorics/tests/test_tensor_can.py": {
+    "R2": [
+      "Random Seed Not Set at line 537"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/elementary/complexes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/combinatorial/tests/test_comb_factorials.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/combinatorial/numbers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2814",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2509",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2815"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/combinatorial/tests/test_comb_numbers.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/elementary/piecewise.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/tensor/array/arrayop.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 199",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/elementary/hyperbolic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1012"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/tensor/array/tests/test_arrayop.py": {
+    "R2": [
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/tensor/array/expressions/tests/test_array_expressions.py": {
+    "R2": [
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/functions/elementary/trigonometric.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1613"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/mechanics/body.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 365",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/mechanics/models.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/secondquant.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1440"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/tests/test_secondquant.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/vector/point.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/vector/vector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 50",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/vector/frame.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 478"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/continuum_mechanics/arch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 490",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 497"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/continuum_mechanics/cable.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 765"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/qubit.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 254",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 645",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 707",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 255",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 256"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 705",
+      "Random Seed Not Set at line 799"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/anticommutator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/hilbert.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 473",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 591"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/commutator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/continuum_mechanics/beam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2994"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/tests/test_matrixutils.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/physics/quantum/gate.py": {
+    "R2": [
+      "Random Seed Not Set at line 1291",
+      "Random Seed Not Set at line 1296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/parsing/sympy_parser.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 680"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/simplify/gammasimp.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 363"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/simplify/simplify.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1811"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/vector/functions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/categories/diagram_drawing.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 720",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 905",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 721",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 906",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 774"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/stats/stochastic_process_types.py": {
+    "R2": [
+      "Random Seed Not Set at line 1487"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/matrices/tests/test_determinant.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/matrices/tests/test_eigen.py": {
+    "R2": [
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 315"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sympy_sympy/sympy-master/sympy/matrices/expressions/blockmatrix.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 136",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 138"
+    ]
+  }
+}

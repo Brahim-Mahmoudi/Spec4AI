@@ -1,0 +1,58 @@
+{
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/model/HCN.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/feeder/feeder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/feeder/tools.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 144"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/huguyuehuhu_HCN-pytorch/HCN-pytorch-master/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 401",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 404",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

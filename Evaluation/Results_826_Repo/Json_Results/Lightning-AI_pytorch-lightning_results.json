@@ -1,0 +1,3021 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/accelerators/test_cpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/accelerators/test_mps.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_fabric/models.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_fabric/test_parity_simple.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_fabric/test_parity_ddp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/accelerators/test_cuda.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_double.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_all.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_double_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_half.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/loggers/test_tensorboard.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_amp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_xla_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/loggers/test_csv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_deepspeed.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_fsdp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_transformer_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_dp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_xla_fsdp.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_amp_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_single_device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_ddp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/graveyard/test_tpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/launchers/test_multiprocessing_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_xla_fsdp_integration.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_ddp_integration.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 144",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_apply_func.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_optimizer.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/plugins/precision/test_bitsandbytes.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 270"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_spike.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_strategy.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_deepspeed.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/helpers/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_device_dtype_mixin.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_model_parallel.py": {
+    "R2": [
+      "Random Seed Not Set at line 339"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_init.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_seed.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/legacy/simple_classif_training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_load.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 65",
+      "Hyperparameter not explicitly set at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/test_wrappers.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 469"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 467",
+      "Hyperparameter not explicitly set at line 474",
+      "Hyperparameter not explicitly set at line 552",
+      "Hyperparameter not explicitly set at line 574",
+      "Hyperparameter not explicitly set at line 511"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 469"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/overrides/test_distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_throughput.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/core/test_results.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_all.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_csv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_tensorboard.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 268",
+      "Potential data leakage: model.fit() used without a pipeline at line 307"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_neptune.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/test_connector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_logger.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 306",
+      "Potential data leakage: model.fit() used without a pipeline at line 324"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/accelerators/test_cpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/tuner/test_scale_batch_size.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 485"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/accelerators/test_gpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/utilities/test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 560",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/core/test_saving.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/tuner/test_lr_finder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 457",
+      "Potential data leakage: model.fit() used without a pipeline at line 505"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_mlflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 402",
+      "Potential data leakage: model.fit() used without a pipeline at line 449"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_fsdp_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 629",
+      "Random Seed Not Set at line 435"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 384",
+      "Hyperparameter not explicitly set at line 624",
+      "Hyperparameter not explicitly set at line 655"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_lambda_function.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_model_summary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_callback_hook_outputs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/accelerators/test_mps.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_rich_model_summary.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_callbacks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_spike.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/strategies/test_model_parallel_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 654",
+      "Random Seed Not Set at line 701",
+      "Random Seed Not Set at line 704",
+      "Random Seed Not Set at line 705"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 649",
+      "Hyperparameter not explicitly set at line 687"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_device_stats_monitor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_gradient_accumulation_scheduler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loggers/test_wandb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 410",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/accelerators/test_xla.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/core/test_datamodules.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 505"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/test_cluster_integration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_pruning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 321"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/test_checkpoint_io_plugin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_throughput_monitor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_timer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_all.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_deepspeed_precision.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_half.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_bitsandbytes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/core/test_metric_result_integration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 467",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 599"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_transformer_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_amp_integration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_early_stopping.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 461"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_custom_strategy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/core/test_lightning_module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 363",
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 411"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/test_amp_plugins.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_common.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_xla.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_fsdp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_stochastic_weight_avg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 383"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 274"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/profilers/test_xla_profiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_single_device.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/plugins/precision/test_double.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 169"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_ddp_integration_comm_hook.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_ddp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_finetuning_callback.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 413",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 251"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_fabric/test_fabric.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 248",
+      "Hyperparameter not explicitly set at line 273",
+      "Hyperparameter not explicitly set at line 286",
+      "Hyperparameter not explicitly set at line 300",
+      "Hyperparameter not explicitly set at line 311",
+      "Hyperparameter not explicitly set at line 713",
+      "Hyperparameter not explicitly set at line 714",
+      "Hyperparameter not explicitly set at line 1033",
+      "Hyperparameter not explicitly set at line 1055",
+      "Hyperparameter not explicitly set at line 1105",
+      "Hyperparameter not explicitly set at line 1127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 616",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 656",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 668",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 679",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 680",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 701",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 945",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1234",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 653",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 666",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 674",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 676",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 699",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 724"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_fabric_integration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_amp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_model_parallel.py": {
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/launchers/test_multiprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_onnx.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_cpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 282"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/graveyard/test_tpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/test_lr_monitor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 371",
+      "Potential data leakage: model.fit() used without a pipeline at line 396",
+      "Potential data leakage: model.fit() used without a pipeline at line 418",
+      "Potential data leakage: model.fit() used without a pipeline at line 572",
+      "Potential data leakage: model.fit() used without a pipeline at line 638",
+      "Potential data leakage: model.fit() used without a pipeline at line 675",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 458"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 355"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_torchscript.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_ddp_integration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 294",
+      "Potential data leakage: model.fit() used without a pipeline at line 373",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 450"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_grads.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_auto_restart.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_gpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 231"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 176"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/callbacks/progress/test_tqdm_progress_bar.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 427",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 541",
+      "Potential data leakage: model.fit() used without a pipeline at line 569",
+      "Potential data leakage: model.fit() used without a pipeline at line 642",
+      "Potential data leakage: model.fit() used without a pipeline at line 679",
+      "Potential data leakage: model.fit() used without a pipeline at line 689",
+      "Potential data leakage: model.fit() used without a pipeline at line 741",
+      "Potential data leakage: model.fit() used without a pipeline at line 773",
+      "Potential data leakage: model.fit() used without a pipeline at line 802",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 387",
+      "Potential data leakage: model.fit() used without a pipeline at line 599"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_signature_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_tpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 267"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_dtype_device_mixin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_pytree.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_memory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_seed.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_parameter_tying.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_model_helpers.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_deepspeed_model_summary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_deepspeed_collate_checkpoint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_model_parallel_integration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 330",
+      "Potential data leakage: model.fit() used without a pipeline at line 399",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 446",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 484",
+      "Potential data leakage: model.fit() used without a pipeline at line 531",
+      "Potential data leakage: model.fit() used without a pipeline at line 548",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 374"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 317"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_compile.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_flow_warnings.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_all_gather_grad.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_upgrade_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_training_loop_flow_dict.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 34",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 68",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 99",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_all.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/profilers/test_profiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 419",
+      "Potential data leakage: model.fit() used without a pipeline at line 496",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 631",
+      "Potential data leakage: model.fit() used without a pipeline at line 191"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 518"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_evaluation_loop_flow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 44",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/migration/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/migration/test_migration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_training_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_restore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 337",
+      "Potential data leakage: model.fit() used without a pipeline at line 346",
+      "Potential data leakage: model.fit() used without a pipeline at line 376",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 455",
+      "Potential data leakage: model.fit() used without a pipeline at line 500",
+      "Potential data leakage: model.fit() used without a pipeline at line 548",
+      "Potential data leakage: model.fit() used without a pipeline at line 588",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 658",
+      "Potential data leakage: model.fit() used without a pipeline at line 668",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 673"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 507",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 518"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/optimization/test_manual_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/optimization/test_closure.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/checkpointing/test_torch_saving.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/optimization/test_automatic_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 358"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/deprecated_api/test_no_removal_version.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/demos/transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_model_summary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 334"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 422"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 432",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 456",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 457",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 465",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 466",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 484"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/serve/test_servable_module_validator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_hparams.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 632",
+      "Potential data leakage: model.fit() used without a pipeline at line 658",
+      "Potential data leakage: model.fit() used without a pipeline at line 689",
+      "Potential data leakage: model.fit() used without a pipeline at line 707",
+      "Potential data leakage: model.fit() used without a pipeline at line 771",
+      "Potential data leakage: model.fit() used without a pipeline at line 886",
+      "Potential data leakage: model.fit() used without a pipeline at line 910",
+      "Potential data leakage: model.fit() used without a pipeline at line 547",
+      "Potential data leakage: model.fit() used without a pipeline at line 552",
+      "Potential data leakage: model.fit() used without a pipeline at line 749",
+      "Potential data leakage: model.fit() used without a pipeline at line 921"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/test_datasets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_training_loop_flow_scalar.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 243"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 73",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_training_epoch_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 221"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/checkpointing/test_checkpoint_callback_frequency.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 121"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/checkpointing/test_legacy_checkpoints.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/test_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/deterministic_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/pipelines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/datamodules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/test_states.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/simple_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/strategies/test_deepspeed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 511",
+      "Potential data leakage: model.fit() used without a pipeline at line 530",
+      "Potential data leakage: model.fit() used without a pipeline at line 667",
+      "Potential data leakage: model.fit() used without a pipeline at line 687",
+      "Potential data leakage: model.fit() used without a pipeline at line 711",
+      "Potential data leakage: model.fit() used without a pipeline at line 745",
+      "Potential data leakage: model.fit() used without a pipeline at line 788",
+      "Potential data leakage: model.fit() used without a pipeline at line 829",
+      "Potential data leakage: model.fit() used without a pipeline at line 869",
+      "Potential data leakage: model.fit() used without a pipeline at line 924",
+      "Potential data leakage: model.fit() used without a pipeline at line 951",
+      "Potential data leakage: model.fit() used without a pipeline at line 1017",
+      "Potential data leakage: model.fit() used without a pipeline at line 1073",
+      "Potential data leakage: model.fit() used without a pipeline at line 1146",
+      "Potential data leakage: model.fit() used without a pipeline at line 1173",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 764",
+      "Potential data leakage: model.fit() used without a pipeline at line 1040",
+      "Potential data leakage: model.fit() used without a pipeline at line 1102",
+      "Potential data leakage: model.fit() used without a pipeline at line 1119",
+      "Potential data leakage: model.fit() used without a pipeline at line 1192",
+      "Potential data leakage: model.fit() used without a pipeline at line 1215",
+      "Potential data leakage: model.fit() used without a pipeline at line 1245",
+      "Potential data leakage: model.fit() used without a pipeline at line 1258"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/test_config_validator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/utilities/test_combined_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_evaluation_loop.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/models/test_hooks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 457",
+      "Potential data leakage: model.fit() used without a pipeline at line 540",
+      "Potential data leakage: model.fit() used without a pipeline at line 559",
+      "Potential data leakage: model.fit() used without a pipeline at line 618",
+      "Potential data leakage: model.fit() used without a pipeline at line 639",
+      "Potential data leakage: model.fit() used without a pipeline at line 811",
+      "Potential data leakage: model.fit() used without a pipeline at line 838",
+      "Potential data leakage: model.fit() used without a pipeline at line 985"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 182"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 940"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_env_vars.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/helpers/advanced_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_check_val_every_n_epoch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_inference_mode.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_min_max_epochs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/connectors/test_signal_connector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_val_check_interval.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/optimization/test_multiple_optimizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_limit_batches.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_fast_dev_run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/optimization/test_backward_calls.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/dynamic_args/test_multiple_eval_dataloaders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/flags/test_overfit_batches.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/connectors/test_callback_connector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/properties/test_get_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/logging_/test_loop_logging.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/connectors/test_checkpoint_connector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_pytorch/measure.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_pytorch/generate_comparison.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_pytorch/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/logging_/test_distributed_logging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/properties/test_estimated_stepping_batches.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/properties/test_log_dir.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_fetchers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 434",
+      "Potential data leakage: model.fit() used without a pipeline at line 482",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 560"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_pytorch/test_basic_parity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 140"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/requirements/collect_env_details.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/parity_pytorch/test_sync_batchnorm_parity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/tensor_parallel/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/tensor_parallel/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/kfold_cv/train_fabric.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/build_your_own_trainer/run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/image_classifier/train_fabric.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/image_classifier/train_torch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/connectors/test_data_connector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 367"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 435"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/loops/test_loops.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 446",
+      "Potential data leakage: model.fit() used without a pipeline at line 550",
+      "Potential data leakage: model.fit() used without a pipeline at line 718",
+      "Potential data leakage: model.fit() used without a pipeline at line 730",
+      "Potential data leakage: model.fit() used without a pipeline at line 781",
+      "Potential data leakage: model.fit() used without a pipeline at line 795",
+      "Potential data leakage: model.fit() used without a pipeline at line 845",
+      "Potential data leakage: model.fit() used without a pipeline at line 858",
+      "Potential data leakage: model.fit() used without a pipeline at line 869",
+      "Potential data leakage: model.fit() used without a pipeline at line 895",
+      "Potential data leakage: model.fit() used without a pipeline at line 910",
+      "Potential data leakage: model.fit() used without a pipeline at line 923",
+      "Potential data leakage: model.fit() used without a pipeline at line 976",
+      "Potential data leakage: model.fit() used without a pipeline at line 1065",
+      "Potential data leakage: model.fit() used without a pipeline at line 1205",
+      "Potential data leakage: model.fit() used without a pipeline at line 1282",
+      "Potential data leakage: model.fit() used without a pipeline at line 1296",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 1017",
+      "Potential data leakage: model.fit() used without a pipeline at line 1137",
+      "Potential data leakage: model.fit() used without a pipeline at line 1135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/rl/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/tensor_parallel/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/logging_/test_logger_connector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 594",
+      "Potential data leakage: model.fit() used without a pipeline at line 592"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 605",
+      "Random Seed Not Set at line 615",
+      "Random Seed Not Set at line 624",
+      "Random Seed Not Set at line 607",
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 446"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/dcgan/train_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/fp8_distributed_transformer/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/dcgan/train_fabric.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/language_model/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/rl/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/train_fabric.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/basics/profiler_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/logging_/test_train_loop_logging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 419",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 491",
+      "Potential data leakage: model.fit() used without a pipeline at line 543",
+      "Potential data leakage: model.fit() used without a pipeline at line 670",
+      "Potential data leakage: model.fit() used without a pipeline at line 710",
+      "Potential data leakage: model.fit() used without a pipeline at line 734",
+      "Potential data leakage: model.fit() used without a pipeline at line 766",
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 577",
+      "Potential data leakage: model.fit() used without a pipeline at line 597",
+      "Potential data leakage: model.fit() used without a pipeline at line 605",
+      "Potential data leakage: model.fit() used without a pipeline at line 620",
+      "Potential data leakage: model.fit() used without a pipeline at line 630",
+      "Potential data leakage: model.fit() used without a pipeline at line 639",
+      "Potential data leakage: model.fit() used without a pipeline at line 647"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/meta_learning/train_fabric.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/connectors/test_accelerator_connector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/optimization/test_manual_optimization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 667",
+      "Potential data leakage: model.fit() used without a pipeline at line 771",
+      "Potential data leakage: model.fit() used without a pipeline at line 882",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 443",
+      "Potential data leakage: model.fit() used without a pipeline at line 483",
+      "Potential data leakage: model.fit() used without a pipeline at line 811",
+      "Potential data leakage: model.fit() used without a pipeline at line 820",
+      "Potential data leakage: model.fit() used without a pipeline at line 919",
+      "Potential data leakage: model.fit() used without a pipeline at line 808",
+      "Potential data leakage: model.fit() used without a pipeline at line 916"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/build_your_own_trainer/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/meta_learning/train_torch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/tensor_parallel/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/basics/transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/basics/backbone_image_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/train_torch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 186",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/tensor_parallel/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/bug_report/bug_report_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/rl/agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/basics/autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/hpu/mnist_sample.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/fabric/reinforcement_learning/train_fabric_decoupled.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/fp8_distributed_transformer/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/servable_module/production.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/imagenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/logging_/test_eval_loop_logging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 337",
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 631",
+      "Potential data leakage: model.fit() used without a pipeline at line 666",
+      "Potential data leakage: model.fit() used without a pipeline at line 965"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/computer_vision_fine_tuning.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/generative_adversarial_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 220"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/cli.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/accelerators/mps.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/accelerators/cpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/reinforce_learn_Qnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 382"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/tensor_parallel/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/accelerators/cuda.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/trainer/test_dataloaders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 403",
+      "Potential data leakage: model.fit() used without a pipeline at line 505",
+      "Potential data leakage: model.fit() used without a pipeline at line 669",
+      "Potential data leakage: model.fit() used without a pipeline at line 730",
+      "Potential data leakage: model.fit() used without a pipeline at line 762",
+      "Potential data leakage: model.fit() used without a pipeline at line 806",
+      "Potential data leakage: model.fit() used without a pipeline at line 843",
+      "Potential data leakage: model.fit() used without a pipeline at line 868",
+      "Potential data leakage: model.fit() used without a pipeline at line 924",
+      "Potential data leakage: model.fit() used without a pipeline at line 959",
+      "Potential data leakage: model.fit() used without a pipeline at line 985",
+      "Potential data leakage: model.fit() used without a pipeline at line 1069",
+      "Potential data leakage: model.fit() used without a pipeline at line 1108",
+      "Potential data leakage: model.fit() used without a pipeline at line 1157",
+      "Potential data leakage: model.fit() used without a pipeline at line 1203",
+      "Potential data leakage: model.fit() used without a pipeline at line 1232",
+      "Potential data leakage: model.fit() used without a pipeline at line 1237",
+      "Potential data leakage: model.fit() used without a pipeline at line 1337",
+      "Potential data leakage: model.fit() used without a pipeline at line 1386",
+      "Potential data leakage: model.fit() used without a pipeline at line 1409",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 434",
+      "Potential data leakage: model.fit() used without a pipeline at line 482",
+      "Potential data leakage: model.fit() used without a pipeline at line 680",
+      "Potential data leakage: model.fit() used without a pipeline at line 690",
+      "Potential data leakage: model.fit() used without a pipeline at line 694",
+      "Potential data leakage: model.fit() used without a pipeline at line 718",
+      "Potential data leakage: model.fit() used without a pipeline at line 904",
+      "Potential data leakage: model.fit() used without a pipeline at line 555",
+      "Potential data leakage: model.fit() used without a pipeline at line 592",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 588"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 832",
+      "Random Seed Not Set at line 645",
+      "Random Seed Not Set at line 818",
+      "Random Seed Not Set at line 750",
+      "Random Seed Not Set at line 751",
+      "Random Seed Not Set at line 752"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/accelerators/xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/semantic_segmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 389"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 369"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/io/xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/half.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/examples/pytorch/domain_templates/reinforce_learn_ppo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 435"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 292"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/deepspeed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/double.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/wrappers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/precision.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/tests/tests_pytorch/checkpointing/test_model_checkpoint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 344",
+      "Potential data leakage: model.fit() used without a pipeline at line 403",
+      "Potential data leakage: model.fit() used without a pipeline at line 485",
+      "Potential data leakage: model.fit() used without a pipeline at line 507",
+      "Potential data leakage: model.fit() used without a pipeline at line 639",
+      "Potential data leakage: model.fit() used without a pipeline at line 699",
+      "Potential data leakage: model.fit() used without a pipeline at line 731",
+      "Potential data leakage: model.fit() used without a pipeline at line 760",
+      "Potential data leakage: model.fit() used without a pipeline at line 795",
+      "Potential data leakage: model.fit() used without a pipeline at line 807",
+      "Potential data leakage: model.fit() used without a pipeline at line 837",
+      "Potential data leakage: model.fit() used without a pipeline at line 861",
+      "Potential data leakage: model.fit() used without a pipeline at line 916",
+      "Potential data leakage: model.fit() used without a pipeline at line 965",
+      "Potential data leakage: model.fit() used without a pipeline at line 995",
+      "Potential data leakage: model.fit() used without a pipeline at line 1059",
+      "Potential data leakage: model.fit() used without a pipeline at line 1146",
+      "Potential data leakage: model.fit() used without a pipeline at line 1170",
+      "Potential data leakage: model.fit() used without a pipeline at line 1203",
+      "Potential data leakage: model.fit() used without a pipeline at line 1230",
+      "Potential data leakage: model.fit() used without a pipeline at line 1282",
+      "Potential data leakage: model.fit() used without a pipeline at line 1284",
+      "Potential data leakage: model.fit() used without a pipeline at line 1347",
+      "Potential data leakage: model.fit() used without a pipeline at line 1433",
+      "Potential data leakage: model.fit() used without a pipeline at line 1441",
+      "Potential data leakage: model.fit() used without a pipeline at line 1552",
+      "Potential data leakage: model.fit() used without a pipeline at line 1558",
+      "Potential data leakage: model.fit() used without a pipeline at line 1660",
+      "Potential data leakage: model.fit() used without a pipeline at line 1668",
+      "Potential data leakage: model.fit() used without a pipeline at line 885",
+      "Potential data leakage: model.fit() used without a pipeline at line 1001",
+      "Potential data leakage: model.fit() used without a pipeline at line 1085",
+      "Potential data leakage: model.fit() used without a pipeline at line 1095",
+      "Potential data leakage: model.fit() used without a pipeline at line 1256",
+      "Potential data leakage: model.fit() used without a pipeline at line 1317",
+      "Potential data leakage: model.fit() used without a pipeline at line 1473",
+      "Potential data leakage: model.fit() used without a pipeline at line 1518"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/amp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/fsdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/single_device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/transformer_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/connector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/ddp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/consolidate_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/launchers/multiprocessing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/types.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/device_dtype_mixin.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/cloud_io.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/seed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/fabric.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 438"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/spike.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/apply_func.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/testing/_runif.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/plugins/precision/bitsandbytes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/device_parser.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/load.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/model_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/overrides/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/tuner/tuning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/deepspeed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/xla_fsdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/utilities/throughput.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/fabric/strategies/fsdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/core/hooks.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/accelerators/cpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/accelerators/mps.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/tuner/lr_finder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/accelerators/cuda.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/spike.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/core/saving.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/core/optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/layer_sync.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/precision/half.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/precision/deepspeed.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/early_stopping.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/throughput_monitor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/precision/fsdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/precision/amp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/finetuning.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/plugins/precision/precision.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/stochastic_weight_avg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/single_device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/lr_monitor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/consolidate_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/profilers/simple.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/model_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/launchers/multiprocessing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/ddp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/upgrade_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/core/module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1075",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1078",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1095",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1097"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/memory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/deepspeed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/grads.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/callbacks/model_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/strategies/fsdp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/loops/utilities.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/profilers/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/serve/servable_module_validator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/loops/optimization/automatic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/demos/lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/utilities/model_summary/model_summary.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 308"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/demos/mnist_datamodule.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/loops/prediction_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/demos/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/loops/fit_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/demos/boring_classes.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/trainer/connectors/checkpoint_connector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/trainer/connectors/logger_connector/result.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Lightning-AI_pytorch-lightning/pytorch-lightning-master/src/lightning/pytorch/trainer/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/models/utils_model_testing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/models/test_models_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/datasets/from_rdatasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/models/test_pc_hazard.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/pc_hazard.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/evaluation/test_admin.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/models/test_interpolation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/cox_cc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/tests/models/test_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/interpolation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/preprocessing/feature_transforms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 60; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/cox.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/simulations/relative_risk.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/preprocessing/discretization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/preprocessing/label_transforms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/cox_time.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 146",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 160",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 161"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/models/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/simulations/discrete_logit_hazard.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/havakv_pycox/pycox-master/pycox/datasets/from_kkbox.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 787"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 411"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 190",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 197",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 187"
+    ]
+  }
+}

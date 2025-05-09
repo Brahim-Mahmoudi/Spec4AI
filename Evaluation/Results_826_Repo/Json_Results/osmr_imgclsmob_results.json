@@ -1,0 +1,1191 @@
+{
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/sotabench.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/train_ch.py": {
+    "R2": [
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/train_tf2.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/chainer_/top_k_accuracy1.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/train_gl_seg.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/eval_gl_mch.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/train_gl.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 569"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/pytorch/seg_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/chainer_/train_ch_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/chainer_/train_ch_in1k.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_conv1x1.py": {
+    "R2": [
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2pt_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_avgpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_lstm.py": {
+    "R2": [
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_dwconv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_maxpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/train_gl_mealv2.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 615"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/eval_pt_mch.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2pt_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 54"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2pt_dense.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 45"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_gconv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_dense.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/train_gl_cifar-.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/weighted_random_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_conv2d_b.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/gluon/khpa/train_gl_khpa.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 369"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/other/gluon/khpa/khpa_cls_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 59",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 60",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 73",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 103"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 243"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf_dwconv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tests/convert_gl2tf2_avgpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/metrics/asr_metrics.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/dataset_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/metrics/seg_metrics.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 102",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 234",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/cub200_2011_cls_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 75",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 77",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/seg_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/mcv_asr_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 69",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 70"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/coco_det_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 468"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/metrics/det_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/isqrtcovresnet.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 473"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/coco_hpe1_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 590"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/shakedropresnet_cifar.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/quartznet.py": {
+    "R2": [
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/datasets/coco_hpe3_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 347",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 353"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/jasperdr.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/convert_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 330"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/fractalnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/jasper.py": {
+    "R2": [
+      "Random Seed Not Set at line 1170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/gluon/gluoncv2/models/fishnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 500"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow_/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/metrics/det_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/datasets/cub200_2011_cls_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 75",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 77",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/datasets/seg_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/lednet.py": {
+    "R2": [
+      "Random Seed Not Set at line 605"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/simplepose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 321"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/nvpattexp.py": {
+    "R2": [
+      "Random Seed Not Set at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/cgnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 453"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/quartznet.py": {
+    "R2": [
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/ibppose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 580"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/centernet.py": {
+    "R2": [
+      "Random Seed Not Set at line 483"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/datasets/coco_hpe1_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 657"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/alphapose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/dabnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 556"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/jasperdr.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/fpenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 421"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/datasets/coco_hpe3_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 354",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 360"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/voca.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/simpleposemobile_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 306"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/bisenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 419"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/jasper.py": {
+    "R2": [
+      "Random Seed Not Set at line 1069",
+      "Random Seed Not Set at line 1072",
+      "Random Seed Not Set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/lwopenpose_cmupan.py": {
+    "R2": [
+      "Random Seed Not Set at line 643"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/fishnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 479"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/chainer_/chainercv2/models/irevnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 472"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/dataset_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/metrics/asr_metrics.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/examples/demo_pt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/metrics/cls_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/metrics/det_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/metrics/seg_metrics.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 214"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/seg_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/cub200_2011_cls_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 78",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 80",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/metrics/ret_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/model_stats.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 307"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/hpe_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 269"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 127",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/mcv_asr_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 69",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 70"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/coco_det_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 470"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/metrics/det_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/datasets/cub200_2011_cls_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 90",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 92",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/datasets/seg_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/coco_hpe2_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fdmobilenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/seresnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/coco_hpe1_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 633"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/sepreresnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 609"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/spnasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/shufflenetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 394"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ghostnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 438"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/efficientnetedge.py": {
+    "R2": [
+      "Random Seed Not Set at line 404"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/wrn_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mobilenetb.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/selecsls.py": {
+    "R2": [
+      "Random Seed Not Set at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/menet.py": {
+    "R2": [
+      "Random Seed Not Set at line 514"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/visemenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mobilenet_cub.py": {
+    "R2": [
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/lednet.py": {
+    "R2": [
+      "Random Seed Not Set at line 684"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/diracnetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 302"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/vgg.py": {
+    "R2": [
+      "Random Seed Not Set at line 422"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mnasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 439"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/darknet53.py": {
+    "R2": [
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/simplepose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/bamresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 487"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ibndensenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 418"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/squeezenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/nvpattexp.py": {
+    "R2": [
+      "Random Seed Not Set at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/regnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 702"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/hrnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 690"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/senet.py": {
+    "R2": [
+      "Random Seed Not Set at line 461"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/cgnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/preresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 816"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 601"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/bninception.py": {
+    "R2": [
+      "Random Seed Not Set at line 592"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/lffd.py": {
+    "R2": [
+      "Random Seed Not Set at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/quartznet.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ibppose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 661"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/densenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/peleenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/seresnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 596"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/hardnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 655"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/pytorch/datasets/coco_hpe3_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 347",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 353"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/datasets/coco_hpe1_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 634"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/inceptionresnetv1.py": {
+    "R2": [
+      "Random Seed Not Set at line 622"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/centernet.py": {
+    "R2": [
+      "Random Seed Not Set at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/icnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 459"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnesta.py": {
+    "R2": [
+      "Random Seed Not Set at line 572"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mixnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 631"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/vovnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/proxylessnas_cub.py": {
+    "R2": [
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/seresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 539"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/alphapose_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/airnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 453"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/pyramidnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 415"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/scnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 510"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/densenet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 754"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/dla.py": {
+    "R2": [
+      "Random Seed Not Set at line 679"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fcn8sd.py": {
+    "R2": [
+      "Random Seed Not Set at line 431"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/proxylessnas.py": {
+    "R2": [
+      "Random Seed Not Set at line 424"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnext_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 1559"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fastscnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 584"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/darknet.py": {
+    "R2": [
+      "Random Seed Not Set at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ibnresnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 345"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/sepreresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 538"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mobilenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/seresnet_cub.py": {
+    "R2": [
+      "Random Seed Not Set at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fastseresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 299"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/deeplabv3.py": {
+    "R2": [
+      "Random Seed Not Set at line 606"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 458"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/espnetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 600"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/inceptionv4.py": {
+    "R2": [
+      "Random Seed Not Set at line 720"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/dabnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 621"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/pspnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 530"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/wrn.py": {
+    "R2": [
+      "Random Seed Not Set at line 448"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/shufflenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 493"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/jasperdr.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mobilenetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 376"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fpenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 478"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/fbnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/pnasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 718"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/efficientnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 1037"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/cbamresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/sknet.py": {
+    "R2": [
+      "Random Seed Not Set at line 399"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/datasets/coco_hpe3_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 348",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 354"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ibnbresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 782"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/inceptionresnetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/voca.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 79",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 83"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/ibnresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 435"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/simpleposemobile_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/airnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/shufflenetv2b.py": {
+    "R2": [
+      "Random Seed Not Set at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/inceptionv3.py": {
+    "R2": [
+      "Random Seed Not Set at line 814"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/bagnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 374"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/mobilenetv3.py": {
+    "R2": [
+      "Random Seed Not Set at line 569"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/squeezenext.py": {
+    "R2": [
+      "Random Seed Not Set at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/bisenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 504"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resneta.py": {
+    "R2": [
+      "Random Seed Not Set at line 435"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnetd.py": {
+    "R2": [
+      "Random Seed Not Set at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/pyramidnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 684"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/xception.py": {
+    "R2": [
+      "Random Seed Not Set at line 444"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/igcv3.py": {
+    "R2": [
+      "Random Seed Not Set at line 305"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/drn.py": {
+    "R2": [
+      "Random Seed Not Set at line 673"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/grmiposelite_coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/zfnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/jasper.py": {
+    "R2": [
+      "Random Seed Not Set at line 1086",
+      "Random Seed Not Set at line 1175",
+      "Random Seed Not Set at line 1170",
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/danet.py": {
+    "R2": [
+      "Random Seed Not Set at line 499"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/alexnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/lwopenpose_cmupan.py": {
+    "R2": [
+      "Random Seed Not Set at line 741"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/dpn.py": {
+    "R2": [
+      "Random Seed Not Set at line 741"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/dicenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 893"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/resnet_cub.py": {
+    "R2": [
+      "Random Seed Not Set at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/sinet.py": {
+    "R2": [
+      "Random Seed Not Set at line 1217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/preresnet_cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 633"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/polynet.py": {
+    "R2": [
+      "Random Seed Not Set at line 1187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/osmr_imgclsmob/imgclsmob-master/tensorflow2/tf2cv/models/nasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 1620"
+    ]
+  }
+}

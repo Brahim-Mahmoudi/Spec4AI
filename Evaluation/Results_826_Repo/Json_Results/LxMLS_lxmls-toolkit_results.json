@@ -1,0 +1,168 @@
+{
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/buggy.py": {
+    "R2": [
+      "Random Seed Not Set at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/numpy_models/log_linear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/pytorch_models/log_linear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/labs/scripts/non_linear_classifiers/exercise_1.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/util/my_math_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 51",
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/labs/scripts/non_linear_classifiers/exercise_3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/embeddings.py": {
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/numpy_models/mlp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 124",
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/pytorch_models/mlp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/numpy_models/rnn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/pretrained_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/classifiers/linear_classifier.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 20",
+      "Use np.matmul() instead of np.dot() for matrices at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/distributions/gaussian.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/deep_learning/pytorch_models/rnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 143",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/classifiers/max_ent_batch.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/classifiers/max_ent_online.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/classifiers/gaussian_naive_bayes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/classifiers/naive_bayes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/bpe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/tests/test_non_linear_classifiers_numpy.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/tests/test_non_linear_classifiers_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/readers/simple_data_set.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/readers/pos_corpus.py": {
+    "R2": [
+      "Random Seed Not Set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/LxMLS_lxmls-toolkit/lxmls-toolkit-master/lxmls/transformers/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

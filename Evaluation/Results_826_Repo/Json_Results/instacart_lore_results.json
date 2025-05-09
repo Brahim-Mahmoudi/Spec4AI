@@ -1,0 +1,129 @@
+{
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/io/multi_connection_proxy.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/estimators/sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/estimators/xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/tests/mocks/models_other.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/pipelines/holdout.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/tests/unit/test_metadata.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/pipelines/iterative.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/models/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/tests/unit/test_models_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/tests/unit/test_models_other.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 9",
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/estimators/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 455"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/tests/unit/test_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 384",
+      "Potential data leakage: model.fit() used without a pipeline at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 738",
+      "Potential data leakage: model.fit() used without a pipeline at line 673",
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 908"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/instacart_lore/lore-master/lore/__main__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 544"
+    ]
+  }
+}

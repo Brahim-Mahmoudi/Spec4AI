@@ -1,0 +1,296 @@
+{
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/validate/plants_steam_ferc1_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/validate/fuel_ferc1_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/analysis/allocate_gen_fuel_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 171",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 182",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 192",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 201",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 224",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 418",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 442"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/transform/glue_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/transform/eia_bulk_elec_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/extract/eia_bulk_elec_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/integration/ferc1_eia_train_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/integration/output_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 169",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/glue/ferc714.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/helpers_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 524",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 183",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 798",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 377",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 410"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/integration/record_linkage_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/output/ferc1_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 383",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 417",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 396",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 427"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/transform/ferc1_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 182",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 116",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 204",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 249",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 269",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 294",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 317",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 339",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 352",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 369",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 391",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 506",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 519",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 673",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 700",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 723",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 772",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 849",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 860",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 870",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 898",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 911",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 994",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1007",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1093",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1115",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1208",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1220",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1035",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1051",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1178",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 534",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 833",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 948",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 746",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 789"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/glue/ferc1_eia.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 429"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 421",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 121",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 111",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/io_managers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 749"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/service_territory.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 709",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 713",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 717",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 718",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 721"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/timeseries_evaluation.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/test/unit/transform/classes_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 680",
+      "Random Seed Not Set at line 683"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/record_linkage/name_cleaner.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/record_linkage/link_cross_year.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 107",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/record_linkage/eia_ferc1_inputs.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 288",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 337"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/etl/glue_assets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/plant_parts_eia.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 668"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/output/censusdp1tract.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/record_linkage/eia_ferc1_train.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 759; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 762; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 783; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 632",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 656",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 670",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 720",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 744"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/analysis/record_linkage/eia_ferc1_record_linkage.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 725"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/output/pudltabl.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 423",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/extract/gridpathratoolkit.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/extract/eia_bulk_elec.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/workspace/datastore.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/extract/extractor.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/helpers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1783",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/metadata/dfs.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 276",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 310",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/transform/ferc714.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 338",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 388"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/transform/eia.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 349"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/metadata/codes.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1811"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/output/ferc1.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 867",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 895"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/catalyst-cooperative_pudl/pudl-main/src/pudl/transform/ferc1.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1755",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1900",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1712",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1731"
+    ]
+  }
+}

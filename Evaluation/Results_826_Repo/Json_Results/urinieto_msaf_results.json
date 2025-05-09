@@ -1,0 +1,217 @@
+{
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/olda/OLDA.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/olda/fit_olda_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/fmc2d/utils_2dfmc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/fmc2d/segmenter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/eval.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/foote/segmenter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/bnmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 94",
+      "Use np.matmul() instead of np.dot() for matrices at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/chnmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 44",
+      "Use np.matmul() instead of np.dot() for matrices at line 178"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/algorithms/sf/segmenter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/gmap.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/nndsvd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/sivm_gsat.py": {
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/rnmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 96",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 91",
+      "Use np.matmul() instead of np.dot() for matrices at line 98",
+      "Use np.matmul() instead of np.dot() for matrices at line 109"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/greedy.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 84",
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 144",
+      "Use np.matmul() instead of np.dot() for matrices at line 153",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 157",
+      "Use np.matmul() instead of np.dot() for matrices at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/tests/test_fmc2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/snmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/nmfals.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 90",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/cnmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 155",
+      "Use np.matmul() instead of np.dot() for matrices at line 102",
+      "Use np.matmul() instead of np.dot() for matrices at line 164",
+      "Use np.matmul() instead of np.dot() for matrices at line 165",
+      "Use np.matmul() instead of np.dot() for matrices at line 168",
+      "Use np.matmul() instead of np.dot() for matrices at line 175",
+      "Use np.matmul() instead of np.dot() for matrices at line 180",
+      "Use np.matmul() instead of np.dot() for matrices at line 169",
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 170",
+      "Use np.matmul() instead of np.dot() for matrices at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/cur.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112",
+      "Use np.matmul() instead of np.dot() for matrices at line 116",
+      "Use np.matmul() instead of np.dot() for matrices at line 121",
+      "Use np.matmul() instead of np.dot() for matrices at line 122"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/aa.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 135",
+      "Use np.matmul() instead of np.dot() for matrices at line 105",
+      "Use np.matmul() instead of np.dot() for matrices at line 125",
+      "Use np.matmul() instead of np.dot() for matrices at line 99",
+      "Use np.matmul() instead of np.dot() for matrices at line 120"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/nmf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 126",
+      "Use np.matmul() instead of np.dot() for matrices at line 132",
+      "Use np.matmul() instead of np.dot() for matrices at line 111"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/sub.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/svd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 40",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 129",
+      "Use np.matmul() instead of np.dot() for matrices at line 132",
+      "Use np.matmul() instead of np.dot() for matrices at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/urinieto_msaf/msaf-main/msaf/pymf/dist.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 61",
+      "Use np.matmul() instead of np.dot() for matrices at line 87",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  }
+}

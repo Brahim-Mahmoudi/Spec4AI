@@ -1,0 +1,213 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/mnist_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/04/mnist_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/mnist_regularization.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/example_keras_manual_batches.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/example_manual.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/example_manual_tf_function.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/04/mnist_multiple.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/05/cags_segmentation.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/03/example_keras_models.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/02/mnist_training.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/02/sgd_backpropagation.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/02/sgd_manual.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/04/tf_dataset.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/02/gym_cartpole.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/11/tagger_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/05/cnn_manual.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/07/tagger_we.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/07/tagger_cle.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/07/sequence_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/01/pca_first.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/01/mnist_layers_activations.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/10/lemmatizer_noattn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/01/example_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/01/example_keras_tensorboard.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/06/svhn_competition.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/10/lemmatizer_attn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/08/tagger_crf_manual.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/08/tagger_crf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/12/vae.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/13/gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/13/dcgan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/14/learning_to_learn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/14/ddim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 295"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/14/ddim_attention.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 328"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ufal_npfl114/npfl114-master/labs/14/ddim_conditional.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 325"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 288"
+    ]
+  }
+}

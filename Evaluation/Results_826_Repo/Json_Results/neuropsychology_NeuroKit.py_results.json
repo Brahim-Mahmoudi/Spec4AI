@@ -1,0 +1,48 @@
+{
+  "/Users/bramss/Desktop/All_Repo/neuropsychology_NeuroKit.py/NeuroKit.py-master/utils/ecg_signal_quality_model_creation/model_creation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 64"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuropsychology_NeuroKit.py/NeuroKit.py-master/neurokit/eeg/eeg_complexity.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 84; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 80; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 78; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuropsychology_NeuroKit.py/NeuroKit.py-master/neurokit/statistics/routines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 401"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 411"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuropsychology_NeuroKit.py/NeuroKit.py-master/examples/UnderDev/eeg/eeg_microstates.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 231"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuropsychology_NeuroKit.py/NeuroKit.py-master/neurokit/bio/bio_ecg.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 371"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1028"
+    ]
+  }
+}

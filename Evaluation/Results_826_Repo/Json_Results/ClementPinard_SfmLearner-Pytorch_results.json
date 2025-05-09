@@ -1,0 +1,109 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/custom_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/run_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/models/PoseExpNet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/datasets/shifted_sequence_folders.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/test_pose.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/inverse_warp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/models/DispNetS.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/loss_functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/data/kitti_util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/data/cityscapes_loader.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/test_disp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/train_flexible_shifts.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/data/kitti_raw_loader.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/kitti_eval/depth_evaluation_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 194",
+      "Use np.matmul() instead of np.dot() for matrices at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/ClementPinard_SfmLearner-Pytorch/SfmLearner-Pytorch-master/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 440"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 352",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 353",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 435",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 436",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 528"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

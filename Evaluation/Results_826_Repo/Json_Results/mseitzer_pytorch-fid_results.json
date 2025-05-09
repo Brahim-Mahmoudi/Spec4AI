@@ -1,0 +1,24 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mseitzer_pytorch-fid/pytorch-fid-master/tests/test_fid_score.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mseitzer_pytorch-fid/pytorch-fid-master/src/pytorch_fid/fid_score.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mseitzer_pytorch-fid/pytorch-fid-master/src/pytorch_fid/inception.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

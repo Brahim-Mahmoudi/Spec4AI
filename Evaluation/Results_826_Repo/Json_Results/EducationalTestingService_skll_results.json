@@ -1,0 +1,111 @@
+{
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/utils/wandb.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/utils/commandline/skll_convert.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_voting_learners_api_4.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_voting_learners_api_5.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/learner/voting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 393"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/experiments/output.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 359"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/data/readers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1009"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/learner/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 1039"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/utils/testing.py": {
+    "R2": [
+      "Random Seed Not Set at line 1273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_voting_learners_api_3.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_voting_learners_api_2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/skll/learner/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 1124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 762"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_featureset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 796"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1039",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1040",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1062",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1063"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_commandline_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 386"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1887"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1769",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1770",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1880",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1881"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_skll/skll-main/tests/test_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 1557",
+      "Potential data leakage: model.fit() used without a pipeline at line 1292"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 297",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1557",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1292"
+    ]
+  }
+}

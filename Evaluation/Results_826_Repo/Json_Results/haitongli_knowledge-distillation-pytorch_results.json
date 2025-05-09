@@ -1,0 +1,101 @@
+{
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/count_model_size.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/model/data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/model/wrn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/model/resnext.py": {
+    "R8": [
+      "Use module() instead of forward() at line 44",
+      "Use module() instead of forward() at line 46",
+      "Use module() instead of forward() at line 48",
+      "Use module() instead of forward() at line 49",
+      "Use module() instead of forward() at line 50",
+      "Use module() instead of forward() at line 114",
+      "Use module() instead of forward() at line 116",
+      "Use module() instead of forward() at line 117",
+      "Use module() instead of forward() at line 118",
+      "Use module() instead of forward() at line 45",
+      "Use module() instead of forward() at line 47",
+      "Use module() instead of forward() at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/mnist/student_mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/mnist/teacher_mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 98",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/model/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/mnist/distill_mnist_unlabeled.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/haitongli_knowledge-distillation-pytorch/knowledge-distillation-pytorch-master/mnist/distill_mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 124"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

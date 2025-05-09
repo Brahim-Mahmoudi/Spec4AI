@@ -1,0 +1,75 @@
+{
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/wordbatch/pipelines/batch_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/wordvec_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/wordbag_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/wordhash_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/wordbatch/pipelines/feature_union.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/wordseq_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/wordbatch/pipelines/wordbatch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/classify_airline_sentiment.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 62",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 69",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 76",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 83"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/wordbatch/transformers/dictionary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/wordbatch/transformers/tokenizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anttttti_Wordbatch/Wordbatch-master/scripts/decorator_test.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 90",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 93"
+    ]
+  }
+}

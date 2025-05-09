@@ -1,0 +1,92 @@
+{
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/features/lomb_scargle_fast.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/data_management.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/datasets/tests/test_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/examples/plot_EEG_Example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 206"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 203",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/tests/fixtures.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/features/tests/test_cadence_features.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 60",
+      "Do not compare with np.nan. Use df.isna() instead at line 62",
+      "Do not compare with np.nan. Use df.isna() instead at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/tests/test_data_management.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/tests/test_time_series.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/features/tests/test_lomb_scargle_features.py": {
+    "R2": [
+      "Random Seed Not Set at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/tests/test_featurize.py": {
+    "R2": [
+      "Random Seed Not Set at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/features/qso_model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cesium-ml_cesium/cesium-main/cesium/features/lomb_scargle.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 84",
+      "Use np.matmul() instead of np.dot() for matrices at line 288",
+      "Use np.matmul() instead of np.dot() for matrices at line 292",
+      "Use np.matmul() instead of np.dot() for matrices at line 332",
+      "Use np.matmul() instead of np.dot() for matrices at line 379",
+      "Use np.matmul() instead of np.dot() for matrices at line 380",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 423",
+      "Use np.matmul() instead of np.dot() for matrices at line 424",
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 388",
+      "Use np.matmul() instead of np.dot() for matrices at line 446",
+      "Use np.matmul() instead of np.dot() for matrices at line 147",
+      "Use np.matmul() instead of np.dot() for matrices at line 324",
+      "Use np.matmul() instead of np.dot() for matrices at line 458"
+    ]
+  }
+}

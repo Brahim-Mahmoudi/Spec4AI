@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/sync_batchnorm/unittest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/tests/test_numeric_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/tests/test_numeric_batchnorm_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 43",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/sync_batchnorm/batchnorm_reimpl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/tests/test_sync_batchnorm.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vacancy_Synchronized-BatchNorm-PyTorch/Synchronized-BatchNorm-PyTorch-master/sync_batchnorm/batchnorm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

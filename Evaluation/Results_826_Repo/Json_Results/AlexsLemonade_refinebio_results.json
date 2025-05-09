@@ -1,0 +1,87 @@
+{
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/foreman/tests/foreman/test_end_to_end.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 400",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/common/data_refinery_common/message_queue.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/common/data_refinery_common/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/tests/processors/test_no_op.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 102",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 127",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 160",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 166",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 197",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/tests/processors/test_transcriptome_index.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/tests/processors/test_array_express.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 121",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 124",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 148",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 170",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/data_refinery_workers/processors/management/commands/check_qn_reference_agreement.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/data_refinery_workers/processors/illumina.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 573"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/data_refinery_workers/processors/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/tests/processors/test_salmon.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/data_refinery_workers/processors/salmon.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 566"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/data_refinery_workers/processors/smashing_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 525",
+      "Random Seed Not Set at line 528"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 579"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/AlexsLemonade_refinebio/refinebio-dev/workers/tests/processors/test_smasher.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 302",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 366",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 432"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/test/test_nonnegative.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/preprocessing.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 356",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/hyperband.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 404",
+      "Potential data leakage: model.fit() used without a pipeline at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/stacking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/test/test_hyperband.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 205"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 124",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 125"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 189",
+      "Hyperparameter not explicitly set at line 198",
+      "Hyperparameter not explicitly set at line 240",
+      "Hyperparameter not explicitly set at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/test/test_preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 323",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 363",
+      "Potential data leakage: model.fit() used without a pipeline at line 373",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 439",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 463",
+      "Potential data leakage: model.fit() used without a pipeline at line 478",
+      "Potential data leakage: model.fit() used without a pipeline at line 522",
+      "Potential data leakage: model.fit() used without a pipeline at line 534",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 578",
+      "Potential data leakage: model.fit() used without a pipeline at line 589",
+      "Potential data leakage: model.fit() used without a pipeline at line 604",
+      "Potential data leakage: model.fit() used without a pipeline at line 615",
+      "Potential data leakage: model.fit() used without a pipeline at line 627",
+      "Potential data leakage: model.fit() used without a pipeline at line 640",
+      "Potential data leakage: model.fit() used without a pipeline at line 652",
+      "Potential data leakage: model.fit() used without a pipeline at line 732",
+      "Potential data leakage: model.fit() used without a pipeline at line 764",
+      "Potential data leakage: model.fit() used without a pipeline at line 781",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 412",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 509",
+      "Potential data leakage: model.fit() used without a pipeline at line 818"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/civisanalytics_civisml-extensions/civisml-extensions-master/civismlext/test/test_stacking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 285",
+      "Potential data leakage: model.fit() used without a pipeline at line 306",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 621",
+      "Potential data leakage: model.fit() used without a pipeline at line 650",
+      "Potential data leakage: model.fit() used without a pipeline at line 718",
+      "Potential data leakage: model.fit() used without a pipeline at line 804",
+      "Potential data leakage: model.fit() used without a pipeline at line 831",
+      "Potential data leakage: model.fit() used without a pipeline at line 850",
+      "Potential data leakage: model.fit() used without a pipeline at line 892",
+      "Potential data leakage: model.fit() used without a pipeline at line 926",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 454",
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 405"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 870",
+      "Random Seed Not Set at line 942"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 913",
+      "Hyperparameter not explicitly set at line 322",
+      "Hyperparameter not explicitly set at line 343",
+      "Hyperparameter not explicitly set at line 346",
+      "Hyperparameter not explicitly set at line 827",
+      "Hyperparameter not explicitly set at line 828",
+      "Hyperparameter not explicitly set at line 846",
+      "Hyperparameter not explicitly set at line 847",
+      "Hyperparameter not explicitly set at line 848",
+      "Hyperparameter not explicitly set at line 909"
+    ]
+  }
+}

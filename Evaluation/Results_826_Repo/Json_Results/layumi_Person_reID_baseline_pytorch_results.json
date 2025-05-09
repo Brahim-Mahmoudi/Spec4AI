@@ -1,0 +1,137 @@
+{
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/instance_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/circle_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/prepare_static.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/evaluate_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/GPU-Re-Ranking/gnn_reranking.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/GPU-Re-Ranking/evaluate_rerank_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/evaluate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 11"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/ODFA.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/evaluate_rerank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/demo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/random_erasing.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/GPU-Re-Ranking/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/test_with_TensorRT.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 285"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/test_MSMT.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 294"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/train_DDP.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/layumi_Person_reID_baseline_pytorch/Person_reID_baseline_pytorch-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

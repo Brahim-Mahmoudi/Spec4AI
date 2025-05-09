@@ -1,0 +1,297 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/bench/benchmarks/iris.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_quadruplets_classifiers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/rca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/nca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/mlkr.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/constraints.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_triplets_classifiers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/lmnn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 343",
+      "Use np.matmul() instead of np.dot() for matrices at line 342"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/base_metric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 446"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/mmc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 121",
+      "Use np.matmul() instead of np.dot() for matrices at line 200",
+      "Use np.matmul() instead of np.dot() for matrices at line 213",
+      "Use np.matmul() instead of np.dot() for matrices at line 224",
+      "Use np.matmul() instead of np.dot() for matrices at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_fit_transform.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/examples/plot_sandwich.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/examples/plot_metric_learning_examples.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 466"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_components_metric_conversion.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/_util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 571",
+      "Potential data leakage: model.fit() used without a pipeline at line 578"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 787"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 571"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/metric_learn/scml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 609",
+      "Potential data leakage: model.fit() used without a pipeline at line 634",
+      "Potential data leakage: model.fit() used without a pipeline at line 653"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_base_metric.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_pairs_classifiers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 322",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 422",
+      "Potential data leakage: model.fit() used without a pipeline at line 427",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 440",
+      "Potential data leakage: model.fit() used without a pipeline at line 444",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 558",
+      "Potential data leakage: model.fit() used without a pipeline at line 545"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_mahalanobis_mixin.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 346",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 751",
+      "Potential data leakage: model.fit() used without a pipeline at line 754",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 385",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 408",
+      "Potential data leakage: model.fit() used without a pipeline at line 520",
+      "Potential data leakage: model.fit() used without a pipeline at line 524",
+      "Potential data leakage: model.fit() used without a pipeline at line 528",
+      "Potential data leakage: model.fit() used without a pipeline at line 533",
+      "Potential data leakage: model.fit() used without a pipeline at line 652",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 544",
+      "Potential data leakage: model.fit() used without a pipeline at line 552",
+      "Potential data leakage: model.fit() used without a pipeline at line 563",
+      "Potential data leakage: model.fit() used without a pipeline at line 572",
+      "Potential data leakage: model.fit() used without a pipeline at line 615",
+      "Potential data leakage: model.fit() used without a pipeline at line 708"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 696",
+      "Potential data leakage: model.fit() used without a pipeline at line 706",
+      "Potential data leakage: model.fit() used without a pipeline at line 917",
+      "Potential data leakage: model.fit() used without a pipeline at line 922",
+      "Potential data leakage: model.fit() used without a pipeline at line 928",
+      "Potential data leakage: model.fit() used without a pipeline at line 828",
+      "Potential data leakage: model.fit() used without a pipeline at line 1228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-learn-contrib_metric-learn/metric-learn-master/test/metric_learn_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 814",
+      "Potential data leakage: model.fit() used without a pipeline at line 828",
+      "Potential data leakage: model.fit() used without a pipeline at line 843",
+      "Potential data leakage: model.fit() used without a pipeline at line 857",
+      "Potential data leakage: model.fit() used without a pipeline at line 1121",
+      "Potential data leakage: model.fit() used without a pipeline at line 1148",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 340",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 756",
+      "Potential data leakage: model.fit() used without a pipeline at line 787",
+      "Potential data leakage: model.fit() used without a pipeline at line 801",
+      "Potential data leakage: model.fit() used without a pipeline at line 868",
+      "Potential data leakage: model.fit() used without a pipeline at line 874",
+      "Potential data leakage: model.fit() used without a pipeline at line 914",
+      "Potential data leakage: model.fit() used without a pipeline at line 930",
+      "Potential data leakage: model.fit() used without a pipeline at line 941",
+      "Potential data leakage: model.fit() used without a pipeline at line 954",
+      "Potential data leakage: model.fit() used without a pipeline at line 965",
+      "Potential data leakage: model.fit() used without a pipeline at line 972",
+      "Potential data leakage: model.fit() used without a pipeline at line 984",
+      "Potential data leakage: model.fit() used without a pipeline at line 1015",
+      "Potential data leakage: model.fit() used without a pipeline at line 1018",
+      "Potential data leakage: model.fit() used without a pipeline at line 1046",
+      "Potential data leakage: model.fit() used without a pipeline at line 1086",
+      "Potential data leakage: model.fit() used without a pipeline at line 1096",
+      "Potential data leakage: model.fit() used without a pipeline at line 1103",
+      "Potential data leakage: model.fit() used without a pipeline at line 1109",
+      "Potential data leakage: model.fit() used without a pipeline at line 1163",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 660",
+      "Potential data leakage: model.fit() used without a pipeline at line 683",
+      "Potential data leakage: model.fit() used without a pipeline at line 703",
+      "Potential data leakage: model.fit() used without a pipeline at line 726",
+      "Potential data leakage: model.fit() used without a pipeline at line 740",
+      "Potential data leakage: model.fit() used without a pipeline at line 745",
+      "Potential data leakage: model.fit() used without a pipeline at line 1004",
+      "Potential data leakage: model.fit() used without a pipeline at line 1039",
+      "Potential data leakage: model.fit() used without a pipeline at line 774"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 455"
+    ]
+  }
+}

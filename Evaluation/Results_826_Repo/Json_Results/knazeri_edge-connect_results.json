@@ -1,0 +1,77 @@
+{
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/scripts/fid_score.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/networks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/knazeri_edge-connect/edge-connect-master/src/edge_connect.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 214"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 224",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 297",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 298",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 351",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 352",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 115",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 132",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 155",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179"
+    ]
+  }
+}

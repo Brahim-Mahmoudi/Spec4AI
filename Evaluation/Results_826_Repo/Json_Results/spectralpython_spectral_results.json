@@ -1,0 +1,74 @@
+{
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 164",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/resampling.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/clustering.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 22"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 163",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/perceptron.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 322"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/detectors.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 516"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/io/spyfile.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 603"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/tests/envi.py": {
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/tests/spyfile.py": {
+    "R2": [
+      "Random Seed Not Set at line 311"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/algorithms/algorithms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1323",
+      "Use np.matmul() instead of np.dot() for matrices at line 1324",
+      "Use np.matmul() instead of np.dot() for matrices at line 1217",
+      "Use np.matmul() instead of np.dot() for matrices at line 1910",
+      "Use np.matmul() instead of np.dot() for matrices at line 1330",
+      "Use np.matmul() instead of np.dot() for matrices at line 1908",
+      "Use np.matmul() instead of np.dot() for matrices at line 973",
+      "Use np.matmul() instead of np.dot() for matrices at line 1256"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1790"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/spectralpython_spectral/spectral-master/spectral/graphics/ndwindow.py": {
+    "R2": [
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 212"
+    ]
+  }
+}

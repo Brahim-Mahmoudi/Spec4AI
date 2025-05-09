@@ -1,0 +1,73 @@
+{
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/tf_ml.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/e2e-challenge/input/convert.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 75"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/features.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/rank_nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/cluster.py": {
+    "R2": [
+      "Random Seed Not Set at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/classif.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/candgen.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 329",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 332"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 693",
+      "Potential data leakage: model.fit() used without a pipeline at line 418",
+      "Potential data leakage: model.fit() used without a pipeline at line 421"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/nn.py": {
+    "R2": [
+      "Random Seed Not Set at line 415",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 411",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/eval.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/rank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 608"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/UFAL-DSG_tgen/tgen-master/tgen/tfclassif.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 618"
+    ]
+  }
+}

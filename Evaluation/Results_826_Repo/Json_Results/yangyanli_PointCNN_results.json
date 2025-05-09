@@ -1,0 +1,166 @@
+{
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointnetpp_cls/tf_ops/grouping/tf_grouping_op_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointnetpp_cls/tf_ops/3d_interpolation/tf_interpolate_op_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/sampling/tf_sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointnetpp_cls/tf_ops/grouping/tf_grouping.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 64",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointnetpp_cls/tf_ops/3d_interpolation/visu_interpolation.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 25"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/test_general_seg.py": {
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/test_shapenet_seg.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_s3dis_filelists.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointcnn.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_cifar10_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_semantic3d_filelists.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_scannet_cls_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointnetpp_cls/utils/pointnet_util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 47",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 201",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 169"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_scannet_seg_filelists.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_mnist_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/train_val_seg.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/quick_draw_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 138"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/train_val_cls.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/pointfly.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 157",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 172",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 208",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 209",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 270",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 293"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_scannet_seg_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_semantic3d_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/yangyanli_PointCNN/PointCNN-master/data_conversions/prepare_s3dis_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 136"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/datasets/lsp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/example/convert_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/datasets/mpii.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/datasets/coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/datasets/mscoco.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/utils/imutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/pose/utils/transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 116",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bearpaw_pytorch-pose/pytorch-pose-master/example/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 263"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

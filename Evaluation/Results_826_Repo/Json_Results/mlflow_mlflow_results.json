@@ -1,0 +1,995 @@
+{
+  "/Users/bramss/Desktop/mlflow-master/tests/helper_functions.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/generate_ui_test_data.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 26",
+      "rule_R2: Random Seed Not Set at line 58",
+      "rule_R2: Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/shap/test_shap.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 50",
+      "rule_R2: Random Seed Not Set at line 62",
+      "rule_R2: Random Seed Not Set at line 233",
+      "rule_R5: Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/shap/test_log.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/onnx/test_onnx_model_export.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 84",
+      "rule_R2: Random Seed Not Set at line 132",
+      "rule_R2: Random Seed Not Set at line 217",
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/xgboost/test_xgboost_autolog.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/resources/onnx/generate_onnx_models.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 73",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/resources/mlflow-test-plugin/mlflow_test_plugin/dummy_evaluator.py": {
+    "messages": [
+      "rule_R19: Too many threshold-dependent metrics",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/paddle/test_paddle_model_export.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 80",
+      "rule_R11: Potential data leakage: fit_transform called before train/test split at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/paddle/test_paddle_autolog.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/gluon/test_gluon_autolog.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 132",
+      "rule_R2: Random Seed Not Set at line 33",
+      "rule_R2: Random Seed Not Set at line 34",
+      "rule_R5: Hyperparameter not explicitly set at line 152",
+      "rule_R5: Hyperparameter not explicitly set at line 203",
+      "rule_R5: Hyperparameter not explicitly set at line 57",
+      "rule_R5: Hyperparameter not explicitly set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/gluon/test_gluon_model_export.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 65",
+      "rule_R2: Random Seed Not Set at line 66",
+      "rule_R5: Hyperparameter not explicitly set at line 89",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/utils/test_model_utils.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/models/test_model.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/models/test_utils.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 29",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/models/test_signature.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 170",
+      "rule_R2: Random Seed Not Set at line 158",
+      "rule_R2: Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/models/test_wheeled_model.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 50",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 344",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/models/test_cli.py": {
+    "messages": [
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 163",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 208",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 230",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 255",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 279",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 302",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 329",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 207",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 229",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 254",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 278",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 301",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 328",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/sklearn/test_sklearn_model_export.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 94",
+      "rule_R5: Hyperparameter not explicitly set at line 638",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/sklearn/test_sklearn_autolog.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 534",
+      "rule_R2: Random Seed Not Set at line 74",
+      "rule_R2: Random Seed Not Set at line 1213",
+      "rule_R2: Random Seed Not Set at line 1215",
+      "rule_R5: Hyperparameter not explicitly set at line 192",
+      "rule_R5: Hyperparameter not explicitly set at line 332",
+      "rule_R5: Hyperparameter not explicitly set at line 454",
+      "rule_R5: Hyperparameter not explicitly set at line 667",
+      "rule_R5: Hyperparameter not explicitly set at line 690",
+      "rule_R5: Hyperparameter not explicitly set at line 769",
+      "rule_R5: Hyperparameter not explicitly set at line 903",
+      "rule_R5: Hyperparameter not explicitly set at line 1002",
+      "rule_R5: Hyperparameter not explicitly set at line 1021",
+      "rule_R5: Hyperparameter not explicitly set at line 1161",
+      "rule_R5: Hyperparameter not explicitly set at line 1286",
+      "rule_R5: Hyperparameter not explicitly set at line 1313",
+      "rule_R5: Hyperparameter not explicitly set at line 1463",
+      "rule_R5: Hyperparameter not explicitly set at line 1600",
+      "rule_R5: Hyperparameter not explicitly set at line 1685",
+      "rule_R5: Hyperparameter not explicitly set at line 1772",
+      "rule_R5: Hyperparameter not explicitly set at line 434",
+      "rule_R5: Hyperparameter not explicitly set at line 726",
+      "rule_R5: Hyperparameter not explicitly set at line 876",
+      "rule_R5: Hyperparameter not explicitly set at line 964",
+      "rule_R5: Hyperparameter not explicitly set at line 1040",
+      "rule_R5: Hyperparameter not explicitly set at line 1055",
+      "rule_R5: Hyperparameter not explicitly set at line 1072",
+      "rule_R5: Hyperparameter not explicitly set at line 1085",
+      "rule_R5: Hyperparameter not explicitly set at line 1099",
+      "rule_R5: Hyperparameter not explicitly set at line 1126",
+      "rule_R5: Hyperparameter not explicitly set at line 183",
+      "rule_R5: Hyperparameter not explicitly set at line 364",
+      "rule_R5: Hyperparameter not explicitly set at line 399",
+      "rule_R5: Hyperparameter not explicitly set at line 1450",
+      "rule_R5: Hyperparameter not explicitly set at line 1537",
+      "rule_R5: Hyperparameter not explicitly set at line 1617",
+      "rule_R5: Hyperparameter not explicitly set at line 1653",
+      "rule_R5: Hyperparameter not explicitly set at line 1738",
+      "rule_R17: Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 835",
+      "rule_R17: Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 856",
+      "rule_R19: Too many threshold-dependent metrics",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 970",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1162",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 64",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 370",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 435",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 495",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 579",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 617",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 676",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 699",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 906",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1005",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1025",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1041",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1056",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1073",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1086",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1100",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1127",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1272",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1290",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1348",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1438",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1623",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1659",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1776",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 400",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 459",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 538",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1693",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 461",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 540",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 463"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/evaluate/test_evaluation.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 240",
+      "rule_R5: Hyperparameter not explicitly set at line 298",
+      "rule_R5: Hyperparameter not explicitly set at line 1219",
+      "rule_R5: Hyperparameter not explicitly set at line 223",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 280",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 299",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 316",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1220"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/evaluate/test_default_evaluator.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 153",
+      "rule_R2: Random Seed Not Set at line 281",
+      "rule_R2: Random Seed Not Set at line 405",
+      "rule_R5: Hyperparameter not explicitly set at line 1717",
+      "rule_R5: Hyperparameter not explicitly set at line 1794",
+      "rule_R5: Hyperparameter not explicitly set at line 1866",
+      "rule_R5: Hyperparameter not explicitly set at line 1891",
+      "rule_R5: Hyperparameter not explicitly set at line 1915",
+      "rule_R5: Hyperparameter not explicitly set at line 1939",
+      "rule_R5: Hyperparameter not explicitly set at line 1757",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1795",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1867",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1892",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1724"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/transformers/test_transformers_autolog.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 354",
+      "rule_R5: Hyperparameter not explicitly set at line 390",
+      "rule_R5: Hyperparameter not explicitly set at line 430",
+      "rule_R5: Hyperparameter not explicitly set at line 472",
+      "rule_R6: Deterministic Algorithm Option Not Used",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 356",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 392",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 432",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 474"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/recipes/helper_functions.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 23",
+      "rule_R5: Hyperparameter not explicitly set at line 59",
+      "rule_R5: Hyperparameter not explicitly set at line 72",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 60",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/recipes/test_train_step.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 77",
+      "rule_R5: Hyperparameter not explicitly set at line 365",
+      "rule_R5: Hyperparameter not explicitly set at line 371"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/recipes/test_ingest_step.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 98",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 186",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 217",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 407"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/test_load_saved_tensorflow_estimator.py": {
+    "messages": [
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/test_tensorflow2_metric_value_conversion_utils.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 13",
+      "rule_R2: Random Seed Not Set at line 22",
+      "rule_R2: Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/save_keras_model.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 22",
+      "rule_R10: Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 91",
+      "rule_R5: Hyperparameter not explicitly set at line 119",
+      "rule_R5: Hyperparameter not explicitly set at line 121",
+      "rule_R5: Hyperparameter not explicitly set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 62",
+      "rule_R5: Hyperparameter not explicitly set at line 81",
+      "rule_R5: Hyperparameter not explicitly set at line 112",
+      "rule_R5: Hyperparameter not explicitly set at line 144",
+      "rule_R5: Hyperparameter not explicitly set at line 63",
+      "rule_R5: Hyperparameter not explicitly set at line 83",
+      "rule_R5: Hyperparameter not explicitly set at line 113",
+      "rule_R5: Hyperparameter not explicitly set at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/test_keras_model_export.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 84",
+      "rule_R5: Hyperparameter not explicitly set at line 117",
+      "rule_R10: Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tensorflow/iris_data_utils.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/autologging/test_autologging_behaviors_unit.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 171",
+      "rule_R2: Random Seed Not Set at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 181",
+      "rule_R2: Random Seed Not Set at line 265",
+      "rule_R5: Hyperparameter not explicitly set at line 62",
+      "rule_R5: Hyperparameter not explicitly set at line 181",
+      "rule_R5: Hyperparameter not explicitly set at line 263",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 135",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 145",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 158",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 168",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/autologging/test_autologging_utils.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 587"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/db/check_migration.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 99",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/test_log_image.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 19",
+      "rule_R2: Random Seed Not Set at line 71",
+      "rule_R2: Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/test_rest_tracking.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 1566"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/test_tracking.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 47",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 882",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 898",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 915",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 947",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 963"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/fluent/test_fluent.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 223",
+      "rule_R2: Random Seed Not Set at line 239",
+      "rule_R2: Random Seed Not Set at line 256",
+      "rule_R2: Random Seed Not Set at line 191",
+      "rule_R2: Random Seed Not Set at line 199",
+      "rule_R2: Random Seed Not Set at line 207",
+      "rule_R2: Random Seed Not Set at line 214",
+      "rule_R2: Random Seed Not Set at line 221",
+      "rule_R2: Random Seed Not Set at line 237",
+      "rule_R2: Random Seed Not Set at line 253",
+      "rule_R2: Random Seed Not Set at line 266",
+      "rule_R2: Random Seed Not Set at line 288",
+      "rule_R2: Random Seed Not Set at line 304",
+      "rule_R2: Random Seed Not Set at line 319",
+      "rule_R2: Random Seed Not Set at line 336",
+      "rule_R2: Random Seed Not Set at line 1018",
+      "rule_R2: Random Seed Not Set at line 1039"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/fluent/test_fluent_autolog.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/tracking/fluent/test_metric_value_conversion_utils.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 15",
+      "rule_R2: Random Seed Not Set at line 28",
+      "rule_R2: Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/lightgbm/test_lightgbm_autolog.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 463",
+      "rule_R2: Random Seed Not Set at line 464",
+      "rule_R2: Random Seed Not Set at line 465",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/spacy/test_spacy_model_export.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 424"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_metric_value_conversion_utils.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 13",
+      "rule_R2: Random Seed Not Set at line 22",
+      "rule_R2: Random Seed Not Set at line 27",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_model_export.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 93",
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193",
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 877",
+      "rule_R5: Hyperparameter not explicitly set at line 1131",
+      "rule_R6: Deterministic Algorithm Option Not Used",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 576",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 611",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 665"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pytorch/iris.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 56",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pytorch/test_pytorch_autolog.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 333",
+      "rule_R5: Hyperparameter not explicitly set at line 344",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pytorch/iris_data_module.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/statsmodels/model_fixtures.py": {
+    "messages": [
+      "rule_R12: Use np.matmul() instead of np.dot() for matrices at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/data/test_http_dataset_source.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/data/test_tensorflow_dataset.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 20",
+      "rule_R2: Random Seed Not Set at line 81",
+      "rule_R2: Random Seed Not Set at line 290",
+      "rule_R2: Random Seed Not Set at line 299",
+      "rule_R2: Random Seed Not Set at line 300",
+      "rule_R2: Random Seed Not Set at line 315",
+      "rule_R2: Random Seed Not Set at line 316",
+      "rule_R2: Random Seed Not Set at line 330",
+      "rule_R2: Random Seed Not Set at line 344",
+      "rule_R2: Random Seed Not Set at line 345",
+      "rule_R2: Random Seed Not Set at line 363",
+      "rule_R2: Random Seed Not Set at line 376",
+      "rule_R2: Random Seed Not Set at line 377",
+      "rule_R2: Random Seed Not Set at line 395",
+      "rule_R2: Random Seed Not Set at line 167",
+      "rule_R2: Random Seed Not Set at line 168",
+      "rule_R2: Random Seed Not Set at line 173",
+      "rule_R2: Random Seed Not Set at line 174",
+      "rule_R2: Random Seed Not Set at line 206",
+      "rule_R2: Random Seed Not Set at line 209",
+      "rule_R2: Random Seed Not Set at line 184",
+      "rule_R2: Random Seed Not Set at line 185",
+      "rule_R2: Random Seed Not Set at line 190",
+      "rule_R2: Random Seed Not Set at line 191",
+      "rule_R2: Random Seed Not Set at line 218",
+      "rule_R2: Random Seed Not Set at line 219",
+      "rule_R2: Random Seed Not Set at line 224",
+      "rule_R2: Random Seed Not Set at line 225",
+      "rule_R2: Random Seed Not Set at line 104",
+      "rule_R2: Random Seed Not Set at line 107",
+      "rule_R2: Random Seed Not Set at line 113",
+      "rule_R2: Random Seed Not Set at line 114",
+      "rule_R2: Random Seed Not Set at line 119",
+      "rule_R2: Random Seed Not Set at line 120",
+      "rule_R2: Random Seed Not Set at line 127",
+      "rule_R2: Random Seed Not Set at line 128",
+      "rule_R2: Random Seed Not Set at line 132",
+      "rule_R2: Random Seed Not Set at line 138",
+      "rule_R2: Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/entities/conftest.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/spark/test_spark_model_export.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/spark/autologging/datasource/test_spark_datasource_autologging_crossframework.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 236",
+      "rule_R5: Hyperparameter not explicitly set at line 265",
+      "rule_R5: Hyperparameter not explicitly set at line 282",
+      "rule_R5: Hyperparameter not explicitly set at line 324",
+      "rule_R5: Hyperparameter not explicitly set at line 367",
+      "rule_R5: Hyperparameter not explicitly set at line 1216",
+      "rule_R5: Hyperparameter not explicitly set at line 189",
+      "rule_R5: Hyperparameter not explicitly set at line 352",
+      "rule_R5: Hyperparameter not explicitly set at line 379",
+      "rule_R5: Hyperparameter not explicitly set at line 990",
+      "rule_R5: Hyperparameter not explicitly set at line 1081",
+      "rule_R5: Hyperparameter not explicitly set at line 1110",
+      "rule_R5: Hyperparameter not explicitly set at line 1165",
+      "rule_R12: Use np.matmul() instead of np.dot() for matrices at line 121",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 178",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 237",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 767",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1227",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 268",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 328",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 430",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 517",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 731",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 749",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 787",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 878",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 881",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 991",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1030",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1042",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1070",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 193",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 354",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 357",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 381",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 384",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 482",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 918",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 948",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/sagemaker/test_sagemaker_deployment_client.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/sagemaker/test_batch_deployment.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/store/tracking/test_file_store.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 382"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/store/artifact/test_sftp_artifact_repo.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_virtualenv.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 37",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_spark.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 853",
+      "rule_R2: Random Seed Not Set at line 885",
+      "rule_R5: Hyperparameter not explicitly set at line 974",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_model_export_with_loader_module_and_data_path.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_scoring_server.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 436",
+      "rule_R5: Hyperparameter not explicitly set at line 108",
+      "rule_R5: Hyperparameter not explicitly set at line 110",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 105",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_dependencies_functions.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 104",
+      "rule_R5: Hyperparameter not explicitly set at line 1093",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 490",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 97",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/tests/pyfunc/test_pyfunc_schema_enforcement.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 28",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 179",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/transformers.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/paddle/__init__.py": {
+    "messages": [
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 467"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/utils/name_utils.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 32",
+      "rule_R2: Random Seed Not Set at line 30",
+      "rule_R2: Random Seed Not Set at line 31",
+      "rule_R2: Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/models/utils.py": {
+    "messages": [
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 127",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 124",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 126",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 671",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 679",
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 694"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/models/evaluation/artifacts.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/sklearn/utils.py": {
+    "messages": [
+      "rule_R14: Avoid using .values on DataFrames. Use .to_numpy() instead at line 786",
+      "rule_R17: Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 797"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/recipes/cards/__init__.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/tracking/client.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1536",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1669"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/pytorch/__init__.py": {
+    "messages": [
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 757",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/deployments/cli.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 309",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 352"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/store/tracking/sqlalchemy_store.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 1194"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/mlflow/pyfunc/scoring_server/__init__.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/keras/train.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/docker/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 41",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/shap/regression.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/shap/multiclass_classification.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 18",
+      "rule_R5: Hyperparameter not explicitly set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/shap/binary_classification.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 19",
+      "rule_R5: Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/rapids/mlflow_project/src/rf_test/train_simple.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 28",
+      "rule_R2: Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/rapids/mlflow_project/src/rf_test/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 30",
+      "rule_R2: Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/supply_chain_security/train.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_elasticnet_wine/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 48",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_logistic_regression/train.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 11",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_autolog/grid_search_cv.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 17",
+      "rule_R5: Hyperparameter not explicitly set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_autolog/pipeline.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 21",
+      "rule_R12: Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_autolog/linear_regression.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 19",
+      "rule_R12: Use np.matmul() instead of np.dot() for matrices at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/xgboost/xgboost_sklearn/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/paddle/train_low_level_api.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 51",
+      "rule_R11: Potential data leakage: fit_transform called before train/test split at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/databricks/log_runs.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 46",
+      "rule_R5: Hyperparameter not explicitly set at line 46",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/spark_udf/spark_udf.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/spark_udf/spark_udf_datetime.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/gluon/train.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/hyperparam/train.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/transformers/sentence_transformer.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_elasticnet_diabetes/osx/train_diabetes.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 64",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/sklearn_elasticnet_diabetes/linux/train_diabetes.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 64",
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/prophet/train.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/tensorflow/train.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/diviner/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/evaluation/evaluate_with_custom_metrics_comprehensive.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/evaluation/evaluate_on_regressor.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/evaluation/evaluate_on_binary_classifier.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/evaluation/evaluate_with_custom_metrics.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/evaluation/evaluate_with_model_validation.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/ray_serve/train_model.py": {
+    "messages": [
+      "rule_R5: Hyperparameter not explicitly set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/lightgbm/lightgbm_sklearn/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/llms/summarization/summarization.py": {
+    "messages": [
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/spacy/train.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/mnist_tensorboard_artifact.py": {
+    "messages": [
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "rule_R5: Hyperparameter not explicitly set at line 131",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/MNIST/mnist_autolog_example.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris_data_module.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/BertNewsClassification/bert_classification.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/CaptumExample/Titanic_Captum_Interpret.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used",
+      "rule_R21: Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/IterativePruning/iterative_prune_mnist.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/IterativePruning/mnist.py": {
+    "messages": [
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/torchscript/MNIST/mnist_torchscript.py": {
+    "messages": [
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66",
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186",
+      "rule_R5: Hyperparameter not explicitly set at line 173",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pytorch/torchscript/IrisClassification/iris_classification.py": {
+    "messages": [
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "rule_R4: Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99",
+      "rule_R6: Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/statsmodels/train.py": {
+    "messages": [
+      "rule_R12: Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/pyspark_ml_autologging/logistic_regression.py": {
+    "messages": [
+      "rule_R22: Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/mlflow-master/examples/remote_store/remote_server.py": {
+    "messages": [
+      "rule_R2: Random Seed Not Set at line 25"
+    ]
+  }
+}

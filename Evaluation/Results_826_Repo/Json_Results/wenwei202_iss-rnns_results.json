@@ -1,0 +1,106 @@
+{
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/basic/ensemble.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/rhns/rhn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/visualization/compare_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/basic/main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 79"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 180",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 252",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/basic/main_hd.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 79"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/rhns/rhn_train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 217",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 220"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 298",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 373",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/my/tensorflow/rnn_cell.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 47",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 107",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 108",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 167",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 186",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 169",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 172",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 188",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/ptb/ptb_word_lm_heter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 582"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 729"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/ptb/ptb_word_lm_hd.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 585"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 736"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/ptb/ptb_word_lm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 594"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 744",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 745",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 746"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/wenwei202_iss-rnns/iss-rnns-master/bidaf/basic/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 620",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 621",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 633",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 235",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 625",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 626",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 655",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 258",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 210",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 211",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 338"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 531"
+    ]
+  }
+}

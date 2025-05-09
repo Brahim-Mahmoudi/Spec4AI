@@ -1,0 +1,15 @@
+{
+  "/Users/bramss/Desktop/All_Repo/emedvedev_attention-ocr/attention-ocr-master/aocr/model/seq2seq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/emedvedev_attention-ocr/attention-ocr-master/aocr/model/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 129",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 136",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 139",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 141"
+    ]
+  }
+}

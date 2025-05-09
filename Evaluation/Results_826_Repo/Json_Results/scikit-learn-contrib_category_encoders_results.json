@@ -1,0 +1,384 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_m_estimate.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_binary.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_feature_names.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_quantile_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_sum_coding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_polynomial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_gray.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_hashing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_leave_one_out.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/grid_search_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_rankhot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_basen.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_large/report_history.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_woe.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/source_data/loaders.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking/reporting.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_large/util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_large/report.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_large/csv_loader.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_cpu/benchmarking_cpu.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking_large/benchmarking_large.py": {
+    "R2": [
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/examples/benchmarking/benchmarking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_count.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 244",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_one_hot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 294",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/woe.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/m_estimate.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_ordinal.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 334",
+      "Potential data leakage: model.fit() used without a pipeline at line 349"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/target_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/datasets/_base.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/base_contrast_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/one_hot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 151"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 212",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/quantile_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 435"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/basen.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 330"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 174",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/james_stein.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_target_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 210"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/glmm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/count.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/rankhot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/category_encoders/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 643"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_category_encoders/category_encoders-master/tests/test_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 925",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 366",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 463",
+      "Potential data leakage: model.fit() used without a pipeline at line 648",
+      "Potential data leakage: model.fit() used without a pipeline at line 710",
+      "Potential data leakage: model.fit() used without a pipeline at line 725",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 616",
+      "Potential data leakage: model.fit() used without a pipeline at line 629",
+      "Potential data leakage: model.fit() used without a pipeline at line 632",
+      "Potential data leakage: model.fit() used without a pipeline at line 285"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27"
+    ]
+  }
+}

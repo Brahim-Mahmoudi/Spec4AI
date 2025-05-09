@@ -1,0 +1,101 @@
+{
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/iterate.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/train_txt2im.py": {
+    "R2": [
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/cost.py": {
+    "R7": [
+      "Missing mask for tf.log at line 75",
+      "Missing mask for tf.log at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/nlp.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/files.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 156"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 549"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/prepro.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 925",
+      "Use np.matmul() instead of np.dot() for matrices at line 942",
+      "Use np.matmul() instead of np.dot() for matrices at line 1075",
+      "Use np.matmul() instead of np.dot() for matrices at line 921"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 556",
+      "Random Seed Not Set at line 557",
+      "Random Seed Not Set at line 774",
+      "Random Seed Not Set at line 789",
+      "Random Seed Not Set at line 973",
+      "Random Seed Not Set at line 1002",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 402",
+      "Random Seed Not Set at line 523",
+      "Random Seed Not Set at line 524",
+      "Random Seed Not Set at line 552",
+      "Random Seed Not Set at line 553",
+      "Random Seed Not Set at line 696",
+      "Random Seed Not Set at line 729",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 266"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 1374",
+      "TensorArray Not Used at line 1461"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zsdonghao_text-to-image/text-to-image-master/tensorlayer/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 4837"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 5435"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 134",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 137",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 885",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 279"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 803",
+      "Missing mask for tf.log at line 805"
+    ]
+  }
+}

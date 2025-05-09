@@ -1,0 +1,52 @@
+{
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/autoreject/bayesopt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/examples/plot_auto_repair.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/examples/plot_autoreject_workflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/autoreject/tests/test_ransac.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/autoreject/ransac.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/autoreject/tests/test_autoreject.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 326",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autoreject_autoreject/autoreject-main/autoreject/autoreject.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 796",
+      "Potential data leakage: model.fit() used without a pipeline at line 366",
+      "Potential data leakage: model.fit() used without a pipeline at line 1181"
+    ]
+  }
+}

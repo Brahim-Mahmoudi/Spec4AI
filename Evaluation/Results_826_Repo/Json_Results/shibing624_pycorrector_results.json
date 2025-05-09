@@ -1,0 +1,157 @@
+{
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/examples/gpt/use_origin_transformers_demo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/examples/ernie_csc/export_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/examples/macbert/predict_ckpt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/examples/ernie_csc/predict_sighan.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/gpt/merge_peft_adapter.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/examples/macbert/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/nasgec_bart/nasgec_bart_corrector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/mucgec_bart/monkey_pack.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/mucgec_bart/mucgec_bart_corrector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/t5/t5_corrector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/utils/error_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 17",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 19",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/deepcontext/deepcontext_corrector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/seq2seq/conv_seq2seq_corrector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/detector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 478"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/macbert/reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/deepcontext/deepcontext_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/seq2seq/conv_seq2seq_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/macbert/macbert_corrector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 37",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/macbert/softmaskedbert4csc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/macbert/base_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 160"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/deepcontext/deepcontext_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 334"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/gpt/gpt_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 530"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/shibing624_pycorrector/pycorrector-master/pycorrector/seq2seq/conv_seq2seq_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 456",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 516"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 371"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

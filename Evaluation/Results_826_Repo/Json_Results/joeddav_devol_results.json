@@ -1,0 +1,25 @@
+{
+  "/Users/bramss/Desktop/All_Repo/joeddav_devol/devol-master/devol/devol.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/joeddav_devol/devol-master/devol/genome_handler.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 128"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 181"
+    ]
+  }
+}

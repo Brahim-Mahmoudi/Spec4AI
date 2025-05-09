@@ -1,0 +1,17 @@
+{
+  "/Users/bramss/Desktop/All_Repo/naturomics_CapsLayer/CapsLayer-master/capslayer/ops/math_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 107"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 159",
+      "Missing mask for tf.log at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/naturomics_CapsLayer/CapsLayer-master/capslayer/core/routing.py": {
+    "R7": [
+      "Missing mask for tf.log at line 218",
+      "Missing mask for tf.log at line 220"
+    ]
+  }
+}

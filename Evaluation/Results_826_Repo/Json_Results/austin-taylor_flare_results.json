@@ -1,0 +1,46 @@
+{
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/tools/tld.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/tools/majestic.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/tools/common_crawl.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/data_science/markov_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/data_science/features.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 196",
+      "Potential data leakage: fit_transform called before train/test split at line 209"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 254"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 161"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/austin-taylor_flare/flare-master/flare/analytics/command_control.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 279",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 283"
+    ]
+  }
+}

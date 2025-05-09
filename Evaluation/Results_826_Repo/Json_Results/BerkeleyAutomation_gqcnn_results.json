@@ -1,0 +1,64 @@
+{
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/search/resource_manager.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/model/tf/fc_network_tf.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 130",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 141",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/grasping/policy/fc_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/analysis/analyzer.py": {
+    "R2": [
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 454",
+      "Random Seed Not Set at line 478",
+      "Random Seed Not Set at line 502",
+      "Random Seed Not Set at line 526"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/grasping/grasp_quality_function.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 363",
+      "Use np.matmul() instead of np.dot() for matrices at line 470",
+      "Use np.matmul() instead of np.dot() for matrices at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/grasping/policy/policy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1134"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1459",
+      "Random Seed Not Set at line 1491"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/model/tf/network_tf.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BerkeleyAutomation_gqcnn/gqcnn-master/gqcnn/training/tf/trainer_tf.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1221",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1223",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1574",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 694"
+    ]
+  }
+}

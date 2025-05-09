@@ -1,0 +1,17 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mquad_hgru4rec/hgru4rec-master/data/xing/build_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mquad_hgru4rec/hgru4rec-master/src/train_hier_gru.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mquad_hgru4rec/hgru4rec-master/src/hgru4rec.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 822"
+    ]
+  }
+}

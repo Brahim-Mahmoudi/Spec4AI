@@ -1,0 +1,256 @@
+{
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/readers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/analyzer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 995"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/tests/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/tests/test_formatter.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/tests/test_ui.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/tests/test_dataframe.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 204",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 211",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 212"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 182; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 183; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/tests/test_mixed_engine.py": {
+    "R2": [
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/pd/compiler.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 752"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/expr/groupby.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/ipython/magics.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 253",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 244"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/tests/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 465"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/expr/collections.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/models/resourcefile.py": {
+    "R2": [
+      "Random Seed Not Set at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/expr/expressions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 697",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1365"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/models/tasks/merge.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/models/tableio.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 974",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 994",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1005"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/tunnel/tests/test_streamio.py": {
+    "R2": [
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/df/backends/pd/tests/test_engine.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 742",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 743"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/models/tests/test_instances.py": {
+    "R2": [
+      "Random Seed Not Set at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/tunnel/tests/test_arrow_tabletunnel.py": {
+    "R2": [
+      "Random Seed Not Set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/models/tests/test_tableio.py": {
+    "R2": [
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 439",
+      "Random Seed Not Set at line 440"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 806; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 812; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/ml/tests/test_execute.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48",
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/ml/clustering/tests/test_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/ml/metrics/classification.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 130",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/tunnel/tabletunnel.py": {
+    "R2": [
+      "Random Seed Not Set at line 783"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/ml/regression/tests/test_regression.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/expressions/tests/test_expressions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/expressions/core.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/lib/importer.py": {
+    "R2": [
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/lib/tests/test_cloudpickle.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/mars_extension/oscar/tests/test_tunnel_io.py": {
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/mars_extension/oscar/tests/test_mars_cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/mars_extension/legacy/tests/test_mars_conversion.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 434"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/cupid/io/table/tests/test_table.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/mars_extension/legacy/tests/test_mars_cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 202"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 587",
+      "Random Seed Not Set at line 590",
+      "Random Seed Not Set at line 591",
+      "Random Seed Not Set at line 636",
+      "Random Seed Not Set at line 639",
+      "Random Seed Not Set at line 640",
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aliyun_aliyun-odps-python-sdk/aliyun-odps-python-sdk-master/odps/lib/cloudpickle.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2188",
+      "Use np.matmul() instead of np.dot() for matrices at line 2196"
+    ]
+  }
+}

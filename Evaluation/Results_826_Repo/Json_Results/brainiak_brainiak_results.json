@@ -1,0 +1,642 @@
+{
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/matnormal/test_matnormal_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/matnormal/test_matnormal_rsa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/factoranalysis/test_tfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/funcalign/test_rsrm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/funcalign/test_srm_distributed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/matnormal/test_matnormal_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/fcma/test_voxel_selection.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/factoranalysis/test_htfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/funcalign/test_sssrm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 258"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/matnormal/test_cov.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 254",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 226",
+      "Use np.matmul() instead of np.dot() for matrices at line 225"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/fcma/test_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 191"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/funcalign/test_srm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/searchlight/test_searchlight.py": {
+    "R2": [
+      "Random Seed Not Set at line 293"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/docs/examples/fcma/sim_info/simualte_FCMA_dat.py": {
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/docs/examples/fcma/FCMA_script/fcma_classify.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/searchlight/example_searchlight.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 60"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/eventseg/test_event.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/docs/examples/real-time/sample.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/factoranalysis/latent_factor_from_tfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/factoranalysis/latent_factor_from_htfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/docs/examples/htfa/helpers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 174"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 224",
+      "Use np.matmul() instead of np.dot() for matrices at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/factoranalysis/get_tfa_input_from_nifti.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/funcalign/sssrm_image_prediction_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/funcalign/searchlight_srm_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/funcalign/srm_image_prediction_example_distributed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 440",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 453",
+      "Random Seed Not Set at line 454",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/fcma/mvpa_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/funcalign/srm_image_prediction_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/fcma/classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/eventseg/simulated_data.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/examples/factoranalysis/htfa_cv_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/matnormal/regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/reconstruct/test_iem.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 421",
+      "Potential data leakage: model.fit() used without a pipeline at line 458",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 478",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 318",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 429",
+      "Potential data leakage: model.fit() used without a pipeline at line 436",
+      "Potential data leakage: model.fit() used without a pipeline at line 445",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 496"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/matnormal/mnrsa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/hyperparamopt/hpo.py": {
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 348"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/utils/test_fmrisim.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 639"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/funcalign/test_fastsrm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 849",
+      "Potential data leakage: model.fit() used without a pipeline at line 858",
+      "Potential data leakage: model.fit() used without a pipeline at line 596",
+      "Potential data leakage: model.fit() used without a pipeline at line 724",
+      "Potential data leakage: model.fit() used without a pipeline at line 793",
+      "Potential data leakage: model.fit() used without a pipeline at line 916",
+      "Potential data leakage: model.fit() used without a pipeline at line 919"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/matnormal/covs.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 540"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/funcalign/sssrm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 730",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 813"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/reprsimil/test_brsa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 316",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 315",
+      "Use np.matmul() instead of np.dot() for matrices at line 420",
+      "Use np.matmul() instead of np.dot() for matrices at line 435",
+      "Use np.matmul() instead of np.dot() for matrices at line 462",
+      "Use np.matmul() instead of np.dot() for matrices at line 479",
+      "Use np.matmul() instead of np.dot() for matrices at line 495",
+      "Use np.matmul() instead of np.dot() for matrices at line 540",
+      "Use np.matmul() instead of np.dot() for matrices at line 563",
+      "Use np.matmul() instead of np.dot() for matrices at line 581",
+      "Use np.matmul() instead of np.dot() for matrices at line 599",
+      "Use np.matmul() instead of np.dot() for matrices at line 617",
+      "Use np.matmul() instead of np.dot() for matrices at line 624",
+      "Use np.matmul() instead of np.dot() for matrices at line 645",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 311"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/fcma/classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 494"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/isc/test_isc.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/factoranalysis/tfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 347"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/factoranalysis/htfa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 736"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 500"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/utils/fmrisim_real_time_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 445",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/tests/reprsimil/test_gbrsa.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 406"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 270",
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 375",
+      "Use np.matmul() instead of np.dot() for matrices at line 397",
+      "Use np.matmul() instead of np.dot() for matrices at line 399",
+      "Use np.matmul() instead of np.dot() for matrices at line 457",
+      "Use np.matmul() instead of np.dot() for matrices at line 508",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 112",
+      "Use np.matmul() instead of np.dot() for matrices at line 239",
+      "Use np.matmul() instead of np.dot() for matrices at line 268",
+      "Use np.matmul() instead of np.dot() for matrices at line 300",
+      "Use np.matmul() instead of np.dot() for matrices at line 302"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/utils/kronecker_solvers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 44",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 48",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 94",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 97",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 256",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 260",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 322",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/funcalign/fastsrm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1006",
+      "Potential data leakage: model.fit() used without a pipeline at line 1503"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/eventseg/event.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 509"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 449"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/utils/fmrisim.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1275"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1257",
+      "Random Seed Not Set at line 1367",
+      "Random Seed Not Set at line 2040",
+      "Random Seed Not Set at line 3332",
+      "Random Seed Not Set at line 3385",
+      "Random Seed Not Set at line 1514",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 1607",
+      "Random Seed Not Set at line 1869",
+      "Random Seed Not Set at line 1870",
+      "Random Seed Not Set at line 1591",
+      "Random Seed Not Set at line 1450",
+      "Random Seed Not Set at line 1625",
+      "Random Seed Not Set at line 3320"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/brainiak_brainiak/brainiak-master/src/brainiak/reprsimil/brsa.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1123",
+      "Use np.matmul() instead of np.dot() for matrices at line 1124",
+      "Use np.matmul() instead of np.dot() for matrices at line 1125",
+      "Use np.matmul() instead of np.dot() for matrices at line 1170",
+      "Use np.matmul() instead of np.dot() for matrices at line 1174",
+      "Use np.matmul() instead of np.dot() for matrices at line 1449",
+      "Use np.matmul() instead of np.dot() for matrices at line 1716",
+      "Use np.matmul() instead of np.dot() for matrices at line 1723",
+      "Use np.matmul() instead of np.dot() for matrices at line 2284",
+      "Use np.matmul() instead of np.dot() for matrices at line 2558",
+      "Use np.matmul() instead of np.dot() for matrices at line 2564",
+      "Use np.matmul() instead of np.dot() for matrices at line 2571",
+      "Use np.matmul() instead of np.dot() for matrices at line 2591",
+      "Use np.matmul() instead of np.dot() for matrices at line 1165",
+      "Use np.matmul() instead of np.dot() for matrices at line 1167",
+      "Use np.matmul() instead of np.dot() for matrices at line 1476",
+      "Use np.matmul() instead of np.dot() for matrices at line 1707",
+      "Use np.matmul() instead of np.dot() for matrices at line 1708",
+      "Use np.matmul() instead of np.dot() for matrices at line 1709",
+      "Use np.matmul() instead of np.dot() for matrices at line 1711",
+      "Use np.matmul() instead of np.dot() for matrices at line 1713",
+      "Use np.matmul() instead of np.dot() for matrices at line 1790",
+      "Use np.matmul() instead of np.dot() for matrices at line 2289",
+      "Use np.matmul() instead of np.dot() for matrices at line 2313",
+      "Use np.matmul() instead of np.dot() for matrices at line 2315",
+      "Use np.matmul() instead of np.dot() for matrices at line 2316",
+      "Use np.matmul() instead of np.dot() for matrices at line 2458",
+      "Use np.matmul() instead of np.dot() for matrices at line 2557",
+      "Use np.matmul() instead of np.dot() for matrices at line 2563",
+      "Use np.matmul() instead of np.dot() for matrices at line 2679",
+      "Use np.matmul() instead of np.dot() for matrices at line 3669",
+      "Use np.matmul() instead of np.dot() for matrices at line 3843",
+      "Use np.matmul() instead of np.dot() for matrices at line 3921",
+      "Use np.matmul() instead of np.dot() for matrices at line 3925",
+      "Use np.matmul() instead of np.dot() for matrices at line 1016",
+      "Use np.matmul() instead of np.dot() for matrices at line 1017",
+      "Use np.matmul() instead of np.dot() for matrices at line 1516",
+      "Use np.matmul() instead of np.dot() for matrices at line 1603",
+      "Use np.matmul() instead of np.dot() for matrices at line 1728",
+      "Use np.matmul() instead of np.dot() for matrices at line 1729",
+      "Use np.matmul() instead of np.dot() for matrices at line 1730",
+      "Use np.matmul() instead of np.dot() for matrices at line 1765",
+      "Use np.matmul() instead of np.dot() for matrices at line 1767",
+      "Use np.matmul() instead of np.dot() for matrices at line 2127",
+      "Use np.matmul() instead of np.dot() for matrices at line 2128",
+      "Use np.matmul() instead of np.dot() for matrices at line 2287",
+      "Use np.matmul() instead of np.dot() for matrices at line 2322",
+      "Use np.matmul() instead of np.dot() for matrices at line 2333",
+      "Use np.matmul() instead of np.dot() for matrices at line 2461",
+      "Use np.matmul() instead of np.dot() for matrices at line 2462",
+      "Use np.matmul() instead of np.dot() for matrices at line 2612",
+      "Use np.matmul() instead of np.dot() for matrices at line 3497",
+      "Use np.matmul() instead of np.dot() for matrices at line 3939",
+      "Use np.matmul() instead of np.dot() for matrices at line 731",
+      "Use np.matmul() instead of np.dot() for matrices at line 1735",
+      "Use np.matmul() instead of np.dot() for matrices at line 1737",
+      "Use np.matmul() instead of np.dot() for matrices at line 1963",
+      "Use np.matmul() instead of np.dot() for matrices at line 1967",
+      "Use np.matmul() instead of np.dot() for matrices at line 2094",
+      "Use np.matmul() instead of np.dot() for matrices at line 2098",
+      "Use np.matmul() instead of np.dot() for matrices at line 2171",
+      "Use np.matmul() instead of np.dot() for matrices at line 2327",
+      "Use np.matmul() instead of np.dot() for matrices at line 2581",
+      "Use np.matmul() instead of np.dot() for matrices at line 2607",
+      "Use np.matmul() instead of np.dot() for matrices at line 2611",
+      "Use np.matmul() instead of np.dot() for matrices at line 3384",
+      "Use np.matmul() instead of np.dot() for matrices at line 3710",
+      "Use np.matmul() instead of np.dot() for matrices at line 3711",
+      "Use np.matmul() instead of np.dot() for matrices at line 3845",
+      "Use np.matmul() instead of np.dot() for matrices at line 3940",
+      "Use np.matmul() instead of np.dot() for matrices at line 3942",
+      "Use np.matmul() instead of np.dot() for matrices at line 1769",
+      "Use np.matmul() instead of np.dot() for matrices at line 2326",
+      "Use np.matmul() instead of np.dot() for matrices at line 2332",
+      "Use np.matmul() instead of np.dot() for matrices at line 2682",
+      "Use np.matmul() instead of np.dot() for matrices at line 3145",
+      "Use np.matmul() instead of np.dot() for matrices at line 3559",
+      "Use np.matmul() instead of np.dot() for matrices at line 3644",
+      "Use np.matmul() instead of np.dot() for matrices at line 3784",
+      "Use np.matmul() instead of np.dot() for matrices at line 3787",
+      "Use np.matmul() instead of np.dot() for matrices at line 2345",
+      "Use np.matmul() instead of np.dot() for matrices at line 3558",
+      "Use np.matmul() instead of np.dot() for matrices at line 3640",
+      "Use np.matmul() instead of np.dot() for matrices at line 2624",
+      "Use np.matmul() instead of np.dot() for matrices at line 3748"
+    ]
+  }
+}

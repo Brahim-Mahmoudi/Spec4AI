@@ -1,0 +1,268 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/estimation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 335",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 369"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 476",
+      "Use np.matmul() instead of np.dot() for matrices at line 478"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/tests/test_estimation.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 132; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/individual/multiplex.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/tests/test_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/group/benchmarking.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/core/interfaces.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 275",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 839",
+      "Potential data leakage: model.fit() used without a pipeline at line 827",
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 934",
+      "Potential data leakage: model.fit() used without a pipeline at line 924",
+      "Potential data leakage: model.fit() used without a pipeline at line 929"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 490"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 824",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 920"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 814",
+      "Random Seed Not Set at line 910"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 823",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 919"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/registration/register.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 316"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/fmri/interfaces.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 213",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 219"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 786"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 219; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 202",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 215",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/cli/pynets_benchmark.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 289"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/core/tests/test_thresholding.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/cli/pynets_predict.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 316",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 324"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/dmri/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 311"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 174",
+      "Use np.matmul() instead of np.dot() for matrices at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/dmri/tests/test_estimation.py": {
+    "R2": [
+      "Random Seed Not Set at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/dmri/tests/test_track.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/core/nodemaker.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 55"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 479",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1346",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1348"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/dmri/track.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/dmri/estimation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 425"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 768"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 913"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/group/prediction.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1287"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 522",
+      "Random Seed Not Set at line 531"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1234",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/plotting/brain.py": {
+    "R2": [
+      "Random Seed Not Set at line 1466",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 295"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1519"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/utils.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 160",
+      "Potential data leakage: fit_transform called before train/test split at line 869",
+      "Potential data leakage: fit_transform called before train/test split at line 179",
+      "Potential data leakage: fit_transform called before train/test split at line 227"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 927",
+      "Potential data leakage: model.fit() used without a pipeline at line 1062",
+      "Potential data leakage: model.fit() used without a pipeline at line 1065"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 169",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 171"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 1846"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 349",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 699",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1424",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1688"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 264"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dPys_PyNets/PyNets-master/pynets/statistics/individual/algorithms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 736",
+      "Use np.matmul() instead of np.dot() for matrices at line 784",
+      "Use np.matmul() instead of np.dot() for matrices at line 912",
+      "Use np.matmul() instead of np.dot() for matrices at line 915"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 553",
+      "Random Seed Not Set at line 554"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2045",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1918"
+    ]
+  }
+}

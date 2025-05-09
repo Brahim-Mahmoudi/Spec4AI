@@ -1,0 +1,114 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/paysage/backends/read_config.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/paysage/backends/pytorch_backend/typedef.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/paysage/backends/pytorch_backend/rand.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/paysage/backends/pytorch_backend/nonlinearity.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/test_gaussian_1D.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/test_tap_machine.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/test_rbm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/paysage/batch/test_hdf.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 42",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/paysage/batch/test_shuffle.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_dbm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_rbm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_hopfield.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_gtap.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_tap.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_rbm_onehot.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/test/paysage/test_factorization.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 22",
+      "Use np.matmul() instead of np.dot() for matrices at line 46",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 91",
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 160"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/examples/mnist/mnist_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/drckf_paysage/paysage-master/paysage/backends/pytorch_backend/matrix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/taehoonlee_tensornets/tensornets-master/tensornets/ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/taehoonlee_tensornets/tensornets-master/tests/basics_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 198"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 141",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/taehoonlee_tensornets/tensornets-master/tensornets/references/rpn_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 246"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 96",
+      "TensorArray Not Used at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/taehoonlee_tensornets/tensornets-master/tensornets/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 187"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/taehoonlee_tensornets/tensornets-master/tensornets/datasets/voc.py": {
+    "R2": [
+      "Random Seed Not Set at line 235"
+    ]
+  }
+}

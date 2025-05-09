@@ -1,0 +1,129 @@
+{
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/datasets/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/target_simulators/INI_ttfs_target_sim.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 45",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/target_simulators/INI_ttfs_dyn_thresh_target_sim.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/target_simulators/INI_temporal_mean_rate_target_sim.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 151",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/backends/inisim/ttfs.py": {
+    "R2": [
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/parsing/model_libs/pytorch_input_lib.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/tests/simulation/test_pooling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/tests/simulation/test_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/tests/parsing/models/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/tests/parsing/test_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_nest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_spiNNaker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_INI.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_pytorch_INI.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_spiNNaker_sparse.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_loihi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/tests/conftest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 275"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 333"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/resnet_keras_INI.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/examples/mnist_keras_brian2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/backends/inisim/temporal_mean_rate_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 338"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NeuromorphicProcessorProject_snn_toolbox/snn_toolbox-master/snntoolbox/simulation/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1691"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1079"
+    ]
+  }
+}

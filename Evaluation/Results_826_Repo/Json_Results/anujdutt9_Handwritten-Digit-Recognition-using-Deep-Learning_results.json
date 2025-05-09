@@ -1,0 +1,48 @@
+{
+  "/Users/bramss/Desktop/All_Repo/anujdutt9_Handwritten-Digit-Recognition-using-Deep-Learning/Handwritten-Digit-Recognition-using-Deep-Learning-main/CNN_Keras/cnn/neural_network.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35",
+      "Hyperparameter not explicitly set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anujdutt9_Handwritten-Digit-Recognition-using-Deep-Learning/Handwritten-Digit-Recognition-using-Deep-Learning-main/CNN_Keras/CNN_MNIST.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anujdutt9_Handwritten-Digit-Recognition-using-Deep-Learning/Handwritten-Digit-Recognition-using-Deep-Learning-main/1. K Nearest Neighbors/knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anujdutt9_Handwritten-Digit-Recognition-using-Deep-Learning/Handwritten-Digit-Recognition-using-Deep-Learning-main/3. Random Forest Classifier/RFC.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/anujdutt9_Handwritten-Digit-Recognition-using-Deep-Learning/Handwritten-Digit-Recognition-using-Deep-Learning-main/2. SVM/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47"
+    ]
+  }
+}

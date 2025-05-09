@@ -1,0 +1,54 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-06-23-google-ctf/crypto_secrecy/challenge.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2019-09-07-dctf-quals/predict/get_flag.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-09-15-trendmicro/misc_constellation/proc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2019-10-12-hitcon/lost_key/modulus.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-12-01-real-world-finals/exploit.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-04-30-rhme3/CPA/collect.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-04-30-rhme3/CPA/new_the_imposters/collect.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2018-04-30-rhme3/CPA/new_the_imposters/collect_two.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2016-10-26-ekoparty/misc_250/punched.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/p4-team_ctf/ctf-master/2019-09-02-tokyowesterns/mpolycipher/code.py": {
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196"
+    ]
+  }
+}

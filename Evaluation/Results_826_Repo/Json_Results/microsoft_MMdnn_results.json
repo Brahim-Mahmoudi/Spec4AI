@@ -1,0 +1,153 @@
+{
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/torch/torch_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/caffe/graph.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 263"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/caffe/shape.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/caffe/transformer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/mxnet/imagenet_test.py": {
+    "R8": [
+      "Use module() instead of forward() at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/cntk/extractor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/cntk/extract_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/cntk/imagenet_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/caffe/extract_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/caffe/extractor.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/caffe/imagenet_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 31"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/pytorch/extract_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/pytorch/extractor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/pytorch/imagenet_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/imagenet_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/darknet/darknet.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/pytorch/saver.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 6"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/examples/coreml/test_tfcoreml.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/pytorch/pytorch_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 229"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/darknet/cfg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/pytorch/pytorch_parser.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/tests/conversion_imagenet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 350",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 416"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 551"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_MMdnn/MMdnn-master/mmdnn/conversion/darknet/darknet_graph.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 72",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 256"
+    ]
+  }
+}

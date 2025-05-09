@@ -1,0 +1,109 @@
+{
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/spearman_rho.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/rmse.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/precision.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/map.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/mrr.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/recall.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/dcg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/precision_max.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/kendall_tau.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/pfound.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/rbp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/err.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/metrics/ndcg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/analysis/feature.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 177",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/analysis/statistical.py": {
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 155"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 371"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/dataset/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 351"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/analysis/effectiveness.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 279",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 359",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hpclab_rankeval/rankeval-master/rankeval/test/metrics/test_metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 195",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 220"
+    ]
+  }
+}

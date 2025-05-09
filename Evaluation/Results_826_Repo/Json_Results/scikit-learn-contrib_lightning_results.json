@@ -1,0 +1,308 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/penalty.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_primal_newton.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/prank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/primal_newton.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 204",
+      "Use np.matmul() instead of np.dot() for matrices at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_prank.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_svrg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 10",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_prox.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/trace.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_sgd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 144"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 44",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 56",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 67",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 98",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 107",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 118",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 130",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_adagrad.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13",
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_robust_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/document_classification_news20.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_sdca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_1d_total_variation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_sample_weight.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_dual_cd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/datasets/samples_generator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 266",
+      "Use np.matmul() instead of np.dot() for matrices at line 276"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_sparse_non_linear.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_svrg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/examples/plot_l2_solvers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_fista.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 184"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 143",
+      "Use np.matmul() instead of np.dot() for matrices at line 171",
+      "Use np.matmul() instead of np.dot() for matrices at line 161",
+      "Use np.matmul() instead of np.dot() for matrices at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_primal_cd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 326",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 413",
+      "Potential data leakage: model.fit() used without a pipeline at line 430",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 424"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 225",
+      "Use np.matmul() instead of np.dot() for matrices at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_lightning/lightning-master/lightning/impl/tests/test_sag.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 255",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 281",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 335",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 376",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 426",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 436",
+      "Potential data leakage: model.fit() used without a pipeline at line 448",
+      "Potential data leakage: model.fit() used without a pipeline at line 450",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 414",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 463",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 475",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 325"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/examples/benchmark_kmodes.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/examples/benchmark_kprototypes.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/examples/soybean.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/examples/benchmark_parallel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/kmodes/kmodes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/kmodes/kprototypes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/kmodes/tests/test_kprototypes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 421",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 403"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nicodv_kmodes/kmodes-master/kmodes/tests/test_kmodes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 294",
+      "Potential data leakage: model.fit() used without a pipeline at line 344",
+      "Potential data leakage: model.fit() used without a pipeline at line 417",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 507",
+      "Potential data leakage: model.fit() used without a pipeline at line 523",
+      "Potential data leakage: model.fit() used without a pipeline at line 559",
+      "Potential data leakage: model.fit() used without a pipeline at line 323",
+      "Potential data leakage: model.fit() used without a pipeline at line 330",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 564",
+      "Potential data leakage: model.fit() used without a pipeline at line 577"
+    ]
+  }
+}

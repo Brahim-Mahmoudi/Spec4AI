@@ -1,0 +1,28 @@
+{
+  "/Users/bramss/Desktop/All_Repo/reframe-hpc_reframe/reframe-develop/hpctestlib/data_analytics/spark/src/spark_pi.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/reframe-hpc_reframe/reframe-develop/hpctestlib/python/numpy/src/np_ops.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 15",
+      "Use np.matmul() instead of np.dot() for matrices at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/reframe-hpc_reframe/reframe-develop/reframe/core/config.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/reframe-hpc_reframe/reframe-develop/reframe/core/logging.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/reframe-hpc_reframe/reframe-develop/reframe/frontend/cli.py": {
+    "R2": [
+      "Random Seed Not Set at line 1417"
+    ]
+  }
+}

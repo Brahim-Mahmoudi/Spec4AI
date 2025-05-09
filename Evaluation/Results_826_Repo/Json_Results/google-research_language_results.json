@@ -1,0 +1,1146 @@
+{
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/utils/tensor_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 48",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 146",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/datasets/captions_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/datasets/vqa_dataset.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 75",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 76",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 77",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 79"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/datasets/wsp_dataset.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 72",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 73",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 74",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/utils/text_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 165"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/utils/transformer_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 421",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 581",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 614",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 617",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/nqg/model/parser/nqg_model_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/utils/reward_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 219",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 268",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 358",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 383",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 390",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 395",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 604"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/nqg/model/parser/training/forest_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/nqg/model/parser/training/input_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/capwap/synthetic/generate_answers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 193",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 204"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 584"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/nqg/model/induction/codelength_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/csl/augment/merge_tsvs.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/csl/model/training/input_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/csl/model/inference/inference_parser.py": {
+    "R2": [
+      "Random Seed Not Set at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/compgen/csl/induction/objective_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 34"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/memory/explicit_mem.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/memory/synthetic_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/consistent_zero_shot_nmt/models/basic.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/exemplar_decoding/models/linear.py": {
+    "R3": [
+      "TensorArray Not Used at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/exemplar_decoding/models/output_wrapper.py": {
+    "R7": [
+      "Missing mask for tf.log at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/exemplar_decoding/models/common.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 200",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 205",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 292",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/consistent_zero_shot_nmt/models/agreement.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 430",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/exemplar_decoding/utils/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/hotpotqa/preprocessing/convert_wikidata_to_mrqa.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/evaluate.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/hotpotqa/preprocessing/link_questions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/input_fns.py": {
+    "R2": [
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 498",
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 500",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 501",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 503"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/nql/nql/dist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/nql/demos/nell995/nell995.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/hotpotqa/answer_extractor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 857",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 873",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 876"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 313"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/search_agents/muzero/muzero_main.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/nql/demos/gridworld_scaling/scaling_eval.py": {
+    "R2": [
+      "Random Seed Not Set at line 355"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/model_fns.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 150",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 158",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 270"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 590"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/nql/nql/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 543"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/bert_joint/prepare_nq_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/layers/decomposable_attention.py": {
+    "R7": [
+      "Missing mask for tf.log at line 70",
+      "Missing mask for tf.log at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/utils/span_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/layers/document_reader.py": {
+    "R7": [
+      "Missing mask for tf.log at line 180",
+      "Missing mask for tf.log at line 48",
+      "Missing mask for tf.log at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/utils/nq_long_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/nql/nql/nql_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 317",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 320",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 325",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 326",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 335",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 436",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 437",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 643",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 648",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 651",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 652",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 660",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 662",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 664",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 666",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 669",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 671",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 674",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 675",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 691",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 711",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 737",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 746",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 758",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 770",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 774",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 778",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 793",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 806",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 813",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 817",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 818",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 494",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 825",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 830"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/models/nq_long_decatt_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 156",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 253",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/decatt_docreader/models/nq_long_model.py": {
+    "R7": [
+      "Missing mask for tf.log at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/search_agents/muzero/env.py": {
+    "R2": [
+      "Random Seed Not Set at line 886"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/labs/drkit/run_dualencoder_lsf.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2254"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 549",
+      "Random Seed Not Set at line 692",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 547",
+      "Random Seed Not Set at line 690",
+      "Random Seed Not Set at line 541"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/totto/baseline_preprocessing/preprocess_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 22",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mention_based_entity_qa_task.py": {
+    "R8": [
+      "Use module() instead of forward() at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mauto_task_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mention_classifier_task.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 194"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 96"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mention_based_entity_qa_task_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 82",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/eae_task.py": {
+    "R8": [
+      "Use module() instead of forward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/embedding_based_entity_qa_task.py": {
+    "R8": [
+      "Use module() instead of forward() at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/memory_generation_task_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mention_memory_task.py": {
+    "R8": [
+      "Use module() instead of forward() at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/memory_generation_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 256"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/training/trainer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mention_encoder_task.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/text_classifier_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 142"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/readtwice_task.py": {
+    "R8": [
+      "Use module() instead of forward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/text_classifier.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 250"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 203"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/relation_classifier_task_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/mauto_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 241"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/tasks/relation_classifier_task.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 325"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 237"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/encoders/mauto_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/utils/jax_utils_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/utils/data_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/entity_attention_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/encoders/mention_memory_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/question_answering/bert_joint/run_nq.py": {
+    "R2": [
+      "Random Seed Not Set at line 672"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/embedding_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/kmeans_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/retrieval_update_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/sparse_topk_similarity_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/mlm_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/memory_extraction_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/topk_similarity_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/utils/mention_preprocess_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 517"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 218"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/asqa/human_annotation/analysis.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/utils/filter_queries_victim_agreement.py": {
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/utils/combine_qa_watermark.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/data_generation/build_membership_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/data_generation/preprocess_thief_dataset_boolq.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/data_generation/build_aux_membership.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/data_generation/preprocess_thief_dataset_squad.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/data_generation/preprocess_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/memory_attention_layer_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 486"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/mentionmemory/modules/mention_losses_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 139",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 342",
+      "Use np.matmul() instead of np.dot() for matrices at line 142",
+      "Use np.matmul() instead of np.dot() for matrices at line 330"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 173",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 363",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 666",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 682",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 683",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 690"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/embedding_perturbations/embedding_util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 477",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 480",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 464",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 474"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 367"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/utils/preprocess_distill_input_watermark.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/data_generation/build_aux_membership.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/data_generation/build_membership_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/data_generation/preprocess_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/casper/utils/sample_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_qa/models/run_squad_membership.py": {
+    "R2": [
+      "Random Seed Not Set at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/casper/augment/casper_formatters.py": {
+    "R2": [
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/casper/augment/casper_converters.py": {
+    "R2": [
+      "Random Seed Not Set at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/util_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/bert_extraction/steal_bert_classifier/embedding_perturbations/discrete_invert_embeddings.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 273"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 470",
+      "Random Seed Not Set at line 475",
+      "Random Seed Not Set at line 478"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/casper/retrieve/query_retrievers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/eval_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/module.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 207",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 218",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/model_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 173",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/module_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 175"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/evals/discriminative_eval.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/evals/run_record.py": {
+    "R3": [
+      "TensorArray Not Used at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/evals/coherence_eval.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/reconstruct/model_builder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 111"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/evals/run_finetune_coherence.py": {
+    "R2": [
+      "Random Seed Not Set at line 383"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/evals/model_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 400"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/cpc/model_builder.py": {
+    "R3": [
+      "TensorArray Not Used at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/reconstruct/preprocess.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 185",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 188"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 410"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/emql/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 910"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/reconstruct/run_paragraph_reconstruct.py": {
+    "R3": [
+      "TensorArray Not Used at line 158",
+      "TensorArray Not Used at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/common/layers/cudnn_layers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/cpc/preproc/preprocessing_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/cpc/run_cpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 155",
+      "TensorArray Not Used at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/boolq/run_recurrent_model_boolq.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/common/inputs/embedding_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/common/inputs/embedding_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/quest/bm25/run_bm25_retriever.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/quest/xattn/gen_training_examples.py": {
+    "R2": [
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/common/utils/tensor_utils_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 122",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 283",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 303",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 321",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 326",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 343",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 356",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/cpc/run_cc_cpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 210"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 191",
+      "TensorArray Not Used at line 259",
+      "TensorArray Not Used at line 373",
+      "TensorArray Not Used at line 202",
+      "TensorArray Not Used at line 393"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/orqa/utils/scann_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/conpono/cpc/run_bilin_cpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 217"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 197",
+      "TensorArray Not Used at line 277",
+      "TensorArray Not Used at line 424",
+      "TensorArray Not Used at line 209",
+      "TensorArray Not Used at line 444"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/orqa/datasets/ict_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/orqa/preprocessing/convert_to_nq_open.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/orqa/preprocessing/preprocess_wiki_extractor.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/wino_dict/create_new_words.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/xsp/model/common_layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 426",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 97",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/orqa/models/orqa_model.py": {
+    "R3": [
+      "TensorArray Not Used at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/xsp/model/beam_search.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 49",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 437",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 441"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/xsp/model/transformer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 384",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 385",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 248",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 301"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/multivec/models/ranking_model_experiment_inbatch.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 533",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 537"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/xsp/data_preprocessing/convert_to_tfrecords.py": {
+    "R2": [
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 339"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/serene/text_matcher.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/serene/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 193",
+      "Hyperparameter not explicitly set at line 196",
+      "Hyperparameter not explicitly set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/realm/preprocessing.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/serene/layers.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 252",
+      "Hyperparameter not explicitly set at line 293",
+      "Hyperparameter not explicitly set at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/realm/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 150",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/realm/example_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 320"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/canine/tydiqa/prepare_tydi_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/canine/tydiqa/postproc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 223",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/gscan/data/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 460"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/serene/training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 517"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-research_language/language-master/language/canine/tydiqa/preproc.py": {
+    "R2": [
+      "Random Seed Not Set at line 615"
+    ]
+  }
+}

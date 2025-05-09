@@ -1,0 +1,161 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/tests/test_rnn_cell_from_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/examples/speed_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/examples/rwa_sequence_length_problem.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/examples/rwa_adding_problem.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/recurrentshop/basic_cells.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 18",
+      "Hyperparameter not explicitly set at line 31",
+      "Hyperparameter not explicitly set at line 33",
+      "Hyperparameter not explicitly set at line 35",
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/tests/test_recurrent_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 91"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 12",
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 46",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/examples/query_reduction_network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/tests/test_recurrent_sequential.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 324"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/farizrahman4u_recurrentshop/recurrentshop-master/recurrentshop/engine.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1002",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1024"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 445"
+    ]
+  }
+}

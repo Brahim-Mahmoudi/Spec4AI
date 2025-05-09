@@ -1,0 +1,110 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/kernels.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/examples/plot_xor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/examples/plot_regularization_path.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/benchmarks/bench_20newsgroups.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/tests/test_cd_linear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 14",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/tests/test_common.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/benchmarks/bench_other_libs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/tests/test_kernels.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 112",
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/tests/test_polynomial_network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 43",
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_polylearn/polylearn-master/polylearn/tests/test_factorization_machine.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 268",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 213"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 32",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 51"
+    ]
+  }
+}

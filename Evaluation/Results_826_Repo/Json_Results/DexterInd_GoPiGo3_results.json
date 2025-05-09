@@ -1,0 +1,73 @@
+{
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/MouseControl/mouse_control_robot.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 196",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/BasicRobotControl/keyboarded_robot.py": {
+    "R2": [
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 233"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 129"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/IntelligentObjectAvoider/robot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 169"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/RemoteCameraRobot/remote_robot.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Software/Python/Examples/Control_Panel/control_panel_gui_3.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Software/Scratch/GoPiGo3Scratch.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 913",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 937"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/Connectome/experimentalOptimization.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 4813"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 4844"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/Connectome/connectome.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 4821"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 4858"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DexterInd_GoPiGo3/GoPiGo3-master/Projects/Connectome/GoPiGo3Connectome.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 4796"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 4827"
+    ]
+  }
+}

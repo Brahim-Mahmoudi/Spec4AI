@@ -1,0 +1,16 @@
+{
+  "/Users/bramss/Desktop/All_Repo/alfredfrancis_ai-chatbot-framework/ai-chatbot-framework-master/app/bot/nlu/intent_classifiers/sklearn_intent_classifer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alfredfrancis_ai-chatbot-framework/ai-chatbot-framework-master/app/bot/nlu/intent_classifiers/tf_intent_classifer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  }
+}

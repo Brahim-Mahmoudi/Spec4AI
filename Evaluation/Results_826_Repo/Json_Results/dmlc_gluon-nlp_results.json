@@ -1,0 +1,357 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_models_xlmr.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 46"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/setup.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_models_t5.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_models_gpt2.py": {
+    "R2": [
+      "Random Seed Not Set at line 142"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tools/batch/submit-job.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_utils_parameter.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 83",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_gluon_block.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_sequence_sampler.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 26"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_models_roberta.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 112"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_op.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 60",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_data_loading.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_models_transformer_xl.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 60",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_data_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_layers.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_data_vocab.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_data_batchify.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/torch/test_bert_torch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_attention_cell.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 50"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 327",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 343",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 345",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 89",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 380",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 383",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 386"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/datasets/pretrain_corpus/prepare_openwebtext.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/datasets/general_nlp_benchmark/prepare_text_classification.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 97",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 106",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 108",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 115",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 118",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 126",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 129",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 139",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/classification/train_classification.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 339"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/question_answering/run_squad_albert.py": {
+    "R2": [
+      "Random Seed Not Set at line 588"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/benchmarks/benchmark_gluonnlp.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 122",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/conversion_toolkits/convert_fairseq_bart.py": {
+    "R2": [
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 228"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/conversion_toolkits/convert_t5.py": {
+    "R2": [
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/pretraining/data_preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/tests/test_data_tokenizers.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/benchmarks/benchmark_hf.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 129; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 130; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 180; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 181; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 127",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 128",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 178",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/conversion_toolkits/convert_fairseq_roberta.py": {
+    "R2": [
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 269"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/op.py": {
+    "R2": [
+      "Random Seed Not Set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/question_answering/run_squad.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 609",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 604"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/datasets/general_nlp_benchmark/prepare_glue.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 354",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 440"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 71; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 262",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 124",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 150",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 250",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 109",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/pretraining/pretraining_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/conversion_toolkits/convert_tf_hub_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 371",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/pretraining/run_electra.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 370"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/embedding/embed_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/torch/optimizers/fused_lans.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/pretraining/bert/run_pretraining.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 354",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 349"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/scripts/benchmarks/benchmark_utils.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 925",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 934"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/utils/testing.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/layers.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 774",
+      "Use np.matmul() instead of np.dot() for matrices at line 782"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/cli/average_checkpoint.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 52",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/dmlc_gluon-nlp/gluon-nlp-master/src/gluonnlp/data/sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 715"
+    ]
+  }
+}

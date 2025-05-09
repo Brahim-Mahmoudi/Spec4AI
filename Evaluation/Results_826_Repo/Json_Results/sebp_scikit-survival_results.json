@@ -1,0 +1,378 @@
+{
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_pandas_inputs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_survival_function.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_clinical_kernel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 285"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_ensemble_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_functions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_stacking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 188"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 178",
+      "Hyperparameter not explicitly set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_minlip.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 315",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 406",
+      "Potential data leakage: model.fit() used without a pipeline at line 409",
+      "Potential data leakage: model.fit() used without a pipeline at line 442",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 425"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_coxph.py": {
+    "R2": [
+      "Random Seed Not Set at line 928"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_boosting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 694",
+      "Potential data leakage: model.fit() used without a pipeline at line 699",
+      "Potential data leakage: model.fit() used without a pipeline at line 704",
+      "Potential data leakage: model.fit() used without a pipeline at line 712",
+      "Potential data leakage: model.fit() used without a pipeline at line 765",
+      "Potential data leakage: model.fit() used without a pipeline at line 770",
+      "Potential data leakage: model.fit() used without a pipeline at line 775",
+      "Potential data leakage: model.fit() used without a pipeline at line 780",
+      "Potential data leakage: model.fit() used without a pipeline at line 795",
+      "Potential data leakage: model.fit() used without a pipeline at line 808",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 445",
+      "Potential data leakage: model.fit() used without a pipeline at line 456",
+      "Potential data leakage: model.fit() used without a pipeline at line 499",
+      "Potential data leakage: model.fit() used without a pipeline at line 533",
+      "Potential data leakage: model.fit() used without a pipeline at line 567",
+      "Potential data leakage: model.fit() used without a pipeline at line 595",
+      "Potential data leakage: model.fit() used without a pipeline at line 612",
+      "Potential data leakage: model.fit() used without a pipeline at line 621",
+      "Potential data leakage: model.fit() used without a pipeline at line 628",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 723",
+      "Potential data leakage: model.fit() used without a pipeline at line 805",
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 848",
+      "Potential data leakage: model.fit() used without a pipeline at line 863",
+      "Potential data leakage: model.fit() used without a pipeline at line 878",
+      "Potential data leakage: model.fit() used without a pipeline at line 886",
+      "Potential data leakage: model.fit() used without a pipeline at line 889",
+      "Potential data leakage: model.fit() used without a pipeline at line 900",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 347"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/meta/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_tree.py": {
+    "R2": [
+      "Random Seed Not Set at line 629"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/kernels/clinical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/meta/stacking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/linear_model/aft.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 457",
+      "Potential data leakage: model.fit() used without a pipeline at line 615",
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 779"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/svm/naive_survival_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_coxnet.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1266"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1090"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1427"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1243",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1916",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2149",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_survival_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 483",
+      "Potential data leakage: model.fit() used without a pipeline at line 503",
+      "Potential data leakage: model.fit() used without a pipeline at line 518",
+      "Potential data leakage: model.fit() used without a pipeline at line 546",
+      "Potential data leakage: model.fit() used without a pipeline at line 567",
+      "Potential data leakage: model.fit() used without a pipeline at line 582",
+      "Potential data leakage: model.fit() used without a pipeline at line 598",
+      "Potential data leakage: model.fit() used without a pipeline at line 624",
+      "Potential data leakage: model.fit() used without a pipeline at line 640",
+      "Potential data leakage: model.fit() used without a pipeline at line 645",
+      "Potential data leakage: model.fit() used without a pipeline at line 655",
+      "Potential data leakage: model.fit() used without a pipeline at line 658",
+      "Potential data leakage: model.fit() used without a pipeline at line 695",
+      "Potential data leakage: model.fit() used without a pipeline at line 733",
+      "Potential data leakage: model.fit() used without a pipeline at line 874",
+      "Potential data leakage: model.fit() used without a pipeline at line 879",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 715",
+      "Potential data leakage: model.fit() used without a pipeline at line 726",
+      "Potential data leakage: model.fit() used without a pipeline at line 747",
+      "Potential data leakage: model.fit() used without a pipeline at line 919"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 732",
+      "Use np.matmul() instead of np.dot() for matrices at line 515",
+      "Use np.matmul() instead of np.dot() for matrices at line 543"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 720",
+      "Random Seed Not Set at line 735"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/linear_model/coxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 300"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 310",
+      "Use np.matmul() instead of np.dot() for matrices at line 298",
+      "Use np.matmul() instead of np.dot() for matrices at line 371"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/linear_model/coxph.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 479"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 157",
+      "Use np.matmul() instead of np.dot() for matrices at line 499",
+      "Use np.matmul() instead of np.dot() for matrices at line 479",
+      "Use np.matmul() instead of np.dot() for matrices at line 194",
+      "Use np.matmul() instead of np.dot() for matrices at line 218",
+      "Use np.matmul() instead of np.dot() for matrices at line 243",
+      "Use np.matmul() instead of np.dot() for matrices at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/svm/minlip.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 441"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_metrics.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 1065"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1163",
+      "Potential data leakage: model.fit() used without a pipeline at line 1175",
+      "Potential data leakage: model.fit() used without a pipeline at line 1204",
+      "Potential data leakage: model.fit() used without a pipeline at line 1067"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 912"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/ensemble/boosting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 443",
+      "Potential data leakage: model.fit() used without a pipeline at line 1041",
+      "Potential data leakage: model.fit() used without a pipeline at line 1379"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/sksurv/svm/survival_svm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 99",
+      "Use np.matmul() instead of np.dot() for matrices at line 302",
+      "Use np.matmul() instead of np.dot() for matrices at line 313",
+      "Use np.matmul() instead of np.dot() for matrices at line 345",
+      "Use np.matmul() instead of np.dot() for matrices at line 353",
+      "Use np.matmul() instead of np.dot() for matrices at line 485",
+      "Use np.matmul() instead of np.dot() for matrices at line 625",
+      "Use np.matmul() instead of np.dot() for matrices at line 973",
+      "Use np.matmul() instead of np.dot() for matrices at line 1225",
+      "Use np.matmul() instead of np.dot() for matrices at line 357",
+      "Use np.matmul() instead of np.dot() for matrices at line 358",
+      "Use np.matmul() instead of np.dot() for matrices at line 469",
+      "Use np.matmul() instead of np.dot() for matrices at line 578",
+      "Use np.matmul() instead of np.dot() for matrices at line 607",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 317",
+      "Use np.matmul() instead of np.dot() for matrices at line 318",
+      "Use np.matmul() instead of np.dot() for matrices at line 466",
+      "Use np.matmul() instead of np.dot() for matrices at line 488",
+      "Use np.matmul() instead of np.dot() for matrices at line 491",
+      "Use np.matmul() instead of np.dot() for matrices at line 604",
+      "Use np.matmul() instead of np.dot() for matrices at line 630",
+      "Use np.matmul() instead of np.dot() for matrices at line 633",
+      "Use np.matmul() instead of np.dot() for matrices at line 164",
+      "Use np.matmul() instead of np.dot() for matrices at line 470",
+      "Use np.matmul() instead of np.dot() for matrices at line 609",
+      "Use np.matmul() instead of np.dot() for matrices at line 173",
+      "Use np.matmul() instead of np.dot() for matrices at line 497",
+      "Use np.matmul() instead of np.dot() for matrices at line 639"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sebp_scikit-survival/scikit-survival-master/tests/test_nonparametric.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 2839",
+      "Potential data leakage: model.fit() used without a pipeline at line 2851",
+      "Potential data leakage: model.fit() used without a pipeline at line 2897",
+      "Potential data leakage: model.fit() used without a pipeline at line 2863",
+      "Potential data leakage: model.fit() used without a pipeline at line 2882",
+      "Potential data leakage: model.fit() used without a pipeline at line 5794"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2418",
+      "Random Seed Not Set at line 2856"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1928",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2395"
+    ]
+  }
+}

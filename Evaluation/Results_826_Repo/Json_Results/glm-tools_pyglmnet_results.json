@@ -1,0 +1,162 @@
+{
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/examples/plot_group_lasso.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/examples/plot_community_crime.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/tests/test_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/pyglmnet/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/examples/plot_glm_retinal_ganglia.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/examples/plot_tikhonov.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 106",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 59"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 115; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 119; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 120; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 132; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 133; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 134; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 135; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 143; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/pyglmnet/benchmarks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 65",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 132",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 81",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 100",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 149",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/pyglmnet/datasets.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 340"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 342",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 343"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 140",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/tests/test_pyglmnet.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 39"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 482",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 479",
+      "Potential data leakage: model.fit() used without a pipeline at line 489",
+      "Potential data leakage: model.fit() used without a pipeline at line 496"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 374"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/glm-tools_pyglmnet/pyglmnet-master/pyglmnet/pyglmnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1469",
+      "Potential data leakage: model.fit() used without a pipeline at line 1400",
+      "Potential data leakage: model.fit() used without a pipeline at line 1080",
+      "Potential data leakage: model.fit() used without a pipeline at line 1390"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 245",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 293",
+      "Use np.matmul() instead of np.dot() for matrices at line 298",
+      "Use np.matmul() instead of np.dot() for matrices at line 255",
+      "Use np.matmul() instead of np.dot() for matrices at line 256",
+      "Use np.matmul() instead of np.dot() for matrices at line 261",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 266",
+      "Use np.matmul() instead of np.dot() for matrices at line 783",
+      "Use np.matmul() instead of np.dot() for matrices at line 273",
+      "Use np.matmul() instead of np.dot() for matrices at line 288",
+      "Use np.matmul() instead of np.dot() for matrices at line 377",
+      "Use np.matmul() instead of np.dot() for matrices at line 378",
+      "Use np.matmul() instead of np.dot() for matrices at line 280",
+      "Use np.matmul() instead of np.dot() for matrices at line 393",
+      "Use np.matmul() instead of np.dot() for matrices at line 394"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1356",
+      "Random Seed Not Set at line 654"
+    ]
+  }
+}

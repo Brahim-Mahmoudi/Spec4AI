@@ -1,0 +1,54 @@
+{
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/tests/test_undefended_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/bird-or-bicycle/bird_or_bicycle/iterator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/tests/test_confidence.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/tests/test_undefended_resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/tests/test_simple_spatial.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/cleverhans_fast_spatial_attack.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 295"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/examples/undefended_pytorch_resnet/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 262",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 322"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openphilanthropy_unrestricted-adversarial-examples/unrestricted-adversarial-examples-master/unrestricted-advex/unrestricted_advex/attacks.py": {
+    "R2": [
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 554"
+    ]
+  }
+}

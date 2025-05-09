@@ -1,0 +1,74 @@
+{
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/tests/test_topic_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/tests/docs/test_walkthrough.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/tests/representations/test_vectorizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/augmentation/augmenter.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/scripts/fetch_wiki_lang_snippets.py": {
+    "R2": [
+      "Random Seed Not Set at line 333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/representations/network.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 458"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 363"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/augmentation/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 384",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 473",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 512"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/lang_id/_training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/scripts/train_lang_identifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/lang_id/_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 451"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chartbeat-labs_textacy/textacy-main/src/textacy/tm/topic_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 193"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 561"
+    ]
+  }
+}

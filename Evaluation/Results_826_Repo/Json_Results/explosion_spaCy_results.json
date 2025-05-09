@@ -1,0 +1,119 @@
+{
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/pipeline/tok2vec.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/pipeline/legacy/entity_linker.py": {
+    "R2": [
+      "Random Seed Not Set at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/pipeline/spancat.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 525",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 605"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/pipeline/entity_linker.py": {
+    "R2": [
+      "Random Seed Not Set at line 527"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/training/corpus.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/training/augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/training/loop.py": {
+    "R2": [
+      "Random Seed Not Set at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/test_models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/util.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 1636"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/test_language.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/pipeline/test_spancat.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 291",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/training/test_augmenters.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/parser/test_preset_sbd.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/language.py": {
+    "R2": [
+      "Random Seed Not Set at line 1260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/parser/test_add_label.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/parser/test_parse.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/parser/test_ner.py": {
+    "R2": [
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/tests/training/test_training.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/cli/benchmark_speed.py": {
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/explosion_spaCy/spaCy-master/spacy/ml/_character_embed.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/tests/nsgt_test.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/tests/cq_test.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/tests/slicq_test.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/examples/transform_stream.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/examples/transform_audio.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/grrrr_nsgt/nsgt-master/examples/spectrogram.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 33"
+    ]
+  }
+}

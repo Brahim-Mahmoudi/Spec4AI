@@ -1,0 +1,178 @@
+{
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/random_rec.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/most_popular.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/content_based.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/paco_recommender.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/userknn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 154",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/most_popular.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/bprmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 291"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 199",
+      "Use np.matmul() instead of np.dot() for matrices at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/svd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 179"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/utils/process_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/base_nsvd1.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/item_msmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/item_recommendation/group_based_recommender.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/nnmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/evaluation/item_recommendation.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/evaluation/rating_prediction.py": {
+    "R2": [
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/clustering/paco.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 353"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/svdplusplus.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 192"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 213"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/user_nsvd1.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 283"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 198",
+      "Use np.matmul() instead of np.dot() for matrices at line 202",
+      "Use np.matmul() instead of np.dot() for matrices at line 166",
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/matrixfactorization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 264"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 202",
+      "Use np.matmul() instead of np.dot() for matrices at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/gsvdplusplus.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 230"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 251",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 263"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/item_nsvd1.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 269"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 181",
+      "Use np.matmul() instead of np.dot() for matrices at line 196",
+      "Use np.matmul() instead of np.dot() for matrices at line 199",
+      "Use np.matmul() instead of np.dot() for matrices at line 165",
+      "Use np.matmul() instead of np.dot() for matrices at line 190",
+      "Use np.matmul() instead of np.dot() for matrices at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/caserec_CaseRecommender/CaseRecommender-master/caserec/recommenders/rating_prediction/corec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 422"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 124"
+    ]
+  }
+}

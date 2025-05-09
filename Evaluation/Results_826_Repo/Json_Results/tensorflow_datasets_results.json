@@ -1,0 +1,370 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/video/moving_sequence.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/dataset_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/dataset_info_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/features/video_feature_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/features/audio_feature_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 229"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/features/image_feature_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/features/tensor_feature_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/features/sequence_feature_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 484",
+      "Random Seed Not Set at line 485",
+      "Random Seed Not Set at line 486",
+      "Random Seed Not Set at line 487",
+      "Random Seed Not Set at line 593",
+      "Random Seed Not Set at line 594",
+      "Random Seed Not Set at line 618",
+      "Random Seed Not Set at line 619"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/core/utils/file_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/vision_language/laion400m/laion400m.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/summarization/covid19sum.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/pass/pass_dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/spoken_digit/dummy_data_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/ogbg_molpcba/ogbg_molpcba_dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 181",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/pet_finder/pet_finder_dataset_builder.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 149"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/smartwatch_gestures/smartwatch_gestures_dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/smartwatch_gestures/dummy_data_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/dices/dices_dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/radon/radon_dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 113",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/bccd/dummy_data_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/qm9/qm9_dataset_builder.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 132",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 111",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 97",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 99",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 104",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 124",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 107",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 100"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 129",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 87",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 283",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 292"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/svhn_cropped/dummy_data/generate_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/datasets/bee_dataset/bee_dataset_dataset_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/cityscapes.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/bair_robot_pushing.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/stl10.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/dtd.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/open_images.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/caltech.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/voc2007.py": {
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/kitti.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/starcraft.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/binarized_mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/arc.py": {
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/testing/fake_data_generation/sun397.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/audio/yesno/dummy_data_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/audio/gtzan/dummy_data_generation.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/structured/diamonds/diamonds.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/structured/covid19/covid19.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 807"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 798",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 804"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/text/wikipedia.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 473"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/text/c4_wsrs/c4_wsrs_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 264"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/image_classification/cifar10_h/cifar10_h.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tensorflow_datasets/datasets-master/tensorflow_datasets/image_classification/corruptions.py": {
+    "R2": [
+      "Random Seed Not Set at line 570",
+      "Random Seed Not Set at line 727",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 539",
+      "Random Seed Not Set at line 532",
+      "Random Seed Not Set at line 588",
+      "Random Seed Not Set at line 636",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 450",
+      "Random Seed Not Set at line 798"
+    ]
+  }
+}

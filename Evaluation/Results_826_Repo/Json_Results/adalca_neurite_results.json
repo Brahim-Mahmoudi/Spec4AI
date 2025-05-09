@@ -1,0 +1,63 @@
+{
+  "/Users/bramss/Desktop/All_Repo/adalca_neurite/neurite-dev/neurite/tf/utils/augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 267"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/adalca_neurite/neurite-dev/neurite/tf/utils/vae.py": {
+    "R2": [
+      "Random Seed Not Set at line 434",
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/adalca_neurite/neurite-dev/neurite/tf/utils/utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 475"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 801",
+      "Random Seed Not Set at line 802",
+      "Random Seed Not Set at line 808",
+      "Random Seed Not Set at line 827",
+      "Random Seed Not Set at line 653"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/adalca_neurite/neurite-dev/neurite/tf/models.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 827",
+      "Random Seed Not Set at line 832",
+      "Random Seed Not Set at line 839",
+      "Random Seed Not Set at line 848",
+      "Random Seed Not Set at line 878",
+      "Random Seed Not Set at line 883"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/adalca_neurite/neurite-dev/neurite/tf/layers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1992",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1994"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 679",
+      "Random Seed Not Set at line 744",
+      "Random Seed Not Set at line 841",
+      "Random Seed Not Set at line 912",
+      "Random Seed Not Set at line 2596",
+      "Random Seed Not Set at line 592",
+      "Random Seed Not Set at line 598"
+    ]
+  }
+}

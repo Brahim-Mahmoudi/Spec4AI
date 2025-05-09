@@ -1,0 +1,330 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/sklearn_skl/KernelRidge_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/sklearn_skl/train_test_split_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/datasets/base.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 137",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/pandas_pd/pandas_wrapper.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/explain/explain.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 152",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 153"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/models/transfer.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/autoML/space.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/sklearn_skl/syntax.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 300"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 217"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 267"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/engine.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 457"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/models/graphconvlayers.py": {
+    "R3": [
+      "TensorArray Not Used at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/explain/visualize.py": {
+    "R2": [
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 357"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/models/mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 517"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 425; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 427; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 423; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 424; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 426; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 434; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 413"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 490"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/published/RI/lorentz_lorenz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/optimization/genetic_algorithm.py": {
+    "R2": [
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/autoML/model_screener.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 339"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/published/RI/input_files/load.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/sklearn_skl/sklearn_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/Dragon.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 425"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/CoulMat.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 454"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/attributes/generators/composition/ChargeDependentAttributeGenerator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 93",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/attributes/generators/composition/APEAttributeGenerator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/util/VectorCombinationComputer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/geometry/Line.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 144",
+      "Use np.matmul() instead of np.dot() for matrices at line 257",
+      "Use np.matmul() instead of np.dot() for matrices at line 264",
+      "Use np.matmul() instead of np.dot() for matrices at line 265",
+      "Use np.matmul() instead of np.dot() for matrices at line 220",
+      "Use np.matmul() instead of np.dot() for matrices at line 239",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/analysis/voronoi/VoronoiEdge.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 470"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/visualization/test_visualization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/utility/tools/OxidationStateGuesser.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/geometry/Plane.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 219",
+      "Use np.matmul() instead of np.dot() for matrices at line 348",
+      "Use np.matmul() instead of np.dot() for matrices at line 179",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/data/materials/CompositionEntry.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 636"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/analysis/VoronoiCellBasedAnalysis.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/utils/test_validation.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/explain/test_explain.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/initialization/test_Split.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/preprocessing/test_MissingValues.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/published/RI/test_lorentz_lorenz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/analysis/voronoi/VoronoiCell.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 542"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 375"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/models/test_transfer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/models/test_MLP.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/optimization/active.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1013"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 985"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 660"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 699",
+      "Random Seed Not Set at line 846",
+      "Random Seed Not Set at line 834",
+      "Random Seed Not Set at line 848"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 643"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/chem/magpie_python/vassal/data/Cell.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 630"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/tests/chem/magpie_python/vassal/analysis/voronoi/test_VoronoiTessellationCalculator.py": {
+    "R2": [
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hachmannlab_chemml/chemml-master/chemml/wrapper/chemml_cml/chemml_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 1544",
+      "Potential data leakage: model.fit() used without a pipeline at line 1852",
+      "Potential data leakage: model.fit() used without a pipeline at line 1596",
+      "Potential data leakage: model.fit() used without a pipeline at line 1650"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 446"
+    ]
+  }
+}

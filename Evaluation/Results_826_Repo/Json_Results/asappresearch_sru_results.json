@@ -1,0 +1,198 @@
+{
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/test_ts_cpp.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 9"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/regression/build_artifact.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/test_multigpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/sru/test_torchscript.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/regression/test_regression.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/test_amp.py": {
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/compare_cpu_speed_sru_gru.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/test_backward_with_transpose.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/compare_gpu_speed_sru_gru.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/classification/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/test_mm.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 15",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 26",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/test_sru.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/misc/test_impl.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 65"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/test/sru/test_sru.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 150",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/classification/train_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/DrQA/drqa/rnn_reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/sru/cuda_functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/DrQA/drqa/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/sru/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/classification/dataloader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/language_model/train_lm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/language_model/train_enwik8.py": {
+    "R2": [
+      "Random Seed Not Set at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/DrQA/train.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 204",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asappresearch_sru/sru-master/sru/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

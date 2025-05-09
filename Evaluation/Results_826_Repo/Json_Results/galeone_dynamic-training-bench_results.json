@@ -1,0 +1,21 @@
+{
+  "/Users/bramss/Desktop/All_Repo/galeone_dynamic-training-bench/dynamic-training-bench-master/dytb/evaluate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/galeone_dynamic-training-bench/dynamic-training-bench-master/dytb/evaluators/Evaluator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 203",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/galeone_dynamic-training-bench/dynamic-training-bench-master/dytb/trainer/Trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 261",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246"
+    ]
+  }
+}

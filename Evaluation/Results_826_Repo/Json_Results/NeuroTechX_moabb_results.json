@@ -1,0 +1,111 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/datasets/liu2024.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/datasets/dreyer2023.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 184"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 166",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/datasets/erpcore2021.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 337"
+    ],
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 271"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 269",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 329"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/datasets/preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/evaluations/evaluations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 733",
+      "Potential data leakage: model.fit() used without a pipeline at line 549",
+      "Potential data leakage: model.fit() used without a pipeline at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/tests/test_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/analysis/plotting.py": {
+    "R2": [
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/pipelines/FBCSP.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/docs/prepare_summary_tables.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/examples/advanced_examples/plot_statistical_analysis.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/tests/test_evaluations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/examples/tutorials/tutorial_1_simple_example_motor_imagery.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/examples/tutorials/tutorial_0_plot_getting_started.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/examples/tutorials/tutorial_4_adding_a_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/moabb/pipelines/classification.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 447",
+      "Use np.matmul() instead of np.dot() for matrices at line 528",
+      "Use np.matmul() instead of np.dot() for matrices at line 441",
+      "Use np.matmul() instead of np.dot() for matrices at line 442",
+      "Use np.matmul() instead of np.dot() for matrices at line 521",
+      "Use np.matmul() instead of np.dot() for matrices at line 522"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/scripts/generating_metainfo.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NeuroTechX_moabb/moabb-develop/scripts/paperswithcode/upload_results.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/create_pascal_tf_record_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/exporter_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/balanced_positive_negative_sampler_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/target_assigner.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 205",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/batcher_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/meta_architectures/faster_rcnn_meta_arch.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1122",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1365",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1367",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1304"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/box_predictor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 316"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/builders/input_reader_builder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/utils/learning_schedules.py": {
+    "R3": [
+      "TensorArray Not Used at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/post_processing_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 91",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 264",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/models/ssd_mobilenet_v1_feature_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/models/ssd_inception_v2_feature_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/models/ssd_feature_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/anchor_generators/grid_anchor_generator_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/models/faster_rcnn_resnet_v1_feature_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/box_coders/faster_rcnn_box_coder.py": {
+    "R7": [
+      "Missing mask for tf.log at line 82",
+      "Missing mask for tf.log at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/box_coders/square_box_coder.py": {
+    "R7": [
+      "Missing mask for tf.log at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/utils/ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 107",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 108",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 242"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/box_coders/keypoint_box_coder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 111",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 113",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 163",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 165",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 123",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 150",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 69"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 108",
+      "Missing mask for tf.log at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/box_list_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 840",
+      "Random Seed Not Set at line 859"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/anchor_generators/multiple_grid_anchor_generator_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 136",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 234",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/data_decoders/tf_example_decoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 253"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/core/preprocessor_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 29",
+      "TensorArray Not Used at line 42",
+      "TensorArray Not Used at line 112",
+      "TensorArray Not Used at line 128",
+      "TensorArray Not Used at line 144",
+      "TensorArray Not Used at line 160"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1584",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1595"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tadejmagajna_HereIsWally/HereIsWally-master/object_detection/utils/ops_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 741"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 691",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 705"
+    ]
+  }
+}

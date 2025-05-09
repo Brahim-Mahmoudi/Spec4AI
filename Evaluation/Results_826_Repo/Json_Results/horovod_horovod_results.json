@@ -1,0 +1,764 @@
+{
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_timeline.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_mxnet2.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 89",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_adasum_tensorflow.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_stall.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_interactiverun.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_keras.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 201"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 250",
+      "Hyperparameter not explicitly set at line 281",
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 118",
+      "Hyperparameter not explicitly set at line 153",
+      "Hyperparameter not explicitly set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_adasum_pytorch.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 157",
+      "Use np.matmul() instead of np.dot() for matrices at line 195"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_tensorflow_keras.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 260"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 301",
+      "Hyperparameter not explicitly set at line 332",
+      "Hyperparameter not explicitly set at line 132",
+      "Hyperparameter not explicitly set at line 167",
+      "Hyperparameter not explicitly set at line 202",
+      "Hyperparameter not explicitly set at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/data/elastic_tensorflow2_main.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/data/elastic_torch_main.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/data/elastic_tensorflow_keras_main.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/data/elastic_tensorflow_main.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_tensorflow2_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 630"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 568",
+      "Random Seed Not Set at line 569"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 204",
+      "Hyperparameter not explicitly set at line 229",
+      "Hyperparameter not explicitly set at line 257",
+      "Hyperparameter not explicitly set at line 564"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_spark_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 233"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 174"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56",
+      "Hyperparameter not explicitly set at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/utils/spark_common.py": {
+    "R2": [
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_spark_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 183"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 575"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/single/test_ray.py": {
+    "R2": [
+      "Random Seed Not Set at line 340"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/single/test_ray_elastic_v2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/single/test_torch_elastic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/single/test_ray_elastic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_spark_lightning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 715",
+      "Potential data leakage: model.fit() used without a pipeline at line 803",
+      "Potential data leakage: model.fit() used without a pipeline at line 838",
+      "Potential data leakage: model.fit() used without a pipeline at line 946",
+      "Potential data leakage: model.fit() used without a pipeline at line 756",
+      "Potential data leakage: model.fit() used without a pipeline at line 984",
+      "Potential data leakage: model.fit() used without a pipeline at line 662"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1048"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/runner/elastic/discovery.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/torch/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/torch/sync_batch_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/torch/functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/tensorflow/elastic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/integration/test_spark.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1765"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/torch/optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/torch/mpi_ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/keras/datamodule.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/lightning/legacy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/lightning/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/keras/util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 248",
+      "TensorArray Not Used at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/torch/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/ray/elastic.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/ray/elastic_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/lightning/remote.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/torch/datamodule.py": {
+    "R2": [
+      "Random Seed Not Set at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/common/estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/keras/keras_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/tensorflow/tensorflow_keras_mnist_elastic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/torch/estimator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 333"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/lightning/estimator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 490"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/tensorflow2/tensorflow2_keras_mnist_elastic.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/pytorch/pytorch_synthetic_benchmark_elastic.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/tensorflow2/tensorflow2_mnist_elastic.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/pytorch/pytorch_mnist_elastic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/tensorflow2/tensorflow2_synthetic_benchmark_elastic.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/horovod/spark/torch/remote.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow/tensorflow_keras_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow/tensorflow_mnist_eager.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/mxnet/mxnet2_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 84"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/mxnet/mxnet_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 85"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow/tensorflow_mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/elastic/pytorch/pytorch_imagenet_resnet50_elastic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/pytorch/pytorch_synthetic_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/ray/tensorflow2_mnist_ray.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow/tensorflow_word2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 113"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_mnist_data_service_train_fn_compute_side_dispatcher.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_keras_mnist.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_mnist_data_service_train_fn_training_side_dispatcher.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_keras_synthetic_benchmark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_mnist.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/base_test_mxnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 992"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1511",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1611"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/pytorch/pytorch_lightning_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 167"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/tensorflow2/tensorflow2_synthetic_benchmark.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/ray/pytorch_ray_elastic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 156"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/keras/keras_spark_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/mxnet/mxnet_imagenet_resnet50.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 455"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 220"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/pytorch/pytorch_mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 125"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/pytorch/pytorch_imagenet_resnet50.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/ray/basic_ray_elastic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/pytorch/pytorch_spark_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/adasum/adasum_small_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/pytorch/pytorch_lightning_spark_mnist_legacy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/pytorch/pytorch_lightning_spark_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/keras/keras_spark_rossmann_estimator.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/keras/keras_spark_rossmann_run.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 478"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 338",
+      "Missing mask for tf.log at line 471",
+      "Missing mask for tf.log at line 476"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/examples/spark/keras/keras_spark3_rossmann.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 488"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 347",
+      "Missing mask for tf.log at line 481",
+      "Missing mask for tf.log at line 486"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/horovod_horovod/horovod-master/test/parallel/test_torch.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 2746",
+      "Hyperparameter not explicitly set at line 2786",
+      "Hyperparameter not explicitly set at line 2944",
+      "Hyperparameter not explicitly set at line 2970",
+      "Hyperparameter not explicitly set at line 2677",
+      "Hyperparameter not explicitly set at line 3290"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 734",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 758",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 802",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1365",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1424",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1811",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1861",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2197",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2236",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2296",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1005",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1033",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1081",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1560"
+    ]
+  }
+}

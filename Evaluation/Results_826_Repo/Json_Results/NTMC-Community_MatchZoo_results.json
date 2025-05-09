@@ -1,0 +1,136 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/preprocessors/build_unit_from_data_pack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/preprocessors/build_vocab_unit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/datasets/toy/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/layers/dynamic_pooling_layer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/embedding/embedding.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 97",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/datasets/quora_qp/load_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/datasets/snli/load_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/datasets/wiki_qa/load_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/models/anmm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/auto/preparer/preparer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/auto/tuner/tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/contrib/layers/matching_tensor_layer.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/models/duet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 109",
+      "Hyperparameter not explicitly set at line 138",
+      "Hyperparameter not explicitly set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/contrib/models/match_lstm.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/contrib/models/hbmp.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/tests/unit_test/test_tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/engine/base_preprocessor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/contrib/layers/spatial_gru.py": {
+    "R3": [
+      "TensorArray Not Used at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/tests/unit_test/test_losses.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/data_generator/data_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/tests/unit_test/test_layers.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/tests/unit_test/models/test_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/NTMC-Community_MatchZoo/MatchZoo-master/matchzoo/engine/base_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328"
+    ]
+  }
+}

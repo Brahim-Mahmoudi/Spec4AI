@@ -1,0 +1,32 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/kaushalshetty_FeatureSelectionGA/FeatureSelectionGA-master/tests/test_feature_selection_ga.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kaushalshetty_FeatureSelectionGA/FeatureSelectionGA-master/feature_selection_ga/fitness_function.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kaushalshetty_FeatureSelectionGA/FeatureSelectionGA-master/example2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/kaushalshetty_FeatureSelectionGA/FeatureSelectionGA-master/feature_selection_ga/feature_selection_ga.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 192"
+    ]
+  }
+}

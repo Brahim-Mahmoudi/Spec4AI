@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/dask_dask-xgboost/dask-xgboost-master/dask_xgboost/tests/test_core.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 294",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 500",
+      "Potential data leakage: model.fit() used without a pipeline at line 518",
+      "Potential data leakage: model.fit() used without a pipeline at line 532",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 514",
+      "Potential data leakage: model.fit() used without a pipeline at line 528",
+      "Potential data leakage: model.fit() used without a pipeline at line 69"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 86",
+      "Hyperparameter not explicitly set at line 87",
+      "Hyperparameter not explicitly set at line 114",
+      "Hyperparameter not explicitly set at line 115",
+      "Hyperparameter not explicitly set at line 116",
+      "Hyperparameter not explicitly set at line 277",
+      "Hyperparameter not explicitly set at line 293",
+      "Hyperparameter not explicitly set at line 486",
+      "Hyperparameter not explicitly set at line 499",
+      "Hyperparameter not explicitly set at line 517",
+      "Hyperparameter not explicitly set at line 531",
+      "Hyperparameter not explicitly set at line 49",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 271",
+      "Hyperparameter not explicitly set at line 285",
+      "Hyperparameter not explicitly set at line 315",
+      "Hyperparameter not explicitly set at line 511",
+      "Hyperparameter not explicitly set at line 525"
+    ]
+  }
+}

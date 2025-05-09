@@ -1,0 +1,19 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookarchive_ml_sampler/ml_sampler-master/ml_sampler/biased_sample.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookarchive_ml_sampler/ml_sampler-master/ml_sampler/ml_sampler_with_histogram_weights.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 79",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 80",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 81",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 82",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 83"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65"
+    ]
+  }
+}

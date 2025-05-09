@@ -1,0 +1,48 @@
+{
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/train_utils/lr_schemes.py": {
+    "R7": [
+      "Missing mask for tf.log at line 85",
+      "Missing mask for tf.log at line 98",
+      "Missing mask for tf.log at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/models/utils/model_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/tests/frequency-analysis.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 134",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/models/utils/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 254",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 256",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 261",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/data/data_generators/cipher_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/for-ai_CipherGAN/CipherGAN-master/models/cycle_gan/cycle_gan.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 31",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 33"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 126",
+      "Missing mask for tf.log at line 127"
+    ]
+  }
+}

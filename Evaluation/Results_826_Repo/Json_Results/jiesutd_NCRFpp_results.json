@@ -1,0 +1,76 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/sentclassifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/charcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/charbigru.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/charbilstm.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/seqlabel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/wordrep.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/wordsequence.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/utils/functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/model/crf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/main_parse.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 304",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 324"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiesutd_NCRFpp/NCRFpp-master/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

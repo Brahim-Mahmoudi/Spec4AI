@@ -1,0 +1,136 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/extension/premade/tfrbert_task_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/extension/pipeline_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/feature_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 190",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 186",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 295"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/pipeline_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/head_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/model_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/data.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 626"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/saved_model_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/canned/dnn_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/canned/gam_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 625"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/keras/layers.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/examples/keras/antique_ragged.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 229"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/examples/keras/antique_kpl_din.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 378"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/losses_impl.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 103",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2092",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 2101",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 603",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 625",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1572"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 648"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/losses_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 578",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 588",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 604",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 605"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_ranking/ranking-master/tensorflow_ranking/python/losses_impl_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1218"
+    ]
+  }
+}

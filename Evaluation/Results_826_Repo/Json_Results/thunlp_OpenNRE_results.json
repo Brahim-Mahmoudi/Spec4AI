@@ -1,0 +1,156 @@
+{
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/encoder/cnn_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/module/pool/avg_pool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/module/pool/max_pool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/train_supervised_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/train_supervised_cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/test_multilabel_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/test_multilabel_cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/train_bag_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/framework/sentence_re.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/example/train_bag_cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/framework/multi_label_sentence_re.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/framework/bag_re.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 180"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/model/sigmoid_nn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/encoder/base_encoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/model/softmax_nn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/encoder/pcnn_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/model/bag_average.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/encoder/bert_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/pretrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/model/bag_one.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/model/bag_attention.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/thunlp_OpenNRE/OpenNRE-master/opennre/framework/data_loader.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 189"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

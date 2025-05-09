@@ -1,0 +1,105 @@
+{
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/datasets/videodataset_multiclips.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/validation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/training.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/util_scripts/remove_dataparallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/datasets/videodataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/temporal_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/models/densenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/spatial_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/util_scripts/hmdb51_json.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/util_scripts/ucf101_json.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/util_scripts/mit_json.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/util_scripts/kinetics_json.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/models/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/models/resnet2p1d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kenshohara_3D-ResNets-PyTorch/3D-ResNets-PyTorch-master/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

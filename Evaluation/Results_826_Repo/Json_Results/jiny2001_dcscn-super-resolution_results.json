@@ -1,0 +1,18 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jiny2001_dcscn-super-resolution/dcscn-super-resolution-master/helper/utilty.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 541",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 554",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jiny2001_dcscn-super-resolution/dcscn-super-resolution-master/DCSCN.py": {
+    "R7": [
+      "Missing mask for tf.log at line 375",
+      "Missing mask for tf.log at line 376"
+    ]
+  }
+}

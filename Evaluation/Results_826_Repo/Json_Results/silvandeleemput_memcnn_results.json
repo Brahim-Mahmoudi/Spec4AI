@@ -1,0 +1,187 @@
+{
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_resnet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/utils/tests/test_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/utils/tests/test_stats.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_split_dim.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_multi.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/examples/test_examples.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_memory_saving.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/examples/minimal.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_amp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/trainers/tests/test_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_is_invertible_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/data/sampling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/trainers/tests/test_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/data/cifar.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/experiment/manager.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/trainers/classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_couplings.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40",
+      "Hyperparameter not explicitly set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 79",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 97",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/revop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/additive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 63",
+      "Use module() instead of forward() at line 65",
+      "Use module() instead of forward() at line 83",
+      "Use module() instead of forward() at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/affine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 111",
+      "Use module() instead of forward() at line 113",
+      "Use module() instead of forward() at line 131",
+      "Use module() instead of forward() at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/silvandeleemput_memcnn/memcnn-master/memcnn/models/tests/test_revop.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 173",
+      "Hyperparameter not explicitly set at line 349",
+      "Hyperparameter not explicitly set at line 350",
+      "Hyperparameter not explicitly set at line 121"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

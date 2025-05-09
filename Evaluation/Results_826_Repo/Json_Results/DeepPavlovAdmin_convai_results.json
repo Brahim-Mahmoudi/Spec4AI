@@ -1,0 +1,449 @@
+{
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/demo/bot_code/story_handler.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/demo/bot_code/state_tracker.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/demo/bot_code/QA.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/demo/bot_code/CC.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/DA/text_cnn.py": {
+    "R3": [
+      "TensorArray Not Used at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/tests/test_threadutils.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/DA/data_helpers.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/DA/text_preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/tasks/daily_dialog/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/demo/bot_code/bot.py": {
+    "R2": [
+      "Random Seed Not Set at line 255"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/tasks/ubuntu/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/core/image_featurizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/drqa/rnn_reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/pqmn/analysis_attention.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/core/agents.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/pqmn/pqmn_BACKUP.py": {
+    "R2": [
+      "Random Seed Not Set at line 324"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/repeat_label/repeat_label.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/pqmn/rnn_reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/pqmn/pqmn.py": {
+    "R2": [
+      "Random Seed Not Set at line 313"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/drqa/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/drqa/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/pqmn/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/drqa/drqa.py": {
+    "R2": [
+      "Random Seed Not Set at line 301"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/ir_baseline/ir_baseline.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/seq2seq_v2/beam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/memnn/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/mturk/core/test/auto_complete_hit.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/seq2seq_v2/beam_diverse.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/core/worlds.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 474"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/examples/train_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/examples/train_model_ldecay.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/examples/train_model_seq2seq_ldecay.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/kaib/ParlAI/parlai/agents/memnn/memnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 274"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/factoid_question_answerer/basic/ensemble.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/factoid_question_answerer/visualization/compare_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/fbnews_chitchat/build_fbnews_data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/factoid_question_answerer/my/tensorflow/rnn_cell.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 47",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 107",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 108",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 167",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 186",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 169",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 172",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 188",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/quality_estimator/server.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/intent_classifier/intent_classifier.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/quality_estimator/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/quality_estimator/train_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 82",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/quality_estimator/train_model_sent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 88",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 90"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/factoid_question_answerer/basic/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 385",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 386",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 398",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 172",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 390",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 391",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 420",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 156",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 157"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/dialog_tracker/skills/summary.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/dialog_tracker/skills/chitchat.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/dialog_tracker/skills/qa.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/abacus_talker.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/telegram_iface.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/factoid_question_answerer/basic_cnn/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 39",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 40",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 44",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 45",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 58"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 235",
+      "Missing mask for tf.log at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/bot#1337/dialog_tracker/bot_brain.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/knn_talker.py": {
+    "R2": [
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/topic_guess_talker/tgt_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/mcr_talker/MCRTalker.py": {
+    "R2": [
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/squad_talker/scripts/squad_tools.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/trivia_talker.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/simple_wiki_talker/simple_wiki_talker.py": {
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/tools/coref_resolver.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/gimmick_talker/gimmick_talker.py": {
+    "R2": [
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/gimmick_talker/langid.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 287"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 279",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/models/candidate.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/tools/simple_wikipedia/title_finder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/tools/wikipedia/wikipedia.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 138",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/bot_q.py": {
+    "R2": [
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/bot_zmq.py": {
+    "R2": [
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/poetwanna.be/chatbot/talker/squad_talker/QANet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 345",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 348"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 812"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/models/hred/utils.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepPavlovAdmin_convai/convai-master/2017/solutions/rllchatbot/model_selection_zmq.py": {
+    "R2": [
+      "Random Seed Not Set at line 878",
+      "Random Seed Not Set at line 976",
+      "Random Seed Not Set at line 1014"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "/Users/bramss/Desktop/All_Repo/inspirehep_magpie/magpie-master/magpie/base/word2vec.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inspirehep_magpie/magpie-master/magpie/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inspirehep_magpie/magpie-master/magpie/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  }
+}

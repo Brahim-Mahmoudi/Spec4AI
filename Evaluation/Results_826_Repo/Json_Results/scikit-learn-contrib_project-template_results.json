@@ -1,0 +1,19 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_project-template/project-template-main/examples/plot_template.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_project-template/project-template-main/examples/plot_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-learn-contrib_project-template/project-template-main/skltemplate/tests/test_template.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  }
+}

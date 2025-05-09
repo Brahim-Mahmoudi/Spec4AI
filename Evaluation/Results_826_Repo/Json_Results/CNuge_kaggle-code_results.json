@@ -1,0 +1,424 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/model_template.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/zillow_rf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 28",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 45",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 52",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 35",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 36"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/xgb_predict_valid_set.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_tensorflow_dnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 16",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/sql_bigquery/accident_explore.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 60",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 85"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/blend_answers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/xgb_predict_valid_pca.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 60"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 112",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_explore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 117"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 149"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 92",
+      "Hyperparameter not explicitly set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/hockey_dat/random_order.py": {
+    "R2": [
+      "Random Seed Not Set at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/xgb_predict_valid_reduce.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 74",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/nn_predict.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 91",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/light_gbm_valid_set.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/iceberg_tensorflow_cnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 213",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/ml_munging_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/original_iceberg_tensorflow_cnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 213",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/tensorflow_cnn_from_scratch.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/data_cleaning_json.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/comments_toxicity/train_and_test_to_matrix.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 36; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/comments_toxicity/comments_xgb_final.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 75",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 87",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 48"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/tf_nn_classification.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 55"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 163"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 196",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_classification/insurance_explore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 117"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 149"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 92",
+      "Hyperparameter not explicitly set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/predict_spending_rough.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 392"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 267",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 276",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 281"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 387"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 58; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 64; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/google_analytics/clean_to_np_matrix.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 282",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 292",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 297"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 79; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 85; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_classification/tf_nn_classification_bad.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 203",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_classification/insurance_tf_nn_classification_downsample.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 69"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 178"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/insurance_classification/insurance_tf_nn_classification_upsample.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 72"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/hockey_dat/hockey_front_to_back.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 26"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 355"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/california_housing/feature_engineering.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 63",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 133",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 134",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 135",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 146",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 147",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 184",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 290",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 293"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 114",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 204",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 227"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 256; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/taxi_lightGBM_weather.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/CNuge_kaggle-code/kaggle-code-master/taxi_lightGBM.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  }
+}

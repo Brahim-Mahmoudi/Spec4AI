@@ -1,0 +1,512 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_oscar_specific.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_sort_by_length.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_comparison.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_general_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 105"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_sequence_labeling_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_ordinal.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_input_fns.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_scheduler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_multi_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_scheduler_memory_fraction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_backwards_compat.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_masked_language_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_document.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 75",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 76"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_huggingface.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_group_target_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_group.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 366"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 409"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_table_labeler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 285",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/saver.py": {
+    "R2": [
+      "Random Seed Not Set at line 276"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/input_pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/util/in_memory_finetune.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_table_base_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 322",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 334"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_base_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 327",
+      "Potential data leakage: model.fit() used without a pipeline at line 428",
+      "Potential data leakage: model.fit() used without a pipeline at line 465",
+      "Potential data leakage: model.fit() used without a pipeline at line 491",
+      "Potential data leakage: model.fit() used without a pipeline at line 655",
+      "Potential data leakage: model.fit() used without a pipeline at line 183"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 462",
+      "Random Seed Not Set at line 488",
+      "Random Seed Not Set at line 648"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank_gpt2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank_tcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/tests/test_sequence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 340",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 381",
+      "Potential data leakage: model.fit() used without a pipeline at line 403",
+      "Potential data leakage: model.fit() used without a pipeline at line 532",
+      "Potential data leakage: model.fit() used without a pipeline at line 544",
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 571",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 616"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/scheduler_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/multinli_grid_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/quora_similarity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank_explain.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/real_kie_inference_speed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/mtl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/real_kie.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 47",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 70",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/multinli.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/mcdonalds_yelp_sentiment.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank_bert.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/stanford_sentiment_treebank_with_unsupervised_fit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/treebank_association.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/reuters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/datasets/multi_choice_qna.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/nn/target_blocks.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 659",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 660"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/target_models/masked_language_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/util/beam_search.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 90",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 165",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 391",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 208",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 210",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 211"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/nn/group_target_blocks.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 697",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 823"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 890"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/encoding/target_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 158"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/target_models/seq2seq.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 126",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 92"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/util/table_labeler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 703",
+      "Potential data leakage: model.fit() used without a pipeline at line 715"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 602",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 626",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 604",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 633"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/encoding/group_target_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 483",
+      "Potential data leakage: model.fit() used without a pipeline at line 542",
+      "Potential data leakage: model.fit() used without a pipeline at line 544",
+      "Potential data leakage: model.fit() used without a pipeline at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/speed_benchmarks/run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/gpt/featurizer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 207",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/gpt2/encoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/bert/table_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 53",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 54",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 342",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 346",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 266",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 267",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 248"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/modern_bert/modelling.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/gpt2/featurizer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 137",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_finetune/finetune-development/finetune/base_models/bert/modeling.py": {
+    "R2": [
+      "Random Seed Not Set at line 653"
+    ]
+  }
+}

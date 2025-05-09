@@ -1,0 +1,31 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mahyarnajibi_SNIPER/SNIPER-master/lib/chips/chip_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mahyarnajibi_SNIPER/SNIPER-master/main_train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mahyarnajibi_SNIPER/SNIPER-master/lib/data_utils/visualization.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mahyarnajibi_SNIPER/SNIPER-master/lib/chips/chips_inference.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 150",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mahyarnajibi_SNIPER/SNIPER-master/lib/iterators/MNIteratorBase.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 76"
+    ]
+  }
+}

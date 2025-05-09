@@ -1,0 +1,134 @@
+{
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicAverageRegions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicValidateLocations.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 94",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicPCA.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 206",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 214",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 220"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicMergeLoops.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/chicViewpointBackgroundModel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicInterIntraTAD.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicCorrectMatrix.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 557"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicCompartmentalization.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 197",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 188",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 193"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 106",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 199"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 199; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicPlotViewpoint.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicDifferentialTAD.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicAggregateContacts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 553",
+      "Potential data leakage: model.fit() used without a pipeline at line 556",
+      "Potential data leakage: model.fit() used without a pipeline at line 559"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 596",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 597"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/utilities.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 301",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/test/general/test_hicTADClassifier.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 70",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 103",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/test/general/test_hicDifferentialTAD.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicDetectLoops.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/hicPlotMatrix.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 870"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/lib/tadClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 534",
+      "Potential data leakage: model.fit() used without a pipeline at line 496"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 112",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 88"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 458"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/lib/viewpoint.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deeptools_HiCExplorer/HiCExplorer-master/hicexplorer/lib/buildMatrixMethods.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1062",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1131"
+    ]
+  }
+}

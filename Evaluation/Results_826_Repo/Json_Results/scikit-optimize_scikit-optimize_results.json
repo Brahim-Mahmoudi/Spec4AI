@@ -1,0 +1,181 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/gbrt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/tests/test_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/gaussian_process/tests/test_gpr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 121"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/tests/test_gbrt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/searchcv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 466"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/gaussian_process/gpr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 347",
+      "Use np.matmul() instead of np.dot() for matrices at line 353",
+      "Use np.matmul() instead of np.dot() for matrices at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_gpr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/learning/gaussian_process/tests/test_kernels.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_plots.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_forest_opt.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 389"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_gp_opt.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_transformers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_acquisition.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/examples/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/examples/sklearn-gridsearchcv-replacement.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 204",
+      "Hyperparameter not explicitly set at line 97",
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/optimizer/optimizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 536"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/examples/store-and-load-results.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_searchcv.py": {
+    "R2": [
+      "Random Seed Not Set at line 450"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 31",
+      "Hyperparameter not explicitly set at line 45",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 388",
+      "Hyperparameter not explicitly set at line 419",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 68",
+      "Hyperparameter not explicitly set at line 71",
+      "Hyperparameter not explicitly set at line 150",
+      "Hyperparameter not explicitly set at line 160",
+      "Hyperparameter not explicitly set at line 166",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 213",
+      "Hyperparameter not explicitly set at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/space/transformers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 299"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/benchmarks/bench_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-optimize_scikit-optimize/scikit-optimize-master/skopt/tests/test_space.py": {
+    "R2": [
+      "Random Seed Not Set at line 769"
+    ]
+  }
+}

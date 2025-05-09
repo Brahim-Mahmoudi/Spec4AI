@@ -1,0 +1,374 @@
+{
+  "PeterHamfelt_mlflow/mlflow-master/tests/helper_functions.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 53"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/generate_ui_test_data.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 61"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/shap/test_shap.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 62"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/onnx/test_onnx_model_export.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 190",
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 217"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/paddle/test_paddle_model_export.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 80"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/gluon/test_gluon_autolog.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 132",
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 34"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/gluon/test_gluon_model_export.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 66"
+    ],
+    "R14": [
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 118"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_utils.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 29"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_wheeled_model.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 50"
+    ],
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 344"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/sklearn/test_sklearn_autolog.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 1215"
+    ],
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 970"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/evaluate/test_default_evaluator.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 405"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/helper_functions.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 23"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/test_train_step.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 77"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/autologging/test_autologging_behaviors_unit.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 221"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/test_log_image.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 102"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/test_tracking.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 47"
+    ],
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 882",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 898",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 915",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 947",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 963"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/fluent/test_fluent.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 1039"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tracking/fluent/test_metric_value_conversion_utils.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 33"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/lightgbm/test_lightgbm_autolog.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 465"
+    ],
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 252"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spacy/test_spacy_model_export.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 424"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/test_pytorch_metric_value_conversion_utils.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 27"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/test_pytorch_model_export.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 189"
+    ],
+    "R14": [
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 576",
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 611",
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 665"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pytorch/iris_data_module.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 54"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/data/test_tensorflow_dataset.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 395"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/entities/conftest.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 37"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/store/tracking/test_file_store.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 382"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_spark.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 885"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_scoring_server.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 436"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/utils/name_utils.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 32"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/recipes/cards/__init__.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 182"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/store/tracking/sqlalchemy_store.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 1194"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/multiclass_classification.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 18"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/shap/binary_classification.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 19"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/paddle/train_low_level_api.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 51"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/spark_udf/spark_udf_datetime.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 29"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/diviner/train.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 34"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/spacy/train.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 38"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/MNIST/mnist_autolog_example.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 68"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/AxHyperOptimizationPTL/iris_data_module.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 44"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/BertNewsClassification/bert_classification.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 199"
+    ],
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 45"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/IterativePruning/mnist.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 62"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/remote_store/remote_server.py": {
+    "R2": [
+      "Randomness Uncontrolled - Model Training & Model Evaluation - Reproducibility (Generic) at line 25"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/xgboost/test_xgboost_autolog.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 259"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/resources/mlflow-test-plugin/mlflow_test_plugin/dummy_evaluator.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 25"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/models/test_cli.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 162",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 207",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 229",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 254",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 278",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 301",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 328"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/recipes/test_ingest_step.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 98",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 186",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 217",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 407"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/tensorflow/iris_data_utils.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 24",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 27"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/db/check_migration.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 99",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 110"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/data/test_http_dataset_source.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 56",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 64",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 75"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 178"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_virtualenv.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 50"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/models/evaluation/artifacts.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 36"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/tracking/client.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 1536",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 1669"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/deployments/cli.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 309",
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 352"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/pyfunc/scoring_server/__init__.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 145"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/docker/train.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 38"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/sklearn_elasticnet_wine/train.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 41"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/hyperparam/train.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 117"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/prophet/train.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 20"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/llms/summarization/summarization.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 26"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/examples/pytorch/CaptumExample/Titanic_Captum_Interpret.py": {
+    "R21": [
+      "Columns and DataType Not Explicitly Set - Data Cleaning - Readability (Error-prone) at line 42"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py": {
+    "R14": [
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 490",
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 539"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/pyfunc/test_pyfunc_schema_enforcement.py": {
+    "R14": [
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 186"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/mlflow/models/utils.py": {
+    "R14": [
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 671",
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 679",
+      "Dataframe Conversion API Misused - Data Cleaning - Error-prone (API-Specific: Pandas) at line 694"
+    ]
+  },
+  "PeterHamfelt_mlflow/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py": {
+    "R5": [
+      "Hyperparameter Not Explicitly Set - Model Training - Error-prone & Reproducibility (Generic) at line 181"
+    ]
+  }
+}

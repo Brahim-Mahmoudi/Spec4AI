@@ -1,0 +1,98 @@
+{
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/tests/test_dynamics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/env_dx/control.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/pnqp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/examples/gym_pendulum.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/torch_numdiff.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/env_dx/cartpole.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/env_dx/pendulum.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/util.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/dynamics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/examples/gym_pendulum_approximate.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 87"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 125"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/lqr_step.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 184"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/mpc/mpc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/locuslab_mpc.pytorch/mpc.pytorch-master/tests/test_mpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 255"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

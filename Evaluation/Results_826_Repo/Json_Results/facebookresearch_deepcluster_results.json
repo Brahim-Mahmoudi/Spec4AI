@@ -1,0 +1,42 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/models/vgg16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/models/alexnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/visu/activ-retrieval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_deepcluster/deepcluster-main/eval_voc_classif.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

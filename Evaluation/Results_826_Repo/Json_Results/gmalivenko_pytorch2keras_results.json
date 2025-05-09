@@ -1,0 +1,484 @@
+{
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/pytorch2keras/converter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/multiple_inputs.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/poolings/global_maxpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/poolings/global_avgpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/embeddings/embedding.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 39"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/constants/constant.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/upsample_nearest.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/poolings/avgpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/poolings/maxpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/relu.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/tanh.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/sigmoid.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/selu.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/softmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 57"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/lrelu.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 57"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/activations/hard_tanh.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 61"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/normalizations/do.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/normalizations/bn2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/normalizations/in2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/linears/linear.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 33"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/elementwise/add.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/upsamplings/upsampling_nearest.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/elementwise/div.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/elementwise/sub.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/upsamplings/upsampling_bilinear.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/elementwise/mul.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/convolutions/convtranspose2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 42"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/convolutions/conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/layers/convolutions/conv1d.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 42"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/resnet18_channels_last.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/vgg11.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/resnet18.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/alexnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/resnet34.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/resnet50.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/squeezenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/mobilinet.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/squeezenext.py": {
+    "R2": [
+      "Random Seed Not Set at line 390"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/menet.py": {
+    "R2": [
+      "Random Seed Not Set at line 328"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/senet.py": {
+    "R2": [
+      "Random Seed Not Set at line 268"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/preresnet18.py": {
+    "R2": [
+      "Random Seed Not Set at line 724"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/gmalivenko_pytorch2keras/pytorch2keras-master/tests/models/drn.py": {
+    "R2": [
+      "Random Seed Not Set at line 337"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 335"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

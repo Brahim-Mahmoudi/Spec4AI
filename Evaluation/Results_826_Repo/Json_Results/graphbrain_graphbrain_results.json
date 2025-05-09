@@ -1,0 +1,41 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/scripts/extract-sentences.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/scripts/split-parser-training-data.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/scripts/extract-remaining-sentences.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/graphbrain/parsers/parser.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/graphbrain/utils/corefs.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/graphbrain_graphbrain/graphbrain-master/scripts/select-alpha-features.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 134"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 134"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/pipeline/say/viettts_/hifigan/convert_torch_model_to_haiku.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/data_fetcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/pipeline/say/viettts_/hifigan/create_mel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/pipeline/say/viettts_/nat/data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/pipeline/say/viettts_/nat/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 22",
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/pipeline/say/viettts_/hifigan/torch_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/util_deep_learning.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/sp_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/sp_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/models/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/col_dictionary.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 99"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 31"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/sp_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/modules/nn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/modules/scalar_mix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/trainers/classifier_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/sp_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/ner/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/trainers/dependency_parser_trainer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/vietnamese_ipa/generate_ipa_syllables.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/text_normalize/validate_rule.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/models/dependency_parser.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 192",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 238",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/text_normalize/generate_ipa_syllables.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/ner/run_ner_pl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 207"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/text_normalize/build_rules.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 15",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 37",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 55",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/ner/utils_ner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/modules/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/sentiment/data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/sentiment/train_gpt2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/underthesea/utils/sp_alg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/text_normalize/tools/nvh.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/examples/sentiment/train_bert.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/undertheseanlp_underthesea/underthesea-main/datasets/CP_Vietnamese-WIK/scripts/WikiExtractor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1101",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2040",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2418"
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_dmmot.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_lowrank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_gmm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_gnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_sliced.py": {
+    "R2": [
+      "Random Seed Not Set at line 452",
+      "Random Seed Not Set at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_partial.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 180",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_ot.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 156",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_solvers.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 165",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 249",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 260",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 220"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/gromov/test_lowrank.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 794",
+      "Random Seed Not Set at line 792",
+      "Random Seed Not Set at line 793"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 771"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_Sinkhorn_gradients.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 54",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_wass2_gan_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/plot_Intro_OT.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 299",
+      "Use np.matmul() instead of np.dot() for matrices at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_dual_ot_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_optim_gromov_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_wass1d_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_unmix_optim_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_ssw_unif_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/barycenters/plot_free_support_barycenter.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_stoch_continuous_ot_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/backends/plot_sliced_wass_grad_flow_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/barycenters/plot_gaussian_barycenter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/barycenters/plot_free_support_sinkhorn_barycenter.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_da.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 502",
+      "Potential data leakage: model.fit() used without a pipeline at line 558",
+      "Potential data leakage: model.fit() used without a pipeline at line 566",
+      "Potential data leakage: model.fit() used without a pipeline at line 608",
+      "Potential data leakage: model.fit() used without a pipeline at line 640",
+      "Potential data leakage: model.fit() used without a pipeline at line 654",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 464",
+      "Potential data leakage: model.fit() used without a pipeline at line 469",
+      "Potential data leakage: model.fit() used without a pipeline at line 481",
+      "Potential data leakage: model.fit() used without a pipeline at line 671",
+      "Potential data leakage: model.fit() used without a pipeline at line 706",
+      "Potential data leakage: model.fit() used without a pipeline at line 745",
+      "Potential data leakage: model.fit() used without a pipeline at line 857",
+      "Potential data leakage: model.fit() used without a pipeline at line 918",
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/gromov/test_partial.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 439",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/others/plot_COOT.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/others/plot_outlier_detection_with_COOT_and_unbalanced_COOT.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/test_bregman.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1338",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/unbalanced-partial/plot_partial_wass_and_gromov.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/others/plot_GMM_flow.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/gromov/test_gw.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 297",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 318",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1001",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1020"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/sliced-wasserstein/plot_variance_ssw.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/gromov/plot_gnn_TFGW.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_classes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_mapping.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_color_images.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/gromov/plot_entropic_semirelaxed_fgw.py": {
+    "R2": [
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 339"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_laplacian.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_mapping_colors_images.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_semi_supervised.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_d2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/gromov/plot_semirelaxed_fgw.py": {
+    "R2": [
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_linear_mapping.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/gromov/plot_gromov_barycenter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/examples/domain-adaptation/plot_otda_jcpot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/weak.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 115",
+      "Use np.matmul() instead of np.dot() for matrices at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/test/gromov/test_semirelaxed.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 185",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 491",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 510"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/smooth.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 390",
+      "Use np.matmul() instead of np.dot() for matrices at line 400",
+      "Use np.matmul() instead of np.dot() for matrices at line 401",
+      "Use np.matmul() instead of np.dot() for matrices at line 286"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/lowrank.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 125",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/dr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 498"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 401",
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 234",
+      "Use np.matmul() instead of np.dot() for matrices at line 251",
+      "Use np.matmul() instead of np.dot() for matrices at line 403",
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 51",
+      "Use np.matmul() instead of np.dot() for matrices at line 236",
+      "Use np.matmul() instead of np.dot() for matrices at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/bregman/_geomloss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/lp/dmmot.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/partial.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 619",
+      "Use np.matmul() instead of np.dot() for matrices at line 620",
+      "Use np.matmul() instead of np.dot() for matrices at line 622"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gnn/_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gnn/_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gaussian.py": {
+    "R2": [
+      "Random Seed Not Set at line 627"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gromov/_quantized.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 943",
+      "Potential data leakage: model.fit() used without a pipeline at line 366"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/da.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1286",
+      "Potential data leakage: model.fit() used without a pipeline at line 1517",
+      "Potential data leakage: model.fit() used without a pipeline at line 1797",
+      "Potential data leakage: model.fit() used without a pipeline at line 1651",
+      "Potential data leakage: model.fit() used without a pipeline at line 1944",
+      "Potential data leakage: model.fit() used without a pipeline at line 2288",
+      "Potential data leakage: model.fit() used without a pipeline at line 659"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gromov/_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 643",
+      "Potential data leakage: model.fit() used without a pipeline at line 657"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gromov/_partial.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 223",
+      "Use np.matmul() instead of np.dot() for matrices at line 224",
+      "Use np.matmul() instead of np.dot() for matrices at line 693",
+      "Use np.matmul() instead of np.dot() for matrices at line 694",
+      "Use np.matmul() instead of np.dot() for matrices at line 232",
+      "Use np.matmul() instead of np.dot() for matrices at line 233",
+      "Use np.matmul() instead of np.dot() for matrices at line 240",
+      "Use np.matmul() instead of np.dot() for matrices at line 241",
+      "Use np.matmul() instead of np.dot() for matrices at line 242",
+      "Use np.matmul() instead of np.dot() for matrices at line 243",
+      "Use np.matmul() instead of np.dot() for matrices at line 702",
+      "Use np.matmul() instead of np.dot() for matrices at line 703",
+      "Use np.matmul() instead of np.dot() for matrices at line 710",
+      "Use np.matmul() instead of np.dot() for matrices at line 711",
+      "Use np.matmul() instead of np.dot() for matrices at line 712",
+      "Use np.matmul() instead of np.dot() for matrices at line 713"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/gromov/_semirelaxed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1972"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/PythonOT_POT/POT-master/ot/backend.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1167"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2180",
+      "Random Seed Not Set at line 2187",
+      "Random Seed Not Set at line 2194",
+      "Random Seed Not Set at line 2201"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

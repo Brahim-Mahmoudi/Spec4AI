@@ -1,0 +1,2048 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/batch_matmul.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/dense.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv3d_ncdhw_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 46",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/pool_grad_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv2d_nhwc_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 66",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/nll_loss.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv2d_hwcn_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 67",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 68",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv2d_nchw_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 64",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 65",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv3d_ndhwc_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/topi/testing/conv1d_ncw_python.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 102",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/pipeline/wrapper.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/hexagon/profiling/process_lwp_data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/core/runtime/jit.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 325"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/hexagon/build.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 582"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/pipeline/worker.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/tools/distill/method.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/tools/distill/distiller.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 101",
+      "Use module() instead of forward() at line 100"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/frontend/translate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/codegen/codegen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/core/utils/info.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/core/utils/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/runtime/jit.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/tools/quantize/method.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/framework/torch/runtime/runner.py": {
+    "R2": [
+      "Random Seed Not Set at line 287"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 290"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/contrib/msc/core/runtime/runner.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 573"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/script/parser/core/evaluator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 438"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/meta_schedule/testing/dummy_object.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/meta_schedule/post_optimization/space.py": {
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/meta_schedule/testing/tune_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/dlight/benchmark/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/meta_schedule/cost_model/xgb_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 578"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 802"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/exec/gpu_memory_bandwidth.py": {
+    "R2": [
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/meta_schedule/cost_model/mlp_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 890"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/nn/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/torch/dynamo.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/nn/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/training/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/backend/gpu_generic/cumsum.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 93",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 97",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 98",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 108",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 114",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 122",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 115",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/op/_op_gradient.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 744"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/backend/gpu_generic/sampling.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 110",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/torch/fx_translator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/rpc/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/ci/scripts/github/ping_reviewers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/web/tests/python/relax_rpc_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/web/tests/python/webgpu_rpc_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/torch/base_fx_graph_translator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/nn/llm/tree_attn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 163",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 381",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 997",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 382",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 998",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 201",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 383",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 999",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 265",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 384",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1000",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 267",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 466",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1111",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 542",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1219",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 546",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1223"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_ptx_ldmatrix.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_ptx_cp_async.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_te_extern_primfunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_ptx_mma_sp.py": {
+    "R2": [
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_intrin.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/ir/test_node_reflection.py": {
+    "R2": [
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/ir/test_datatype_nv_fp8.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_index_map.py": {
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_imm_values.py": {
+    "R2": [
+      "Random Seed Not Set at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/driver/test_compile.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/runtime/test_evaluator_with_preproc.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/runtime/test_runtime_dlpack.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/nightly/test_nnapi/test_ops.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/runtime/test_runtime_container.py": {
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/runtime/test_runtime_module_load.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/disco/test_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 382"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_mps.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_tir_triton_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hipblas.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 44"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_sort.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_dlpack.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_thread_pool.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_rocblas.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_relax_2d_buffer_allocation.py": {
+    "R2": [
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/disco/test_ccl.py": {
+    "R2": [
+      "Random Seed Not Set at line 490",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 492",
+      "Random Seed Not Set at line 629",
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 631",
+      "Random Seed Not Set at line 632",
+      "Random Seed Not Set at line 633"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_parallel_scalar.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_2d_physical_buffers.py": {
+    "R2": [
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_vtcm_bandwidth.py": {
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/pytest_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/runtime/test_runtime_rpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 483",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_dma_builtin.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_parallel_hvx.py": {
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_fixed_point_conversion.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_software_pipeline_async.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_cblas.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 139"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_cutlass_gemm.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_sigmoid.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_relax_integration.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_benchmark_maxpool2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_meta_schedule.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 165"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_transform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_runner.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_inject_ptx_ldg32.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_pipeline.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_plugin.py": {
+    "R2": [
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 283"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-base/test_tir_ptx_mma.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 572",
+      "Random Seed Not Set at line 573",
+      "Random Seed Not Set at line 648",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 724",
+      "Random Seed Not Set at line 725",
+      "Random Seed Not Set at line 800",
+      "Random Seed Not Set at line 801",
+      "Random Seed Not Set at line 876",
+      "Random Seed Not Set at line 877",
+      "Random Seed Not Set at line 952",
+      "Random Seed Not Set at line 953",
+      "Random Seed Not Set at line 1028",
+      "Random Seed Not Set at line 1029"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_blob.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_gpu_common.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_tools.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_gpu_codegen_allreduce.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_extern.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_bool.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_parallel_hvx_load_vtcm.py": {
+    "R2": [
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_cross_llvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_c_host.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_rocm.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_translate_tensorrt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 357"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_device.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_cuda_fp4.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/te/test_te_create_primfunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_translate_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_hexagon/test_async_dma_pipeline.py": {
+    "R2": [
+      "Random Seed Not Set at line 843",
+      "Random Seed Not Set at line 844",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 375"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_translate_relax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_vulkan.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 549"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_cuda_fp8.py": {
+    "R2": [
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 794",
+      "Random Seed Not Set at line 987",
+      "Random Seed Not Set at line 988"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/codegen/test_target_codegen_cuda.py": {
+    "R2": [
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 433",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 466",
+      "Random Seed Not Set at line 652",
+      "Random Seed Not Set at line 565",
+      "Random Seed Not Set at line 590",
+      "Random Seed Not Set at line 615",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/python/tvm/relax/frontend/nn/llm/kv_cache.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1265",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1737",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2055",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2321",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2456",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2734",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1266",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1738",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2056",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2457",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2735",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1267",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1739",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2057",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2337",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2458",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2736",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1268",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1740",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2058",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2379",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2459",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1741",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2381",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2118",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1791",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2214",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2819",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1356",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1818",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1845",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2541",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2885",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1440",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1823",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2618",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2218",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2889",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1444",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2622"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_tensorize_mfma_numeric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 120",
+      "Use np.matmul() instead of np.dot() for matrices at line 125",
+      "Use np.matmul() instead of np.dot() for matrices at line 131",
+      "Use np.matmul() instead of np.dot() for matrices at line 136",
+      "Use np.matmul() instead of np.dot() for matrices at line 142",
+      "Use np.matmul() instead of np.dot() for matrices at line 147"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/contrib/test_msc/test_graph_build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_reduction.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 305",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 368",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 382",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 369",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 383",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 315"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_decompose_padding.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_tensorize_ldmatrix_mma_numeric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130",
+      "Use np.matmul() instead of np.dot() for matrices at line 135",
+      "Use np.matmul() instead of np.dot() for matrices at line 152",
+      "Use np.matmul() instead of np.dot() for matrices at line 159",
+      "Use np.matmul() instead of np.dot() for matrices at line 165",
+      "Use np.matmul() instead of np.dot() for matrices at line 170"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_lower_init_block.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 31",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 65",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 66",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_rolling_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_state_cached_flags.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 445",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 446"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_inject_ptx_async_copy.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_lower_tvm_builtin.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_plan_update_buffer_allocation_location.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 77",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_lower_match_buffer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 42",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 58",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 50",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/meta_schedule/test_meta_schedule_cost_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/meta_schedule/test_meta_schedule_feature_extractor.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-schedule/test_tir_schedule_compute_at.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 801",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 807",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 821",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 822"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/meta_schedule/test_meta_schedule_task_scheduler.py": {
+    "R2": [
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/meta_schedule/test_meta_schedule_tune_tir.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-transform/test_tir_transform_inject_software_pipeline.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1540"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1538",
+      "Random Seed Not Set at line 1539"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-analysis/test_tir_analysis_detect_buffer_access_lca.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 32",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tir-analysis/test_tir_analysis_get_block_access_region.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tvmscript/test_tvmscript_parser_evaluator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_op_take.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tvmscript/test_tvmscript_ops.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_execbuilder.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_codegen_tensorrt.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_fuse_transpose_matmul.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin_paged_attention_kv_cache_tir.py": {
+    "R2": [
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 369",
+      "Random Seed Not Set at line 377"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_training_optimizer_numeric.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_builtin.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_codegen_pass.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin_paged_attention_kv_cache_mla_flashinfer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_ast_printer.py": {
+    "R2": [
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_op_view.py": {
+    "R2": [
+      "Random Seed Not Set at line 666",
+      "Random Seed Not Set at line 686",
+      "Random Seed Not Set at line 710",
+      "Random Seed Not Set at line 730",
+      "Random Seed Not Set at line 760"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_fold_batch_norm_to_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_nn_jit.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_to_mixed_precision.py": {
+    "R2": [
+      "Random Seed Not Set at line 834",
+      "Random Seed Not Set at line 835",
+      "Random Seed Not Set at line 836",
+      "Random Seed Not Set at line 837",
+      "Random Seed Not Set at line 975",
+      "Random Seed Not Set at line 976"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_nn_op.py": {
+    "R2": [
+      "Random Seed Not Set at line 973"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_cuda_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_multi_device.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/tvmscript/test_tvmscript_roundtrip.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2664",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2958",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2668",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2963",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2672"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_fuse_ops_by_pattern.py": {
+    "R2": [
+      "Random Seed Not Set at line 510",
+      "Random Seed Not Set at line 848"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_alloc_storage_with_scope.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_codegen_coreml.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_from_exported_to_cuda.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 391",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 439",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 479",
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 558",
+      "Random Seed Not Set at line 574",
+      "Random Seed Not Set at line 587"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 178",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 180",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 234",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 256",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 330",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 331",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 354",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 378",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 402",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 410",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 420",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 430",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 440",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 466",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 490",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 514",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 527",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 537",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 547",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 559",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 573",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 585"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_stablehlo.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_bind_params.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_nn_debug.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_instrument.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_training_trainer_numeric.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 87",
+      "Hyperparameter not explicitly set at line 116",
+      "Hyperparameter not explicitly set at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_lazy_transform_params.py": {
+    "R2": [
+      "Random Seed Not Set at line 657",
+      "Random Seed Not Set at line 658"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_profiler.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin.py": {
+    "R2": [
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_nn_extern_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_gradient_numeric.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_codegen_cutlass.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1921",
+      "Use np.matmul() instead of np.dot() for matrices at line 2076",
+      "Use np.matmul() instead of np.dot() for matrices at line 1505",
+      "Use np.matmul() instead of np.dot() for matrices at line 1655"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_nn_tensor.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_transform_annotate_tir_op_pattern.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_dataflow_inplace.py": {
+    "R2": [
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 530",
+      "Random Seed Not Set at line 612",
+      "Random Seed Not Set at line 613"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin_paged_attention_kv_cache_flashinfer.py": {
+    "R2": [
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 327"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_e2e_op_dynamic.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_dynamo.py": {
+    "R2": [
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 271"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_build.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 223",
+      "Use np.matmul() instead of np.dot() for matrices at line 348",
+      "Use np.matmul() instead of np.dot() for matrices at line 812"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 842",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 450",
+      "Random Seed Not Set at line 472",
+      "Random Seed Not Set at line 473",
+      "Random Seed Not Set at line 1287",
+      "Random Seed Not Set at line 1288",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 438",
+      "Random Seed Not Set at line 519",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 668",
+      "Random Seed Not Set at line 669",
+      "Random Seed Not Set at line 694",
+      "Random Seed Not Set at line 695",
+      "Random Seed Not Set at line 723",
+      "Random Seed Not Set at line 724",
+      "Random Seed Not Set at line 755",
+      "Random Seed Not Set at line 809",
+      "Random Seed Not Set at line 810",
+      "Random Seed Not Set at line 871",
+      "Random Seed Not Set at line 904",
+      "Random Seed Not Set at line 922",
+      "Random Seed Not Set at line 923",
+      "Random Seed Not Set at line 1055",
+      "Random Seed Not Set at line 1056",
+      "Random Seed Not Set at line 1089",
+      "Random Seed Not Set at line 1090",
+      "Random Seed Not Set at line 1103",
+      "Random Seed Not Set at line 1104",
+      "Random Seed Not Set at line 1178",
+      "Random Seed Not Set at line 1179",
+      "Random Seed Not Set at line 1198",
+      "Random Seed Not Set at line 1199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_codegen_dnnl.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_expr.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_training_setup_trainer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 201",
+      "Hyperparameter not explicitly set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_op_gradient_numeric.py": {
+    "R2": [
+      "Random Seed Not Set at line 557",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 378",
+      "Random Seed Not Set at line 387",
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 403",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 436",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 462",
+      "Random Seed Not Set at line 476",
+      "Random Seed Not Set at line 488",
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 505",
+      "Random Seed Not Set at line 511",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 541",
+      "Random Seed Not Set at line 558",
+      "Random Seed Not Set at line 559",
+      "Random Seed Not Set at line 575",
+      "Random Seed Not Set at line 576",
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 590",
+      "Random Seed Not Set at line 596",
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 603",
+      "Random Seed Not Set at line 604",
+      "Random Seed Not Set at line 618",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 635",
+      "Random Seed Not Set at line 641",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 653",
+      "Random Seed Not Set at line 659",
+      "Random Seed Not Set at line 665",
+      "Random Seed Not Set at line 666",
+      "Random Seed Not Set at line 677",
+      "Random Seed Not Set at line 678",
+      "Random Seed Not Set at line 699",
+      "Random Seed Not Set at line 700",
+      "Random Seed Not Set at line 704",
+      "Random Seed Not Set at line 729",
+      "Random Seed Not Set at line 730",
+      "Random Seed Not Set at line 732",
+      "Random Seed Not Set at line 787",
+      "Random Seed Not Set at line 788",
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 835",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 628"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_pipeline.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 2408",
+      "Random Seed Not Set at line 657",
+      "Random Seed Not Set at line 1367",
+      "Random Seed Not Set at line 1368",
+      "Random Seed Not Set at line 1369",
+      "Random Seed Not Set at line 1371",
+      "Random Seed Not Set at line 1481",
+      "Random Seed Not Set at line 1962",
+      "Random Seed Not Set at line 1964",
+      "Random Seed Not Set at line 1965",
+      "Random Seed Not Set at line 1966",
+      "Random Seed Not Set at line 2217",
+      "Random Seed Not Set at line 2218",
+      "Random Seed Not Set at line 570",
+      "Random Seed Not Set at line 571",
+      "Random Seed Not Set at line 603",
+      "Random Seed Not Set at line 604",
+      "Random Seed Not Set at line 764",
+      "Random Seed Not Set at line 1370",
+      "Random Seed Not Set at line 1482",
+      "Random Seed Not Set at line 1573",
+      "Random Seed Not Set at line 1686",
+      "Random Seed Not Set at line 1692",
+      "Random Seed Not Set at line 1698",
+      "Random Seed Not Set at line 1699",
+      "Random Seed Not Set at line 1963",
+      "Random Seed Not Set at line 1989",
+      "Random Seed Not Set at line 2047",
+      "Random Seed Not Set at line 2101",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 1544",
+      "Random Seed Not Set at line 1548",
+      "Random Seed Not Set at line 1552",
+      "Random Seed Not Set at line 1556",
+      "Random Seed Not Set at line 1560",
+      "Random Seed Not Set at line 1564",
+      "Random Seed Not Set at line 2194",
+      "Random Seed Not Set at line 439",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 1262"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin_paged_attention_kv_cache_cpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_tir_call_source_kernel.py": {
+    "R2": [
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_from_fx.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 334",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 519",
+      "Random Seed Not Set at line 520"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_vm_codegen_only.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_backend_dispatch_sort_scan.py": {
+    "R2": [
+      "Random Seed Not Set at line 425"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_runtime_builtin_paged_attention_kv_cache_mla_tir.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/backend/clml/test_op_exec_clml_codegen.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 321"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/backend/clml/test_clml_codegen.py": {
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/all-platform-minimal-test/test_minimal_target_codegen_llvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/all-platform-minimal-test/test_runtime_ndarray.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_training_optimizer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35",
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 40",
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 44",
+      "Hyperparameter not explicitly set at line 46",
+      "Hyperparameter not explicitly set at line 48",
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 37",
+      "Hyperparameter not explicitly set at line 59",
+      "Hyperparameter not explicitly set at line 97",
+      "Hyperparameter not explicitly set at line 302",
+      "Hyperparameter not explicitly set at line 400",
+      "Hyperparameter not explicitly set at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/backend/clml/mod_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/how_to/tutorials/e2e_opt_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 120"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/how_to/tutorials/cross_compilation_and_rpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/how_to/tutorials/customize_opt.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/deep_dive/tensor_ir/tutorials/tir_transformation.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/get_started/tutorials/quick_start.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/apps/android_rpc/tests/android_rpc_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/scripts/ci.py": {
+    "R2": [
+      "Random Seed Not Set at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/apps/ios_rpc/tests/ios_rpc_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/get_started/tutorials/ir_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 239"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/docs/deep_dive/tensor_ir/tutorials/tir_creation.py": {
+    "R2": [
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/nvshmem/test_runtime_builtin_kv_cache_transfer.py": {
+    "R2": [
+      "Random Seed Not Set at line 393",
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 409"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/apache_tvm/tvm-main/tests/python/relax/test_frontend_from_exported_program.py": {
+    "R2": [
+      "Random Seed Not Set at line 3779",
+      "Random Seed Not Set at line 3802",
+      "Random Seed Not Set at line 3803",
+      "Random Seed Not Set at line 3804",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 509",
+      "Random Seed Not Set at line 547",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 640",
+      "Random Seed Not Set at line 671",
+      "Random Seed Not Set at line 719",
+      "Random Seed Not Set at line 725",
+      "Random Seed Not Set at line 784",
+      "Random Seed Not Set at line 785",
+      "Random Seed Not Set at line 787",
+      "Random Seed Not Set at line 847",
+      "Random Seed Not Set at line 848",
+      "Random Seed Not Set at line 850",
+      "Random Seed Not Set at line 899",
+      "Random Seed Not Set at line 900",
+      "Random Seed Not Set at line 985",
+      "Random Seed Not Set at line 1025",
+      "Random Seed Not Set at line 1080",
+      "Random Seed Not Set at line 1081",
+      "Random Seed Not Set at line 1082",
+      "Random Seed Not Set at line 1175",
+      "Random Seed Not Set at line 1258",
+      "Random Seed Not Set at line 1259",
+      "Random Seed Not Set at line 1260",
+      "Random Seed Not Set at line 1309",
+      "Random Seed Not Set at line 1310",
+      "Random Seed Not Set at line 1397",
+      "Random Seed Not Set at line 1489",
+      "Random Seed Not Set at line 1581",
+      "Random Seed Not Set at line 1673",
+      "Random Seed Not Set at line 1765",
+      "Random Seed Not Set at line 1821",
+      "Random Seed Not Set at line 1824",
+      "Random Seed Not Set at line 1851",
+      "Random Seed Not Set at line 1897",
+      "Random Seed Not Set at line 1939",
+      "Random Seed Not Set at line 2011",
+      "Random Seed Not Set at line 2121",
+      "Random Seed Not Set at line 2307",
+      "Random Seed Not Set at line 2371",
+      "Random Seed Not Set at line 2409",
+      "Random Seed Not Set at line 2432",
+      "Random Seed Not Set at line 2437",
+      "Random Seed Not Set at line 2565",
+      "Random Seed Not Set at line 2590",
+      "Random Seed Not Set at line 2616",
+      "Random Seed Not Set at line 2643",
+      "Random Seed Not Set at line 2669",
+      "Random Seed Not Set at line 2707",
+      "Random Seed Not Set at line 2710",
+      "Random Seed Not Set at line 2713",
+      "Random Seed Not Set at line 2735",
+      "Random Seed Not Set at line 2815",
+      "Random Seed Not Set at line 2818",
+      "Random Seed Not Set at line 2943",
+      "Random Seed Not Set at line 2946",
+      "Random Seed Not Set at line 2984",
+      "Random Seed Not Set at line 3029",
+      "Random Seed Not Set at line 3053",
+      "Random Seed Not Set at line 3092",
+      "Random Seed Not Set at line 3116",
+      "Random Seed Not Set at line 3137",
+      "Random Seed Not Set at line 3157",
+      "Random Seed Not Set at line 3177",
+      "Random Seed Not Set at line 3200",
+      "Random Seed Not Set at line 3223",
+      "Random Seed Not Set at line 3247",
+      "Random Seed Not Set at line 3338",
+      "Random Seed Not Set at line 3385",
+      "Random Seed Not Set at line 3422",
+      "Random Seed Not Set at line 3450",
+      "Random Seed Not Set at line 3451",
+      "Random Seed Not Set at line 3475",
+      "Random Seed Not Set at line 3499",
+      "Random Seed Not Set at line 3521",
+      "Random Seed Not Set at line 3547",
+      "Random Seed Not Set at line 3623",
+      "Random Seed Not Set at line 3624",
+      "Random Seed Not Set at line 3666",
+      "Random Seed Not Set at line 3692",
+      "Random Seed Not Set at line 3693",
+      "Random Seed Not Set at line 3716",
+      "Random Seed Not Set at line 3737",
+      "Random Seed Not Set at line 3758",
+      "Random Seed Not Set at line 3826",
+      "Random Seed Not Set at line 3854",
+      "Random Seed Not Set at line 3878",
+      "Random Seed Not Set at line 3903",
+      "Random Seed Not Set at line 3931",
+      "Random Seed Not Set at line 1332",
+      "Random Seed Not Set at line 1333",
+      "Random Seed Not Set at line 1424",
+      "Random Seed Not Set at line 1425",
+      "Random Seed Not Set at line 1516",
+      "Random Seed Not Set at line 1517",
+      "Random Seed Not Set at line 1608",
+      "Random Seed Not Set at line 1609",
+      "Random Seed Not Set at line 1700",
+      "Random Seed Not Set at line 1701",
+      "Random Seed Not Set at line 1961",
+      "Random Seed Not Set at line 1962",
+      "Random Seed Not Set at line 2197",
+      "Random Seed Not Set at line 2198",
+      "Random Seed Not Set at line 2199",
+      "Random Seed Not Set at line 2208",
+      "Random Seed Not Set at line 2209",
+      "Random Seed Not Set at line 2210",
+      "Random Seed Not Set at line 2211"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 987"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "/Users/bramss/Desktop/All_Repo/sethuiyer_Image-to-Image-Search/Image-to-Image-Search-master/imagernn/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 22"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sethuiyer_Image-to-Image-Search/Image-to-Image-Search-master/imagernn/generic_batch_generator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 117",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sethuiyer_Image-to-Image-Search/Image-to-Image-Search-master/imagernn/rnn_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sethuiyer_Image-to-Image-Search/Image-to-Image-Search-master/imagernn/lstm_generator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 92"
+    ]
+  }
+}

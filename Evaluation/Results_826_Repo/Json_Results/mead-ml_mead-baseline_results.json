@@ -1,0 +1,910 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/calibration/plot/confidence_histogram.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/confusion.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 184",
+      "Use np.matmul() instead of np.dot() for matrices at line 185",
+      "Use np.matmul() instead of np.dot() for matrices at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/pytorch/optz.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/addons/reader_pandas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/addons/pretrained_transformer_tagger.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/addons/paired.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/tf/optz.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 218",
+      "Hyperparameter not explicitly set at line 224",
+      "Hyperparameter not explicitly set at line 234",
+      "Hyperparameter not explicitly set at line 250",
+      "Hyperparameter not explicitly set at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_pytorch_weight_sharing.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 70"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 51"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 36",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/pytorch/embeddings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_sample.py": {
+    "R2": [
+      "Random Seed Not Set at line 7",
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_readers.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_windowed_ra_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/embeddings.py": {
+    "R2": [
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 420",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_pytorch_masks.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_tf_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/tf/embeddings.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_calc_feats.py": {
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_embeddings.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_tlm_serialization.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_windowed_ra_tf.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_label_first_data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_pytorch_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_layers_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_mead_tasks.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_hash_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_decoders_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/pytorch/serialize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_reporting_hooks.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_mead_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_layers_tf2.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_torchy.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_bleu.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_decoders_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_cm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 160",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 172",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 162",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 165",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 174",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 177",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 168",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 180"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_attention_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_pytorch_variational_dropout.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 19"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_conll.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_decay.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_iobes.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_vectorizers.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/torchy.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 1676",
+      "Random Seed Not Set at line 1661"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/lm/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/seq2seq/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/classify/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/tests/test_crf_pytorch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 36",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 388",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 457",
+      "Random Seed Not Set at line 467",
+      "Random Seed Not Set at line 474",
+      "Random Seed Not Set at line 482",
+      "Random Seed Not Set at line 483",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 492",
+      "Random Seed Not Set at line 493",
+      "Random Seed Not Set at line 509",
+      "Random Seed Not Set at line 510",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 514",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 481",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 534",
+      "Random Seed Not Set at line 535",
+      "Random Seed Not Set at line 536"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/lm/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/embeddings.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/seq2seq/decoders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/seq2seq/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/classify/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/deps/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/deps/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/embeddings.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/tagger/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 449"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 256",
+      "Hyperparameter not explicitly set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/seq2seq/encoders.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/pytorch/tagger/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/lm/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 240",
+      "Hyperparameter not explicitly set at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/seq2seq/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/seq2seq/decoders.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 106",
+      "Hyperparameter not explicitly set at line 258",
+      "Hyperparameter not explicitly set at line 259",
+      "Hyperparameter not explicitly set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/deps/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/baseline/tf/tagger/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/convert_hf2npz.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/response_selection.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/pytorch/exporters.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 247"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/text2embeddings.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/run_senteval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_tag_tf.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/generate_lm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/finetuned_transformer_to_npz.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/eager_lm_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_discrim_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 372",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 373"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/transformer_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 356",
+      "Random Seed Not Set at line 214"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 697",
+      "Potential data leakage: model.fit() used without a pipeline at line 815",
+      "Potential data leakage: model.fit() used without a pipeline at line 1052"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/generate_mlm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/seq2seq_generate_response.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_paired_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_transformer_seq2seq_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_tlm_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/preproc_tag.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 268",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 274",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 292"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/tf/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3833",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3365",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 3275"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 366"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 1456",
+      "TensorArray Not Used at line 3265",
+      "TensorArray Not Used at line 3350"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 2446",
+      "Hyperparameter not explicitly set at line 2449",
+      "Hyperparameter not explicitly set at line 2869",
+      "Hyperparameter not explicitly set at line 3097",
+      "Hyperparameter not explicitly set at line 3206",
+      "Hyperparameter not explicitly set at line 3207",
+      "Hyperparameter not explicitly set at line 3542",
+      "Hyperparameter not explicitly set at line 2694",
+      "Hyperparameter not explicitly set at line 2730",
+      "Hyperparameter not explicitly set at line 2870",
+      "Hyperparameter not explicitly set at line 3526",
+      "Hyperparameter not explicitly set at line 2949",
+      "Hyperparameter not explicitly set at line 2950",
+      "Hyperparameter not explicitly set at line 1508"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/scripts/speed_test/run.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/mead/api_examples/pretrain_discrim_tf.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 70",
+      "Hyperparameter not explicitly set at line 76",
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mead-ml_mead-baseline/mead-baseline-master/layers/eight_mile/pytorch/layers.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 3668",
+      "Random Seed Not Set at line 3707",
+      "Random Seed Not Set at line 3838"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 3186",
+      "Hyperparameter not explicitly set at line 3187",
+      "Hyperparameter not explicitly set at line 3188",
+      "Hyperparameter not explicitly set at line 3290",
+      "Hyperparameter not explicitly set at line 3291",
+      "Hyperparameter not explicitly set at line 3292",
+      "Hyperparameter not explicitly set at line 3490",
+      "Hyperparameter not explicitly set at line 3493",
+      "Hyperparameter not explicitly set at line 4188",
+      "Hyperparameter not explicitly set at line 4189",
+      "Hyperparameter not explicitly set at line 4656",
+      "Hyperparameter not explicitly set at line 2600",
+      "Hyperparameter not explicitly set at line 3190",
+      "Hyperparameter not explicitly set at line 3294",
+      "Hyperparameter not explicitly set at line 3385",
+      "Hyperparameter not explicitly set at line 3388",
+      "Hyperparameter not explicitly set at line 3552",
+      "Hyperparameter not explicitly set at line 3555",
+      "Hyperparameter not explicitly set at line 4657",
+      "Hyperparameter not explicitly set at line 1824"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

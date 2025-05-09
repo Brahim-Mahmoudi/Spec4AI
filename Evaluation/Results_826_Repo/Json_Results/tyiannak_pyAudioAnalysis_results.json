@@ -1,0 +1,52 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tyiannak_pyAudioAnalysis/pyAudioAnalysis-master/pyAudioAnalysis/audioVisualization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 75",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tyiannak_pyAudioAnalysis/pyAudioAnalysis-master/pyAudioAnalysis/ShortTermFeatures.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tyiannak_pyAudioAnalysis/pyAudioAnalysis-master/pyAudioAnalysis/audioTrainTest.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 326",
+      "Potential data leakage: fit_transform called before train/test split at line 459"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 917",
+      "Potential data leakage: model.fit() used without a pipeline at line 657"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1181",
+      "Use np.matmul() instead of np.dot() for matrices at line 925"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 802",
+      "Random Seed Not Set at line 649"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tyiannak_pyAudioAnalysis/pyAudioAnalysis-master/pyAudioAnalysis/audioSegmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 945"
+    ]
+  }
+}

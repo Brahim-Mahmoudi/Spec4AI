@@ -1,0 +1,377 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/dataflow/imgaug/deform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/dataflow/imgaug/imgaug_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/dataflow/imgaug/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 167"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 373"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/dataflow/imgaug/imgproc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/callbacks/summary.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/callbacks/param.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/models/models_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 107"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/utils/loadcaffe.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/tfutils/symbolic_functions.py": {
+    "R7": [
+      "Missing mask for tf.log at line 59",
+      "Missing mask for tf.log at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/tfutils/varmanip.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tests/benchmark-serializer.py": {
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/tensorpack/tfutils/optimizer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 242",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/Improved-WGAN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/keras/mnist-keras-v2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/ConditionalGAN-mnist.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 53",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 56",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 72",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 68"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/DCGAN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/GAN.py": {
+    "R2": [
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/BEGAN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/basics/mnist-convnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/basics/mnist-visualizations.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 75",
+      "Hyperparameter not explicitly set at line 77",
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/Image2Image.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 81",
+      "Hyperparameter not explicitly set at line 82",
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/DiscoGAN-CelebA.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/InfoGAN-mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 236"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/A3C-Gym/simulator.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/GAN/CycleGAN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/ImageNetModels/vgg16.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/ImageNetModels/inception-bn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 37",
+      "Hyperparameter not explicitly set at line 40",
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 50",
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/DoReFa-Net/alexnet-dorefa.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/DoReFa-Net/resnet-dorefa.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 73",
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/ResNet/cifar10-resnet.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/CaffeModels/load-cpm.py": {
+    "R3": [
+      "TensorArray Not Used at line 47"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/ResNet/resnet_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/A3C-Gym/train-atari.py": {
+    "R2": [
+      "Random Seed Not Set at line 179"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 91",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 95"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/ResNet/cifar10-preact18-mixup.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/HED/hed.py": {
+    "R3": [
+      "TensorArray Not Used at line 108"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 125",
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 135",
+      "Hyperparameter not explicitly set at line 136",
+      "Hyperparameter not explicitly set at line 137",
+      "Hyperparameter not explicitly set at line 141",
+      "Hyperparameter not explicitly set at line 142",
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 148",
+      "Hyperparameter not explicitly set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/DeepQNetwork/common.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/DeepQNetwork/DQN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/OpticalFlow/flownet2.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/Char-RNN/char-rnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/viz.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/SpatialTransformer/mnist-addition.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 40"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 20",
+      "TensorArray Not Used at line 47",
+      "TensorArray Not Used at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_mrcnn.py": {
+    "R3": [
+      "TensorArray Not Used at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_cascade.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_rpn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_box.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/scripts/checkpoint-prof.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_fpn.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/FasterRCNN/modeling/model_frcnn.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 340"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/SuperResolution/enet-pat.py": {
+    "R3": [
+      "TensorArray Not Used at line 56"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 82",
+      "Hyperparameter not explicitly set at line 84",
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 94",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 102",
+      "Hyperparameter not explicitly set at line 117",
+      "Hyperparameter not explicitly set at line 118",
+      "Hyperparameter not explicitly set at line 120",
+      "Hyperparameter not explicitly set at line 121",
+      "Hyperparameter not explicitly set at line 123",
+      "Hyperparameter not explicitly set at line 124",
+      "Hyperparameter not explicitly set at line 125",
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 128",
+      "Hyperparameter not explicitly set at line 129",
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 133",
+      "Hyperparameter not explicitly set at line 134",
+      "Hyperparameter not explicitly set at line 135",
+      "Hyperparameter not explicitly set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorpack_tensorpack/tensorpack-master/examples/OpticalFlow/flownet_models.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 97"
+    ]
+  }
+}

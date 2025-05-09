@@ -1,0 +1,540 @@
+{
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/standard_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/logistic_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/ali_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/wasserstein_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/base_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/ragan_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/segment_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/multi_head_attention.py": {
+    "R8": [
+      "Use module() instead of forward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/efficient_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/backends/hogwild_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/realness_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/channel_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/layers/operation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/optimizers/adamirror.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/backends/roundrobin_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/losses/f_divergence_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/simultaneous_trainer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/base_trainer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/needs_pytorch/multi_marginal_trainer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/accumulate_gradient_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/needs_pytorch/evolution_trainer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 20",
+      "Missing mask for tf.log at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/search/aligned_random_search.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/needs_pytorch/line_search_trainer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/grid_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/needs_pytorch/consensus_trainer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/aligned_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/factorization_batch_walk_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/batch_walk_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/needs_pytorch/random_walk_sampler.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 22",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/search/random_search.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/stabilizing_training_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/negative_momentum_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/samplers/needs_pytorch/style_walk_sampler.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/gradient_penalty_train_hook.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/needs_pytorch/learning_rate_dropout_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/extragradient_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/adversarial_norm_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/differential_augmentation_train_hook.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/conjecture_train_hook.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/online_ewc_train_hook.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/needs_pytorch/progress_compress_train_hook.py": {
+    "R7": [
+      "Missing mask for tf.log at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/needs_pytorch/weight_penalty_train_hook.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/learned_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/configurable_component.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/pixel_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/concat_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/const.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/scaled_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/variational.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/multi_head_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/gans/standard_gan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/experimental/rolling_memory_2_train_hook.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/gans/aligned_gan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/gans/aligned_interpolate_gan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/train_hooks/needs_pytorch/weight_constraint_train_hook.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/gans/base_gan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/distributions/normal_distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/trainers/needs_pytorch/gang_trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 516",
+      "Random Seed Not Set at line 560"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 118",
+      "Missing mask for tf.log at line 137",
+      "Missing mask for tf.log at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/gans/needs_pytorch/multi_generator_gan.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 118",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 145"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/distributions/uniform_distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/modules/modulated_conv2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 215"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/distributions/truncated_normal_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/inputs/fitness_image_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/distributions/fitness_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/distributions/optimize_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/hypergan/inputs/image_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/tests/mocks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/common.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 66"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/experimental/alignment.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/sequential_mnist.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 187",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/colorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/classification.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 217",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/chargan.py": {
+    "R2": [
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 204"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/2d-distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/2d-alignment.py": {
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 225",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/next-frame.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 272"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HyperGAN_HyperGAN/HyperGAN-master/examples/experimental/next-frame.py": {
+    "R2": [
+      "Random Seed Not Set at line 535",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 539",
+      "Random Seed Not Set at line 549",
+      "Random Seed Not Set at line 551"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 336",
+      "Use module() instead of forward() at line 345",
+      "Use module() instead of forward() at line 355",
+      "Use module() instead of forward() at line 364"
+    ]
+  }
+}

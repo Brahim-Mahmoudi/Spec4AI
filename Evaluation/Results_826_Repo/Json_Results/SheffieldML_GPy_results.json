@@ -1,0 +1,928 @@
+{
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/benchmarks/regression/run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/benchmarks/regression/methods.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/sde_stationary.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/coregionalize.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/poly.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 33",
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/linear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 198",
+      "Use np.matmul() instead of np.dot() for matrices at line 208",
+      "Use np.matmul() instead of np.dot() for matrices at line 217",
+      "Use np.matmul() instead of np.dot() for matrices at line 224",
+      "Use np.matmul() instead of np.dot() for matrices at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/mlp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 142",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/add.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/basis_funcs.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/splitKern.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 160",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/psi_comp/sslinear_psi_comp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/psi_comp/linear_psi_comp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 25",
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 87",
+      "Use np.matmul() instead of np.dot() for matrices at line 27",
+      "Use np.matmul() instead of np.dot() for matrices at line 29",
+      "Use np.matmul() instead of np.dot() for matrices at line 44",
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 99",
+      "Use np.matmul() instead of np.dot() for matrices at line 90",
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 84",
+      "Use np.matmul() instead of np.dot() for matrices at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/stationary.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 518",
+      "Use np.matmul() instead of np.dot() for matrices at line 618",
+      "Use np.matmul() instead of np.dot() for matrices at line 146",
+      "Use np.matmul() instead of np.dot() for matrices at line 619"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/todo/symmetric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 32",
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 37",
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/todo/poly.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 123",
+      "Use np.matmul() instead of np.dot() for matrices at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/todo/gibbs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/core/gp_grid.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 97",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/eq_ode1.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/todo/rbf_inv.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/quad_integrate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/initialization.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/misc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 108"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/block_matrices.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/periodic.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 212",
+      "Use np.matmul() instead of np.dot() for matrices at line 241",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 356",
+      "Use np.matmul() instead of np.dot() for matrices at line 391",
+      "Use np.matmul() instead of np.dot() for matrices at line 392",
+      "Use np.matmul() instead of np.dot() for matrices at line 393",
+      "Use np.matmul() instead of np.dot() for matrices at line 394",
+      "Use np.matmul() instead of np.dot() for matrices at line 395",
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 268",
+      "Use np.matmul() instead of np.dot() for matrices at line 384",
+      "Use np.matmul() instead of np.dot() for matrices at line 161",
+      "Use np.matmul() instead of np.dot() for matrices at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/choleskies.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/core/symbolic.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 89",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 302",
+      "Use np.matmul() instead of np.dot() for matrices at line 349",
+      "Use np.matmul() instead of np.dot() for matrices at line 413",
+      "Use np.matmul() instead of np.dot() for matrices at line 403",
+      "Use np.matmul() instead of np.dot() for matrices at line 266"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/core/gp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 462",
+      "Use np.matmul() instead of np.dot() for matrices at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/warped_gp.py": {
+    "R2": [
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/gp_kronecker_gaussian_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/bayesian_gplvm_minibatch.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/sparse_gp_regression_md.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/sparse_gp_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/sparse_gp_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/sparse_gp_coregionalized_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/gp_multiout_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/multioutput_gp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 143",
+      "Use np.matmul() instead of np.dot() for matrices at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/input_warped_gp.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/mrd.py": {
+    "R2": [
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/bayesian_gplvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/sparse_gp_minibatch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/gp_multiout_regression_md.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/ss_mrd.py": {
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_linalg.py": {
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_grid.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/ss_gplvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_pickle.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/mocap.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 291",
+      "Use np.matmul() instead of np.dot() for matrices at line 294",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 158"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 234",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_svgp.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/ibp_lfm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 136",
+      "Use np.matmul() instead of np.dot() for matrices at line 141",
+      "Use np.matmul() instead of np.dot() for matrices at line 143",
+      "Use np.matmul() instead of np.dot() for matrices at line 252",
+      "Use np.matmul() instead of np.dot() for matrices at line 145",
+      "Use np.matmul() instead of np.dot() for matrices at line 148",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 168",
+      "Use np.matmul() instead of np.dot() for matrices at line 262",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 264"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 496",
+      "Random Seed Not Set at line 488"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_cython.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/fitc.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_link_function.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_meanfunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/core/parameterization/priors.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 257",
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 778",
+      "Random Seed Not Set at line 1028",
+      "Random Seed Not Set at line 1258",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/state_space.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 700"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 682",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 700"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_prior.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/likelihoods/mixed_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/state_space_main_tests.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 480",
+      "Use np.matmul() instead of np.dot() for matrices at line 470",
+      "Use np.matmul() instead of np.dot() for matrices at line 472"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/kern/src/eq_ode2.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_likelihood.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 799"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/likelihoods/gaussian.py": {
+    "R2": [
+      "Random Seed Not Set at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/util/datasets.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1354"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 911",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 912",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 922"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1350",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1446",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1456",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1467",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1478"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 968; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 971; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 974; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 966; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/plotting/gpy_plot/plot_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/examples/state_space.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/optimization/stochastics.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/mcmc/samplers.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/examples/classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/likelihoods/likelihood.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 355",
+      "Use np.matmul() instead of np.dot() for matrices at line 395",
+      "Use np.matmul() instead of np.dot() for matrices at line 396",
+      "Use np.matmul() instead of np.dot() for matrices at line 397",
+      "Use np.matmul() instead of np.dot() for matrices at line 407"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 827",
+      "Random Seed Not Set at line 761",
+      "Random Seed Not Set at line 750"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/inferenceX.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 145",
+      "Use np.matmul() instead of np.dot() for matrices at line 130",
+      "Use np.matmul() instead of np.dot() for matrices at line 134",
+      "Use np.matmul() instead of np.dot() for matrices at line 153"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/mcmc/hmc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 173",
+      "Use np.matmul() instead of np.dot() for matrices at line 64",
+      "Use np.matmul() instead of np.dot() for matrices at line 120"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/pep.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 44",
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/vardtc_md.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/examples/non_gaussian.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/dtc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 145",
+      "Use np.matmul() instead of np.dot() for matrices at line 151",
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 72",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 147",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/gaussian_grid_inference.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/testing/test_kernel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 615",
+      "Use np.matmul() instead of np.dot() for matrices at line 670"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 444",
+      "Random Seed Not Set at line 698",
+      "Random Seed Not Set at line 794",
+      "Random Seed Not Set at line 800",
+      "Random Seed Not Set at line 882",
+      "Random Seed Not Set at line 883",
+      "Random Seed Not Set at line 887",
+      "Random Seed Not Set at line 908",
+      "Random Seed Not Set at line 952",
+      "Random Seed Not Set at line 954",
+      "Random Seed Not Set at line 957",
+      "Random Seed Not Set at line 958",
+      "Random Seed Not Set at line 959",
+      "Random Seed Not Set at line 961",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 681",
+      "Random Seed Not Set at line 723",
+      "Random Seed Not Set at line 740",
+      "Random Seed Not Set at line 953",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/svgp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 46",
+      "Use np.matmul() instead of np.dot() for matrices at line 64",
+      "Use np.matmul() instead of np.dot() for matrices at line 97",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/mappings/kernel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 49",
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 52"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/fitc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 51",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 73",
+      "Use np.matmul() instead of np.dot() for matrices at line 74",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/mappings/linear.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 33",
+      "Use np.matmul() instead of np.dot() for matrices at line 36",
+      "Use np.matmul() instead of np.dot() for matrices at line 39"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/laplace.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 169",
+      "Use np.matmul() instead of np.dot() for matrices at line 338",
+      "Use np.matmul() instead of np.dot() for matrices at line 347",
+      "Use np.matmul() instead of np.dot() for matrices at line 358",
+      "Use np.matmul() instead of np.dot() for matrices at line 494",
+      "Use np.matmul() instead of np.dot() for matrices at line 499",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 210",
+      "Use np.matmul() instead of np.dot() for matrices at line 260",
+      "Use np.matmul() instead of np.dot() for matrices at line 350",
+      "Use np.matmul() instead of np.dot() for matrices at line 377",
+      "Use np.matmul() instead of np.dot() for matrices at line 385",
+      "Use np.matmul() instead of np.dot() for matrices at line 398",
+      "Use np.matmul() instead of np.dot() for matrices at line 489",
+      "Use np.matmul() instead of np.dot() for matrices at line 204",
+      "Use np.matmul() instead of np.dot() for matrices at line 295",
+      "Use np.matmul() instead of np.dot() for matrices at line 391",
+      "Use np.matmul() instead of np.dot() for matrices at line 267",
+      "Use np.matmul() instead of np.dot() for matrices at line 270",
+      "Use np.matmul() instead of np.dot() for matrices at line 362",
+      "Use np.matmul() instead of np.dot() for matrices at line 429",
+      "Use np.matmul() instead of np.dot() for matrices at line 447",
+      "Use np.matmul() instead of np.dot() for matrices at line 173",
+      "Use np.matmul() instead of np.dot() for matrices at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/var_gauss.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 57",
+      "Use np.matmul() instead of np.dot() for matrices at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/vardtc_svi_multiout.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/mappings/mlp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 33",
+      "Use np.matmul() instead of np.dot() for matrices at line 37",
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 49",
+      "Use np.matmul() instead of np.dot() for matrices at line 52",
+      "Use np.matmul() instead of np.dot() for matrices at line 24",
+      "Use np.matmul() instead of np.dot() for matrices at line 26",
+      "Use np.matmul() instead of np.dot() for matrices at line 29",
+      "Use np.matmul() instead of np.dot() for matrices at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/models/state_space_main.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 4296",
+      "Use np.matmul() instead of np.dot() for matrices at line 4297",
+      "Use np.matmul() instead of np.dot() for matrices at line 4320",
+      "Use np.matmul() instead of np.dot() for matrices at line 4323",
+      "Use np.matmul() instead of np.dot() for matrices at line 4325",
+      "Use np.matmul() instead of np.dot() for matrices at line 4334",
+      "Use np.matmul() instead of np.dot() for matrices at line 320",
+      "Use np.matmul() instead of np.dot() for matrices at line 479",
+      "Use np.matmul() instead of np.dot() for matrices at line 1654",
+      "Use np.matmul() instead of np.dot() for matrices at line 2014",
+      "Use np.matmul() instead of np.dot() for matrices at line 2017",
+      "Use np.matmul() instead of np.dot() for matrices at line 2187",
+      "Use np.matmul() instead of np.dot() for matrices at line 2341",
+      "Use np.matmul() instead of np.dot() for matrices at line 2349",
+      "Use np.matmul() instead of np.dot() for matrices at line 2722",
+      "Use np.matmul() instead of np.dot() for matrices at line 3012",
+      "Use np.matmul() instead of np.dot() for matrices at line 3782",
+      "Use np.matmul() instead of np.dot() for matrices at line 4090",
+      "Use np.matmul() instead of np.dot() for matrices at line 4286",
+      "Use np.matmul() instead of np.dot() for matrices at line 4290",
+      "Use np.matmul() instead of np.dot() for matrices at line 4339",
+      "Use np.matmul() instead of np.dot() for matrices at line 4347",
+      "Use np.matmul() instead of np.dot() for matrices at line 4361",
+      "Use np.matmul() instead of np.dot() for matrices at line 1099",
+      "Use np.matmul() instead of np.dot() for matrices at line 1122",
+      "Use np.matmul() instead of np.dot() for matrices at line 1561",
+      "Use np.matmul() instead of np.dot() for matrices at line 1682",
+      "Use np.matmul() instead of np.dot() for matrices at line 1827",
+      "Use np.matmul() instead of np.dot() for matrices at line 2002",
+      "Use np.matmul() instead of np.dot() for matrices at line 2079",
+      "Use np.matmul() instead of np.dot() for matrices at line 2338",
+      "Use np.matmul() instead of np.dot() for matrices at line 2339",
+      "Use np.matmul() instead of np.dot() for matrices at line 2342",
+      "Use np.matmul() instead of np.dot() for matrices at line 2390",
+      "Use np.matmul() instead of np.dot() for matrices at line 2411",
+      "Use np.matmul() instead of np.dot() for matrices at line 2414",
+      "Use np.matmul() instead of np.dot() for matrices at line 2419",
+      "Use np.matmul() instead of np.dot() for matrices at line 2421",
+      "Use np.matmul() instead of np.dot() for matrices at line 2432",
+      "Use np.matmul() instead of np.dot() for matrices at line 2435",
+      "Use np.matmul() instead of np.dot() for matrices at line 2440",
+      "Use np.matmul() instead of np.dot() for matrices at line 2442",
+      "Use np.matmul() instead of np.dot() for matrices at line 1558",
+      "Use np.matmul() instead of np.dot() for matrices at line 1563",
+      "Use np.matmul() instead of np.dot() for matrices at line 1679",
+      "Use np.matmul() instead of np.dot() for matrices at line 1684",
+      "Use np.matmul() instead of np.dot() for matrices at line 1826",
+      "Use np.matmul() instead of np.dot() for matrices at line 1829",
+      "Use np.matmul() instead of np.dot() for matrices at line 1846",
+      "Use np.matmul() instead of np.dot() for matrices at line 1850",
+      "Use np.matmul() instead of np.dot() for matrices at line 1852",
+      "Use np.matmul() instead of np.dot() for matrices at line 1854",
+      "Use np.matmul() instead of np.dot() for matrices at line 2078",
+      "Use np.matmul() instead of np.dot() for matrices at line 2081",
+      "Use np.matmul() instead of np.dot() for matrices at line 2098",
+      "Use np.matmul() instead of np.dot() for matrices at line 2102",
+      "Use np.matmul() instead of np.dot() for matrices at line 2104",
+      "Use np.matmul() instead of np.dot() for matrices at line 2106",
+      "Use np.matmul() instead of np.dot() for matrices at line 2392",
+      "Use np.matmul() instead of np.dot() for matrices at line 2413",
+      "Use np.matmul() instead of np.dot() for matrices at line 2434",
+      "Use np.matmul() instead of np.dot() for matrices at line 1640",
+      "Use np.matmul() instead of np.dot() for matrices at line 1844",
+      "Use np.matmul() instead of np.dot() for matrices at line 1845",
+      "Use np.matmul() instead of np.dot() for matrices at line 2096",
+      "Use np.matmul() instead of np.dot() for matrices at line 2097",
+      "Use np.matmul() instead of np.dot() for matrices at line 1870",
+      "Use np.matmul() instead of np.dot() for matrices at line 2120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/var_dtc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 219",
+      "Use np.matmul() instead of np.dot() for matrices at line 140",
+      "Use np.matmul() instead of np.dot() for matrices at line 202",
+      "Use np.matmul() instead of np.dot() for matrices at line 231",
+      "Use np.matmul() instead of np.dot() for matrices at line 225",
+      "Use np.matmul() instead of np.dot() for matrices at line 256",
+      "Use np.matmul() instead of np.dot() for matrices at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/var_dtc_parallel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 299",
+      "Use np.matmul() instead of np.dot() for matrices at line 116",
+      "Use np.matmul() instead of np.dot() for matrices at line 304",
+      "Use np.matmul() instead of np.dot() for matrices at line 113",
+      "Use np.matmul() instead of np.dot() for matrices at line 317"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/mappings/mlpext.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 62",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 129",
+      "Use np.matmul() instead of np.dot() for matrices at line 105"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/posterior.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 277",
+      "Use np.matmul() instead of np.dot() for matrices at line 309",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 226",
+      "Use np.matmul() instead of np.dot() for matrices at line 254",
+      "Use np.matmul() instead of np.dot() for matrices at line 316",
+      "Use np.matmul() instead of np.dot() for matrices at line 232",
+      "Use np.matmul() instead of np.dot() for matrices at line 321",
+      "Use np.matmul() instead of np.dot() for matrices at line 327",
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 242",
+      "Use np.matmul() instead of np.dot() for matrices at line 332",
+      "Use np.matmul() instead of np.dot() for matrices at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/examples/dimensionality_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 915"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/inference/latent_function_inference/expectation_propagation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 390",
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 141",
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 373",
+      "Use np.matmul() instead of np.dot() for matrices at line 139",
+      "Use np.matmul() instead of np.dot() for matrices at line 386",
+      "Use np.matmul() instead of np.dot() for matrices at line 372"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 555"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SheffieldML_GPy/GPy-devel/GPy/examples/regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 385",
+      "Use np.matmul() instead of np.dot() for matrices at line 426"
+    ]
+  }
+}

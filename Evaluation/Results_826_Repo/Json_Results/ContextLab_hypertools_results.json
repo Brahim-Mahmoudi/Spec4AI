@@ -1,0 +1,124 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/tools/cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/tools/align.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/tools/procrustes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 110",
+      "Use np.matmul() instead of np.dot() for matrices at line 108",
+      "Use np.matmul() instead of np.dot() for matrices at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/tools/format_data.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/tools/text2mat.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/tests/test_procrustes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/tests/test_align.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 18",
+      "Use np.matmul() instead of np.dot() for matrices at line 27",
+      "Use np.matmul() instead of np.dot() for matrices at line 36"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/tests/test_format_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/docs/auto_examples/plot_PPCA.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/hypertools/_externals/ppca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 55",
+      "Use np.matmul() instead of np.dot() for matrices at line 103",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 74",
+      "Use np.matmul() instead of np.dot() for matrices at line 75",
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 116",
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 98"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/docs/auto_examples/plot_hue.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/tests/test_helpers.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/examples/plot_PPCA.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/tests/test_reduce.py": {
+    "R2": [
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/docs/auto_examples/plot_missing_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/examples/plot_hue.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ContextLab_hypertools/hypertools-master/examples/plot_missing_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  }
+}

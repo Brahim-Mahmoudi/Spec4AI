@@ -1,0 +1,167 @@
+{
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/adapters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/algorithms/distance.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 7",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/algorithms/numeric.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/classifiers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 473",
+      "Potential data leakage: model.fit() used without a pipeline at line 580"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/examples/unsupervised_learning_prob.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/examples/supervised_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/examples/supervised_learning_prob.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/algorithms/nb_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 484",
+      "Random Seed Not Set at line 496",
+      "Random Seed Not Set at line 501"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/algorithms/string.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/recordlinkage/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 959"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/tests/test_classify.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 335",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 419",
+      "Potential data leakage: model.fit() used without a pipeline at line 441",
+      "Potential data leakage: model.fit() used without a pipeline at line 465",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 524",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 536",
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 574",
+      "Potential data leakage: model.fit() used without a pipeline at line 576"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/tests/test_indexing.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 329"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 707",
+      "Random Seed Not Set at line 708",
+      "Random Seed Not Set at line 717",
+      "Random Seed Not Set at line 718"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/J535D165_recordlinkage/recordlinkage-master/tests/test_compare.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 315",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 375",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 395",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 610",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 621",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 647",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 662",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 675",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 688",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 721",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 759",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 782",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 816",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 880",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 912",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 937",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 971",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1029",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1094",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1118",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1173",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1189",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1203",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1223",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1287",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1298",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1325",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1342",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1358",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1391",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1420",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1444",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1479"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1438",
+      "Random Seed Not Set at line 1439",
+      "Random Seed Not Set at line 1472",
+      "Random Seed Not Set at line 1474",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111"
+    ]
+  }
+}

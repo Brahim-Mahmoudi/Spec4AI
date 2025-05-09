@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/baidu_Dialogue/Dialogue-master/DAM/main.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/baidu_Dialogue/Dialogue-master/ADE/ade/evaluate.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 71; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/baidu_Dialogue/Dialogue-master/ADE/ade/reader.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/baidu_Dialogue/Dialogue-master/DGU/dgu/optimization.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/baidu_Dialogue/Dialogue-master/DGU/dgu/batching.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 66"
+    ]
+  }
+}

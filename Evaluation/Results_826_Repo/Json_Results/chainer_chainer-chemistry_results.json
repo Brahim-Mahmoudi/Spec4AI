@@ -1,0 +1,32 @@
+{
+  "/Users/bramss/Desktop/All_Repo/chainer_chainer-chemistry/chainer-chemistry-master/chainer_chemistry/models/weavenet.py": {
+    "R8": [
+      "Use module() instead of forward() at line 121",
+      "Use module() instead of forward() at line 122",
+      "Use module() instead of forward() at line 124",
+      "Use module() instead of forward() at line 129",
+      "Use module() instead of forward() at line 130",
+      "Use module() instead of forward() at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chainer_chainer-chemistry/chainer-chemistry-master/chainer_chemistry/links/scaler/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chainer_chainer-chemistry/chainer-chemistry-master/chainer_chemistry/saliency/calculator/gradient_calculator.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chainer_chainer-chemistry/chainer-chemistry-master/chainer_chemistry/saliency/calculator/integrated_gradients_calculator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/chainer_chainer-chemistry/chainer-chemistry-master/chainer_chemistry/links/scaler/flow_scaler.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 143"
+    ]
+  }
+}

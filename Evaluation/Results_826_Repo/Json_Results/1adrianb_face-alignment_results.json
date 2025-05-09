@@ -1,0 +1,78 @@
+{
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/folder/folder_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/sfd/sfd_detector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/blazeface/blazeface_detector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/test/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/test/facealignment_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/sfd/detect.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/sfd/net_s3fd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/detection/blazeface/net_blazeface.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/1adrianb_face-alignment/face-alignment-master/face_alignment/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 180"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

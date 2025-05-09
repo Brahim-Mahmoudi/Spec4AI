@@ -1,0 +1,68 @@
+{
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/tests/test_vertical_portscans.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/tests/test_horizontal_portscans.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/slips_files/core/text_formatters/evidence.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/modules/blocking/blocking.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/slips_files/common/performance_profilers/memory_profiler.py": {
+    "R2": [
+      "Random Seed Not Set at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/slips_files/common/performance_profilers/_memory_profiler_example_no_import.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/modules/rnn_cc_detection/training_code/train_optimization_optuna.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 248"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/modules/ip_info/jarm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 575",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 693"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/modules/virustotal/virustotal.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/stratosphereips_StratosphereLinuxIPS/StratosphereLinuxIPS-master/modules/network_discovery/network_discovery.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 154",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 215"
+    ]
+  }
+}

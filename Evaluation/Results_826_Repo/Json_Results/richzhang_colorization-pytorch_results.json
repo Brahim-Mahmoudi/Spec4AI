@@ -1,0 +1,82 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/util/image_pool.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/test_sweep.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/models/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/data/aligned_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/options/base_options.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/models/pix2pix_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 148",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/util/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 240"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/richzhang_colorization-pytorch/colorization-pytorch-master/models/networks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

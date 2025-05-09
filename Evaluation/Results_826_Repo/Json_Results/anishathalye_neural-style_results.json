@@ -1,0 +1,21 @@
+{
+  "/Users/bramss/Desktop/All_Repo/anishathalye_neural-style/neural-style-master/stylize.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 122"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 234",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 237"
+    ]
+  }
+}

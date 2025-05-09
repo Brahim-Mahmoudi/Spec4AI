@@ -1,0 +1,69 @@
+{
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/analysis/stats.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/base/transformations.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 15",
+      "Use np.matmul() instead of np.dot() for matrices at line 22",
+      "Use np.matmul() instead of np.dot() for matrices at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/tests/test_analysis.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/base/imageutils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/analysis/reduce.py": {
+    "R2": [
+      "Random Seed Not Set at line 161"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 280",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/analysis/decode.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/analysis/classify.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 288",
+      "Random Seed Not Set at line 266"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neurosynth_neurosynth/neurosynth-master/neurosynth/base/dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 212",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 605"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 198",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 599"
+    ]
+  }
+}

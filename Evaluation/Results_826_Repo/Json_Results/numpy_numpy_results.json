@@ -1,0 +1,778 @@
+{
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/matlib.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 329"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/linalg/tests/test_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ctypeslib/_ctypeslib.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ma/extras.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1702",
+      "Use np.matmul() instead of np.dot() for matrices at line 1708",
+      "Use np.matmul() instead of np.dot() for matrices at line 1705",
+      "Use np.matmul() instead of np.dot() for matrices at line 1711"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ma/tests/test_mrecords.py": {
+    "R2": [
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_item_selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/einsumfunc.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 385",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 606",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 607",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 624"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_hashtable.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_multithreading.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 285"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_half.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 337"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_cython.py": {
+    "R2": [
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_shape_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 443",
+      "Random Seed Not Set at line 451"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_umath_accuracy.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ma/tests/test_extras.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1356",
+      "Use np.matmul() instead of np.dot() for matrices at line 1362",
+      "Use np.matmul() instead of np.dot() for matrices at line 727",
+      "Use np.matmul() instead of np.dot() for matrices at line 729",
+      "Use np.matmul() instead of np.dot() for matrices at line 739",
+      "Use np.matmul() instead of np.dot() for matrices at line 742",
+      "Use np.matmul() instead of np.dot() for matrices at line 757",
+      "Use np.matmul() instead of np.dot() for matrices at line 761",
+      "Use np.matmul() instead of np.dot() for matrices at line 768",
+      "Use np.matmul() instead of np.dot() for matrices at line 772",
+      "Use np.matmul() instead of np.dot() for matrices at line 779",
+      "Use np.matmul() instead of np.dot() for matrices at line 783"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 439",
+      "Random Seed Not Set at line 440",
+      "Random Seed Not Set at line 1484",
+      "Random Seed Not Set at line 1521",
+      "Random Seed Not Set at line 1922",
+      "Random Seed Not Set at line 1923",
+      "Random Seed Not Set at line 1943",
+      "Random Seed Not Set at line 1944",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 1019",
+      "Random Seed Not Set at line 1098",
+      "Random Seed Not Set at line 1288",
+      "Random Seed Not Set at line 1375",
+      "Random Seed Not Set at line 1376",
+      "Random Seed Not Set at line 1509",
+      "Random Seed Not Set at line 1485",
+      "Random Seed Not Set at line 1522",
+      "Random Seed Not Set at line 1924",
+      "Random Seed Not Set at line 1925",
+      "Random Seed Not Set at line 1945",
+      "Random Seed Not Set at line 1946"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/linalg/tests/test_linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2247",
+      "Use np.matmul() instead of np.dot() for matrices at line 2049",
+      "Use np.matmul() instead of np.dot() for matrices at line 2057",
+      "Use np.matmul() instead of np.dot() for matrices at line 2109",
+      "Use np.matmul() instead of np.dot() for matrices at line 2119",
+      "Use np.matmul() instead of np.dot() for matrices at line 1013",
+      "Use np.matmul() instead of np.dot() for matrices at line 965"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ma/core.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 8266",
+      "Use np.matmul() instead of np.dot() for matrices at line 8267"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_overrides.py": {
+    "R2": [
+      "Random Seed Not Set at line 724"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_strings.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_stringdtype.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 729",
+      "Do not compare with np.nan. Use df.isna() instead at line 730",
+      "Do not compare with np.nan. Use df.isna() instead at line 734"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_pyinstaller/tests/pyinstaller-smoke.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/typing/tests/data/pass/multiarray.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 52",
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_einsum.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1278",
+      "Use np.matmul() instead of np.dot() for matrices at line 460",
+      "Use np.matmul() instead of np.dot() for matrices at line 462",
+      "Use np.matmul() instead of np.dot() for matrices at line 481",
+      "Use np.matmul() instead of np.dot() for matrices at line 483",
+      "Use np.matmul() instead of np.dot() for matrices at line 594",
+      "Use np.matmul() instead of np.dot() for matrices at line 603",
+      "Use np.matmul() instead of np.dot() for matrices at line 504",
+      "Use np.matmul() instead of np.dot() for matrices at line 506",
+      "Use np.matmul() instead of np.dot() for matrices at line 468",
+      "Use np.matmul() instead of np.dot() for matrices at line 474",
+      "Use np.matmul() instead of np.dot() for matrices at line 489",
+      "Use np.matmul() instead of np.dot() for matrices at line 495",
+      "Use np.matmul() instead of np.dot() for matrices at line 515",
+      "Use np.matmul() instead of np.dot() for matrices at line 521"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 861",
+      "Random Seed Not Set at line 1064",
+      "Random Seed Not Set at line 1065",
+      "Random Seed Not Set at line 1066",
+      "Random Seed Not Set at line 1067",
+      "Random Seed Not Set at line 1072",
+      "Random Seed Not Set at line 1073",
+      "Random Seed Not Set at line 1125",
+      "Random Seed Not Set at line 968"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_ufunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 1735",
+      "Random Seed Not Set at line 1736",
+      "Random Seed Not Set at line 1451",
+      "Random Seed Not Set at line 1452",
+      "Random Seed Not Set at line 2176",
+      "Random Seed Not Set at line 2180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 201",
+      "Use np.matmul() instead of np.dot() for matrices at line 1424",
+      "Use np.matmul() instead of np.dot() for matrices at line 804",
+      "Use np.matmul() instead of np.dot() for matrices at line 1064",
+      "Use np.matmul() instead of np.dot() for matrices at line 2492",
+      "Use np.matmul() instead of np.dot() for matrices at line 1290",
+      "Use np.matmul() instead of np.dot() for matrices at line 1520"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_numeric.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 4154"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 3776",
+      "Random Seed Not Set at line 3785",
+      "Random Seed Not Set at line 3820"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/_arrayterator_impl.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/_histograms_impl.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 881"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_type_check.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 460",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_nditer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1515",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2706",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2730",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2732",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2766",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2710",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2770"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2993"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/ma/tests/test_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 3190",
+      "Random Seed Not Set at line 1275",
+      "Random Seed Not Set at line 1274",
+      "Random Seed Not Set at line 3191",
+      "Random Seed Not Set at line 5117",
+      "Random Seed Not Set at line 5245",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 1559",
+      "Random Seed Not Set at line 3843",
+      "Random Seed Not Set at line 3852",
+      "Random Seed Not Set at line 3853",
+      "Random Seed Not Set at line 3965",
+      "Random Seed Not Set at line 4441",
+      "Random Seed Not Set at line 5133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_twodim_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/testing/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 1440",
+      "Random Seed Not Set at line 1446",
+      "Random Seed Not Set at line 1453"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_index_tricks.py": {
+    "R2": [
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 516"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_packbits.py": {
+    "R2": [
+      "Random Seed Not Set at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/fft/tests/test_helper.py": {
+    "R2": [
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_format.py": {
+    "R2": [
+      "Random Seed Not Set at line 518",
+      "Random Seed Not Set at line 403"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_histograms.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 697",
+      "Random Seed Not Set at line 703",
+      "Random Seed Not Set at line 770"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/random/tests/test_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/matrixlib/tests/test_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/matrixlib/tests/test_masked_matrix.py": {
+    "R2": [
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/matrixlib/tests/test_interaction.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 251",
+      "Use np.matmul() instead of np.dot() for matrices at line 252",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 66"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 199"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/laguerre.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 780",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 663",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 667",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 789"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_nanfunctions.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/random/tests/test_smoke.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/matrixlib/tests/test_defmatrix.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 221",
+      "Use np.matmul() instead of np.dot() for matrices at line 227",
+      "Use np.matmul() instead of np.dot() for matrices at line 247",
+      "Use np.matmul() instead of np.dot() for matrices at line 248",
+      "Use np.matmul() instead of np.dot() for matrices at line 229"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/hermite_e.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 780"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/polynomial.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 646"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/legendre.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 809",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 689",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 693"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/chebyshev.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1786"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1069"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/hermite.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 782"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_symbol.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_laguerre.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 372",
+      "Use np.matmul() instead of np.dot() for matrices at line 385",
+      "Use np.matmul() instead of np.dot() for matrices at line 479"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 334",
+      "Random Seed Not Set at line 369",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_chebyshev.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 388",
+      "Use np.matmul() instead of np.dot() for matrices at line 401",
+      "Use np.matmul() instead of np.dot() for matrices at line 535"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 306",
+      "Random Seed Not Set at line 350",
+      "Random Seed Not Set at line 385",
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 363"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_hermite_e.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 376",
+      "Use np.matmul() instead of np.dot() for matrices at line 389",
+      "Use np.matmul() instead of np.dot() for matrices at line 498"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 351"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_legendre.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 382",
+      "Use np.matmul() instead of np.dot() for matrices at line 395",
+      "Use np.matmul() instead of np.dot() for matrices at line 507"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 357"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_app.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_polynomial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 634",
+      "Potential data leakage: model.fit() used without a pipeline at line 636",
+      "Potential data leakage: model.fit() used without a pipeline at line 639"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 487",
+      "Use np.matmul() instead of np.dot() for matrices at line 500"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 484",
+      "Random Seed Not Set at line 497",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/lib/tests/test_io.py": {
+    "R2": [
+      "Random Seed Not Set at line 2661",
+      "Random Seed Not Set at line 2698",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 612",
+      "Random Seed Not Set at line 613"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_trim_zeros.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_hermite.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 375",
+      "Use np.matmul() instead of np.dot() for matrices at line 388",
+      "Use np.matmul() instead of np.dot() for matrices at line 497"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 385",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/polynomial/tests/test_classes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 20",
+      "Use np.matmul() instead of np.dot() for matrices at line 23",
+      "Use np.matmul() instead of np.dot() for matrices at line 26",
+      "Use np.matmul() instead of np.dot() for matrices at line 29",
+      "Use np.matmul() instead of np.dot() for matrices at line 32",
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 264"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_shape_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_ma.py": {
+    "R2": [
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/doc/source/reference/random/performance.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/benchmarks/benchmarks/bench_ufunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 461",
+      "Random Seed Not Set at line 475",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 579",
+      "Random Seed Not Set at line 580",
+      "Random Seed Not Set at line 606",
+      "Random Seed Not Set at line 607"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/random/tests/test_random.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 553"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/random/tests/test_generator_mt19937.py": {
+    "R2": [
+      "Random Seed Not Set at line 753",
+      "Random Seed Not Set at line 760",
+      "Random Seed Not Set at line 765",
+      "Random Seed Not Set at line 773",
+      "Random Seed Not Set at line 782",
+      "Random Seed Not Set at line 794",
+      "Random Seed Not Set at line 800",
+      "Random Seed Not Set at line 806",
+      "Random Seed Not Set at line 809",
+      "Random Seed Not Set at line 815",
+      "Random Seed Not Set at line 821",
+      "Random Seed Not Set at line 827",
+      "Random Seed Not Set at line 833",
+      "Random Seed Not Set at line 910",
+      "Random Seed Not Set at line 912",
+      "Random Seed Not Set at line 918",
+      "Random Seed Not Set at line 920",
+      "Random Seed Not Set at line 922",
+      "Random Seed Not Set at line 924",
+      "Random Seed Not Set at line 930",
+      "Random Seed Not Set at line 981",
+      "Random Seed Not Set at line 989",
+      "Random Seed Not Set at line 1004",
+      "Random Seed Not Set at line 1006",
+      "Random Seed Not Set at line 1747",
+      "Random Seed Not Set at line 1767",
+      "Random Seed Not Set at line 1890",
+      "Random Seed Not Set at line 1894",
+      "Random Seed Not Set at line 938",
+      "Random Seed Not Set at line 940",
+      "Random Seed Not Set at line 941",
+      "Random Seed Not Set at line 942",
+      "Random Seed Not Set at line 973",
+      "Random Seed Not Set at line 997",
+      "Random Seed Not Set at line 1016",
+      "Random Seed Not Set at line 1019",
+      "Random Seed Not Set at line 1043",
+      "Random Seed Not Set at line 858",
+      "Random Seed Not Set at line 859",
+      "Random Seed Not Set at line 860",
+      "Random Seed Not Set at line 861",
+      "Random Seed Not Set at line 862",
+      "Random Seed Not Set at line 863",
+      "Random Seed Not Set at line 867",
+      "Random Seed Not Set at line 885",
+      "Random Seed Not Set at line 886",
+      "Random Seed Not Set at line 887",
+      "Random Seed Not Set at line 888",
+      "Random Seed Not Set at line 889",
+      "Random Seed Not Set at line 895",
+      "Random Seed Not Set at line 896",
+      "Random Seed Not Set at line 897",
+      "Random Seed Not Set at line 871",
+      "Random Seed Not Set at line 872",
+      "Random Seed Not Set at line 873",
+      "Random Seed Not Set at line 874",
+      "Random Seed Not Set at line 875",
+      "Random Seed Not Set at line 876",
+      "Random Seed Not Set at line 880"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/numpy_numpy/numpy-main/numpy/_core/tests/test_multiarray.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 3410",
+      "Use np.matmul() instead of np.dot() for matrices at line 6656",
+      "Use np.matmul() instead of np.dot() for matrices at line 6663",
+      "Use np.matmul() instead of np.dot() for matrices at line 6670",
+      "Use np.matmul() instead of np.dot() for matrices at line 6676",
+      "Use np.matmul() instead of np.dot() for matrices at line 6682",
+      "Use np.matmul() instead of np.dot() for matrices at line 6688",
+      "Use np.matmul() instead of np.dot() for matrices at line 6694",
+      "Use np.matmul() instead of np.dot() for matrices at line 6700",
+      "Use np.matmul() instead of np.dot() for matrices at line 6707",
+      "Use np.matmul() instead of np.dot() for matrices at line 6714",
+      "Use np.matmul() instead of np.dot() for matrices at line 6722",
+      "Use np.matmul() instead of np.dot() for matrices at line 6730",
+      "Use np.matmul() instead of np.dot() for matrices at line 6856",
+      "Use np.matmul() instead of np.dot() for matrices at line 6886",
+      "Use np.matmul() instead of np.dot() for matrices at line 6934",
+      "Use np.matmul() instead of np.dot() for matrices at line 7173",
+      "Use np.matmul() instead of np.dot() for matrices at line 7215",
+      "Use np.matmul() instead of np.dot() for matrices at line 7216",
+      "Use np.matmul() instead of np.dot() for matrices at line 7330",
+      "Use np.matmul() instead of np.dot() for matrices at line 9560",
+      "Use np.matmul() instead of np.dot() for matrices at line 3335",
+      "Use np.matmul() instead of np.dot() for matrices at line 3336",
+      "Use np.matmul() instead of np.dot() for matrices at line 3341",
+      "Use np.matmul() instead of np.dot() for matrices at line 3346",
+      "Use np.matmul() instead of np.dot() for matrices at line 3362",
+      "Use np.matmul() instead of np.dot() for matrices at line 3369",
+      "Use np.matmul() instead of np.dot() for matrices at line 3393",
+      "Use np.matmul() instead of np.dot() for matrices at line 3394",
+      "Use np.matmul() instead of np.dot() for matrices at line 3489",
+      "Use np.matmul() instead of np.dot() for matrices at line 6740",
+      "Use np.matmul() instead of np.dot() for matrices at line 6774",
+      "Use np.matmul() instead of np.dot() for matrices at line 6859",
+      "Use np.matmul() instead of np.dot() for matrices at line 6860",
+      "Use np.matmul() instead of np.dot() for matrices at line 6861",
+      "Use np.matmul() instead of np.dot() for matrices at line 6893",
+      "Use np.matmul() instead of np.dot() for matrices at line 6900",
+      "Use np.matmul() instead of np.dot() for matrices at line 6906",
+      "Use np.matmul() instead of np.dot() for matrices at line 6921",
+      "Use np.matmul() instead of np.dot() for matrices at line 6944",
+      "Use np.matmul() instead of np.dot() for matrices at line 6947",
+      "Use np.matmul() instead of np.dot() for matrices at line 3359",
+      "Use np.matmul() instead of np.dot() for matrices at line 3366",
+      "Use np.matmul() instead of np.dot() for matrices at line 6882"
+    ]
+  }
+}

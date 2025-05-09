@@ -1,0 +1,112 @@
+{
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/tests/test_mllib_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 16",
+      "Hyperparameter not explicitly set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/tests/integration/test_custom_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/tests/conftest.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 14",
+      "Hyperparameter not explicitly set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/mnist_mlp_spark_asynchronous.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/mnist_mlp_spark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/mnist_mlp_spark_synchronous.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 41",
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/mllib_mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 44",
+      "Hyperparameter not explicitly set at line 37",
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/ml_mlp_regression.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/tests/integration/test_end_to_end.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/ml_mlp_classification.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 45",
+      "Hyperparameter not explicitly set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/examples/ml_pipeline_otto.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 65",
+      "Hyperparameter not explicitly set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/elephas/worker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/elephas/ml_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/maxpumperla_elephas/elephas-master/tests/test_ml_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 98"
+    ]
+  }
+}

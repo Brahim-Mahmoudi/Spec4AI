@@ -1,0 +1,52 @@
+{
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/experiments/cleverhans_analyze.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 22; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/experiments/fjsma_analyze.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/webapp/models/linf_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/utils/json_gen.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/webapp/models/mnist_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/webapp/models/l0_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/QData_AdversarialDNN-Playground/AdversarialDNN-Playground-master/experiments/tests.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 172",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108"
+    ]
+  }
+}

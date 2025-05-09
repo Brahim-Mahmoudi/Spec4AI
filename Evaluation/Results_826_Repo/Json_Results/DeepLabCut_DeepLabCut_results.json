@@ -1,0 +1,528 @@
+{
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/post_processing/filtering.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 278",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 279"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/export.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/necks/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/necks/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/prune_paf_graph.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/necks/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/necks/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/predictors/single_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/heads/rtmcc_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/backbones/hrnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/predictors/sim_cc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 321"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/visualization.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/heads/simple_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/heads/dlcrnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/backbones/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/backbones/cspnext.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/detectors/torchvision.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/modules/norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/heads/dekr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/target_generators/pafs_targets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/predictors/dekr_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/detectors/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/apis/evaluation.py": {
+    "R2": [
+      "Random Seed Not Set at line 269"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 877"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/criterions/aggregators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/criterions/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/criterions/weighted.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/criterions/kl_discrete.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/criterions/dekr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/core/trackingutils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 822"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/generate_training_dataset/trainingsetmanipulation.py": {
+    "R2": [
+      "Random Seed Not Set at line 606"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/predictors/paf_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/target_generators/heatmap_targets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/target_generators/sim_cc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/target_generators/dekr_targets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/modelzoo/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/modules/conv_block.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/modules/csp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/models/modules/gated_attention_unit.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/snapshots.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/data/preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/dynamic_cropping.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/data/image.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/runners/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 582"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/datasets/augmentation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_pytorch/data/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 437",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 616",
+      "Random Seed Not Set at line 626",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 669"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/datasets/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/core/train_multianimal.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/nnets/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/datasets/pose_tensorpack.py": {
+    "R2": [
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/backbones/efficientnet_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/nnets/base.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 206",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/utils/skeleton.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/core/evaluate.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1051",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1063"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/utils/conversioncode.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 139",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/datasets/pose_imgaug.py": {
+    "R2": [
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/modelzoo/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/utils/frameselectiontools.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 345"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/modelzoo/generalized_data_converter/utils.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 195; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 196; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 197; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/modelzoo/generalized_data_converter/conversion_table/conversion_table.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 67"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_estimation_tensorflow/datasets/pose_multianimal_imgaug.py": {
+    "R2": [
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 397"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/loss/make_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/train_dlctransreid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/solver/make_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/modelzoo/generalized_data_converter/datasets/materialize.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 324; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 327; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 567; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 568; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 331; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 334; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 571; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 572; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/model/make_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/tracking_utils/reranking.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/tracking_utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/solver/scheduler.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/examples/SUPERANIMAL/eval_zeroshot.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/utils/make_labeled_video.py": {
+    "R2": [
+      "Random Seed Not Set at line 1408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/processor/processor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 226",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 283",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 102",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 169"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/gui/widgets.py": {
+    "R2": [
+      "Random Seed Not Set at line 632"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/pose_tracking_pytorch/model/backbones/vit_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/refine_training_dataset/tracklets.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/gui/tracklet_toolbox.py": {
+    "R8": [
+      "Use module() instead of forward() at line 702"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/refine_training_dataset/outlier_frames.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 567",
+      "Potential data leakage: model.fit() used without a pipeline at line 580"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 628",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 629"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/DeepLabCut_DeepLabCut/DeepLabCut-main/deeplabcut/refine_training_dataset/stitch.py": {
+    "R2": [
+      "Random Seed Not Set at line 622",
+      "Random Seed Not Set at line 632",
+      "Random Seed Not Set at line 635"
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/classification/softmax_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/classification/naive_bayes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/classification/calibration.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/statistics/distribution.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 329"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/classification/utils/fasterrisk/base_model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/misc/server_embedder.py": {
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 666",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 604",
+      "Potential data leakage: model.fit() used without a pipeline at line 870",
+      "Potential data leakage: model.fit() used without a pipeline at line 603"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/modelling/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_basic_stats.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/dummy_learners.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_sgd.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/classification/rules.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56",
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 30"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/distance/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_freeviz.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_manifold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 262"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 216",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 224",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 238",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 246",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_evaluation_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_clustering_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_svm.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_score_feature.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_mean.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/distance/distance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 855"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_orangetree.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_evaluation_scoring.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 332",
+      "Use np.matmul() instead of np.dot() for matrices at line 333"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_knn.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_clustering_dbscan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_cur.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_majority.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_transformation.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_clustering_louvain.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_discretize.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/distance/tests/test_distance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 285",
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 485",
+      "Potential data leakage: model.fit() used without a pipeline at line 501",
+      "Potential data leakage: model.fit() used without a pipeline at line 518",
+      "Potential data leakage: model.fit() used without a pipeline at line 569",
+      "Potential data leakage: model.fit() used without a pipeline at line 592",
+      "Potential data leakage: model.fit() used without a pipeline at line 606",
+      "Potential data leakage: model.fit() used without a pipeline at line 683",
+      "Potential data leakage: model.fit() used without a pipeline at line 712",
+      "Potential data leakage: model.fit() used without a pipeline at line 742",
+      "Potential data leakage: model.fit() used without a pipeline at line 752",
+      "Potential data leakage: model.fit() used without a pipeline at line 766",
+      "Potential data leakage: model.fit() used without a pipeline at line 815",
+      "Potential data leakage: model.fit() used without a pipeline at line 853",
+      "Potential data leakage: model.fit() used without a pipeline at line 911",
+      "Potential data leakage: model.fit() used without a pipeline at line 920",
+      "Potential data leakage: model.fit() used without a pipeline at line 932",
+      "Potential data leakage: model.fit() used without a pipeline at line 944",
+      "Potential data leakage: model.fit() used without a pipeline at line 953",
+      "Potential data leakage: model.fit() used without a pipeline at line 966",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1025",
+      "Use np.matmul() instead of np.dot() for matrices at line 1032",
+      "Use np.matmul() instead of np.dot() for matrices at line 1039"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1021",
+      "Random Seed Not Set at line 1022",
+      "Random Seed Not Set at line 1044"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_logistic_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 34",
+      "Use np.matmul() instead of np.dot() for matrices at line 63",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_distribution.py": {
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_statistics.py": {
+    "R2": [
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 373"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/clustering/kmeans.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/clustering/clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/clustering/louvain.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_impute.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/clustering/hierarchical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 450"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 306",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/preprocess/preprocess.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/canvas/config.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/preprocess/impute.py": {
+    "R2": [
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/preprocess/score.py": {
+    "R2": [
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_distances.py": {
+    "R2": [
+      "Random Seed Not Set at line 641",
+      "Random Seed Not Set at line 642",
+      "Random Seed Not Set at line 828",
+      "Random Seed Not Set at line 829",
+      "Random Seed Not Set at line 938",
+      "Random Seed Not Set at line 939",
+      "Random Seed Not Set at line 940",
+      "Random Seed Not Set at line 640",
+      "Random Seed Not Set at line 827"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/regression/linear.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/evaluation/tests/test_performance_curves.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_evaluation_testing.py": {
+    "R2": [
+      "Random Seed Not Set at line 736"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/regression/pls.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/sql/test_sql_table.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 793"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/regression/tests/test_pls.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/data/filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/owpca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/owdbscan.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/data/tests/test_pandas_compat.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 511",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 533",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 535"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/data/tests/test_table.py": {
+    "R2": [
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 355"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/owmds.py": {
+    "R2": [
+      "Random Seed Not Set at line 447",
+      "Random Seed Not Set at line 461"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/owtsne.py": {
+    "R2": [
+      "Random Seed Not Set at line 1123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/tests/test_owdistances.py": {
+    "R2": [
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/tests/test_owkmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 250"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 345"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/owsom.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 862"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/unsupervised/tests/test_owtsne.py": {
+    "R2": [
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 431",
+      "Random Seed Not Set at line 870",
+      "Random Seed Not Set at line 873"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/data/table.py": {
+    "R2": [
+      "Random Seed Not Set at line 1621"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/utils/tests/concurrent_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/utils/tests/test_state_summary.py": {
+    "R2": [
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/tests/test_table.py": {
+    "R2": [
+      "Random Seed Not Set at line 516",
+      "Random Seed Not Set at line 524",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 1261",
+      "Random Seed Not Set at line 1262",
+      "Random Seed Not Set at line 1267",
+      "Random Seed Not Set at line 1788",
+      "Random Seed Not Set at line 1799",
+      "Random Seed Not Set at line 1812",
+      "Random Seed Not Set at line 1823",
+      "Random Seed Not Set at line 1837",
+      "Random Seed Not Set at line 1265",
+      "Random Seed Not Set at line 1556"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owlinearprojection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owradviz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owscatterplot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owviolinplot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owscatterplotgraph.py": {
+    "R2": [
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 823",
+      "Random Seed Not Set at line 802"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owmosaic.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 925",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 934"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owdistributions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 796"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/owvenndiagram.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1296"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1469"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/utils/tree/treeadapter.py": {
+    "R2": [
+      "Random Seed Not Set at line 304"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/utils/lac.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 33",
+      "Use np.matmul() instead of np.dot() for matrices at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/tests/test_owscatterplot.py": {
+    "R2": [
+      "Random Seed Not Set at line 483",
+      "Random Seed Not Set at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/evaluate/tests/test_owconfusionmatrix.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/evaluate/owliftcurve.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 587"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/visualize/utils/heatmap.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1515",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1517"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/model/tests/test_owgradientboosting.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 166",
+      "Hyperparameter not explicitly set at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/model/tests/test_owpls.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/data/owcorrelations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/data/owcreateinstance.py": {
+    "R2": [
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 399"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/evaluate/tests/test_owpredictions.py": {
+    "R2": [
+      "Random Seed Not Set at line 1782"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/data/tests/test_owneighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 391",
+      "Random Seed Not Set at line 403",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 369",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 427"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/data/tests/test_owdatainfo.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/widgets/data/tests/test_owfile.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/cur.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 303"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/freeviz.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 238",
+      "Use np.matmul() instead of np.dot() for matrices at line 345",
+      "Use np.matmul() instead of np.dot() for matrices at line 376"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biolab_orange3/orange3-master/Orange/projection/manifold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 566"
+    ]
+  }
+}

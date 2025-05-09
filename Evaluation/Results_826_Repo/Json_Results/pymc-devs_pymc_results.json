@@ -1,0 +1,1399 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/initial_point.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 286",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/logprob/transform_value.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/pytensorf.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/logprob/utils.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/gp/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 230"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/testing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 207"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 694",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 909",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 930",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 935",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 943",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 944",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 962",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 963"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/logprob/transforms.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 204",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 239",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 312",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 154",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1024",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1035",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/gp/hsgp_approx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 308",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 406",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 687"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/sampling/mcmc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1647",
+      "Potential data leakage: model.fit() used without a pipeline at line 1671",
+      "Potential data leakage: model.fit() used without a pipeline at line 1690"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1661",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1685",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1703"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/smc/kernels.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 604"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/variational/inference.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 775",
+      "Potential data leakage: model.fit() used without a pipeline at line 667"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/step_methods/hmc/quadpotential.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 661",
+      "Use np.matmul() instead of np.dot() for matrices at line 702",
+      "Use np.matmul() instead of np.dot() for matrices at line 316",
+      "Use np.matmul() instead of np.dot() for matrices at line 625",
+      "Use np.matmul() instead of np.dot() for matrices at line 672",
+      "Use np.matmul() instead of np.dot() for matrices at line 713",
+      "Use np.matmul() instead of np.dot() for matrices at line 619"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/variational/approximations.py": {
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/distributions/dist_math.py": {
+    "R2": [
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/step_methods/metropolis.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 114"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 533",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 675",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 860"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/distributions/mixture.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 472"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/models.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 51",
+      "Use np.matmul() instead of np.dot() for matrices at line 98",
+      "Use np.matmul() instead of np.dot() for matrices at line 113",
+      "Use np.matmul() instead of np.dot() for matrices at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_func_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_printing.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_initial_point.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 239",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 241",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 243",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/variational/opvi.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/model/core.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1095",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1942"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_math.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 188",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_model_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_linalg.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/backends/test_mcbackend.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/sampling/test_parallel.py": {
+    "R2": [
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_cumsum.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 498",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 479",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 375"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 332",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 337",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 529",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 365",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 366",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 369",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 192",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_abstract.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/test_pytensorf.py": {
+    "R2": [
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 158"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 264",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 711",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 712",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 724",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 725",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 726",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 743",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 744",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 759",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 760",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 763",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 765",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 727",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 732",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 741",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 745",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 747",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 766",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 768",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 688"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_tensor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 281",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 282",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 349",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 350",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 139",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 180",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 289",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_composite_logprob.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 255",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 256",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 242"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 249",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 252"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 245",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 246",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 249",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_checks.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_binary.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_basic.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 323",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 343",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 414",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 436",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_order.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 206",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 239",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_censoring.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 261"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_scan.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 385",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 387",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 221",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 451",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 503",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 571"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/backends/test_arviz.py": {
+    "R2": [
+      "Random Seed Not Set at line 389",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 633",
+      "Random Seed Not Set at line 434"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/gp/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/gp/test_mean.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/sampling/test_mcmc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 545",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 561",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 578"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/step_methods/hmc/test_quadpotential.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_transform_value.py": {
+    "R2": [
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 433"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 385",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 408",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 447",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 343"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/pymc/distributions/multivariate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/gp/test_hsgp_approx.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/variational/test_approximations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 173"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/variational/test_minibatch_rv.py": {
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_transforms.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 543",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 566",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 675",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 402",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 406",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 544",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 567",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 599",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 743"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 560",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 539",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/smc/test_smc.py": {
+    "R2": [
+      "Random Seed Not Set at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/variational/test_opvi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 269",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 277",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/tuning/test_starting.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/model/test_fgraph.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/variational/test_inference.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 360",
+      "Potential data leakage: model.fit() used without a pipeline at line 368",
+      "Potential data leakage: model.fit() used without a pipeline at line 441",
+      "Potential data leakage: model.fit() used without a pipeline at line 470",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 235"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 400"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 317",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 322",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 325",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 285",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 349",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_simulator.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 167"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_censored.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/gp/test_gp.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 557",
+      "Random Seed Not Set at line 488",
+      "Random Seed Not Set at line 549",
+      "Random Seed Not Set at line 551",
+      "Random Seed Not Set at line 552",
+      "Random Seed Not Set at line 553"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 364",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 393",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 396",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 397",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 407",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 408",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 409",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 412",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 414",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 460",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 508",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 350",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 351",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 362",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 363",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 390",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 391",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 395",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 447",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 448",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 458",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 459",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 517",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 518",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 580",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 581"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_dist_math.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/logprob/test_mixture.py": {
+    "R2": [
+      "Random Seed Not Set at line 618",
+      "Random Seed Not Set at line 619",
+      "Random Seed Not Set at line 620",
+      "Random Seed Not Set at line 626",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 628",
+      "Random Seed Not Set at line 634",
+      "Random Seed Not Set at line 635",
+      "Random Seed Not Set at line 636",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 648",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 655",
+      "Random Seed Not Set at line 656",
+      "Random Seed Not Set at line 657",
+      "Random Seed Not Set at line 663",
+      "Random Seed Not Set at line 664",
+      "Random Seed Not Set at line 665",
+      "Random Seed Not Set at line 675",
+      "Random Seed Not Set at line 676",
+      "Random Seed Not Set at line 677",
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 684",
+      "Random Seed Not Set at line 690",
+      "Random Seed Not Set at line 691",
+      "Random Seed Not Set at line 693",
+      "Random Seed Not Set at line 712",
+      "Random Seed Not Set at line 713",
+      "Random Seed Not Set at line 714",
+      "Random Seed Not Set at line 726",
+      "Random Seed Not Set at line 727",
+      "Random Seed Not Set at line 728",
+      "Random Seed Not Set at line 749",
+      "Random Seed Not Set at line 750",
+      "Random Seed Not Set at line 751",
+      "Random Seed Not Set at line 757",
+      "Random Seed Not Set at line 758",
+      "Random Seed Not Set at line 759",
+      "Random Seed Not Set at line 765",
+      "Random Seed Not Set at line 766",
+      "Random Seed Not Set at line 767",
+      "Random Seed Not Set at line 773",
+      "Random Seed Not Set at line 774",
+      "Random Seed Not Set at line 775",
+      "Random Seed Not Set at line 777",
+      "Random Seed Not Set at line 796",
+      "Random Seed Not Set at line 797",
+      "Random Seed Not Set at line 798",
+      "Random Seed Not Set at line 804",
+      "Random Seed Not Set at line 805",
+      "Random Seed Not Set at line 806",
+      "Random Seed Not Set at line 812",
+      "Random Seed Not Set at line 813",
+      "Random Seed Not Set at line 814",
+      "Random Seed Not Set at line 820",
+      "Random Seed Not Set at line 821",
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 828",
+      "Random Seed Not Set at line 829",
+      "Random Seed Not Set at line 830"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 702",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 703",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 739",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 740",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 786",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 787",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 841",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 842",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 577",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 883",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 884",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 895",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 896",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 902",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 903",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 926",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 929",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 930"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_shape_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 137"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 384",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 393",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 406",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 415",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 421",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 485",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 500",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 263",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 264",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 266",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 281",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 291",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 294",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 312",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 313",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 473",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 478",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 483",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 493",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 498",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 505",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 561",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 569",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 645",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 177",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 220",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 224",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 315",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 316",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 356",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 357",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 507",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 637",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/moments/test_means.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 197",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_truncated.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 458",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 466",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 618",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 360",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 504",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 508",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 553",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 554",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 574",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 365",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 369",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 373",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 504",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 508"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/scripts/generate_pip_deps_from_conda.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 569",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 467",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 526"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 318",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 336",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 337",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 338",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 585",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 586"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 98",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 77",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 314",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 146",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 585",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 586"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/sampling/test_forward.py": {
+    "R2": [
+      "Random Seed Not Set at line 1108",
+      "Random Seed Not Set at line 1136",
+      "Random Seed Not Set at line 1155",
+      "Random Seed Not Set at line 1231",
+      "Random Seed Not Set at line 1272",
+      "Random Seed Not Set at line 782",
+      "Random Seed Not Set at line 1097",
+      "Random Seed Not Set at line 1098",
+      "Random Seed Not Set at line 1121",
+      "Random Seed Not Set at line 1122",
+      "Random Seed Not Set at line 1251",
+      "Random Seed Not Set at line 1264"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 677"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/scripts/check_all_tests_are_covered.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_distribution.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 442",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 473",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 483",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 525",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 536",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 549",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 403",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 407",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 557",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 558",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 350",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 351",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 352",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 390",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 391",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 392",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 428",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 429",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 430",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 460",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 461",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 480",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 481",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 510",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 511",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 512",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 533",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 534",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 544",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 545"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/benchmarks/benchmarks/benchmarks.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 31",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/gp/test_cov.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 846"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 844",
+      "Random Seed Not Set at line 845",
+      "Random Seed Not Set at line 847",
+      "Random Seed Not Set at line 848",
+      "Random Seed Not Set at line 849",
+      "Random Seed Not Set at line 850"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 124",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 185",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 188",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 207",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 267",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 281",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 289",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 300",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 303",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 332",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 336",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 353",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 354",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 363",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 366",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 373",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 376",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 383",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 386",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 395",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 398",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 424",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 434",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 437",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 444",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 447",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 454",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 456",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 459",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 469",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 478",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 494",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 498",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 501",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 512",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 515",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 519",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 528",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 530",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 533",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 542",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 544",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 547",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 556",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 558",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 561",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 572",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 582",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 584",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 587",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 598",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 608",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 610",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 612",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 621",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 623",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 626",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 635",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 637",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 640",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 654",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 667",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 669",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 672",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 681",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 683",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 686",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 700",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 702",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 705",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 725",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 726",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 728",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 729",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 747",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 749",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 752",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 774",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 776",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 779",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 796",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 798",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 801",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 809",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 811",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 814",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 222",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 919",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 856",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 857",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 863",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 864",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 870",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 871",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 877",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 878"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_discrete.py": {
+    "R2": [
+      "Random Seed Not Set at line 493"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 506",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 507",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 873",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 926",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 383",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 390",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 396",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 401",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 406",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 441",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 450",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 459",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 896",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 951",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 130",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 412",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 867"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_custom.py": {
+    "R2": [
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 93"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 238",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 266",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 285",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 435",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 436",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 488",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 489",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 490",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 577",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 599",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 621",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 622",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 717",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 503",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 507",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 511",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 576"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_timeseries.py": {
+    "R2": [
+      "Random Seed Not Set at line 525",
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 561",
+      "Random Seed Not Set at line 562",
+      "Random Seed Not Set at line 601",
+      "Random Seed Not Set at line 646",
+      "Random Seed Not Set at line 599",
+      "Random Seed Not Set at line 600",
+      "Random Seed Not Set at line 645",
+      "Random Seed Not Set at line 788",
+      "Random Seed Not Set at line 403"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 591",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 639",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 672",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 686",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 694",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 697",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 698",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 699",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 196",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 197",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 287",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 305",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 318",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 330",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 198",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 223",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 319",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 331",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 724",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 727",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 849",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 852",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 927",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 930",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 942",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 945",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/model/test_core.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 298"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 481",
+      "Random Seed Not Set at line 482",
+      "Random Seed Not Set at line 251"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 701",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 844",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1488",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1521",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 764",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 765",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 776",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 787",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 788",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 800",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 801",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1681",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 902",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 910",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 911",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 916",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 917"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_mixture.py": {
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 821",
+      "Random Seed Not Set at line 1026",
+      "Random Seed Not Set at line 1062",
+      "Random Seed Not Set at line 1063",
+      "Random Seed Not Set at line 703",
+      "Random Seed Not Set at line 866",
+      "Random Seed Not Set at line 867"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 176",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 206",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 282",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 313",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 334",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 381",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 390",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 415",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 583",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 761",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 994",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1333",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 286",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1611",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1644",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 763",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1563",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 236",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 340",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 768",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1052",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1083"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_continuous.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1038",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 259",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 268",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 269",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 799",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1046",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1050",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1053",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1056",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1060",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1064",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1065",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1077",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1082",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1776",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1799",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2070",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1771",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1794",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pymc-devs_pymc/pymc-main/tests/distributions/test_multivariate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 122",
+      "Use np.matmul() instead of np.dot() for matrices at line 134",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 113"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 608",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 688",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 741",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 770",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 821",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 867",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 905",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 933",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1416",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1429",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1719",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1841",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1856",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1908",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1955",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2276",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2418",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2422",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2427",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2434",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2440",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2447",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2451",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2456",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2463",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2469",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 548",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 588",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 612",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 646",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 657",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 667",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 692",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 700",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 701",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 729",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 774",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 799",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 808",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 809",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 810",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 811",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 826",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1746",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1756",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 744",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 940",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 944",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 945",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 946",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 992",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 994",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1659",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2017",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2241",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2242",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2267",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 592",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 631",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 733",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1652",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2012",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2277",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1654"
+    ]
+  }
+}

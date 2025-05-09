@@ -1,0 +1,215 @@
+{
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/compatibility.py": {
+    "R2": [
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/utils_comm.py": {
+    "R2": [
+      "Random Seed Not Set at line 393",
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/shuffle/_buffer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_stress.py": {
+    "R2": [
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_pubsub.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/shuffle/tests/test_merge.py": {
+    "R15": [
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_dask_collections.py": {
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_as_completed.py": {
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_batched.py": {
+    "R2": [
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_spill.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_utils_comm.py": {
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_actor.py": {
+    "R2": [
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 451"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_client_executor.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_variable.py": {
+    "R2": [
+      "Random Seed Not Set at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_nanny.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_worker_client.py": {
+    "R2": [
+      "Random Seed Not Set at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 1316",
+      "Random Seed Not Set at line 1356"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_collections.py": {
+    "R2": [
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 323"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/shuffle/tests/test_rechunk.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/comm/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_active_memory_manager.py": {
+    "R2": [
+      "Random Seed Not Set at line 1382",
+      "Random Seed Not Set at line 1270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_sparse.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_keras.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_pandas.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_compression.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_steal.py": {
+    "R2": [
+      "Random Seed Not Set at line 577"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_numpy.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/tests/test_spans.py": {
+    "R2": [
+      "Random Seed Not Set at line 829"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/protocol/tests/test_serialize.py": {
+    "R2": [
+      "Random Seed Not Set at line 592",
+      "Random Seed Not Set at line 626"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/comm/tests/test_comms.py": {
+    "R2": [
+      "Random Seed Not Set at line 1446"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/dashboard/components/scheduler.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1363"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_distributed/distributed-main/distributed/scheduler.py": {
+    "R2": [
+      "Random Seed Not Set at line 8002"
+    ]
+  }
+}

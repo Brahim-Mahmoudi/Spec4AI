@@ -1,0 +1,299 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/autobatch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/triton.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/activations.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/hubconf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/classify/val.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/downloads.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/classify/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/detect.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/classify/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/segment/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/autoanchor.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/val.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 350"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 307"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/segment/val.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 277"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 220"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/aws/resume.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/flask_rest_api/restapi.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/loggers/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/torch_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 464"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/segment/augmentations.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/segment/general.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/segment/plots.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 131",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 133",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 128"
+    ],
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 130"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/plots.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 386",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 419",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 421"
+    ],
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 418"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 384",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 417"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/segment/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/models/experimental.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/loggers/comet/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/segment/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/segment/dataloaders.py": {
+    "R2": [
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/augmentations.py": {
+    "R2": [
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 272"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/export.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1428"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/models/yolo.py": {
+    "R2": [
+      "Random Seed Not Set at line 436"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/models/tf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 376",
+      "TensorArray Not Used at line 382"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/general.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1160",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1170"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 1173; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/utils/dataloaders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ultralytics_yolov3/yolov3-master/models/common.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 794"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 663"
+    ]
+  }
+}

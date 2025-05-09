@@ -1,0 +1,167 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/vocoder.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/io_text.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/io_phonemizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/audio.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/io_textcoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/io_vocoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/runtime.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 120"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/vocoder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 250"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/scripts/train_vocoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/scripts/train_cubegan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/scripts/train_textcoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/phonemizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/scripts/train_phonemizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/textcoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/cubegan.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 224"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/io_utils/io_cubegan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/g2p.py": {
+    "R2": [
+      "Random Seed Not Set at line 326"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 359",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 368",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 340"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/scripts/import_corpus.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tiberiu44_TTS-Cube/TTS-Cube-master/cube/networks/modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

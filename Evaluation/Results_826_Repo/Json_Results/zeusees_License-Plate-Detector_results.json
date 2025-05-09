@@ -1,0 +1,195 @@
+{
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/infer_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/activations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/aws/resume.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/hubconf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/google_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/models/export.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/models/experimental.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/autoanchor.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/detect_plate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/torch_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/data/train2yolo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/wandb_logging/wandb_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/data/retinaface2yolo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/models/common.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/models/yolo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/plots.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/general.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 827",
+      "Random Seed Not Set at line 828",
+      "Random Seed Not Set at line 832",
+      "Random Seed Not Set at line 834",
+      "Random Seed Not Set at line 845",
+      "Random Seed Not Set at line 846",
+      "Random Seed Not Set at line 933",
+      "Random Seed Not Set at line 934",
+      "Random Seed Not Set at line 621",
+      "Random Seed Not Set at line 644",
+      "Random Seed Not Set at line 739",
+      "Random Seed Not Set at line 943",
+      "Random Seed Not Set at line 496",
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 547",
+      "Random Seed Not Set at line 553",
+      "Random Seed Not Set at line 586",
+      "Random Seed Not Set at line 772",
+      "Random Seed Not Set at line 840",
+      "Random Seed Not Set at line 841",
+      "Random Seed Not Set at line 937",
+      "Random Seed Not Set at line 938",
+      "Random Seed Not Set at line 504",
+      "Random Seed Not Set at line 645",
+      "Random Seed Not Set at line 698"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zeusees_License-Plate-Detector/License-Plate-Detector-master/utils/face_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 604",
+      "Random Seed Not Set at line 605",
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 611",
+      "Random Seed Not Set at line 622",
+      "Random Seed Not Set at line 623",
+      "Random Seed Not Set at line 737",
+      "Random Seed Not Set at line 738",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 523",
+      "Random Seed Not Set at line 747",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 358",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 549",
+      "Random Seed Not Set at line 617",
+      "Random Seed Not Set at line 618",
+      "Random Seed Not Set at line 741",
+      "Random Seed Not Set at line 742",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 423"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

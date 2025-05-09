@@ -1,0 +1,67 @@
+{
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/pixel_control_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 183",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 190",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/dpg_ops_test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 128"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/clipping_ops_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/discrete_policy_gradient_ops.py": {
+    "R7": [
+      "Missing mask for tf.log at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/pixel_control_ops_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 158",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 187"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/vtrace_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google-deepmind_trfl/trfl-master/trfl/action_value_ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 378",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 675",
+      "Random Seed Not Set at line 676",
+      "Random Seed Not Set at line 677",
+      "Random Seed Not Set at line 678",
+      "Random Seed Not Set at line 679"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/safe_learning/tests/test_rl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/safe_learning/reinforcement_learning.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 279",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/examples/plotting.py": {
+    "R2": [
+      "Random Seed Not Set at line 233"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/safe_learning/lyapunov.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 468"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 741"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 408"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 756",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 529",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 322",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 567",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 543"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/safe_learning/tests/test_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 532",
+      "Random Seed Not Set at line 773"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 280",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/examples/utilities.py": {
+    "R3": [
+      "TensorArray Not Used at line 85"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/befelix_safe_learning/safe_learning-master/safe_learning/functions.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 448",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 452"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 658",
+      "Random Seed Not Set at line 676"
+    ]
+  }
+}

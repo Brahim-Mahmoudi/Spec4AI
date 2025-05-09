@@ -1,0 +1,174 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/rename_genecatalog.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_taxonomy.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/DRAM_get_all_modules.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/gene2genome.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_dram_gene_annotations.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_coverage_MAGs.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/rename_genomes.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/generate_orf_info.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_busco.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/filter_genomes.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_contig_stats.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/utils/taxonomy.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/parse_vamb.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 117"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/utils/parsers.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 6",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/report/assembly_report.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/combine_gene_coverages.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 75"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/utils/io.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/report/bin_report.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/cluster_species.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/utils/parsers_bbmap.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 66"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 130"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 115"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/atlas/sample_table.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/scripts/utils/genome_dist.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/workflow/report/qc_report.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 189",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 222",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 243",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/metagenome-atlas_atlas/atlas-main/atlas/init/parse_sra.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  }
+}

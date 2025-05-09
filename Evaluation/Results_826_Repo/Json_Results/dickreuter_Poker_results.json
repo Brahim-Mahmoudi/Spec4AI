@@ -1,0 +1,88 @@
+{
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/tools/vbox_manager.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/pymouse/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/scraper/table_scraper_nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 181"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/tests/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/main.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 127",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/tools/mouse_mover.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/scraper/table_screen_based.py": {
+    "R2": [
+      "Random Seed Not Set at line 573"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/decisionmaker/current_hand_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/decisionmaker/montecarlo_numpy.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/decisionmaker/montecarlo_numpy2.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/decisionmaker/montecarlo_python.py": {
+    "R2": [
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dickreuter_Poker/Poker-master/poker/decisionmaker/decisionmaker.py": {
+    "R2": [
+      "Random Seed Not Set at line 325"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/loss/categorical_crossentropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/backend/pytorch/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/backend/pytorch_backend.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/containers/layers/merge.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/containers/layers/squeeze.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/kur/containers/layers/expand.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepgram_kur/kur-master/tests/model/test_executor.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  }
+}

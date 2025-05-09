@@ -1,0 +1,368 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/benchmark_basic_english_normalize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/integration_tests/conftest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/benchmark_experimental_vectors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/benchmark_roberta_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/integration_tests/test_roberta_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/csrc/test_gpt2_bpe_tokenizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/tools/setup_helpers/extension.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/benchmark_vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/test_functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/mha_block.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/integration_tests/test_t5_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/integration_tests/test_generate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/test_build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/benchmark/benchmark_pytext_vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/models_cpu_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/gpu_tests/models_gpu_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/t5_test_transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/test_transformers.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/datasets/test_stsb.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/prototype/test_functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/common/case_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/data/test_jit.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/t5_models_test_impl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/prototype/test_transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/libtorchtext/tokenizer/create_tokenizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/models/roberta_models_test_impl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/test_vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/text_classification/predict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/data/test_functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/_extension.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/tutorials/sst2_classification_non_distributed.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/tutorials/t5_demo.py": {
+    "R2": [
+      "Random Seed Not Set at line 136"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/prototype/test_vectors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/data_pipeline/roberta_dataframe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/torcharrow/roberta_sst2_training_with_torcharrow.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/prototype/test_with_asset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/examples/text_classification/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/nn/modules/multiheadattention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/data/test_modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 259"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/t5/t5_transform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/roberta/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/roberta/bundler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/prototype/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/vocab/vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/data/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/roberta/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/prototype/vectors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/t5/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/prototype/generate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/data/functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/vocab/vectors.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 250",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 253"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/test/torchtext_unittest/test_transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/t5/bundler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 984"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_text/text-main/torchtext/models/t5/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

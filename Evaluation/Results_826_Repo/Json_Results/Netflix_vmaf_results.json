@@ -1,0 +1,48 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/tools/plot.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/core/niqe_train_test_model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/tools/sigproc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/core/local_explainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/core/cross_validation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 90",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 203"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Netflix_vmaf/vmaf-master/python/vmaf/core/train_test_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1217",
+      "Potential data leakage: model.fit() used without a pipeline at line 1258",
+      "Potential data leakage: model.fit() used without a pipeline at line 1299"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 260",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 474"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/pattern/web/oauth/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/test/test_search.py": {
+    "R2": [
+      "Random Seed Not Set at line 411",
+      "Random Seed Not Set at line 413"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/test/test_en.py": {
+    "R2": [
+      "Random Seed Not Set at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/pattern/text/en/inflect_quantify.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/pattern/server/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/pattern/graph/__init__.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1018",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1047",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1036"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/clips_pattern/pattern-master/pattern/vector/__init__.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1885"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  }
+}

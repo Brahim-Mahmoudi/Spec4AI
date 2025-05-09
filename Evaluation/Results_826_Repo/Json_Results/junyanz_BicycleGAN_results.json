@@ -1,0 +1,87 @@
+{
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/models/template_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/video.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/models/pix2pix_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 103",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/util/util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/data/base_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/options/base_options.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/models/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/models/bicycle_gan_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 82"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 137",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/junyanz_BicycleGAN/BicycleGAN-master/models/networks.py": {
+    "R2": [
+      "Random Seed Not Set at line 416"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

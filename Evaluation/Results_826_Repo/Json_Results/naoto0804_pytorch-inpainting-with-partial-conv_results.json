@@ -1,0 +1,64 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/util/image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/evaluation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/util/io.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/places2.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/generate_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/naoto0804_pytorch-inpainting-with-partial-conv/pytorch-inpainting-with-partial-conv-master/net.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 192"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 207"
+    ]
+  }
+}

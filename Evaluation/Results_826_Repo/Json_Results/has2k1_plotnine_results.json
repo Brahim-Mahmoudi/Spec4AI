@@ -1,0 +1,96 @@
+{
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/mapping/evaluation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/qplot.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/facets/facet_wrap.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 140",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/facets/facet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 618"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/geoms/geom_linerange.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/data/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/stat_quantile.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/density.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/binning.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/stat_density.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/stat_ellipse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/has2k1_plotnine/plotnine-main/plotnine/stats/smoothers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 243",
+      "Potential data leakage: model.fit() used without a pipeline at line 281",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 454"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 560"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 417; use df.loc[]"
+    ]
+  }
+}

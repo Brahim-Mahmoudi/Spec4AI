@@ -1,0 +1,38 @@
+{
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/RE_BGRU_2ATT/train_GRU.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/RE_BGRU_2ATT/network.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/NER_IDCNN_CRF/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/NER_IDCNN_CRF/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/NER_IDCNN_CRF/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 378",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/crownpku_Information-Extraction-Chinese/Information-Extraction-Chinese-master/RE_BGRU_2ATT/initial.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/tests/frontend/modules/test_makeprojection.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/core/cellprofiler_core/setting/filter/_filter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/core/cellprofiler_core/measurement/_measurements.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 999"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/library/cellprofiler_library/functions/measurement.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 420"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/utilities/rules.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/core/cellprofiler_core/modules/metadata.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1211",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/library/cellprofiler_library/functions/segmentation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 636"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/gui/metadatactrl.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/subpackages/core/cellprofiler_core/modules/namesandtypes.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1876",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1887",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1916",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1934"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/gui/plateviewer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 571"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/gui/module_view/_module_sizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/gui/help/search.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 324",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/overlayoutlines.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 423"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/measuregranularity.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 558"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/calculatestatistics.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/morph.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 645",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 653",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 661"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/runimagejmacro.py": {
+    "R2": [
+      "Random Seed Not Set at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/measureobjectoverlap.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 871"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 871"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/convertobjectstoimage.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/gui/pipelinecontroller.py": {
+    "R2": [
+      "Random Seed Not Set at line 3260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/flagimage.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 898",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 923",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 947",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 966",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 902",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 953",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 972"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/classifyobjects.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1572"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/CellProfiler_CellProfiler/CellProfiler-main/src/frontend/cellprofiler/modules/measureimagequality.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1635",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1646"
+    ]
+  }
+}

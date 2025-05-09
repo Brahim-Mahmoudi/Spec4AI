@@ -1,0 +1,72 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/scripts/eval_ucf101_pytorch/temporal_demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/scripts/eval_ucf101_pytorch/spatial_demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/models/flow_vgg16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/scripts/eval_ucf101_pytorch/VideoSpatialPrediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/scripts/eval_ucf101_pytorch/VideoTemporalPrediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/datasets/ucf101.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/datasets/build_file_list.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/models/rgb_resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/models/flow_resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bryanyzhu_two-stream-pytorch/two-stream-pytorch-master/video_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

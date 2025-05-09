@@ -1,0 +1,32 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/test/scripts/dummy_audio_folder.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/precise/scripts/train_optimize.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/precise/scripts/train_sampled.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/precise/scripts/train_incremental.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/precise/scripts/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MycroftAI_mycroft-precise/mycroft-precise-dev/precise/train_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 227"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/sampling/cost_sampling.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 115"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/sampling/_smote.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/sampling/sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/models/directcost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/models/regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 237"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39",
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/datasets/base.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 245",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 328",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 64",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 76",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 78",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 178",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 180",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 231",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 247",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 249",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 302",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 331",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 333",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 154",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 174",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 299",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 300"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 120",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 223",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 292"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/models/bagging.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 311"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 490"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/models/cost_tree.py": {
+    "R2": [
+      "Random Seed Not Set at line 286"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/albahnsen_CostSensitiveClassification/CostSensitiveClassification-master/costcla/utils/cross_validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1236",
+      "Potential data leakage: model.fit() used without a pipeline at line 1238",
+      "Potential data leakage: model.fit() used without a pipeline at line 1306"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1367"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/advanced_tests/utils_testing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/quick_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/advanced_tests/regressors.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/utils_testing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/uncertainty_tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/basic_tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/utils_feature_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/ensemble_tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/user_logging_tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/advanced_tests/advanced_install_tests.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/advanced_tests/classifiers.py": {
+    "R2": [
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/tests/core_tests/api_coverage_tests_classifiers.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 454"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/DataFrameVectorizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/utils_data_cleaning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/utils_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 135"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 123",
+      "Hyperparameter not explicitly set at line 124",
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 128",
+      "Hyperparameter not explicitly set at line 134",
+      "Hyperparameter not explicitly set at line 136",
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 168",
+      "Hyperparameter not explicitly set at line 169",
+      "Hyperparameter not explicitly set at line 172",
+      "Hyperparameter not explicitly set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/utils_model_training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 297",
+      "Potential data leakage: model.fit() used without a pipeline at line 269"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 724",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ClimbsRocks_auto_ml/auto_ml-master/auto_ml/predictor.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 903"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 875",
+      "Potential data leakage: model.fit() used without a pipeline at line 1194",
+      "Potential data leakage: model.fit() used without a pipeline at line 847",
+      "Potential data leakage: model.fit() used without a pipeline at line 852"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 933",
+      "Random Seed Not Set at line 1161",
+      "Random Seed Not Set at line 926",
+      "Random Seed Not Set at line 1862"
+    ]
+  }
+}

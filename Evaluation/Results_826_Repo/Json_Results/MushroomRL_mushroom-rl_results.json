@@ -1,0 +1,791 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/setup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/core/test_serialization.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/approximators/test_linear_approximator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/approximators/test_cmac_approximator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/rl_utils/test_value_functions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/core/test_array_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_dpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_policy_gradient.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/core/test_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_trust_region.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/core/test_vectorized_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 81"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_stochastic_ac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_a2c.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_black_box.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/approximators/test_torch_approximator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/utils/test_episodes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/docs/source/tutorials/code/generic_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/utils/test_preprocessors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/policy/test_noise_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/policy/test_torch_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/docs/source/tutorials/code/serialization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/docs/source/tutorials/code/ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/docs/source/tutorials/code/dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/pendulum_sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/pendulum_a2c.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/isaac_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/pendulum_trust_region.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/mujoco_manipulation_ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/pendulum_ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/mujoco_air_hockey_sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/helper/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/segway_eppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/walker_stand_ddpg_shared_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/mujoco_locomotion_ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/gym_recurrent_ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/vectorized_core/pendulum_trust_region.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/_implementations/generic_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/_implementations/q_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/minigrid_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/walker_stand_ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/algorithms/test_td.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/tests/core/test_extra_info.py": {
+    "R2": [
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 274",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 312"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/_implementations/action_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/habitat/habitat_rearrange_sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/rl_utils/value_functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/igibson_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/core.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/vectorized_core.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/approximators/parametric/torch_approximator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 343"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/atari_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/examples/habitat/habitat_nav_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/serialization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/puddle_world.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/lqr.py": {
+    "R2": [
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/finite_mdp.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/grid_world.py": {
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/ship_steering.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/cart_pole.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/isaac_env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/array_backend.py": {
+    "R2": [
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 399"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/inverted_pendulum.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/rl_utils/replay_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 544",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 428"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/segway.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/_impl/torch_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/reach.py": {
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/half_cheetah.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/core/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 446"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/ant.py": {
+    "R2": [
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/walker_2d.py": {
+    "R2": [
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/defend.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/hopper.py": {
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/repel.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/push.py": {
+    "R2": [
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/single.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/peg_insertion.py": {
+    "R2": [
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/pick.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/hit.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/features/tensors/constant_tensor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/prepare.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/features/tensors/random_fourier_tensor.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/single.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/features/_implementations/torch_features.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/defend.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/mujoco_envs/air_hockey/double.py": {
+    "R2": [
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/features/tensors/basis_tensor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/features/tiles/voronoi.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/repel.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/double.py": {
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/td/double_q_learning.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/hit.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/td/maxmin_q_learning.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/prepare.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/batch_td/boosted_fqi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/batch_td/fqi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/maxmin_dqn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/environments/pybullet_envs/air_hockey/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/batch_td/double_fqi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/dueling_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/td/weighted_q_learning.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/td3.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/a2c.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/noisy_dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/abstract_dqn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/quantile_dqn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/ddpg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/policy_search/black_box_optimization/eppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/ppo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/categorical_dqn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/utils/quaternions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/utils/minibatches.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/trpo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/utils/isaac_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/value/dqn/rainbow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/sac.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 279"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/actor_critic/deep_actor_critic/ppo_bptt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/algorithms/policy_search/black_box_optimization/more.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/utils/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/policy/noise_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/distributions/torch_distribution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/policy/td_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/policy/recurrent_torch_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/utils/pybullet/index_map.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MushroomRL_mushroom-rl/mushroom-rl-dev/mushroom_rl/policy/torch_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

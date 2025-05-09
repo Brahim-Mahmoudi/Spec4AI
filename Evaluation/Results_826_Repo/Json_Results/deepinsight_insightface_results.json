@@ -1,0 +1,2160 @@
+{
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/web-demos/src_recognition/arcface_onnx.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/tools/onnx2caffe/convertCaffe.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/web-demos/src_recognition/face_align.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 114",
+      "Use np.matmul() instead of np.dot() for matrices at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/challenges/iccv21-mfr/dataset_mask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/cpp-package/inspireface/python/sample_feature_hub.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/model_zoo/arcface_onnx.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/utils/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 31",
+      "Use np.matmul() instead of np.dot() for matrices at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/utils/face_align.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/model_zoo/inswapper.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/tools/onnx2caffe/onnx2caffe/_operators.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/app/mask_renderer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/examples/demo_analysis.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/examples/face_recognition/insightface_app.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/morphable_model/morphabel_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/synthetics/datasets/augs.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/mesh/light.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 196",
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/synthetics/trainer_synthetics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/mesh_numpy/light.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 198",
+      "Use np.matmul() instead of np.dot() for matrices at line 199",
+      "Use np.matmul() instead of np.dot() for matrices at line 209",
+      "Use np.matmul() instead of np.dot() for matrices at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/examples/mxnet_to_onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/morphable_model/fit.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 102",
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/synthetics/test_synthetics.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/mesh/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/synthetics/datasets/dataset_synthetics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/mesh_numpy/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/heatmap/test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 90"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/python-package/insightface/thirdparty/face3d/mesh_numpy/render.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 41",
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 43",
+      "Use np.matmul() instead of np.dot() for matrices at line 44",
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 79",
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 82",
+      "Use np.matmul() instead of np.dot() for matrices at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/heatmap/img_helper.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/heatmap/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/core/generator_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 23"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/utils/ganfit_camera.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/alignment/heatmap/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 147",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/metrics/frechet_inception_distance.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/utils/align2stylegan.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/metrics/linear_separability.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/projector.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 95"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/core/perceptual_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/metrics/perceptual_path_length.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/metrics/precision_recall.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/metrics/metric_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/training/misc.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/core/operator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 401",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 403"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/dnnlib/tflib/autosummary.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/training/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/dnnlib/tflib/tfutil.py": {
+    "R7": [
+      "Missing mask for tf.log at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/training/training_loop.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 33",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 161"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 105"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/MaskExtractor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/graphonomy_process.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/landmark_detector/data_provider.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/gcn.py": {
+    "R2": [
+      "Random Seed Not Set at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/lr_scheduler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/graph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/graphonomy_inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/utils/plot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/dnnlib/tflib/network.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/stylegan2/training/networks_stylegan.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 65",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 294",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 430",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/ParsingModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/utils/utils_callbacks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/gaze/trainer_gaze.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/augs.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/gaze/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/gaze/datasets/augs.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/training/runner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/validate_dist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 261",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/inference_simple.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 182"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 293",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/deeplab_xception_transfer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 171",
+      "Use module() instead of forward() at line 172",
+      "Use module() instead of forward() at line 173",
+      "Use module() instead of forward() at line 178",
+      "Use module() instead of forward() at line 334",
+      "Use module() instead of forward() at line 335",
+      "Use module() instead of forward() at line 336",
+      "Use module() instead of forward() at line 341",
+      "Use module() instead of forward() at line 425",
+      "Use module() instead of forward() at line 428",
+      "Use module() instead of forward() at line 431",
+      "Use module() instead of forward() at line 435",
+      "Use module() instead of forward() at line 438",
+      "Use module() instead of forward() at line 441",
+      "Use module() instead of forward() at line 462",
+      "Use module() instead of forward() at line 464",
+      "Use module() instead of forward() at line 471",
+      "Use module() instead of forward() at line 473",
+      "Use module() instead of forward() at line 480",
+      "Use module() instead of forward() at line 482",
+      "Use module() instead of forward() at line 486",
+      "Use module() instead of forward() at line 623",
+      "Use module() instead of forward() at line 626",
+      "Use module() instead of forward() at line 629",
+      "Use module() instead of forward() at line 633",
+      "Use module() instead of forward() at line 636",
+      "Use module() instead of forward() at line 639",
+      "Use module() instead of forward() at line 657",
+      "Use module() instead of forward() at line 659",
+      "Use module() instead of forward() at line 666",
+      "Use module() instead of forward() at line 668",
+      "Use module() instead of forward() at line 675",
+      "Use module() instead of forward() at line 677",
+      "Use module() instead of forward() at line 681"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/model/sample_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/gaze/datasets/dataset_gaze.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/preprocess/preprocess_cameras.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/backbones/network.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/utils/general.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/ostec/external/graphonomy/FaceHairMask/deeplab_xception.py": {
+    "R2": [
+      "Random Seed Not Set at line 982"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 981",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 847"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/model/embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/datasets/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/backbones/iresnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/model/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/preprocess/get_aux_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/gaze/test_gaze.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/backbones/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/training/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 243",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/utils/rend_util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/_evaluation_/megaface/remove_noises.py": {
+    "R2": [
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/evaluation/eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/_evaluation_/ijb/ijb_11.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/_evaluation_/ijb/ijb_onnx.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/model/ray_tracing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/_evaluation_/ijb/ijb_1n.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/model/renderer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/jmlr/dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 478",
+      "Use np.matmul() instead of np.dot() for matrices at line 505",
+      "Use np.matmul() instead of np.dot() for matrices at line 519",
+      "Use np.matmul() instead of np.dot() for matrices at line 270",
+      "Use np.matmul() instead of np.dot() for matrices at line 550"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 697",
+      "Random Seed Not Set at line 730",
+      "Random Seed Not Set at line 573"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/train_parall.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 427"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/reconstruction/PBIDR/code/utils/plots.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/image_iter.py": {
+    "R2": [
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 460"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/parall_module_local_v1.py": {
+    "R8": [
+      "Use module() instead of forward() at line 262"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 380",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 415",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 372"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/common/rec2shufrec.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/common/face_align.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/tools/benchmark_speed.py": {
+    "R2": [
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/dynamic/export.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/dynamic/validation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/tools/extract_perf_logs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/tools/inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/_evaluation_/ijb/ijb_evals.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 316"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 110",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 480"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/common/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/datasets/common_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_mxnet/triplet_image_iter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 341"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 483",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 621",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 463",
+      "Random Seed Not Set at line 472",
+      "Random Seed Not Set at line 437",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 515",
+      "Random Seed Not Set at line 519",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 418",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 426"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 331",
+      "Use module() instead of forward() at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/static/utils/verification.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/memory_samplers.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_paddle/utils/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/train_memory.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/lr_scheduler.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/torch2onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/partial_fc_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/utils/utils_distributed_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/utils/plot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/evaluation/lfw.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/memory_module.py": {
+    "R8": [
+      "Use module() instead of forward() at line 223",
+      "Use module() instead of forward() at line 332",
+      "Use module() instead of forward() at line 444"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 273",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 377",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 488",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 261"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/train_v2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/onnx_ijbc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/backbones/iresnet2060.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/evaluation/ijb.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 164",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/backbones/mobilefacenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/backbones/iresnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/graph.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/oneflow2onnx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/scripts/shuffle_rec.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/eval_ijbc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 122",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 133"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/backbones/vit.py": {
+    "R2": [
+      "Random Seed Not Set at line 233"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/tools/mx_recordio_2_ofrecord_shuffled_npart.py": {
+    "R2": [
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/function.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/partial_fc/mxnet/evaluation/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/evaluate/eval_ops.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/evaluate/eval_oulu_112.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 96",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 100"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/eval/onnx_helper.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/network/lightcnn112.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/evaluate/eval_lamp_112.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_torch/eval/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/evaluate/eval_casia_112.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 102",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 106"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/evaluate/eval_buaa_112.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/eval/onnx_ijbc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 89",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/arcface_oneflow/eval/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/idmmd/dataset_mix.py": {
+    "R2": [
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/common/rec2shufrec.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/drop.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/common/face_align.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/image_iter.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/train_parall.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/torch2onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/utils/utils_dist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/utils/plot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/parall_module_local_v1.py": {
+    "R8": [
+      "Use module() instead of forward() at line 262"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 423",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 458",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 407"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/vpl.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/utils/utils_callbacks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/onnx_helper.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/loss/kl_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/loss/consistency_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/subcenter_arcface/common/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/backbones/iresnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/backbones/iresnet1024.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/utils/transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 168",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/dataset/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/onnx_ijbc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/utils/warmup_scheduler.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/networks/modules/parsing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/utils/schp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/loss/lovasz_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/utils/encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/networks/modules/edges.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/loss/criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/eval_ijbc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 122",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 133"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/recognition/vpl/eval/verification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/networks/modules/ddgcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/PY_OP/rpn_fpn_ohem3.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/test_widerface.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/tools/train_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/parsing/dml_csr/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/core/module_bak.py": {
+    "R8": [
+      "Use module() instead of forward() at line 233"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/core/module.py": {
+    "R8": [
+      "Use module() instead of forward() at line 232"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/demo/webcam_demo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/setup.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/core/tester.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 200"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 471",
+      "Random Seed Not Set at line 511",
+      "Random Seed Not Set at line 512"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/core/loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/benchmark.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/convert_crowdhuman.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 22",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 31",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/PY_OP/cascade_refine.py": {
+    "R2": [
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/publish_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/get_flops.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/pycocotools/coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/scrfd2onnx.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/retinaface.py": {
+    "R8": [
+      "Use module() instead of forward() at line 328"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/tools/test_widerface.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/search_tools/search_stat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/mask/mask_target.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/post_processing/merge_augs.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/apis/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/post_processing/bbox_nms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/apis/inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/anchor/point_generator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/apis/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/anchor/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/demodata.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/export/pytorch2onnx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/grid_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/search_tools/generate_configs_2.5g.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/point_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/iou_calculators/iou2d_calculator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/max_iou_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/hungarian_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/approx_max_iou_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/base_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/random_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/pseudo_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/instance_balanced_pos_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/ohem_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/atss_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/assign_result.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/assigners/center_region_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/iou_balanced_neg_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/sampling_result.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/coder/yolo_bbox_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/samplers/score_hlr_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/coder/tblr_bbox_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/coder/delta_xywh_bbox_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/coder/legacy_delta_xywh_bbox_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface/rcnn/io/image.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 603",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 544",
+      "Random Seed Not Set at line 551",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 577",
+      "Random Seed Not Set at line 578",
+      "Random Seed Not Set at line 757",
+      "Random Seed Not Set at line 761",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 563",
+      "Random Seed Not Set at line 566",
+      "Random Seed Not Set at line 570",
+      "Random Seed Not Set at line 573",
+      "Random Seed Not Set at line 638",
+      "Random Seed Not Set at line 639"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/evaluation/mean_ap.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 320",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 344"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/anchor/anchor_generator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/samplers/distributed_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/custom.py": {
+    "R2": [
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/pipelines/instaboost.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/evaluation/widerface.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 491",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 498",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/mask/structures.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 791"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/utils/profiling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/utils/contextmanagers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/core/bbox/coder/bucketing_bbox_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/samplers/group_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/balanced_l1_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/pipelines/formating.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/ae_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/smooth_l1_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/cross_entropy_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/pisa_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/ghm_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/ga_rpn_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/ssd_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/free_anchor_retina_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/fsaf_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/losses/iou_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/fcos_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/yolo_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/rpn_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/sabl_retina_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/gfl_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/pisa_retinanet_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/pisa_ssd_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/pipelines/auto_augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 693",
+      "Random Seed Not Set at line 745",
+      "Random Seed Not Set at line 786",
+      "Random Seed Not Set at line 833",
+      "Random Seed Not Set at line 881"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/atss_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/dense_test_mixins.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/paa_head.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 343"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/necks/yolo_neck.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/vfnet_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/anchor_free_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/fovea_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/anchor_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/guided_anchor_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/necks/hrfpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/yolact_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/necks/rfp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/utils/gaussian_target.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/utils/positional_encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/reppoints_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/transformer_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/ssd_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/darknet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/trident_resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/detectors/cornernet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/scrfd_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/resnest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/detectors/scrfd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/res2net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/detectors/single_stage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/detectors/yolact.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/detectors/two_stage.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/hrnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 186",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 188"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 537"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/trident_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/mask_scoring_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/shared_heads/res_layer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/utils/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/roi_extractors/base_roi_extractor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/dynamic_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/point_rend_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/standard_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/roi_extractors/single_level_roi_extractor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/grid_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/test_mixins.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/dense_heads/corner_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/backbones/resnet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/mask_heads/maskiou_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/mask_heads/mask_point_head.py": {
+    "R2": [
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 262"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/bbox_heads/bbox_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/cascade_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/mask_heads/fcn_mask_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/htc_roi_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/bbox_heads/sabl_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/models/roi_heads/mask_heads/grid_head.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 314"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/scrfd/mmdet/datasets/pipelines/transforms.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1825"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 1086",
+      "Random Seed Not Set at line 1093",
+      "Random Seed Not Set at line 1104",
+      "Random Seed Not Set at line 1109",
+      "Random Seed Not Set at line 1125",
+      "Random Seed Not Set at line 1196",
+      "Random Seed Not Set at line 2014",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 705",
+      "Random Seed Not Set at line 706",
+      "Random Seed Not Set at line 1087",
+      "Random Seed Not Set at line 1095",
+      "Random Seed Not Set at line 1105",
+      "Random Seed Not Set at line 1110",
+      "Random Seed Not Set at line 1119",
+      "Random Seed Not Set at line 1187",
+      "Random Seed Not Set at line 1206",
+      "Random Seed Not Set at line 1207",
+      "Random Seed Not Set at line 1298",
+      "Random Seed Not Set at line 1852",
+      "Random Seed Not Set at line 2016",
+      "Random Seed Not Set at line 2017",
+      "Random Seed Not Set at line 2018",
+      "Random Seed Not Set at line 766",
+      "Random Seed Not Set at line 769",
+      "Random Seed Not Set at line 1096",
+      "Random Seed Not Set at line 1120",
+      "Random Seed Not Set at line 1129",
+      "Random Seed Not Set at line 1305",
+      "Random Seed Not Set at line 1306",
+      "Random Seed Not Set at line 1312",
+      "Random Seed Not Set at line 1313",
+      "Random Seed Not Set at line 1859",
+      "Random Seed Not Set at line 1860",
+      "Random Seed Not Set at line 876",
+      "Random Seed Not Set at line 879",
+      "Random Seed Not Set at line 898",
+      "Random Seed Not Set at line 900",
+      "Random Seed Not Set at line 905",
+      "Random Seed Not Set at line 907",
+      "Random Seed Not Set at line 778"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/deepinsight_insightface/insightface-master/detection/retinaface_anticov/retinaface_cov.py": {
+    "R8": [
+      "Use module() instead of forward() at line 320"
+    ]
+  }
+}

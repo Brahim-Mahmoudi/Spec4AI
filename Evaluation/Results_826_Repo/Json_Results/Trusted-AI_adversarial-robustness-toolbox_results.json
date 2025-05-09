@@ -1,0 +1,2498 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/experimental/estimators/jax.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/mxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/experimental/estimators/classification/jax.py": {
+    "R2": [
+      "Random Seed Not Set at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/gan/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/metrics/privacy/membership_leakage.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/tensorflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/data_generators.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/query_efficient_bb.py": {
+    "R2": [
+      "Random Seed Not Set at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/catboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/metrics/metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 428"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 423"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 479"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/deep_partition_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/hugging_face.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 302"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_detection/pytorch_detection_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/mxnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 193"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 402",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 214",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 347",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 356",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 255",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_detection/pytorch_yolo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_detection/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/speech_recognition/pytorch_espresso.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/conftest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 580"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 889"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/poison_mitigation/strip/strip.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_detection/detr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_detection/pytorch_object_detector.py": {
+    "R2": [
+      "Random Seed Not Set at line 495"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/poison_mitigation/neural_cleanse/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 329"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 152"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 313",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 314",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 264",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/numpy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/speech_recognition/pytorch_deep_speech.py": {
+    "R2": [
+      "Random Seed Not Set at line 543"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 482",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 479"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/regression/scikitlearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/randomized_smoothing.py": {
+    "R2": [
+      "Random Seed Not Set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/object_tracking/pytorch_goturn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 645"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 567"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/tensorflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/macer/tensorflow.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 223"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/macer/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/smooth_adv/tensorflow.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 216"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/smooth_adv/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 196"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 416"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 896",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 972",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1096"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/randomized_smoothing/smooth_mix/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 353"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/scikitlearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/object_seeker/pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/derandomized_smoothing/vision_transformers/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/regression/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 438"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 693"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 310",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/transformer/evasion/defensive_distillation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/interval/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 359",
+      "Use module() instead of forward() at line 364"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/classification/tensorflow.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/derandomized_smoothing/tensorflow.py": {
+    "R8": [
+      "Use module() instead of forward() at line 230",
+      "Use module() instead of forward() at line 277",
+      "Use module() instead of forward() at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/postprocessor/gaussian_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/deep_z/deep_z.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/evasion/binary_input_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/interval/interval.py": {
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/evasion/binary_activation_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/deep_z/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 339",
+      "Use module() instead of forward() at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/derandomized_smoothing/ablators/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/evasion/beyond_detector.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/evasion/subsetscanning/scanner.py": {
+    "R2": [
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/regression/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 345"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 723",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 799",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 922"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/poison/roni.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/derandomized_smoothing/ablators/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 331"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/poison/provenance_defense.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 218"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/inverse_gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/variance_minimization.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/mp3_compression_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/gaussian_augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/estimators/certification/derandomized_smoothing/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 496",
+      "Random Seed Not Set at line 596"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 621"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 506",
+      "Use module() instead of forward() at line 730",
+      "Use module() instead of forward() at line 595",
+      "Use module() instead of forward() at line 648",
+      "Use module() instead of forward() at line 742",
+      "Use module() instead of forward() at line 663"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/spatial_smoothing_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/mixup/mixup_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/cutout/cutout.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/mixup/mixup.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/cutout/cutout_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 128"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1506"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1384",
+      "Random Seed Not Set at line 1409",
+      "Random Seed Not Set at line 604",
+      "Random Seed Not Set at line 868",
+      "Random Seed Not Set at line 1380",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 616",
+      "Random Seed Not Set at line 667",
+      "Random Seed Not Set at line 675",
+      "Random Seed Not Set at line 625",
+      "Random Seed Not Set at line 680",
+      "Random Seed Not Set at line 687",
+      "Random Seed Not Set at line 689",
+      "Random Seed Not Set at line 690",
+      "Random Seed Not Set at line 693"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1453"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/mixup/mixup_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer_madry_pgd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/cutmix/cutmix_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/cutmix/cutmix_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/cutmix/cutmix.py": {
+    "R2": [
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/preprocessor/preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/gaussian_noise/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/image_rotation/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/gaussian_noise/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/dp_instahide_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 237"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/shot_noise/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/brightness/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer_trades_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/brightness/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/shot_noise/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/zoom_blur/tensorflow.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer_fbf_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/zoom_blur/pytorch.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 91"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 263"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/contrast/tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/natural_corruptions/contrast/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/image_rotation/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/ibp_certified_trainer_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 325"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/certified_adversarial_trainer_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 255"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/image/image_resize/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/expectation_over_transformation/image_center_crop/pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/standardisation_mean_std/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/audio/l_filter/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/preprocessing/image/image_square_pad/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/detector/poison/activation_defence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 774"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 814"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer_awp_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/deepfool.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/boundary.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 360"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 347"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/geometric_decision_based_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/virtual_adversarial.py": {
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/dpatch.py": {
+    "R2": [
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 306",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/sign_opt.py": {
+    "R2": [
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 459"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/auto_conjugate_gradient.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/auto_projected_gradient_descent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/shadow_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/hop_skip_jump.py": {
+    "R2": [
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 591"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/defences/trainer/adversarial_trainer_oaat_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 192"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/pe_malware_attack.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 307",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 302"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 746",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 733",
+      "Random Seed Not Set at line 735",
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/steal_now_attack_later/drop_block2d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/zoo.py": {
+    "R2": [
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 475"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/square_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 449",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/feature_adversaries/feature_adversaries_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/feature_adversaries/feature_adversaries_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/adversarial_texture/adversarial_texture_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/laser_attack/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/simba.py": {
+    "R2": [
+      "Random Seed Not Set at line 376",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/over_the_air_flickering/over_the_air_flickering_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/laser_attack/laser_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 352"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/dpatch_robust.py": {
+    "R2": [
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 363",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/rescaling_auto_conjugate_gradient.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/composite_adversarial_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 594"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/overload/box_iou.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/projected_gradient_descent/projected_gradient_descent_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/imperceptible_asr/imperceptible_asr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 492"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/clean_label_backdoor_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/overload/overload.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/adversarial_embedding_attack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 255"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 219"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 151",
+      "Hyperparameter not explicitly set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/imperceptible_asr/imperceptible_asr_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/steal_now_attack_later/steal_now_attack_later.py": {
+    "R2": [
+      "Random Seed Not Set at line 634",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 128"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/bullseye_polytope_attack.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/graphite/graphite_whitebox_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/bad_det/bad_det_oda.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/poisoning_attack_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/bad_det/bad_det_gma.py": {
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/sleeper_agent_attack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 372"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 201"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 400"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/bad_det/bad_det_oga.py": {
+    "R2": [
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/backdoor_attack_dgm/backdoor_attack_dgm_red.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/backdoor_attack_dgm/backdoor_attack_dgm_trail.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/adversarial_patch/adversarial_patch_tensorflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/bad_det/bad_det_rma.py": {
+    "R2": [
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/perturbations/audio_perturbations.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/graphite/utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/graphite/graphite_blackbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 434",
+      "Random Seed Not Set at line 799"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/adversarial_patch/adversarial_patch_numpy.py": {
+    "R2": [
+      "Random Seed Not Set at line 487",
+      "Random Seed Not Set at line 494",
+      "Random Seed Not Set at line 557",
+      "Random Seed Not Set at line 538",
+      "Random Seed Not Set at line 539"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/perturbations/image_perturbations.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/reconstruction/white_box.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/hidden_trigger_backdoor/hidden_trigger_backdoor_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 182"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/gradient_matching_attack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 539"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 429"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 147"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 508",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/extraction/copycat_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/poisoning/hidden_trigger_backdoor/hidden_trigger_backdoor_keras.py": {
+    "R2": [
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/membership_inference/shadow_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/membership_inference/label_only_boundary_distance.py": {
+    "R2": [
+      "Random Seed Not Set at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/attribute_inference/baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 308"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 130"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 135",
+      "Hyperparameter not explicitly set at line 138",
+      "Hyperparameter not explicitly set at line 140",
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 145",
+      "Hyperparameter not explicitly set at line 153"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/metrics/test_gradient_check.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/attribute_inference/true_label_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 336"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 142"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 379"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 142",
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 150",
+      "Hyperparameter not explicitly set at line 152",
+      "Hyperparameter not explicitly set at line 155",
+      "Hyperparameter not explicitly set at line 157",
+      "Hyperparameter not explicitly set at line 165"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/adversarial_patch/adversarial_patch_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 410",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 420",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 429",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 433"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/metrics/test_verification_decision_trees.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 137"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_catboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/extraction/knockoff_nets.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/attribute_inference/black_box.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 273",
+      "Potential data leakage: model.fit() used without a pipeline at line 370"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 159"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 438"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 159",
+      "Hyperparameter not explicitly set at line 164",
+      "Hyperparameter not explicitly set at line 167",
+      "Hyperparameter not explicitly set at line 169",
+      "Hyperparameter not explicitly set at line 172",
+      "Hyperparameter not explicitly set at line 174",
+      "Hyperparameter not explicitly set at line 182"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_input_filter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_jax.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_detector_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_blackbox.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/extraction/functionally_equivalent_extraction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 481"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_deeplearning_specific.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_tracking/test_pytorch_goturn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/inference/membership_inference/black_box.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 425",
+      "Potential data leakage: model.fit() used without a pipeline at line 430",
+      "Potential data leakage: model.fit() used without a pipeline at line 423",
+      "Potential data leakage: model.fit() used without a pipeline at line 428"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 400"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 505"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 125",
+      "Hyperparameter not explicitly set at line 127",
+      "Hyperparameter not explicitly set at line 129",
+      "Hyperparameter not explicitly set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/metrics/test_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 390",
+      "Potential data leakage: model.fit() used without a pipeline at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/speech_recognition/test_pytorch_espresso.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_object_seeker_faster_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/test_data_generators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 244",
+      "Potential data leakage: model.fit() used without a pipeline at line 273"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 530",
+      "Random Seed Not Set at line 397"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/conftest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_deep_partition_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_pytorch_object_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_object_seeker_yolo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/speech_recognition/test_pytorch_deep_speech.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 207"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_pytorch_detection_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/regression/test_scikitlearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_pytorch_faster_rcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/regression/test_pytorch_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_deeplearning_common.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 381"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/regression/test_blackbox.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 82",
+      "Hyperparameter not explicitly set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/object_detection/test_pytorch_yolo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_macer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/art/attacks/evasion/brendel_bethge.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1469"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_gaussian_noise.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_smooth_adv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_smooth_mix.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/regression/test_keras_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_neural_cleanse.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 525",
+      "Potential data leakage: model.fit() used without a pipeline at line 528"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_deepz.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_randomized_smoothing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_label_smoothing.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_pixel_defend.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_feature_squeezing.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/transformer/poisoning/test_strip.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/classification/test_scikitlearn.py": {
+    "R2": [
+      "Random Seed Not Set at line 253"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_thermometer_encoding.py": {
+    "R2": [
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_variance_minimization.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/poison/test_spectral_signature_defense.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/evasion/test_binary_activation_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/evasion/test_binary_input_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/test_adversarial_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/evasion/test_beyond_detector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_derandomized_smoothing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 163",
+      "Hyperparameter not explicitly set at line 302"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/preprocessor/test_preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/poison/test_roni.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/preprocessor/test_video_compression_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/preprocessor/test_mp3_compression_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_vision_transformers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 614"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/poison/test_provenance_defence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_adversarial_trainer_madry_pgd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_adversarial_trainer_FBF.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/estimators/certification/test_interval.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 542"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 252"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/detector/poison/test_activation_defence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/natural_corruptions/test_gaussian_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_adversarial_trainer_trades_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/natural_corruptions/test_shot_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/natural_corruptions/test_brightness.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/natural_corruptions/test_zoom_blur.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_dp_instahide_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/test_image_rotation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/expectation_over_transformation/natural_corruptions/test_contrast.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_adversarial_trainer_oaat_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_feature_collision.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_adversarial_trainer_awp_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_decision_tree_attack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/image/test_image_square_pad.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/preprocessing/image/test_image_resize.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_poisoning_attack_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 167"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_backdoor_attack.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_copycat_cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_pixel_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1032",
+      "Hyperparameter not explicitly set at line 394",
+      "Hyperparameter not explicitly set at line 1991",
+      "Hyperparameter not explicitly set at line 749",
+      "Hyperparameter not explicitly set at line 801"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/defences/trainer/test_certified_adversarial_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 279"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_newtonfool.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_spatial_transformation.py": {
+    "R2": [
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_overload_attack.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_elastic_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 780"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_shapeshifter.py": {
+    "R2": [
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_wasserstein.py": {
+    "R2": [
+      "Random Seed Not Set at line 485",
+      "Random Seed Not Set at line 458"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_laser_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_over_the_air.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_saliency_map.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 274"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_iterative_method.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_imperceptible_asr_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/poison/test_backdoor_attack_dgm_red.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_hop_skip_jump.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 748"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_steal_now_attack_later.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/poison/test_backdoor_attack_dgm_trail.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/poison/bad_det/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_lowprofool.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 402"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 303"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 141",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 184",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 219",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 296",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 338",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 402"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 295"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/test_reconstruction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 70"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/test_projected_gradient_descent.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/model_inversion/test_mi_face.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/attribute_inference/test_white_box_lifestyle_decision_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_adversarial_texture_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/utils/mlops/kubeflow/robustness_evaluation_fgsm_pytorch/src/robustness.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_imperceptible_asr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/utils/mlops/kubeflow/robustness_evaluation_fgsm_pytorch/src/robustness_util.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_scikit_learn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/mnist_cnn_fgsm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/utils/resources/create_model_weights.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 136"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 88",
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/classifiersFrameworks/test_tensorflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 244"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/evasion/test_pe_malware_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/backdoor_attack_dgm_trail.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/mnist_cnn_features_level_fgsm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_inverse_gan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/mnist_poison_detection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_mxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/membership_inference/test_shadow_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_cifar10.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 49",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_data_augmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/classifiersFrameworks/test_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/mnist_transferability.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_tensorflow.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/membership_inference/test_black_box.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 315",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 346",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 320"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 137",
+      "Hyperparameter not explicitly set at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_tensorflow_v2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_awp.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/attribute_inference/test_meminf_based.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 360",
+      "Potential data leakage: model.fit() used without a pipeline at line 371",
+      "Potential data leakage: model.fit() used without a pipeline at line 378"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 194",
+      "Hyperparameter not explicitly set at line 370"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_pytorch_goturn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_trades.py": {
+    "R2": [
+      "Random Seed Not Set at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_FBF.py": {
+    "R2": [
+      "Random Seed Not Set at line 171"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/adversarial_training_oaat.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/get_started_fasterrcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/attribute_inference/test_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 500",
+      "Potential data leakage: model.fit() used without a pipeline at line 594",
+      "Potential data leakage: model.fit() used without a pipeline at line 684",
+      "Potential data leakage: model.fit() used without a pipeline at line 728"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/attribute_inference/test_true_label_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 413",
+      "Potential data leakage: model.fit() used without a pipeline at line 503",
+      "Potential data leakage: model.fit() used without a pipeline at line 596",
+      "Potential data leakage: model.fit() used without a pipeline at line 690",
+      "Potential data leakage: model.fit() used without a pipeline at line 780"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/tests/attacks/inference/attribute_inference/test_black_box.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 443",
+      "Hyperparameter not explicitly set at line 515",
+      "Hyperparameter not explicitly set at line 642",
+      "Hyperparameter not explicitly set at line 719",
+      "Hyperparameter not explicitly set at line 799",
+      "Hyperparameter not explicitly set at line 912",
+      "Hyperparameter not explicitly set at line 1024",
+      "Hyperparameter not explicitly set at line 1135",
+      "Hyperparameter not explicitly set at line 1252",
+      "Hyperparameter not explicitly set at line 1367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_adversarial-robustness-toolbox/adversarial-robustness-toolbox-main/examples/inverse_gan_author_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1488",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1598"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 377",
+      "Random Seed Not Set at line 1083",
+      "Random Seed Not Set at line 1497",
+      "Random Seed Not Set at line 1610"
+    ]
+  }
+}

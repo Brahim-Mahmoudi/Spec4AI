@@ -1,0 +1,62 @@
+{
+  "/Users/bramss/Desktop/All_Repo/riga_tfdeploy/tfdeploy-master/tests/perf/simple.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/riga_tfdeploy/tfdeploy-master/tests/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 79"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/riga_tfdeploy/tfdeploy-master/tests/perf/measure_runtimes.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/riga_tfdeploy/tfdeploy-master/tests/ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 220"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 710",
+      "Random Seed Not Set at line 724",
+      "Random Seed Not Set at line 85"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 365"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/riga_tfdeploy/tfdeploy-master/tfdeploy.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1635"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 297",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 703",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 241",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 461",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 697",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292"
+    ]
+  }
+}

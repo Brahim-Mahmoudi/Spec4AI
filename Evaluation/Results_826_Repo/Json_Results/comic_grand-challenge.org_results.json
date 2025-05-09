@@ -1,0 +1,58 @@
+{
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/grandchallenge/core/templatetags/random_encode.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/grandchallenge/core/celery.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/grandchallenge/challenges/tasks.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/grandchallenge/charts/specs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/grandchallenge/components/backends/base.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 270",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/app/tests/challenges_tests/test_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/scripts/cost_fixtures.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/scripts/development_fixtures.py": {
+    "R2": [
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/comic_grand-challenge.org/grand-challenge.org-main/scripts/pentest_fixtures.py": {
+    "R2": [
+      "Random Seed Not Set at line 694",
+      "Random Seed Not Set at line 697"
+    ]
+  }
+}

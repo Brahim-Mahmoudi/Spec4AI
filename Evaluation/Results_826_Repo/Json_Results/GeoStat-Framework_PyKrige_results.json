@@ -1,0 +1,120 @@
+{
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/examples/07_regression_kriging2d.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/tests/test_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/examples/10_classification_kriging2d.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 36"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/examples/08_krige_cv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/tests/test_regression_krige.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 25",
+      "Hyperparameter not explicitly set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/tests/test_classification_krige.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 51",
+      "Potential data leakage: fit_transform called before train/test split at line 86"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/rk.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/ck.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/core.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 189",
+      "Use np.matmul() instead of np.dot() for matrices at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/ok3d.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 691",
+      "Use np.matmul() instead of np.dot() for matrices at line 653"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/ok.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 716",
+      "Use np.matmul() instead of np.dot() for matrices at line 679"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/uk3d.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 871",
+      "Use np.matmul() instead of np.dot() for matrices at line 798",
+      "Use np.matmul() instead of np.dot() for matrices at line 804"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/GeoStat-Framework_PyKrige/PyKrige-main/src/pykrige/uk.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1084",
+      "Use np.matmul() instead of np.dot() for matrices at line 996",
+      "Use np.matmul() instead of np.dot() for matrices at line 1002"
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/demo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/model_fitting/GoodnessOfFitLogProb.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/utils/io.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 91"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/model_fitting/plotting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/utils/center_point_select.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/model_fitting/sim_eval.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/model_fitting/GoodnessOfFit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/normalizing_flows/PlanarFlow.py": {
+    "R7": [
+      "Missing mask for tf.log at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/normalizing_flows/RadialFlow.py": {
+    "R7": [
+      "Missing mask for tf.log at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/BaseDensityEstimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/MDN.py": {
+    "R7": [
+      "Missing mask for tf.log at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/fit_density.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/NF.py": {
+    "R7": [
+      "Missing mask for tf.log at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/BaseNNEstimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/noise_reg_plots.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/moments_time_series.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/feature_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/KMN.py": {
+    "R7": [
+      "Missing mask for tf.log at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_estimator/BaseNNMixtureEstimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 213"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 239"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/underest_of_variance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/empirical_eval/experiment_util.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 182"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/density_simulation/toy_densities.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/eurostoxx_eval/empirical_benchmark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/simulation_eval/plotting/question7_plots.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 553"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 553; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 52",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 528"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/evaluation/empirical_eval/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 171",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 287",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 301",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 315",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 329",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 343",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 357"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/tests/unittests_normalizing_flows.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 212",
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 363",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 425",
+      "Potential data leakage: model.fit() used without a pipeline at line 445",
+      "Potential data leakage: model.fit() used without a pipeline at line 468",
+      "Potential data leakage: model.fit() used without a pipeline at line 469",
+      "Potential data leakage: model.fit() used without a pipeline at line 492",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/tests/unittests_evaluations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 261",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/cde/utils/tf_utils/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 407",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1194",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1398",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1544",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1548",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1640",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1645",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1118"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 325"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/freelunchtheorem_Conditional_Density_Estimation/Conditional_Density_Estimation-master/tests/unittests_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 499",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 519",
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 541",
+      "Potential data leakage: model.fit() used without a pipeline at line 542",
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 563",
+      "Potential data leakage: model.fit() used without a pipeline at line 582",
+      "Potential data leakage: model.fit() used without a pipeline at line 583",
+      "Potential data leakage: model.fit() used without a pipeline at line 602",
+      "Potential data leakage: model.fit() used without a pipeline at line 648",
+      "Potential data leakage: model.fit() used without a pipeline at line 659",
+      "Potential data leakage: model.fit() used without a pipeline at line 670",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 351",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 414",
+      "Potential data leakage: model.fit() used without a pipeline at line 418",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 479",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 637"
+    ]
+  }
+}

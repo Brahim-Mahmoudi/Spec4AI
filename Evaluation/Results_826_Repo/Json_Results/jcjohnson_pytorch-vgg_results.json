@@ -1,0 +1,18 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jcjohnson_pytorch-vgg/pytorch-vgg-master/test_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jcjohnson_pytorch-vgg/pytorch-vgg-master/t7_to_state_dict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

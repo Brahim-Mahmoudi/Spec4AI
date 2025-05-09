@@ -1,0 +1,987 @@
+{
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_extraction/tests/test_linear_discriminant_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_extraction/tests/test_kernel_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/cluster/tests/test_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_extraction/tests/test_principal_component_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 57",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 63",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 78",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 91",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 114",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 121",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 124",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 21",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 27",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 32",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 39",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/utilities.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/math/linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/tests/test_column_selector.py": {
+    "R2": [
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 58"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/tests/test_sequential_feature_selector_fixed_features.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/perceptron.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/frequent_patterns/tests/test_fpbase.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 309"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/adaline.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 121",
+      "Use np.matmul() instead of np.dot() for matrices at line 120",
+      "Use np.matmul() instead of np.dot() for matrices at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/tests/test_sequential_feature_selector_feature_groups.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 262"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 103",
+      "Hyperparameter not explicitly set at line 166",
+      "Hyperparameter not explicitly set at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/softmax_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/stacking_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/exhaustive_feature_selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 547"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/multilayerperceptron.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 226",
+      "Use np.matmul() instead of np.dot() for matrices at line 231",
+      "Use np.matmul() instead of np.dot() for matrices at line 171",
+      "Use np.matmul() instead of np.dot() for matrices at line 177",
+      "Use np.matmul() instead of np.dot() for matrices at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/ensemble_vote.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/stacking_cv_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 302"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_oner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_adaline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_multilayerperceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_softmax_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/sequential_feature_selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 856"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/ttest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_logistic_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 58",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 70",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 77",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 84",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 90",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 100",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 103",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 114",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 125",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 136",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 150",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 165"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/bootstrap_point632.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/bias_variance_decomp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_ensemble_vote_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 258"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 144",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/f_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_combined_ftest_5x2cv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 26",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 64",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 98",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/time_series.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_paired_ttest_5x2cv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 26",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 60",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/tests/test_exhaustive_feature_selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 435",
+      "Potential data leakage: model.fit() used without a pipeline at line 520",
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 570",
+      "Potential data leakage: model.fit() used without a pipeline at line 616",
+      "Potential data leakage: model.fit() used without a pipeline at line 655",
+      "Potential data leakage: model.fit() used without a pipeline at line 697",
+      "Potential data leakage: model.fit() used without a pipeline at line 732",
+      "Potential data leakage: model.fit() used without a pipeline at line 776",
+      "Potential data leakage: model.fit() used without a pipeline at line 822"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 396"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_paired_ttest_resampled.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 134"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 53",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 95",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 133",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 134"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_counterfactual.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 19",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 43",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 65",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 105"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 18",
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_bias_variance_decomp.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 134",
+      "Hyperparameter not explicitly set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_paired_ttest_kfold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 62",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 97",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_feature_importance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 260"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 234"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 81",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 115",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 148",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 181",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 216"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_bootstrap_point632.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 174",
+      "Hyperparameter not explicitly set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_stacking_cv_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 353",
+      "Potential data leakage: model.fit() used without a pipeline at line 402",
+      "Potential data leakage: model.fit() used without a pipeline at line 417",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 450",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 491",
+      "Potential data leakage: model.fit() used without a pipeline at line 507",
+      "Potential data leakage: model.fit() used without a pipeline at line 516",
+      "Potential data leakage: model.fit() used without a pipeline at line 540",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 573",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 306",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 482",
+      "Random Seed Not Set at line 504",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 661",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 397",
+      "Random Seed Not Set at line 401"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 660"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/evaluate/tests/test_holdout.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 410",
+      "Potential data leakage: model.fit() used without a pipeline at line 431"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/plot_linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/tests/test_checkerboard.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/classifier/tests/test_stacking_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 248",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 323",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 445",
+      "Potential data leakage: model.fit() used without a pipeline at line 490",
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 519",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 120",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 440",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 482",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 540",
+      "Random Seed Not Set at line 583"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 62",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 63"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/tests/test_heatmap.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/learning_curves.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/preprocessing/mean_centering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/tests/test_pca_corr_graph.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/tests/test_decision_regions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/feature_selection/tests/test_sequential_feature_selector.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 540"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 685",
+      "Random Seed Not Set at line 694"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 426",
+      "Hyperparameter not explicitly set at line 447",
+      "Hyperparameter not explicitly set at line 463",
+      "Hyperparameter not explicitly set at line 479",
+      "Hyperparameter not explicitly set at line 723",
+      "Hyperparameter not explicitly set at line 740",
+      "Hyperparameter not explicitly set at line 750"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/preprocessing/transactionencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/stacking_cv_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 244",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/preprocessing/tests/test_dense_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/plotting/pca_correlation_graph.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/stacking_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/text/tests/test_generalize_names_duplcheck.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/preprocessing/tests/test_copy_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/linear_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 155",
+      "Use np.matmul() instead of np.dot() for matrices at line 139",
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/tests/test_linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 37",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/preprocessing/tests/test_transactionencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/_base/tests/test_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/_base/_iterative_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/_base/tests/test_cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/_base/tests/test_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/tests/test_stacking_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 143",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 308",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 271"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 35",
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 59",
+      "Hyperparameter not explicitly set at line 61",
+      "Hyperparameter not explicitly set at line 72",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 103",
+      "Hyperparameter not explicitly set at line 119",
+      "Hyperparameter not explicitly set at line 132",
+      "Hyperparameter not explicitly set at line 147",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 214",
+      "Hyperparameter not explicitly set at line 226",
+      "Hyperparameter not explicitly set at line 238",
+      "Hyperparameter not explicitly set at line 259",
+      "Hyperparameter not explicitly set at line 278",
+      "Hyperparameter not explicitly set at line 289",
+      "Hyperparameter not explicitly set at line 302",
+      "Hyperparameter not explicitly set at line 321",
+      "Hyperparameter not explicitly set at line 331",
+      "Hyperparameter not explicitly set at line 363",
+      "Hyperparameter not explicitly set at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rasbt_mlxtend/mlxtend-master/mlxtend/regressor/tests/test_stacking_cv_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 419",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 382",
+      "Potential data leakage: model.fit() used without a pipeline at line 355",
+      "Potential data leakage: model.fit() used without a pipeline at line 368"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 403",
+      "Random Seed Not Set at line 412"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 71",
+      "Hyperparameter not explicitly set at line 85",
+      "Hyperparameter not explicitly set at line 87",
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 171",
+      "Hyperparameter not explicitly set at line 192",
+      "Hyperparameter not explicitly set at line 203",
+      "Hyperparameter not explicitly set at line 216",
+      "Hyperparameter not explicitly set at line 235",
+      "Hyperparameter not explicitly set at line 245",
+      "Hyperparameter not explicitly set at line 274",
+      "Hyperparameter not explicitly set at line 307",
+      "Hyperparameter not explicitly set at line 329",
+      "Hyperparameter not explicitly set at line 346",
+      "Hyperparameter not explicitly set at line 361",
+      "Hyperparameter not explicitly set at line 374",
+      "Hyperparameter not explicitly set at line 390"
+    ]
+  }
+}

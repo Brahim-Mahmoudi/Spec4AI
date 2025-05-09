@@ -1,0 +1,142 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/sample/no_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/metrics/benchmark.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/download/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/naive_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/grid_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/sample/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/sample/imbalance_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/sample/random_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/finetuning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/tfidf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/NB.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/doc_rep.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/visualize/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/resample/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/featurize/__init__.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 76",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 359"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/IndicoDataSolutions_Enso/Enso-master/enso/experiment/rationalized.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 346"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 252",
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 337"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 112",
+      "Hyperparameter not explicitly set at line 194"
+    ]
+  }
+}

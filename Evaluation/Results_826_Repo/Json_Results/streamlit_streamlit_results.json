@@ -1,0 +1,65 @@
+{
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/frontend/app/performance/apps/multipage/multipage_app.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/e2e_playwright/st_map_ensure_no_stale_maps.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/e2e_playwright/st_add_rows.py": {
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/e2e_playwright/st_pydeck_chart_select.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/e2e_playwright/st_plotly_chart.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/dataframe_util.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 578",
+      "API call might be missing reassignment or inplace=True at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/connections/sql_connection.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 323"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/hello/plotting_demo.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/commands/page_config.py": {
+    "R2": [
+      "Random Seed Not Set at line 279"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/hello/mapping_demo.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/streamlit/hello/dataframe_demo.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/streamlit_streamlit/streamlit-develop/lib/tests/streamlit/util_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  }
+}

@@ -1,0 +1,1170 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/visual_dialog/extract_vocabulary.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/bert/extract_bert_embeddings.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/frcnn/processing_image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/extract_resnet152_feat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/gqa/extract_vocabulary.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/tests/generate_test_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_multi_datamodule.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_mmf_dataset_builder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_prediction_processors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/extract_features_vinvl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_multi_dataset_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/frcnn/extract_features_frcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/extract_features_vmb.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/frcnn/frcnn_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/utils/test_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_processors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/projects/m4c/scripts/extract_ocr_frcn_feature.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_albef.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_iteration_strategies.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_cnn_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/utils/test_visualize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_visual_bert.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 276"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 293"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_vilt.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 84"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/interfaces/test_interfaces.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/utils/test_text.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 199"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_vilbert.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 115"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/transformers/test_heads_dict.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_eval_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_mmbt.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 91"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_fp16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_grad_accumulate.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_trainer_mocks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_loop_conditions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_sharded_ddp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_vinvl.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 149"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_lr_schedule.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_loss.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_grad_clipping.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/common/test_batch_collator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/callbacks/test_user_callback.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_uniter.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 244",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 235"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/test_training_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/common/test_meter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/callbacks/test_lr_scheduler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/common/test_report.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/common/test_sample.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_poolers.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/callbacks/test_logistics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/transformers/test_heads.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 257"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_vit.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_encoders.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/datasets/test_bert_processors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_fusions.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/utils/test_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/conceptual_captions/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/trainers/lightning/test_checkpoint.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 356",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 411",
+      "Potential data leakage: model.fit() used without a pipeline at line 423",
+      "Potential data leakage: model.fit() used without a pipeline at line 446",
+      "Potential data leakage: model.fit() used without a pipeline at line 490",
+      "Potential data leakage: model.fit() used without a pipeline at line 505",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 393"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/visual_entailment/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/glue/builder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/iteration_strategies.py": {
+    "R2": [
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/mmf_dataset_builder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 201"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/models/test_mmf_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 363",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 479",
+      "Random Seed Not Set at line 480"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/mmimdb/masked_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/clevr/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tests/modules/test_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/vinvl/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/coco/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/coco/masked_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/retrieval/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/nlvr2/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/databases/readers/feature_readers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/retrieval/datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/gqa/masked_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/hateful_memes/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/vqa2/masked_q_vqa2_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/gqa/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/vqa2/masked_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/textvqa/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/charades/_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/airstore/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/charades/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/okvqa/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/vqacp_v2/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/coco/detection_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/builders/vqa2/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/video_processors.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/frcnn_processor.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/box_ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/image_processors.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/visualize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/detection_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 201"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/xla.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/projects/krisp/graphnetwork_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/tools/scripts/features/frcnn/modeling_frcnn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1963"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/configuration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/cnn_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/top_down_bottom_up.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/frcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/text.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unimodal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/bert_processors.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 586",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/alignment.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/mmf_bert.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/utils/general.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/fusions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/mmf_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/vinvl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/matcher.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/vilt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/movie_mcan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/backbone.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/butd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/itm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/lxmert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/contrastive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/visual_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/backends/huggingface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/mrfr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/pythia.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/mlm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/refiner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/datasets/processors/processors.py": {
+    "R2": [
+      "Random Seed Not Set at line 1654",
+      "Random Seed Not Set at line 1590"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/transformers/heads/mrc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/mmbt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/interfaces/mmbt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/m4c.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/unit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/unit_base_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/unit/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/krisp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/core/device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/mmf_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/core/evaluation_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/lightning_core/torchmetric.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/uniter.py": {
+    "R2": [
+      "Random Seed Not Set at line 730",
+      "Random Seed Not Set at line 482"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/callbacks/logistics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/core/training_loop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/lightning_core/loop_callback_with_torchmetrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/common/meter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/lightning_core/loop_callback.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/decoders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/trainers/lightning_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/poolers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/optimizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/common/report.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/ot.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/common/sample.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/vit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf_cli/run.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/albef/vit.py": {
+    "R2": [
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 186"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/hf_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/models/vilbert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/embeddings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/encoders.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 776"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_mmf/mmf-main/mmf/modules/fusions.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

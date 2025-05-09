@@ -1,0 +1,22 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/uhh-lt_sensegram/sensegram-master/wsd.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/uhh-lt_sensegram/sensegram-master/egvi/disambiguator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/uhh-lt_sensegram/sensegram-master/vector_representations/sense_vectors.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/uhh-lt_sensegram/sensegram-master/utils/common.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ]
+  }
+}

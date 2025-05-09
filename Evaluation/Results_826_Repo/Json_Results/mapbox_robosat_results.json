@@ -1,0 +1,72 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/tools/export.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 218"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/datasets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/tools/weights.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/tools/predict.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/tools/serve.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mapbox_robosat/robosat-master/robosat/tools/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 273"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

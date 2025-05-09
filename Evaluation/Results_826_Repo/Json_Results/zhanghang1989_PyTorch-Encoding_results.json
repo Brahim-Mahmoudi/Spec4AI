@@ -1,0 +1,346 @@
+{
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/tests/unit_test/test_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/segmentation/demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 6"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/segmentation/test_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/recognition/test_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/tests/unit_test/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/recognition/verify.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/tests/unit_test/test_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/dropblock.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/splat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/syncbn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/tests/unit_test/test_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 89",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/segmentation/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/customize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/coco.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/nn/encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/hpw18.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/ade20k.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/segmentation/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/pascal_voc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/utils/dist_helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/pcontext.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/cityscapes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/utils/files.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/segmentation/train_dist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/utils/precise_bn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/datasets/cityscapescoarse.py": {
+    "R2": [
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/utils/train_helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/upernet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/deepten.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/psp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/backbone/resnet_variants.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/experiments/recognition/train_dist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/backbone/resnest.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/fcn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/functions/customize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/transforms/get_transform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/fcfpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/functions/encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/functions/rectify.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/deeplab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/transforms/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/functions/dist_syncbn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/encnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/atten.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/backbone/wideresnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/transforms/autoaug.py": {
+    "R2": [
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/sseg/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/models/backbone/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/zhanghang1989_PyTorch-Encoding/PyTorch-Encoding-master/encoding/functions/syncbn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

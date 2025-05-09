@@ -1,0 +1,84 @@
+{
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 56",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 76",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 78",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/data_util/data_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/rnn_cell/custom_rnn_cell.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/frameqa_base.py": {
+    "R3": [
+      "TensorArray Not Used at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/count_base.py": {
+    "R3": [
+      "TensorArray Not Used at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/mc_base.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 199"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/frameqa_models.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 188",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 677",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 347",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 555"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 64",
+      "TensorArray Not Used at line 525"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/count_models.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 175",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 652",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 347",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 542"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 63",
+      "TensorArray Not Used at line 515"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/mc_models.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 213",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 606",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 729",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 388",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 391",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 181",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 465",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 613",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 694"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 74",
+      "TensorArray Not Used at line 572"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YunseokJANG_tgif-qa/tgif-qa-master/code/gifqa/models/rnn_cell/rnn_cell.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2193"
+    ]
+  }
+}

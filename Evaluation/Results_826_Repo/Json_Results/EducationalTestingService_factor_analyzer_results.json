@@ -1,0 +1,123 @@
+{
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/tests/test_expected_confirmatory_factor_analyzer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/tests/test_utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 153",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 105",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 155",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 175",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 188",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 211"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/tests/test_factor_analyzer.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 119",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 158",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 32",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 58",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 207"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 177"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 213",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 233",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/factor_analyzer/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 433"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 433",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 434"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 416",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/factor_analyzer/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/factor_analyzer/rotator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 221",
+      "Use np.matmul() instead of np.dot() for matrices at line 331",
+      "Use np.matmul() instead of np.dot() for matrices at line 376",
+      "Use np.matmul() instead of np.dot() for matrices at line 420",
+      "Use np.matmul() instead of np.dot() for matrices at line 423",
+      "Use np.matmul() instead of np.dot() for matrices at line 522",
+      "Use np.matmul() instead of np.dot() for matrices at line 574",
+      "Use np.matmul() instead of np.dot() for matrices at line 583",
+      "Use np.matmul() instead of np.dot() for matrices at line 584",
+      "Use np.matmul() instead of np.dot() for matrices at line 591",
+      "Use np.matmul() instead of np.dot() for matrices at line 594",
+      "Use np.matmul() instead of np.dot() for matrices at line 430",
+      "Use np.matmul() instead of np.dot() for matrices at line 456",
+      "Use np.matmul() instead of np.dot() for matrices at line 501",
+      "Use np.matmul() instead of np.dot() for matrices at line 513",
+      "Use np.matmul() instead of np.dot() for matrices at line 200",
+      "Use np.matmul() instead of np.dot() for matrices at line 259",
+      "Use np.matmul() instead of np.dot() for matrices at line 261",
+      "Use np.matmul() instead of np.dot() for matrices at line 334",
+      "Use np.matmul() instead of np.dot() for matrices at line 341",
+      "Use np.matmul() instead of np.dot() for matrices at line 357",
+      "Use np.matmul() instead of np.dot() for matrices at line 358",
+      "Use np.matmul() instead of np.dot() for matrices at line 432",
+      "Use np.matmul() instead of np.dot() for matrices at line 444",
+      "Use np.matmul() instead of np.dot() for matrices at line 445",
+      "Use np.matmul() instead of np.dot() for matrices at line 562",
+      "Use np.matmul() instead of np.dot() for matrices at line 370",
+      "Use np.matmul() instead of np.dot() for matrices at line 578",
+      "Use np.matmul() instead of np.dot() for matrices at line 178",
+      "Use np.matmul() instead of np.dot() for matrices at line 250",
+      "Use np.matmul() instead of np.dot() for matrices at line 255",
+      "Use np.matmul() instead of np.dot() for matrices at line 343",
+      "Use np.matmul() instead of np.dot() for matrices at line 345",
+      "Use np.matmul() instead of np.dot() for matrices at line 356",
+      "Use np.matmul() instead of np.dot() for matrices at line 371",
+      "Use np.matmul() instead of np.dot() for matrices at line 433",
+      "Use np.matmul() instead of np.dot() for matrices at line 580"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/EducationalTestingService_factor_analyzer/factor_analyzer-main/factor_analyzer/factor_analyzer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 361",
+      "Use np.matmul() instead of np.dot() for matrices at line 402",
+      "Use np.matmul() instead of np.dot() for matrices at line 436",
+      "Use np.matmul() instead of np.dot() for matrices at line 466",
+      "Use np.matmul() instead of np.dot() for matrices at line 478",
+      "Use np.matmul() instead of np.dot() for matrices at line 480",
+      "Use np.matmul() instead of np.dot() for matrices at line 517",
+      "Use np.matmul() instead of np.dot() for matrices at line 795",
+      "Use np.matmul() instead of np.dot() for matrices at line 356",
+      "Use np.matmul() instead of np.dot() for matrices at line 687",
+      "Use np.matmul() instead of np.dot() for matrices at line 692",
+      "Use np.matmul() instead of np.dot() for matrices at line 694"
+    ]
+  }
+}

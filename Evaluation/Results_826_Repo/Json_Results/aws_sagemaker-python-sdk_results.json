@@ -1,0 +1,1474 @@
+{
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_ntm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_amazon_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 277"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 246",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_fm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 319",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 348"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 234",
+      "Potential data leakage: model.fit() used without a pipeline at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_rl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 392",
+      "Potential data leakage: model.fit() used without a pipeline at line 406"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_linear_learner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 421",
+      "Potential data leakage: model.fit() used without a pipeline at line 435",
+      "Potential data leakage: model.fit() used without a pipeline at line 450"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 313"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_randomcutforest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 235",
+      "Potential data leakage: model.fit() used without a pipeline at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_ipinsights.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_chainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 337",
+      "Potential data leakage: model.fit() used without a pipeline at line 359"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 731"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_algorithm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 410",
+      "Potential data leakage: model.fit() used without a pipeline at line 414",
+      "Potential data leakage: model.fit() used without a pipeline at line 733",
+      "Potential data leakage: model.fit() used without a pipeline at line 818"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_object2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_mxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 358",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 1007",
+      "Potential data leakage: model.fit() used without a pipeline at line 1108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 165",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 240",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 254",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 269",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 289"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 184"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 203",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 260",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 274",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 289"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 425"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 330",
+      "Potential data leakage: model.fit() used without a pipeline at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 430",
+      "Potential data leakage: model.fit() used without a pipeline at line 458",
+      "Potential data leakage: model.fit() used without a pipeline at line 489",
+      "Potential data leakage: model.fit() used without a pipeline at line 515",
+      "Potential data leakage: model.fit() used without a pipeline at line 549",
+      "Potential data leakage: model.fit() used without a pipeline at line 569",
+      "Potential data leakage: model.fit() used without a pipeline at line 655",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 743",
+      "Potential data leakage: model.fit() used without a pipeline at line 1242",
+      "Potential data leakage: model.fit() used without a pipeline at line 1305",
+      "Potential data leakage: model.fit() used without a pipeline at line 1990",
+      "Potential data leakage: model.fit() used without a pipeline at line 2115",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 625"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/jumpstart/test_filters.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 294",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 300",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 312",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 319",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 325",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 331",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 337",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 343",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 349",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 356",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 362",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 368",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 375",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 381",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 387",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 396",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 408",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/jumpstart/model/test_sagemaker_config.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/jumpstart/estimator/test_sagemaker_config.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/experiments/test_run_context.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/jumpstart/estimator/test_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 318",
+      "Potential data leakage: model.fit() used without a pipeline at line 466",
+      "Potential data leakage: model.fit() used without a pipeline at line 604",
+      "Potential data leakage: model.fit() used without a pipeline at line 754",
+      "Potential data leakage: model.fit() used without a pipeline at line 1106",
+      "Potential data leakage: model.fit() used without a pipeline at line 1178",
+      "Potential data leakage: model.fit() used without a pipeline at line 1213",
+      "Potential data leakage: model.fit() used without a pipeline at line 1461",
+      "Potential data leakage: model.fit() used without a pipeline at line 1526",
+      "Potential data leakage: model.fit() used without a pipeline at line 1580",
+      "Potential data leakage: model.fit() used without a pipeline at line 1825",
+      "Potential data leakage: model.fit() used without a pipeline at line 1906",
+      "Potential data leakage: model.fit() used without a pipeline at line 2150",
+      "Potential data leakage: model.fit() used without a pipeline at line 2231",
+      "Potential data leakage: model.fit() used without a pipeline at line 2300",
+      "Potential data leakage: model.fit() used without a pipeline at line 875",
+      "Potential data leakage: model.fit() used without a pipeline at line 907"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/jumpstart/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 1227",
+      "Random Seed Not Set at line 1230",
+      "Random Seed Not Set at line 1527",
+      "Random Seed Not Set at line 1528",
+      "Random Seed Not Set at line 1545",
+      "Random Seed Not Set at line 1546",
+      "Random Seed Not Set at line 1233",
+      "Random Seed Not Set at line 1241",
+      "Random Seed Not Set at line 1239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/automl/test_auto_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 460",
+      "Potential data leakage: model.fit() used without a pipeline at line 492",
+      "Potential data leakage: model.fit() used without a pipeline at line 549",
+      "Potential data leakage: model.fit() used without a pipeline at line 588",
+      "Potential data leakage: model.fit() used without a pipeline at line 626",
+      "Potential data leakage: model.fit() used without a pipeline at line 644",
+      "Potential data leakage: model.fit() used without a pipeline at line 875",
+      "Potential data leakage: model.fit() used without a pipeline at line 906",
+      "Potential data leakage: model.fit() used without a pipeline at line 1006",
+      "Potential data leakage: model.fit() used without a pipeline at line 1017"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/automl/test_auto_ml_v2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 519",
+      "Potential data leakage: model.fit() used without a pipeline at line 556",
+      "Potential data leakage: model.fit() used without a pipeline at line 620",
+      "Potential data leakage: model.fit() used without a pipeline at line 662",
+      "Potential data leakage: model.fit() used without a pipeline at line 682",
+      "Potential data leakage: model.fit() used without a pipeline at line 936",
+      "Potential data leakage: model.fit() used without a pipeline at line 967",
+      "Potential data leakage: model.fit() used without a pipeline at line 1077",
+      "Potential data leakage: model.fit() used without a pipeline at line 1089"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/test_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 859",
+      "Potential data leakage: model.fit() used without a pipeline at line 876",
+      "Potential data leakage: model.fit() used without a pipeline at line 894",
+      "Potential data leakage: model.fit() used without a pipeline at line 920",
+      "Potential data leakage: model.fit() used without a pipeline at line 940",
+      "Potential data leakage: model.fit() used without a pipeline at line 956",
+      "Potential data leakage: model.fit() used without a pipeline at line 973",
+      "Potential data leakage: model.fit() used without a pipeline at line 990",
+      "Potential data leakage: model.fit() used without a pipeline at line 1007",
+      "Potential data leakage: model.fit() used without a pipeline at line 1032",
+      "Potential data leakage: model.fit() used without a pipeline at line 1078",
+      "Potential data leakage: model.fit() used without a pipeline at line 1111",
+      "Potential data leakage: model.fit() used without a pipeline at line 1133",
+      "Potential data leakage: model.fit() used without a pipeline at line 1161",
+      "Potential data leakage: model.fit() used without a pipeline at line 1187",
+      "Potential data leakage: model.fit() used without a pipeline at line 1206",
+      "Potential data leakage: model.fit() used without a pipeline at line 1255",
+      "Potential data leakage: model.fit() used without a pipeline at line 1311",
+      "Potential data leakage: model.fit() used without a pipeline at line 1344",
+      "Potential data leakage: model.fit() used without a pipeline at line 1375",
+      "Potential data leakage: model.fit() used without a pipeline at line 1567",
+      "Potential data leakage: model.fit() used without a pipeline at line 1590",
+      "Potential data leakage: model.fit() used without a pipeline at line 1627",
+      "Potential data leakage: model.fit() used without a pipeline at line 1686",
+      "Potential data leakage: model.fit() used without a pipeline at line 1705",
+      "Potential data leakage: model.fit() used without a pipeline at line 1731",
+      "Potential data leakage: model.fit() used without a pipeline at line 1749",
+      "Potential data leakage: model.fit() used without a pipeline at line 1795",
+      "Potential data leakage: model.fit() used without a pipeline at line 1821",
+      "Potential data leakage: model.fit() used without a pipeline at line 2049",
+      "Potential data leakage: model.fit() used without a pipeline at line 2066",
+      "Potential data leakage: model.fit() used without a pipeline at line 2081",
+      "Potential data leakage: model.fit() used without a pipeline at line 2102",
+      "Potential data leakage: model.fit() used without a pipeline at line 2125",
+      "Potential data leakage: model.fit() used without a pipeline at line 2142",
+      "Potential data leakage: model.fit() used without a pipeline at line 2162",
+      "Potential data leakage: model.fit() used without a pipeline at line 2187",
+      "Potential data leakage: model.fit() used without a pipeline at line 2313",
+      "Potential data leakage: model.fit() used without a pipeline at line 2337",
+      "Potential data leakage: model.fit() used without a pipeline at line 2351",
+      "Potential data leakage: model.fit() used without a pipeline at line 2389",
+      "Potential data leakage: model.fit() used without a pipeline at line 2407",
+      "Potential data leakage: model.fit() used without a pipeline at line 2431",
+      "Potential data leakage: model.fit() used without a pipeline at line 2554",
+      "Potential data leakage: model.fit() used without a pipeline at line 2700",
+      "Potential data leakage: model.fit() used without a pipeline at line 2721",
+      "Potential data leakage: model.fit() used without a pipeline at line 2743",
+      "Potential data leakage: model.fit() used without a pipeline at line 2764",
+      "Potential data leakage: model.fit() used without a pipeline at line 2948",
+      "Potential data leakage: model.fit() used without a pipeline at line 2978",
+      "Potential data leakage: model.fit() used without a pipeline at line 3002",
+      "Potential data leakage: model.fit() used without a pipeline at line 3055",
+      "Potential data leakage: model.fit() used without a pipeline at line 3079",
+      "Potential data leakage: model.fit() used without a pipeline at line 3388",
+      "Potential data leakage: model.fit() used without a pipeline at line 3405",
+      "Potential data leakage: model.fit() used without a pipeline at line 3427",
+      "Potential data leakage: model.fit() used without a pipeline at line 3448",
+      "Potential data leakage: model.fit() used without a pipeline at line 3552",
+      "Potential data leakage: model.fit() used without a pipeline at line 3603",
+      "Potential data leakage: model.fit() used without a pipeline at line 3663",
+      "Potential data leakage: model.fit() used without a pipeline at line 3733",
+      "Potential data leakage: model.fit() used without a pipeline at line 3761",
+      "Potential data leakage: model.fit() used without a pipeline at line 3786",
+      "Potential data leakage: model.fit() used without a pipeline at line 3813",
+      "Potential data leakage: model.fit() used without a pipeline at line 3838",
+      "Potential data leakage: model.fit() used without a pipeline at line 3871",
+      "Potential data leakage: model.fit() used without a pipeline at line 3889",
+      "Potential data leakage: model.fit() used without a pipeline at line 3906",
+      "Potential data leakage: model.fit() used without a pipeline at line 3924",
+      "Potential data leakage: model.fit() used without a pipeline at line 3942",
+      "Potential data leakage: model.fit() used without a pipeline at line 3960",
+      "Potential data leakage: model.fit() used without a pipeline at line 3978",
+      "Potential data leakage: model.fit() used without a pipeline at line 3998",
+      "Potential data leakage: model.fit() used without a pipeline at line 4036",
+      "Potential data leakage: model.fit() used without a pipeline at line 4065",
+      "Potential data leakage: model.fit() used without a pipeline at line 4103",
+      "Potential data leakage: model.fit() used without a pipeline at line 4121",
+      "Potential data leakage: model.fit() used without a pipeline at line 4183",
+      "Potential data leakage: model.fit() used without a pipeline at line 4195",
+      "Potential data leakage: model.fit() used without a pipeline at line 4221",
+      "Potential data leakage: model.fit() used without a pipeline at line 4241",
+      "Potential data leakage: model.fit() used without a pipeline at line 4261",
+      "Potential data leakage: model.fit() used without a pipeline at line 4280",
+      "Potential data leakage: model.fit() used without a pipeline at line 4299",
+      "Potential data leakage: model.fit() used without a pipeline at line 4348",
+      "Potential data leakage: model.fit() used without a pipeline at line 4428",
+      "Potential data leakage: model.fit() used without a pipeline at line 4478",
+      "Potential data leakage: model.fit() used without a pipeline at line 4782",
+      "Potential data leakage: model.fit() used without a pipeline at line 4926",
+      "Potential data leakage: model.fit() used without a pipeline at line 4948",
+      "Potential data leakage: model.fit() used without a pipeline at line 4993",
+      "Potential data leakage: model.fit() used without a pipeline at line 5014",
+      "Potential data leakage: model.fit() used without a pipeline at line 5058",
+      "Potential data leakage: model.fit() used without a pipeline at line 5132",
+      "Potential data leakage: model.fit() used without a pipeline at line 5192",
+      "Potential data leakage: model.fit() used without a pipeline at line 5425",
+      "Potential data leakage: model.fit() used without a pipeline at line 5650",
+      "Potential data leakage: model.fit() used without a pipeline at line 5697",
+      "Potential data leakage: model.fit() used without a pipeline at line 5929",
+      "Potential data leakage: model.fit() used without a pipeline at line 5953",
+      "Potential data leakage: model.fit() used without a pipeline at line 1407",
+      "Potential data leakage: model.fit() used without a pipeline at line 1434",
+      "Potential data leakage: model.fit() used without a pipeline at line 1462",
+      "Potential data leakage: model.fit() used without a pipeline at line 1490",
+      "Potential data leakage: model.fit() used without a pipeline at line 1507",
+      "Potential data leakage: model.fit() used without a pipeline at line 1531",
+      "Potential data leakage: model.fit() used without a pipeline at line 1546",
+      "Potential data leakage: model.fit() used without a pipeline at line 1613",
+      "Potential data leakage: model.fit() used without a pipeline at line 1659",
+      "Potential data leakage: model.fit() used without a pipeline at line 1673",
+      "Potential data leakage: model.fit() used without a pipeline at line 1772",
+      "Potential data leakage: model.fit() used without a pipeline at line 1949",
+      "Potential data leakage: model.fit() used without a pipeline at line 1963",
+      "Potential data leakage: model.fit() used without a pipeline at line 1977",
+      "Potential data leakage: model.fit() used without a pipeline at line 2212",
+      "Potential data leakage: model.fit() used without a pipeline at line 2780",
+      "Potential data leakage: model.fit() used without a pipeline at line 2796",
+      "Potential data leakage: model.fit() used without a pipeline at line 2817",
+      "Potential data leakage: model.fit() used without a pipeline at line 2838",
+      "Potential data leakage: model.fit() used without a pipeline at line 2859",
+      "Potential data leakage: model.fit() used without a pipeline at line 2878",
+      "Potential data leakage: model.fit() used without a pipeline at line 2898",
+      "Potential data leakage: model.fit() used without a pipeline at line 2919",
+      "Potential data leakage: model.fit() used without a pipeline at line 3025",
+      "Potential data leakage: model.fit() used without a pipeline at line 4815",
+      "Potential data leakage: model.fit() used without a pipeline at line 5277",
+      "Potential data leakage: model.fit() used without a pipeline at line 5371",
+      "Potential data leakage: model.fit() used without a pipeline at line 5511",
+      "Potential data leakage: model.fit() used without a pipeline at line 5751",
+      "Potential data leakage: model.fit() used without a pipeline at line 5762",
+      "Potential data leakage: model.fit() used without a pipeline at line 5974",
+      "Potential data leakage: model.fit() used without a pipeline at line 5991"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/tensorflow/test_tfs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/tensorflow/test_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 480",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 550",
+      "Potential data leakage: model.fit() used without a pipeline at line 594",
+      "Potential data leakage: model.fit() used without a pipeline at line 615"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/utils/test_predictors.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/huggingface/test_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 239"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/model_server/multi_model_server/test_multi_model_server_prepare.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/model_server/triton/test_triton_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/model_server/tensorflow_serving/test_tf_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/model_server/triton/test_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/serve/builder/test_schema_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/model/test_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 692",
+      "Random Seed Not Set at line 767",
+      "Random Seed Not Set at line 819",
+      "Random Seed Not Set at line 859",
+      "Random Seed Not Set at line 1112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/training_compiler/test_tensorflow_compiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 346",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 448",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/training_compiler/test_huggingface_tensorflow_compiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 347",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 463",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 251",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/training_compiler/test_pytorch_compiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 456",
+      "Potential data leakage: model.fit() used without a pipeline at line 511",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 215",
+      "Potential data leakage: model.fit() used without a pipeline at line 231",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 296"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/training_compiler/test_huggingface_pytorch_compiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 400",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 517",
+      "Potential data leakage: model.fit() used without a pipeline at line 573",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 282",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 352"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/component/test_mxnet_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/component/test_tf_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_ntm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_predict_stream.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 84",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_smdataparallel_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_record_set.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_horovod.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_tuner_multi_algo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_edge.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 374",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_torch_distributed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/auto_ml_v2_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/unit/sagemaker/feature_store/test_feature_group.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_model_quality_monitor.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_clarify_model_monitor.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_source_dirs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_clarify.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 304"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_horovod_mx.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/auto_ml_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_model_card.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_smdataparallel_pt.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_training_compiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_serverless_inference.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_git.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 256",
+      "Potential data leakage: model.fit() used without a pipeline at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_rl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_factorization_machines.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_huggingface_torch_distributed.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_kmeans_efs_fsx.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 233"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 94"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 80",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_airflow_config.py": {
+    "R2": [
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 394"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_linear_learner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_chainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_inference_recommender.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 344",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 367",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 390",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 413",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 437",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 475",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 515"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_profiler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 435"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 562",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 506",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 679",
+      "Potential data leakage: model.fit() used without a pipeline at line 734",
+      "Potential data leakage: model.fit() used without a pipeline at line 794",
+      "Potential data leakage: model.fit() used without a pipeline at line 844",
+      "Potential data leakage: model.fit() used without a pipeline at line 912",
+      "Potential data leakage: model.fit() used without a pipeline at line 984"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 519",
+      "Random Seed Not Set at line 932"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_auto_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_neo_mxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_randomcutforest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_ipinsights.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_serve.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 88",
+      "Hyperparameter not explicitly set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_tf_efs_fsx.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_object2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_pytorchddp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_mxnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 455"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_huggingface.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 83",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_byo_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_async_inference.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 143"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 67",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 120",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_multidatamodel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 438"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/jumpstart/script_mode_class/test_transfer_learning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/jumpstart/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 140"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/experiments/test_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/jumpstart/estimator/test_jumpstart_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_marketplace.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 407",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/jumpstart/private_hub/estimator/test_jumpstart_private_hub_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 583",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 474"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 451"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 302",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 474"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_debugger.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 595",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 719",
+      "Potential data leakage: model.fit() used without a pipeline at line 776"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/test_feature_store.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 562; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 638; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 717; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/workflow/test_workflow_with_clarify.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/experiments/test_run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 387",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 209",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 312",
+      "Potential data leakage: model.fit() used without a pipeline at line 337"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/serve/test_serve_model_builder_handshake.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/serve/test_serve_pt_happy.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/serve/test_serve_mlflow_pytorch_flavor_happy.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/workflow/test_step_decorator.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/monitor/preprocessor.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/serve/test_base_model_builder_deploy.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/pytorch_ddp/mnist_pt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 230"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/tensorflow_mnist/mnist_mwms.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/coach_cartpole/preset_cartpole_clippedppo.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 44",
+      "Hyperparameter not explicitly set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/pipeline/model_step/pytorch_mnist/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 213",
+      "Hyperparameter not explicitly set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/chainer_mnist/distributed_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sklearn_processing/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 27",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/pytorch_neo/code/inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sklearn_processing/preprocessing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/pytorch_mnist/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 213",
+      "Hyperparameter not explicitly set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/workflow/abalone/evaluation.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 27"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/workflow/abalone/preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/torch_distributed/mnist_mlp_trainium.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/tensorflow_mnist/mnist_v2.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/smdistributed_dataparallel/mnist_tf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/workflow/test_workflow.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 597"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/mxnet_mnist/code/inference.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/mxnet_mnist/mnist_gluon.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 107"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sip/sklearn_source_dir/inference.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sip/training.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 52",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 54",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 55"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/modules/local_script/pytorch_model_def.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sip/preprocessor.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 76"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/mxnet_mnist/mnist_neo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/modules/script_mode/pytorch_model_def.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/mxnet_mnist/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/smdistributed_dataparallel/mnist_pt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 230"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/inference_recommender/inference.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 42"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/huggingface/run_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/sklearn_mnist/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/modules/local_script/local_training_script.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/data/modules/script_mode/custom_script.py": {
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/algorithm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 460"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/tests/integ/sagemaker/feature_store/feature_processor/test_feature_processor.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/jumpstart/notebook_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 467",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 504"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/jumpstart/estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 721"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/jumpstart/filters.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 307",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 399",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 349"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/local/image.py": {
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 829"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/save_retrive/version_1_0_0/save/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/save_retrive/version_1_0_0/save/framework/pytorch_handler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/model_server/in_process_model_server/app.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/model_server/torchserve/inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/model_server/torchserve/xgboost_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/serve/detector/image_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/modules/train/container_drivers/distributed_drivers/torchrun_driver.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/feature_store/feature_group.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/session.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 8836"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/aws_sagemaker-python-sdk/sagemaker-python-sdk-master/src/sagemaker/feature_store/dataset_builder.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 509"
+    ]
+  }
+}

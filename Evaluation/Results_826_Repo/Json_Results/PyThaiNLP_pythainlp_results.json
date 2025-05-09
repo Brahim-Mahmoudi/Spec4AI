@@ -1,0 +1,129 @@
+{
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/tests/extra/testx_ulmfit.py": {
+    "R2": [
+      "Random Seed Not Set at line 270"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 216"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/ulmfit/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/tools/misspell.py": {
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/tests/extra/testx_transliterate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/util/time.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 313"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/spell/wanchanberta_thai_grammarly.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/wangchanberta/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/summarize/freq.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/augment/lm/phayathaibert.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/parse/ud_goeswith.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/parse/transformers_ud.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/generate/thai2fit.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/generate/wangchanglm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/generate/core.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/phayathaibert/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/transliterate/iso_11940.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/tag/_tag_perceptron.py": {
+    "R2": [
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/transliterate/thaig2p.py": {
+    "R2": [
+      "Random Seed Not Set at line 347"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/PyThaiNLP_pythainlp/pythainlp-dev/pythainlp/transliterate/thai2rom.py": {
+    "R2": [
+      "Random Seed Not Set at line 337"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

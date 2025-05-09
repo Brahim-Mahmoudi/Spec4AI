@@ -1,0 +1,51 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/em-clustering/kmeans_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/support_vector_machines/sentiment_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/artificial_neural_networks/network.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/decision_trees/classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 145"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 92",
+      "Hyperparameter not explicitly set at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/k-nearest-neighbors/regression.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 83; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 84; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/thoughtfulml_examples-in-python/examples-in-python-master/em-clustering/em_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/callbacks/experiment_log.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/utils/recover_best_model.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/reducers/reduce_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/templates/params.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 10",
+      "Hyperparameter not explicitly set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/commands/restore.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/commands/evaluate.py": {
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/templates/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/tests/commands/recover_best_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/tests/performance/memory_pressure_check.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 19"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/tests/commands/test_latest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/commands/analyze.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/autom8/automodel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 118"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76",
+      "Hyperparameter not explicitly set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/examples/iris.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/tests/commands/test_rest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/talos/templates/datasets.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 39",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 54",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 55",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 68",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 79",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 97",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 100",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 120",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 121",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 139",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 140",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 33",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 34",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 36",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 37"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 112",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autonomio_talos/talos-master/tests/commands/test_scan.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  }
+}

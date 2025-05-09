@@ -1,0 +1,184 @@
+{
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/layers/modules/l2norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/layers/functions/detection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/layers/functions/prior_box.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/layers/modules/multibox_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/layers/modules/refine_multibox_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/base_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/SSD_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/FSSD_mobile.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/demo/live.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 177"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/resume_from_coco.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 203"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/utils/box_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RFB_Net_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/FSSD_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/FRFBSSD_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/SSD_HarDNet85.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RefineSSD_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RFB_Net_mobile.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RFB_Net_E_vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/utils/pycocotools/coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/refinedet_train_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 240"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 330"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/train_test_fssd_mobile_pre.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 263"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 344"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/train_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 380"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/data/coco.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/SSD_HarDNet68.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RFB_HarDNet85.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/data/voc0712.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/data/data_augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 108"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lzx1413_PytorchSSD/PytorchSSD-master/models/RFB_HarDNet68.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

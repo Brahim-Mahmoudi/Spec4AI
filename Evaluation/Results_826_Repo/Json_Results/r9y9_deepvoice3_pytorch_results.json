@@ -1,0 +1,92 @@
+{
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/audio.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/tests/test_audio.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/synthesis.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/tests/test_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/tests/test_conv.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/deepvoice3_pytorch/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/tests/test_nyanko.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/deepvoice3_pytorch/nyanko.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/tests/test_deepvoice3.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 139"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 290",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 166",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/deepvoice3_pytorch/deepvoice3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_deepvoice3_pytorch/deepvoice3_pytorch-master/vctk_preprocess/extract_feats.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1121"
+    ]
+  }
+}

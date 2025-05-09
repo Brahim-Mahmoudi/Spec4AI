@@ -1,0 +1,255 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/subgraph_matching.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 214"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/pyramid_match.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/kernel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/graph_kernels.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 404"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/hadamard_code.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 399",
+      "Potential data leakage: model.fit() used without a pipeline at line 227"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 368"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/shortest_path.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 394"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 313",
+      "Use np.matmul() instead of np.dot() for matrices at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/odd_sth.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 156"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 170",
+      "Use np.matmul() instead of np.dot() for matrices at line 223",
+      "Use np.matmul() instead of np.dot() for matrices at line 256",
+      "Use np.matmul() instead of np.dot() for matrices at line 251"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 575"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/svm_theta.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/neighborhood_hash.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 236"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 471"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/lovasz_theta.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 409",
+      "Use np.matmul() instead of np.dot() for matrices at line 491",
+      "Use np.matmul() instead of np.dot() for matrices at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/core_framework.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 545",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 214"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 177",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 344",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 207",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 218"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 545"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/graph_hopper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 558"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 281",
+      "Use np.matmul() instead of np.dot() for matrices at line 282",
+      "Use np.matmul() instead of np.dot() for matrices at line 283",
+      "Use np.matmul() instead of np.dot() for matrices at line 305",
+      "Use np.matmul() instead of np.dot() for matrices at line 306",
+      "Use np.matmul() instead of np.dot() for matrices at line 309",
+      "Use np.matmul() instead of np.dot() for matrices at line 328",
+      "Use np.matmul() instead of np.dot() for matrices at line 330",
+      "Use np.matmul() instead of np.dot() for matrices at line 335"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 558"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/neighborhood_subgraph_pairwise_distance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/weisfeiler_lehman_optimal_assignment.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 489"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 211",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 407",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 212",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/weisfeiler_lehman_subtree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/weisfeiler_lehman.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 517",
+      "Potential data leakage: model.fit() used without a pipeline at line 247"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 486"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/shortest_path.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/plot_pipeline_example.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/node_attributed_dataset.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/document_retrieval_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/examples/erdos_renyi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/graphlet_sampling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 311"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 279"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/tests/test_common.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 236",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 293",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 412",
+      "Potential data leakage: model.fit() used without a pipeline at line 430",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 450",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 467",
+      "Potential data leakage: model.fit() used without a pipeline at line 486",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 317"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/tests/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ysig_GraKeL/GraKeL-master/grakel/kernels/propagation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 780"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 394",
+      "Use np.matmul() instead of np.dot() for matrices at line 284",
+      "Use np.matmul() instead of np.dot() for matrices at line 585",
+      "Use np.matmul() instead of np.dot() for matrices at line 612",
+      "Use np.matmul() instead of np.dot() for matrices at line 310",
+      "Use np.matmul() instead of np.dot() for matrices at line 360"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 780"
+    ]
+  }
+}

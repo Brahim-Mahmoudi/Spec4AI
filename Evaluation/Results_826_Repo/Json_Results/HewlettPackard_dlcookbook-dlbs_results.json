@@ -1,0 +1,60 @@
+{
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/mxnet_benchmarks/data_iterator.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/mxnet_benchmarks/benchmarks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/dlbs/data/imagenet/imagenet_tools.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/dlbs/data/imagenet/tensorflow_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/pytorch_benchmarks/models/googlenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/pytorch_benchmarks/benchmarks.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/pytorch_benchmarks/models/inception.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/src/tensorrt/python/compute_mprocess_throughput.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/tf_cnn_benchmarks/variable_mgr.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 390",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HewlettPackard_dlcookbook-dlbs/dlcookbook-dlbs-master/python/tf_cnn_benchmarks/benchmark_cnn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1231"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 1699"
+    ]
+  }
+}

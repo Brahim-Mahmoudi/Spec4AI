@@ -1,0 +1,165 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/00_preprocessing/Normalize_Vahadane.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/xClasses/inception/slim/inception_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/xClasses/inception/slim/losses_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 134",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/multiClasses/inception/slim/inception_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/multiClasses/inception/slim/losses_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 134",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/xClasses/inception/slim/ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 661",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 683"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 616",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 617",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 650",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 651",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 685",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/00_preprocessing/0d_SortTiles_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 371",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/03_postprocessing/0j_out_filename_stats_Imgs.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 189; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 196; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 197; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 185; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 186; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 188; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/02_testing/multiClasses/inception/slim/ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 661",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 683"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 616",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 617",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 650",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 651",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 685",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/00_preprocessing/0d_SortTiles.py": {
+    "R2": [
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 395",
+      "Random Seed Not Set at line 604"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/01_training/xClasses/inception/slim/inception_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/01_training/xClasses/inception/slim/losses.py": {
+    "R7": [
+      "Missing mask for tf.log at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/01_training/xClasses/inception/slim/losses_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 134",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ncoudray_DeepPATH/DeepPATH-master/DeepPATH_code/01_training/xClasses/inception/slim/ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 661",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 683"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 616",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 617",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 650",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 651",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 685",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462"
+    ]
+  }
+}

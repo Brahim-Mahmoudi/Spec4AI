@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/alexander-rakhlin_ICIAR2018/ICIAR2018-master/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alexander-rakhlin_ICIAR2018/ICIAR2018-master/crossvalidate_blending.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 68",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 64"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/alexander-rakhlin_ICIAR2018/ICIAR2018-master/feature_extractor.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 74",
+      "Use np.matmul() instead of np.dot() for matrices at line 78",
+      "Use np.matmul() instead of np.dot() for matrices at line 79",
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 124",
+      "Use np.matmul() instead of np.dot() for matrices at line 93"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/utils/convert_params.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/utils/checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/scripts/average_checkpoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/scripts/convert_checkpoint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/affine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/layer_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/bin/scorer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 167"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/utils/evaluation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/recurrent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/bin/translator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/utils/inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/modules/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/data/pipeline.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/bin/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/models/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/THUNLP-MT_THUMT/THUMT-master/thumt/optimizers/optimizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 96",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 409"
+    ]
+  }
+}

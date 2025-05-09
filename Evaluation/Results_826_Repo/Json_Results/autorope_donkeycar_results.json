@@ -1,0 +1,157 @@
+{
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/scripts/profile.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/scripts/multi_train.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/tests/test_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/pipeline/training.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/tests/test_util_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/tests/test_keras.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/tests/test_train.py": {
+    "R2": [
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/tests/test_pipeline.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 130"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 569",
+      "Random Seed Not Set at line 588"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/management/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/benchmarks/tub_v2.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/benchmarks/tub.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/simulation.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/fastai.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/transform.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/tachometer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/interpreter.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/image.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/pytorch/ResNet18.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/pytorch/torch_train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/pytorch/torch_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/datastore.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 434"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/autorope_donkeycar/donkeycar-main/donkeycar/parts/keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 168"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 1070",
+      "Hyperparameter not explicitly set at line 1075"
+    ]
+  }
+}

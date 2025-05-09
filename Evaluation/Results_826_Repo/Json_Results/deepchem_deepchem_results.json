@@ -1,0 +1,3474 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/DeepMHC/run_deepmhc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/nn/objectives.py": {
+    "R7": [
+      "Missing mask for tf.log at line 30",
+      "Missing mask for tf.log at line 31",
+      "Missing mask for tf.log at line 59",
+      "Missing mask for tf.log at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/dragonn/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 335"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 323"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/dragonn/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/core/opt_temporal.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/core/opt_stratified.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/core/opt_random.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/core/opt_scaffold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/refined/opt_temporal.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/splits/pdbbind_temporal_split.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 58",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/refined/opt_random.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/refined/opt_stratified.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/atomicconv/acnn/refined/opt_scaffold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/DiabeticRetinopathy/run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/hagcn/run_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/torch/torch_multitask_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 73"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/torch/torch_multitask_classification.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/torch/torch_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/DiabeticRetinopathy/data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/pubchem_dataset/create_assay_overview.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 113",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/tox_siamese_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/DiabeticRetinopathy/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/muv_siamese_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/tests/test_graph_models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/tox21_alternate_weave.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_alternate_weave.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_from_tox21_attn_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_from_tox21_siamese_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_siamese_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_res_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/muv_attn_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/tox_res_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_attn_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/sider_from_tox21_res_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/tox_attn_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/examples/muv_res_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/one_shot_models/support_classifier.py": {
+    "R7": [
+      "Missing mask for tf.log at line 253"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/mpnn/donkey.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/rl/test_mcts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/rl/tictactoe.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/vina_model/test_vina_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 74"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metrics/tests/test_genomics.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/torch/pytorch_graphconv.py": {
+    "R2": [
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 363"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 400"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/vina_model/vina_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 60",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 127",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 243",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 302",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 132",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 237",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 300",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 534"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/molnet/run_benchmark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metrics/tests/test_normalize.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/tensorflow_models/progressive_joint.py": {
+    "R3": [
+      "TensorArray Not Used at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/rl/mcts.py": {
+    "R2": [
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 284"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 84"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/contrib/tensorflow_models/progressive_multitask.py": {
+    "R3": [
+      "TensorArray Not Used at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/molnet/load_function/pdbbind_datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/molnet/load_function/bbbc_datasets.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 200"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 113",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/molnet/run_benchmark_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 368",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 755",
+      "Potential data leakage: model.fit() used without a pipeline at line 757"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 671"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/mol_graphs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 291",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 320",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 325"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 249"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/tests/test_mol_graph_conv_featurizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/graph_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/tests/test_dftdata.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/tests/test_dftdata2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/deepvariant_featurizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 468"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/material_featurizers/lcnn_featurizer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/molecule_featurizers/smiles_to_seq.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/molecule_featurizers/one_hot_featurizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/molecule_featurizers/sparse_matrix_one_hot_featurizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/graph_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/geometry_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 118",
+      "Use np.matmul() instead of np.dot() for matrices at line 121",
+      "Use np.matmul() instead of np.dot() for matrices at line 145"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/safeops_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/optimizer_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/vocabulary_builders/grover_vocab.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 131",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 375"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dftutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/pytorch_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/fake_data_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/feat/tests/test_graph_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 328",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 356",
+      "Random Seed Not Set at line 358",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 369",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 388",
+      "Random Seed Not Set at line 389",
+      "Random Seed Not Set at line 391",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/grover.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/cache_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/data_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 345",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 380",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 342",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 377",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/grad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/optimize/equilibrium.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/optimize/minimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_graph_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/integrate/explicit_rk.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/optimize/jacobian.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/optimize/rootfinder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/editable_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_grover.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_electron_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_pytorch_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/equivariance_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 742"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_safe_ops_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/optimize/rootsolver.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_hash_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_dftutils.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_geometry_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_voxel_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/symeig.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/linop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_generator_evaluator.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 34",
+      "Hyperparameter not explicitly set at line 72",
+      "Hyperparameter not explicitly set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/orbconverter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/orbparams.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/intor/pbcintor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/intor/lattice.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/df/dfmol.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/intor/gtoeval.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/api/parser.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/qccalc/ks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_evaluate.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/qccalc/scf_qccalc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/differentiation_utils/solve.py": {
+    "R2": [
+      "Random Seed Not Set at line 1064"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/api/loadbasis.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/qccalc/hf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_equivariance_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 506",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 534"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/data/datastruct.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/intor/lcintwrap.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/system/mol.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/grid/lebedev_grid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/xc/libxc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/hcgto.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/xc/base_xc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/grid/truncation_rules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/grid/factory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/grid/radial_grid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/grid/multiatoms_grid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/progressive_multitask.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/text_cnn.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 157",
+      "Hyperparameter not explicitly set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/scscore.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/gan.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/multitask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/chemnet_models.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 154",
+      "Hyperparameter not explicitly set at line 285",
+      "Hyperparameter not explicitly set at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/IRV.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/robust_multitask.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 166",
+      "Hyperparameter not explicitly set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/atomic_conv.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/seqtoseq.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 19",
+      "Hyperparameter not explicitly set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/lightning/dc_lightning_dataset_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/molgan.py": {
+    "R2": [
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/lightning/tests/test_dc_lightning_module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/dft/scf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/dft/tests/test_hamilton.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/hamilton/intor/molintor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/dft_utils/xc/libxc_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/gbdt_models/gbdt_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 140",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/dft/hamilton/orbparams.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/dft/dftxc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/dft/nnxc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/optimizers.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 488"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/cgcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/fcnet.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/seqtoseq.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/weavemodel_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 296",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 309"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/progressive_multitask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/oneformer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 418"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/kfac_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/text_cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 409"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/cnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/lcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/mxmnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/keras_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 573"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/megnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_differentiation_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/molformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/chemberta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/dmpnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/mat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/gnn3d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/readout.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/grover_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 441"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/IRV.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/robust_multitask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/pinns_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/graph_models.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 502",
+      "Hyperparameter not explicitly set at line 852",
+      "Hyperparameter not explicitly set at line 856",
+      "Hyperparameter not explicitly set at line 1134",
+      "Hyperparameter not explicitly set at line 287",
+      "Hyperparameter not explicitly set at line 693",
+      "Hyperparameter not explicitly set at line 858",
+      "Hyperparameter not explicitly set at line 1154",
+      "Hyperparameter not explicitly set at line 281",
+      "Hyperparameter not explicitly set at line 687",
+      "Hyperparameter not explicitly set at line 695",
+      "Hyperparameter not explicitly set at line 1147",
+      "Hyperparameter not explicitly set at line 1157"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/acnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/modular.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/hf_models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 485",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 574"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/pna_gnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/ferminet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 511",
+      "Use module() instead of forward() at line 653"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/molgan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/flows.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/grover.py": {
+    "R2": [
+      "Random Seed Not Set at line 787",
+      "Random Seed Not Set at line 837"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/inceptionv3.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 879"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_chemberta.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 174"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/graphconvmodel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_hf_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_antibody_modeling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_unet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_molformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 152"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_dag_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_molgan_model.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_readout.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_scscore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_flows.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_oneformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/infograph.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_grover.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 254"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_robust_multitask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 331"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_prot_bert.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 171"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/utils/test/test_dft_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 1097",
+      "Random Seed Not Set at line 1812",
+      "Random Seed Not Set at line 570",
+      "Random Seed Not Set at line 820",
+      "Random Seed Not Set at line 835",
+      "Random Seed Not Set at line 836",
+      "Random Seed Not Set at line 850",
+      "Random Seed Not Set at line 851",
+      "Random Seed Not Set at line 852",
+      "Random Seed Not Set at line 853",
+      "Random Seed Not Set at line 866",
+      "Random Seed Not Set at line 867",
+      "Random Seed Not Set at line 868",
+      "Random Seed Not Set at line 869",
+      "Random Seed Not Set at line 870",
+      "Random Seed Not Set at line 871",
+      "Random Seed Not Set at line 872",
+      "Random Seed Not Set at line 873",
+      "Random Seed Not Set at line 893",
+      "Random Seed Not Set at line 894",
+      "Random Seed Not Set at line 895",
+      "Random Seed Not Set at line 896",
+      "Random Seed Not Set at line 910",
+      "Random Seed Not Set at line 911",
+      "Random Seed Not Set at line 923",
+      "Random Seed Not Set at line 924",
+      "Random Seed Not Set at line 1142",
+      "Random Seed Not Set at line 901",
+      "Random Seed Not Set at line 1069",
+      "Random Seed Not Set at line 1079",
+      "Random Seed Not Set at line 1089",
+      "Random Seed Not Set at line 670",
+      "Random Seed Not Set at line 1242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_grover_layers.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_IRV.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_pinns.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_attentivefp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 340",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 470",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 546",
+      "Random Seed Not Set at line 547"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_acnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 146"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_se3_transformer.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 251",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_inceptionv3.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 274"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 256"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_pretrained_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_pna.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_pagtn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/gnn.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 877"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_normalizing_flow_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_textcnn_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_callbacks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_smiles2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 169"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_ferminet.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_progressive_multitask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 260"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/torch_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 538"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 595"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/tests/test_molgan_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_cnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_dtnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_atomic_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 169"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_lcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gbdt_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 344"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 269"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_mpnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_chemnet_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_dftxc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_multitask.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_weavelayer_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_normalizing_flows.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_molgan_model.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_seqtoseq.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_seqtoseq_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_scscore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gan.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 264"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 27",
+      "Hyperparameter not explicitly set at line 187",
+      "Hyperparameter not explicitly set at line 196",
+      "Hyperparameter not explicitly set at line 236",
+      "Hyperparameter not explicitly set at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_attention.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_layer_graphnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_graph_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 132",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 209",
+      "Potential data leakage: model.fit() used without a pipeline at line 235",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gat.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_graphconv_torchmodel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_infograph.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 301",
+      "Potential data leakage: model.fit() used without a pipeline at line 302",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 305",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 328",
+      "Potential data leakage: model.fit() used without a pipeline at line 349",
+      "Potential data leakage: model.fit() used without a pipeline at line 361"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_cgcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_weave_gather.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_weave_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_molgan_layers.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_optimizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 307"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_mat.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_mxmnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_singletask_to_multitask.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_weave_gather_guassian_histogram.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_sklearn_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 70",
+      "Hyperparameter not explicitly set at line 138",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_nnxc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_pbe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_gnn3d.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_pretrained_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_dens.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_megnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_scf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/sklearn_models/sklearn_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_dmpnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 274",
+      "Potential data leakage: model.fit() used without a pipeline at line 301"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/jax_models/tests/test_pinn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_modular.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 214"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_weavemodel_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 269",
+      "Potential data leakage: model.fit() used without a pipeline at line 292",
+      "Potential data leakage: model.fit() used without a pipeline at line 334",
+      "Potential data leakage: model.fit() used without a pipeline at line 373"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_kerasmodel.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 345"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 31",
+      "Hyperparameter not explicitly set at line 208",
+      "Hyperparameter not explicitly set at line 209",
+      "Hyperparameter not explicitly set at line 130",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 260",
+      "Hyperparameter not explicitly set at line 287",
+      "Hyperparameter not explicitly set at line 288",
+      "Hyperparameter not explicitly set at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/maml.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/tests/test_maml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/tests/test_maml_reload_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/tests/test_maml_reload.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_coulomb.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_torch_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 263",
+      "Potential data leakage: model.fit() used without a pipeline at line 337",
+      "Potential data leakage: model.fit() used without a pipeline at line 367",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 526"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/jax_models/jax_model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/tests/test_maml_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/layers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 75",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1719",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1750",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1801",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1715",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1753",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1798"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1351",
+      "Random Seed Not Set at line 1450",
+      "Random Seed Not Set at line 2079",
+      "Random Seed Not Set at line 2168"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 3853",
+      "TensorArray Not Used at line 3862"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_minmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/metalearning/torch_maml.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_power.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_IRV.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/jax_models/tests/test_jax_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_overfit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 197",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 459",
+      "Potential data leakage: model.fit() used without a pipeline at line 490",
+      "Potential data leakage: model.fit() used without a pipeline at line 523",
+      "Potential data leakage: model.fit() used without a pipeline at line 556",
+      "Potential data leakage: model.fit() used without a pipeline at line 590",
+      "Potential data leakage: model.fit() used without a pipeline at line 634",
+      "Potential data leakage: model.fit() used without a pipeline at line 672",
+      "Potential data leakage: model.fit() used without a pipeline at line 709",
+      "Potential data leakage: model.fit() used without a pipeline at line 745",
+      "Potential data leakage: model.fit() used without a pipeline at line 775",
+      "Potential data leakage: model.fit() used without a pipeline at line 789",
+      "Potential data leakage: model.fit() used without a pipeline at line 830",
+      "Potential data leakage: model.fit() used without a pipeline at line 865",
+      "Potential data leakage: model.fit() used without a pipeline at line 903",
+      "Potential data leakage: model.fit() used without a pipeline at line 946",
+      "Potential data leakage: model.fit() used without a pipeline at line 984",
+      "Potential data leakage: model.fit() used without a pipeline at line 1025",
+      "Potential data leakage: model.fit() used without a pipeline at line 1047",
+      "Potential data leakage: model.fit() used without a pipeline at line 1067"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 517"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 95",
+      "Hyperparameter not explicitly set at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_image_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_cdf_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_log_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 100",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_copy_and_move.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/tests/test_data_transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_image_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/pytorch_datasets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_property.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_shape.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_merge.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_reshard.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/supports.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 382"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_non_classification_regression_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 7",
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_select.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_setshard.py": {
+    "R2": [
+      "Random Seed Not Set at line 7",
+      "Random Seed Not Set at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/hyper/grid_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/hyper/random_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 196"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 292"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/hyper/gaussian_process.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 323",
+      "Potential data leakage: model.fit() used without a pipeline at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_reload.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 434",
+      "Potential data leakage: model.fit() used without a pipeline at line 492",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 681",
+      "Potential data leakage: model.fit() used without a pipeline at line 741",
+      "Potential data leakage: model.fit() used without a pipeline at line 809",
+      "Potential data leakage: model.fit() used without a pipeline at line 871",
+      "Potential data leakage: model.fit() used without a pipeline at line 934",
+      "Potential data leakage: model.fit() used without a pipeline at line 984",
+      "Potential data leakage: model.fit() used without a pipeline at line 1036",
+      "Potential data leakage: model.fit() used without a pipeline at line 1095",
+      "Potential data leakage: model.fit() used without a pipeline at line 1138"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_shuffle.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_rl_reload_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_rl_reload.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_ppo_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 284"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 213"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_ppo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 262"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 204"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/envs/tictactoe.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/a2c.py": {
+    "R2": [
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_a2c.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 337"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 204"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 250",
+      "Hyperparameter not explicitly set at line 319"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/tests/test_a2c_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 353"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 282"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 399"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/dock/tests/test_pose_scoring.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/benchmark/gcnmodel_benchmark.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/membrane_permeability/membrane_permeability_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/trans/transformers.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 2464"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2534",
+      "Random Seed Not Set at line 2513",
+      "Random Seed Not Set at line 1458"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/splits/tests/test_task_splitter.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kaggle/KAGGLE_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kaggle/KAGGLE_tf_singletask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kaggle/KAGGLE_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/muv/muv_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/muv/muv_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kaggle/KAGGLE_rf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kaggle/KAGGLE_tf_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/torch_rl/torch_a2c.py": {
+    "R2": [
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 510"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/data_loading/pandas_csv.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hydra_examples/train_gcn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/sider/sider_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_sklearn_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/bace/bace_rf.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_robustMT_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_IRV.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_tensorgraph_weave.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_fcnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/rl/torch_rl/torch_ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 493"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_graphcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_logreg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_tensorgraph_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_KernelSVM.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_krr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_weave.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/tox21/tox21_tensorgraph_DAG.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_MPNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_DAG.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_torch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/datasets/pretty_print.py": {
+    "R2": [
+      "Random Seed Not Set at line 4"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_tf_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_textcnn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_chemception.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/toxcast/toxcast_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/clintox/clintox_fcnet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/clintox/clintox_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/toxcast/processing/tox.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 27"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 13",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/delaney/delaney_graphconv_error_bars.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/roitberg/roitberg.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/factors/FACTORS_tf_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/factors/FACTORS_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/factors/FACTORS_tf_singletask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/clintox/datasets/aacttox_sweetfda_join.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/factors/FACTORS_rf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/factors/FACTORS_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/sweetlead/sweet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pdbbind/pdbbind_atomic_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/model_restore/chemception_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pdbbind/pdbbind_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pdbbind/pdbbind_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/uv/UV_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/adme/run_benchmarks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/uv/UV_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/tests/test_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 558",
+      "Random Seed Not Set at line 561",
+      "Random Seed Not Set at line 567"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 813"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/uv/UV_tf_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/uv/UV_rf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/uv/UV_tf_singletask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kinase/KINASE_tf_robust.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pcba/pcba_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kinase/KINASE_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kinase/KINASE_rf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kinase/KINASE_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7b_DTNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pcba/pcba_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/tests/test_layers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 702"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 845"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 564",
+      "Random Seed Not Set at line 565",
+      "Random Seed Not Set at line 568",
+      "Random Seed Not Set at line 571",
+      "Random Seed Not Set at line 609",
+      "Random Seed Not Set at line 837",
+      "Random Seed Not Set at line 838",
+      "Random Seed Not Set at line 905",
+      "Random Seed Not Set at line 907",
+      "Random Seed Not Set at line 610",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 389",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 442",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 478",
+      "Random Seed Not Set at line 502",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 538",
+      "Random Seed Not Set at line 858",
+      "Random Seed Not Set at line 871",
+      "Random Seed Not Set at line 872",
+      "Random Seed Not Set at line 873",
+      "Random Seed Not Set at line 903",
+      "Random Seed Not Set at line 966",
+      "Random Seed Not Set at line 967",
+      "Random Seed Not Set at line 886",
+      "Random Seed Not Set at line 887",
+      "Random Seed Not Set at line 936"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/kinase/KINASE_tf_singletask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7_tensorgraph_DTNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7b_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7_tensorgraph_GraphConv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm9/qm9_DTNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm7/qm7_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hopv/hopv_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm9/qm9_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hopv/hopv_tf_progressive.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hopv/hopv_tf_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hopv/hopv_sklearn_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hopv/hopv_robustMT_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/nci/nci_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm8/qm8_DTNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm8/qm8_MPNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/qm8/qm8_tf_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hiv/hiv_tf_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/hiv/hiv_irv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/chembl/chembl_graph_conv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/chembl/chembl_tf_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/tox_rf_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/tox_rf_K_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/muv_rf_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/tox_graph_conv_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/muv_graph_conv_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/sider_graph_conv_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/multiclass/multiclass_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/binding_pockets/binding_pocket_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/sider_rf_one_fold.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/pretraining/fcnet_pretraining.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/examples/low_data/toxcast_maml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/splits/splitters.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 601",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 602"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1105"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 1683; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1680"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/data/datasets.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2677",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2695"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2120",
+      "Random Seed Not Set at line 2200",
+      "Random Seed Not Set at line 2189",
+      "Random Seed Not Set at line 2160",
+      "Random Seed Not Set at line 879",
+      "Random Seed Not Set at line 1680",
+      "Random Seed Not Set at line 2858",
+      "Random Seed Not Set at line 1722"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/deepchem_deepchem/deepchem-master/deepchem/models/torch_models/layers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 7875"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 2677",
+      "Random Seed Not Set at line 2680",
+      "Random Seed Not Set at line 2688",
+      "Random Seed Not Set at line 2691",
+      "Random Seed Not Set at line 2699",
+      "Random Seed Not Set at line 2702",
+      "Random Seed Not Set at line 5395",
+      "Random Seed Not Set at line 5399",
+      "Random Seed Not Set at line 5407",
+      "Random Seed Not Set at line 5413",
+      "Random Seed Not Set at line 2675",
+      "Random Seed Not Set at line 2686",
+      "Random Seed Not Set at line 2697",
+      "Random Seed Not Set at line 6520",
+      "Random Seed Not Set at line 6951",
+      "Random Seed Not Set at line 7157",
+      "Random Seed Not Set at line 6945",
+      "Random Seed Not Set at line 7151"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4360",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4367",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4389",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4401",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4409",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4416",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 4423"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

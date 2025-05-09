@@ -1,0 +1,440 @@
+{
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_gbt_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_word2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_one_vs_rest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_bucketed_random_projection_lsh.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_random_forest_classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_random_forest_regressor.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_chi_sql_selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_k_means.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_linear_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_mlp_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_decision_tree_classifier_category.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_imputer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_min_hash_lsh.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_index_to_string.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_gbt_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_vector_indexer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_aft_survival_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_string_indexer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_onehot_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_random_forest_classifier_tree.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_PCA.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_count_vectorizer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_naive_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/xgboost/test_xgboost_issues.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_linear_regressor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/xgboost/test_xgboost_converters_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/sparkml/test_scaler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/h2o/test_h2o_converters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_OneHotEncoderConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/utils/test_utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_ImputerConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_ScalerConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_GLMClassifierConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_TreeEnsembleClassifierConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_SupportVectorRegressorConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_GLMRegressorConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_TreeEnsembleRegressorConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_TreeEnsembleRegressorConverterXGBoost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/xgboost/test_xgboost_converters_base_score.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/coreml/test_cml_SupportVectorClassifierConverter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/lightgbm/test_lightgbm_missing_values.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/catboost/test_CatBoost_converter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_h2o.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_lightgbm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_libsvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/lightgbm/test_objective_functions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 80"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/docs/examples/plot_convert_sparkml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/lightgbm/test_LightGbmTreeEnsembleConverters_split.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/onnxmltools/utils/tests_dl_helper.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 124"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/hummingbirdml/test_LightGbmTreeEnsembleConverters_hummingbird.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 272",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 324",
+      "Potential data leakage: model.fit() used without a pipeline at line 372"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/lightgbm/test_LightGbmTreeEnsembleConverters.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/svmlib/test_SVMConverters.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/onnxmltools/convert/sparkml/operator_converters/mlp_classifier.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/onnxmltools/utils/tests_helper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 347",
+      "Potential data leakage: model.fit() used without a pipeline at line 384",
+      "Potential data leakage: model.fit() used without a pipeline at line 420",
+      "Potential data leakage: model.fit() used without a pipeline at line 457"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/onnx_onnxmltools/onnxmltools-main/tests/xgboost/test_xgboost_converters.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 456"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 73",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 203",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 427",
+      "Potential data leakage: model.fit() used without a pipeline at line 459",
+      "Potential data leakage: model.fit() used without a pipeline at line 480",
+      "Potential data leakage: model.fit() used without a pipeline at line 729",
+      "Potential data leakage: model.fit() used without a pipeline at line 777",
+      "Potential data leakage: model.fit() used without a pipeline at line 810",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 560",
+      "Potential data leakage: model.fit() used without a pipeline at line 636"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 498",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 727",
+      "Random Seed Not Set at line 757",
+      "Random Seed Not Set at line 544",
+      "Random Seed Not Set at line 545"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 86",
+      "Hyperparameter not explicitly set at line 728",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 142",
+      "Hyperparameter not explicitly set at line 153"
+    ]
+  }
+}

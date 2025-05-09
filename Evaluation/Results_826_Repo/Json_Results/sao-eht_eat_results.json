@@ -1,0 +1,199 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/addflag.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/import_uvfits.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/aips/vex.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/cal_polcal_gains_uvfits.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 156"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/uv_comb.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 351"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/misc.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 115",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 150",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 172",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/generate_polcal_table.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/aips/ehtutil.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/smt.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 78",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/cal_apriori_pang_uvfits.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 574",
+      "Use np.matmul() instead of np.dot() for matrices at line 579",
+      "Use np.matmul() instead of np.dot() for matrices at line 598",
+      "Use np.matmul() instead of np.dot() for matrices at line 583"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/aips/aips2alist.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 318",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 593",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 655"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/misc_polars.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/sma.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/tests/test_factor.py": {
+    "R2": [
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/jdcal.py": {
+    "R2": [
+      "Random Seed Not Set at line 463",
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 488",
+      "Random Seed Not Set at line 489",
+      "Random Seed Not Set at line 490",
+      "Random Seed Not Set at line 514",
+      "Random Seed Not Set at line 515",
+      "Random Seed Not Set at line 516"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/hops.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 211",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 216",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 221",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 324",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 361",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 430",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 476",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 504"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/ovex.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 384",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 408",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 348"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/io/vex.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 303"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/sim/prep.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/postproc/apcal.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 376"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 617"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 621; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/bin/hops2uvfits.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 175",
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 96",
+      "Use np.matmul() instead of np.dot() for matrices at line 101",
+      "Use np.matmul() instead of np.dot() for matrices at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/inspect/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 333",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 322"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/postproc/cal_amplitude_farotate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 939",
+      "Use np.matmul() instead of np.dot() for matrices at line 944",
+      "Use np.matmul() instead of np.dot() for matrices at line 963",
+      "Use np.matmul() instead of np.dot() for matrices at line 948"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/polcal/polcal.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 723",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 724"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/apcal/apcal.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1177"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 1162; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 1163; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 1164; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 1179; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 1182; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 1185; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/inspect/closures.py": {
+    "R2": [
+      "Random Seed Not Set at line 609"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/sao-eht_eat/eat-master/eat/aips/uvdata.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 3077",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 3112",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 3147"
+    ]
+  }
+}

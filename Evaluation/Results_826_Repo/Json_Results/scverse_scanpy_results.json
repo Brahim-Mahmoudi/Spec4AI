@@ -1,0 +1,233 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_neighbors_common.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_plotting_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_ingest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 101",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_metrics.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 179"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_plotting_embedded/conftest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/external/test_phenograph.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_rank_genes_groups.py": {
+    "R2": [
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/external/test_sam.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/external/test_hashsolo.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_neighbors.py": {
+    "R2": [
+      "Random Seed Not Set at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/tools/_dendrogram.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_highly_variable_genes.py": {
+    "R2": [
+      "Random Seed Not Set at line 562"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 380",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 428",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 481"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/experimental/pp/_highly_variable_genes.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 276",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 277",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 279",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 287",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 281",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 284",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 290",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/datasets/_ebi_expression_atlas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 168",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 107",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/tools/_ingest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/tests/test_plotting.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1519"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/tools/_rank_genes_groups.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 401"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 885"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_scrublet/pipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_pca/_compat.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_combat.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 110",
+      "Use np.matmul() instead of np.dot() for matrices at line 112",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 122",
+      "Use np.matmul() instead of np.dot() for matrices at line 268",
+      "Use np.matmul() instead of np.dot() for matrices at line 129",
+      "Use np.matmul() instead of np.dot() for matrices at line 276",
+      "Use np.matmul() instead of np.dot() for matrices at line 111",
+      "Use np.matmul() instead of np.dot() for matrices at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_pca/_dask.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_deprecated/highly_variable_genes.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 188",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 230"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 187",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 193",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 216",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 223",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 243",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 244",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 192",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 211",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 245",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 209",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 178"
+    ],
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/tools/_dpt.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1152",
+      "Use np.matmul() instead of np.dot() for matrices at line 1142"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 395"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/neighbors/_backends/rapids.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/preprocessing/_highly_variable_genes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 168"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/external/pp/_hashsolo.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 424"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/plotting/_tools/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 1607"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/tools/_sim.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/plotting/_tools/scatterplots.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1357"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scverse_scanpy/scanpy-main/src/scanpy/plotting/_tools/paga.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 745"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 744"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/ctx_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/reinforce.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/engines/rnn_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/avg_rank.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/selection_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/engines/selection_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/dialog.py": {
+    "R2": [
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/engines/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/engines/engine.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/rnn_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 252"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 150",
+      "Use module() instead of forward() at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/attn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 471"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/engines/latent_clustering_engine.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 486"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 233",
+      "Use module() instead of forward() at line 423"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/models/latent_clustering_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 614",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 653",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 730",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1172"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 414",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 796"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_end-to-end-negotiator/end-to-end-negotiator-master/src/agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 821",
+      "Random Seed Not Set at line 1087",
+      "Random Seed Not Set at line 1643"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1596",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 2095"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 117",
+      "Use module() instead of forward() at line 342",
+      "Use module() instead of forward() at line 1744",
+      "Use module() instead of forward() at line 1785",
+      "Use module() instead of forward() at line 2147",
+      "Use module() instead of forward() at line 2188",
+      "Use module() instead of forward() at line 1021"
+    ]
+  }
+}

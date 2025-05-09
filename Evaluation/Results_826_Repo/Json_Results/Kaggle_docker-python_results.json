@@ -1,0 +1,163 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_tensorflow_decision_forests.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_hep_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_sklearnex.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_pytorch_lightning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_torchvision.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_lightgbm.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_openpyxl.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_prophet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_dipy.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_kornia.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_pandas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_pytorch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_matplotlib.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_transformers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_keras_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_xgboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_rgf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 12",
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 11",
+      "Hyperparameter not explicitly set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Kaggle_docker-python/docker-python-main/tests/test_tensorflow.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  }
+}

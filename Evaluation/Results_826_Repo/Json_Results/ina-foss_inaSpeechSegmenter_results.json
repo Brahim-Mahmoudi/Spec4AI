@@ -1,0 +1,31 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ina-foss_inaSpeechSegmenter/inaSpeechSegmenter-master/scripts/ina_speech_segmenter_pyro_server.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ina-foss_inaSpeechSegmenter/inaSpeechSegmenter-master/inaSpeechSegmenter/resnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ina-foss_inaSpeechSegmenter/inaSpeechSegmenter-master/inaSpeechSegmenter/features_vbx.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 113"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ina-foss_inaSpeechSegmenter/inaSpeechSegmenter-master/run_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ina-foss_inaSpeechSegmenter/inaSpeechSegmenter-master/inaSpeechSegmenter/segmenter.py": {
+    "R2": [
+      "Random Seed Not Set at line 370"
+    ]
+  }
+}

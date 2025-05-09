@@ -1,0 +1,71 @@
+{
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/tools/print_info.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/models/vgg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/data/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/data/chunks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/data/progressive_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/data/multiproc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/models/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fperazzi_proSR/proSR-main/lib/prosr/models/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 128"
+    ]
+  }
+}

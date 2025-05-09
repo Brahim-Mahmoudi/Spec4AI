@@ -1,0 +1,107 @@
+{
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/test_example_code/rnn_smoke_win_arm64.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/test_example_code/rnn_smoke.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/android/test_app/make_assets_custom.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/test_example_code/cnn_smoke_win_arm64.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/test_example_code/cnn_smoke.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/android/test_app/make_assets.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 22"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 9",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/android/pytorch_android/generate_test_torchscripts.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/smoke_test/max_autotune.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.github/scripts/runner_determinator.py": {
+    "R2": [
+      "Random Seed Not Set at line 481"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/pytorch_pytorch/pytorch-main/.ci/pytorch/smoke_test/smoke_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 352",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 320"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 384"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

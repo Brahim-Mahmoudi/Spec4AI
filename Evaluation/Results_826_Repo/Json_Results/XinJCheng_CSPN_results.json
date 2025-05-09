@@ -1,0 +1,108 @@
+{
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_paddle/demo.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/eval_kitti_dataset_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 86"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/eval_nyu_dataset_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 89"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/models/cspn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/nyu_dataset_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 98"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/kitti_dataset_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 95"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 237"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 213"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/data_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 446"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/XinJCheng_CSPN/CSPN-master/cspn_pytorch/models/torch_resnet_cspn_nyu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

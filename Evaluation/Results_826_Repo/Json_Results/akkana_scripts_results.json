@@ -1,0 +1,71 @@
+{
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/decodemail.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/strongpasswd.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/multiplot3d.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/qquotekiosk.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/quotekiosk.py": {
+    "R2": [
+      "Random Seed Not Set at line 341"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/mapping/polidistmap.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/mapping/airlineroutes.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 75; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 76; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 77; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 78; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/remindcgi.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/akkana_scripts/scripts-master/weather/lanlweather.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 576"
+    ]
+  }
+}

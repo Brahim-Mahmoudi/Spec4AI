@@ -1,0 +1,47 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ijmarshall_robotreviewer/robotreviewer-master/robotreviewer/tests/test_ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ijmarshall_robotreviewer/robotreviewer-master/robotreviewer/ml/vectorizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ijmarshall_robotreviewer/robotreviewer-master/robotreviewer/ml/punchline_extractor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ijmarshall_robotreviewer/robotreviewer-master/robotreviewer/ml/sample_size_NN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 517",
+      "Potential data leakage: model.fit() used without a pipeline at line 547"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 265"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ijmarshall_robotreviewer/robotreviewer-master/robotreviewer/ml/rationale_CNN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 577",
+      "Potential data leakage: model.fit() used without a pipeline at line 671",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 649"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 876"
+    ]
+  }
+}

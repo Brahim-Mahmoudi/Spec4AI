@@ -1,0 +1,805 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/fixtures/policies/dummy_recurrent_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/fixtures/policies/dummy_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/fixtures/envs/dummy/dummy_discrete_pixel_env.py": {
+    "R2": [
+      "Random Seed Not Set at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/q_functions/test_discrete_dueling_cnn_q_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/q_functions/test_discrete_mlp_q_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/q_functions/test_discrete_cnn_q_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/q_functions/test_continuous_mlp_q_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/algos/test_maml.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/helpers.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/optimizers/test_differentiable_sgd.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/algos/test_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_context_conditioned_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/test_functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_discrete_qf_argmax_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_categorical_cnn_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_deterministic_mlp_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/test_functions.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/algos/test_mtsac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_tanh_gaussian_mlp_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/policies/test_gaussian_mlp_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/algos/test_sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/modules/test_mlp_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/modules/test_multi_headed_mlp_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/distributions/test_tanh_normal_dist.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/modules/test_discrete_cnn_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/modules/test_cnn_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/np/exploration_strategies/test_epsilon_greedy_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/optimizers/test_torch_conjugate_gradient_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/experiment/test_deterministic.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/torch/modules/test_gaussian_mlp_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/envs/wrappers/test_grayscale_env.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/test_functions.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/q_functions/test_discrete_mlp_dueling_q_function.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_categorical_mlp_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/q_functions/test_discrete_mlp_q_function.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/embeddings/test_gaussian_mlp_encoder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/q_functions/test_continuous_mlp_q_function.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_mlp_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_lstm_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_categorical_cnn_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_categorical_gru_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gru_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/q_functions/test_discrete_cnn_q_function.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_categorical_lstm_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/q_functions/test_continuous_cnn_q_function.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 311"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_cnn_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gaussian_gru_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 336"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 185",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 221",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gaussian_lstm_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 185",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 295",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 384"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_cnn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 208",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 211",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 212",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/algos/test_dqn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_cnn_mlp_merge_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_gaussian_mlp_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gru.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 140",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_discrete_qf_argmax_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/samplers/test_task_embedding_worker.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_gaussian_lstm_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_continuous_mlp_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_categorical_cnn_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_gaussian_mlp_task_embedding_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gaussian_mlp_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 220",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 261"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_categorical_gru_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_categorical_lstm_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_categorical_mlp_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/policies/test_gaussian_gru_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/baselines/test_continuous_mlp_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_lstm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 189",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 255",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 275",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/baselines/test_gaussian_mlp_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/q_functions/continuous_mlp_q_function.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/replay_buffer/her_replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/mtsac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/baselines/test_gaussian_cnn_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 195"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 236",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/bc.py": {
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/trpo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/optimizers/test_conjugate_gradient_optimizer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 236",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/replay_buffer/path_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/discrete_cnn_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/_functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/discrete_qf_argmax_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/deterministic_mlp_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/stochastic_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/categorical_cnn_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/tests/garage/tf/models/test_gaussian_cnn_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 347",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 385",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 433"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/vpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 271",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 293"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/td3.py": {
+    "R2": [
+      "Random Seed Not Set at line 180"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 318",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 259",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/maml.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 176",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/distributions/tanh_normal.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/policies/context_conditioned_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/optimizers/conjugate_gradient_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/modules/cnn_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/examples/torch/sac_half_cheetah_batch.py": {
+    "R2": [
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 476",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 480",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 494",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 502"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/modules/gaussian_mlp_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/examples/torch/trpo_pendulum_ray_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/torch/algos/pearl.py": {
+    "R2": [
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 289"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 374",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 389",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 407",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 362"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/examples/torch/tutorial_vpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/examples/torch/dqn_atari.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/np/optimizers/minibatch_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/np/exploration_policies/add_ornstein_uhlenbeck_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/experiment/deterministic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/np/exploration_policies/epsilon_greedy_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/np/exploration_policies/add_gaussian_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/envs/wrappers/noop.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/envs/multi_env_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/envs/grid_world_env.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/envs/point_env.py": {
+    "R2": [
+      "Random Seed Not Set at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/experiment/task_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 369"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/envs/metaworld_set_task_env.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/models/gaussian_cnn_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 326"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/_functions.py": {
+    "R3": [
+      "TensorArray Not Used at line 363",
+      "TensorArray Not Used at line 493"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/policies/gaussian_lstm_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 299"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 244",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/policies/categorical_lstm_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/algos/td3.py": {
+    "R2": [
+      "Random Seed Not Set at line 391"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/policies/categorical_gru_policy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/policies/gaussian_gru_policy.py": {
+    "R2": [
+      "Random Seed Not Set at line 271"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/algos/npo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 480"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/algos/reps.py": {
+    "R2": [
+      "Random Seed Not Set at line 407"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/baselines/gaussian_mlp_baseline.py": {
+    "R2": [
+      "Random Seed Not Set at line 200"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/baselines/gaussian_cnn_baseline.py": {
+    "R2": [
+      "Random Seed Not Set at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/optimizers/conjugate_gradient_optimizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 448"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/rlworkgroup_garage/garage-master/src/garage/tf/algos/te_npo.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ]
+  }
+}

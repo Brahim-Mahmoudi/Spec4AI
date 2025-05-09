@@ -1,0 +1,111 @@
+{
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/clear-intermediate-datasets/python-runnables/clear_int_datasets/runnable.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 160"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 148; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/dataset-audit/custom-recipes/dataset-audit-sqlike/recipe.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 124; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/lime/python-lib/dkulime/explanation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/disk-cleanup-macros/python-runnables/truncate-saved-models-data/runnable.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/disk-cleanup-macros/python-runnables/truncate-analysis-data-data/runnable.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/deeplearning-image-cpu/python-runnables/download-models/runnable.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/deeplearning-image-cpu/custom-recipes/deeplearning-image-score/recipe.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/deeplearning-image-gpu/python-runnables/download-models/runnable.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/deeplearning-image-gpu/custom-recipes/deeplearning-image-score/recipe.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/image-segmentation/python-lib/mrcnn/visualize.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 305",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 229",
+      "Random Seed Not Set at line 524"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/image-segmentation/python-lib/mrcnn/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 110"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 470",
+      "Random Seed Not Set at line 471"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 197",
+      "Missing mask for tf.log at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dataiku_dataiku-contrib/dataiku-contrib-master/image-segmentation/python-lib/mrcnn/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 459",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 457"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 1195",
+      "Random Seed Not Set at line 1327",
+      "Random Seed Not Set at line 1333",
+      "Random Seed Not Set at line 1475",
+      "Random Seed Not Set at line 1483",
+      "Random Seed Not Set at line 1573",
+      "Random Seed Not Set at line 1574",
+      "Random Seed Not Set at line 1350",
+      "Random Seed Not Set at line 1355",
+      "Random Seed Not Set at line 1549",
+      "Random Seed Not Set at line 1550",
+      "Random Seed Not Set at line 1654",
+      "Random Seed Not Set at line 1722"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 478",
+      "TensorArray Not Used at line 2778",
+      "TensorArray Not Used at line 2793"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 909",
+      "Hyperparameter not explicitly set at line 918"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 336"
+    ]
+  }
+}

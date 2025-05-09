@@ -1,0 +1,70 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/examples/ner_glove.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/examples/ner_word2vec.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/examples/training_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/examples/elmo_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/tests/test_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/anago/wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/tests/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/tests/test_wrapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/anago/models.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 187",
+      "Hyperparameter not explicitly set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/anago/preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Hironsan_anago/anago-master/tests/test_preprocess.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  }
+}

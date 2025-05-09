@@ -1,0 +1,51 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/test_data/tfrecord_image_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/ssd_dataloader.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 243",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 269",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 271",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 247",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 248",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 249",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/variable_mgr.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 421",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 444"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/models/experimental/deepspeech.py": {
+    "R2": [
+      "Random Seed Not Set at line 296"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 389"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/models/tf1_only/nasnet_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/models/tf1_only/ssd_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 443"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_benchmarks/benchmarks-master/scripts/tf_cnn_benchmarks/benchmark_cnn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1999"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 3005"
+    ]
+  }
+}

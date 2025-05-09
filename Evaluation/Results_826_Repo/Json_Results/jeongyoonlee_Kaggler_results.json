@@ -1,0 +1,114 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/preprocessing/test_lbe.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/preprocessing/test_ohe.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/model/test_classification_tree.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/model/test_ftrl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/metrics/test_plot.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/model/test_automl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/kaggler/preprocessing/numerical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/tests/preprocessing/test_encoders.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 30",
+      "Potential data leakage: fit_transform called before train/test split at line 51",
+      "Potential data leakage: fit_transform called before train/test split at line 71",
+      "Potential data leakage: fit_transform called before train/test split at line 89",
+      "Potential data leakage: fit_transform called before train/test split at line 95",
+      "Potential data leakage: fit_transform called before train/test split at line 110"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/kaggler/model/automl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 349"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 221"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 542"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/kaggler/preprocessing/autoencoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 503",
+      "Potential data leakage: model.fit() used without a pipeline at line 610",
+      "Potential data leakage: model.fit() used without a pipeline at line 455",
+      "Potential data leakage: model.fit() used without a pipeline at line 464"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 572",
+      "Hyperparameter not explicitly set at line 336",
+      "Hyperparameter not explicitly set at line 579"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jeongyoonlee_Kaggler/Kaggler-master/kaggler/preprocessing/categorical.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 675",
+      "Potential data leakage: model.fit() used without a pipeline at line 642",
+      "Potential data leakage: model.fit() used without a pipeline at line 599"
+    ]
+  }
+}

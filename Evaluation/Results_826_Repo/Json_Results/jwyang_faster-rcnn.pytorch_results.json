@@ -1,0 +1,162 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_align/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/rpn/rpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/datasets/imagenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_crop/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/rpn/proposal_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_crop/functions/crop_resize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/trainval_net.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 267"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_crop/functions/gridgen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_pooling/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/rpn/proposal_target_layer_cascade.py": {
+    "R2": [
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/rpn/anchor_target_layer.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/nms/nms_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/nms/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/pycocotools/coco.py": {
+    "R2": [
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/test_net.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/nms/nms_cpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/faster_rcnn/vgg16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/faster_rcnn/faster_rcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/rpn/bbox_transform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/utils/net_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/roi_data_layer/roibatchLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 149"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/faster_rcnn/resnet.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 291"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jwyang_faster-rcnn.pytorch/faster-rcnn.pytorch-master/lib/model/roi_crop/modules/gridgen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

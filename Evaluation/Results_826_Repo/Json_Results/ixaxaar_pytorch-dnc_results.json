@@ -1,0 +1,78 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/test/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/tasks/adding_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 195"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/tasks/argmax_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 217"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/faiss_index.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/tasks/copy_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 332"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 327"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/sparse_memory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/memory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/dnc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ixaxaar_pytorch-dnc/pytorch-dnc-master/dnc/sparse_temporal_memory.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

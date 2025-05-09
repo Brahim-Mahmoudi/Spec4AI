@@ -1,0 +1,1710 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/_utils/glm.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/_utils/tests/test_masker_validation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/signal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/reporting/tests/test_glm_reporter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 53",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/hierarchical_kmeans_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/reporting/glm_reporter.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 627"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/_utils/data_gen.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 734",
+      "Use np.matmul() instead of np.dot() for matrices at line 719"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/signal_extraction.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 572"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/region_extractor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 505"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/parcellations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 643"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/tests/test_rena_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/_utils/tests/test_data_gen.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 628"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/tests/test_hierarchical_kmeans_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 85",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/reporting/tests/test_html_report.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 193",
+      "Potential data leakage: model.fit() used without a pipeline at line 209",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 387",
+      "Potential data leakage: model.fit() used without a pipeline at line 390",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 425",
+      "Potential data leakage: model.fit() used without a pipeline at line 437",
+      "Potential data leakage: model.fit() used without a pipeline at line 471",
+      "Potential data leakage: model.fit() used without a pipeline at line 485",
+      "Potential data leakage: model.fit() used without a pipeline at line 614",
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 466"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/base_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 342",
+      "Potential data leakage: model.fit() used without a pipeline at line 332"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/_utils/estimator_checks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 642",
+      "Potential data leakage: model.fit() used without a pipeline at line 796",
+      "Potential data leakage: model.fit() used without a pipeline at line 800",
+      "Potential data leakage: model.fit() used without a pipeline at line 833",
+      "Potential data leakage: model.fit() used without a pipeline at line 841",
+      "Potential data leakage: model.fit() used without a pipeline at line 871",
+      "Potential data leakage: model.fit() used without a pipeline at line 903",
+      "Potential data leakage: model.fit() used without a pipeline at line 1009",
+      "Potential data leakage: model.fit() used without a pipeline at line 1016",
+      "Potential data leakage: model.fit() used without a pipeline at line 1062",
+      "Potential data leakage: model.fit() used without a pipeline at line 1076",
+      "Potential data leakage: model.fit() used without a pipeline at line 1240",
+      "Potential data leakage: model.fit() used without a pipeline at line 1264",
+      "Potential data leakage: model.fit() used without a pipeline at line 1277",
+      "Potential data leakage: model.fit() used without a pipeline at line 1299",
+      "Potential data leakage: model.fit() used without a pipeline at line 1320",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 504",
+      "Potential data leakage: model.fit() used without a pipeline at line 818",
+      "Potential data leakage: model.fit() used without a pipeline at line 859",
+      "Potential data leakage: model.fit() used without a pipeline at line 956",
+      "Potential data leakage: model.fit() used without a pipeline at line 980",
+      "Potential data leakage: model.fit() used without a pipeline at line 996",
+      "Potential data leakage: model.fit() used without a pipeline at line 1100",
+      "Potential data leakage: model.fit() used without a pipeline at line 1113",
+      "Potential data leakage: model.fit() used without a pipeline at line 1120",
+      "Potential data leakage: model.fit() used without a pipeline at line 1147",
+      "Potential data leakage: model.fit() used without a pipeline at line 1150",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 1132",
+      "Potential data leakage: model.fit() used without a pipeline at line 1136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/tests/test_region_extractor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 262",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 296",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 325",
+      "Potential data leakage: model.fit() used without a pipeline at line 353",
+      "Potential data leakage: model.fit() used without a pipeline at line 369",
+      "Potential data leakage: model.fit() used without a pipeline at line 240",
+      "Potential data leakage: model.fit() used without a pipeline at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/surface_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 321"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/surface_maps_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 363"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 405",
+      "Use np.matmul() instead of np.dot() for matrices at line 409"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_surface_maps_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 173"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/surface_labels_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 486"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/tests/test_parcellations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_surface_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 179",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/nifti_spheres_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 648"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_multi_nifti_maps_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 300",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/nifti_maps_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/regions/tests/test_signal_extraction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 780"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/nifti_labels_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 705"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_surface_labels_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 311",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 439",
+      "Potential data leakage: model.fit() used without a pipeline at line 469",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 498",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 510",
+      "Potential data leakage: model.fit() used without a pipeline at line 517"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_multi_nifti_labels_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 224",
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_multi_nifti_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 196",
+      "Potential data leakage: model.fit() used without a pipeline at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_nifti_spheres_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 227",
+      "Potential data leakage: model.fit() used without a pipeline at line 291",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 395",
+      "Potential data leakage: model.fit() used without a pipeline at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_nifti_maps_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 354",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/datasets/struct.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 828"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_nifti_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 261",
+      "Potential data leakage: model.fit() used without a pipeline at line 322",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 345",
+      "Potential data leakage: model.fit() used without a pipeline at line 351",
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 309",
+      "Potential data leakage: model.fit() used without a pipeline at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/maskers/tests/test_nifti_labels_masker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 474",
+      "Potential data leakage: model.fit() used without a pipeline at line 525",
+      "Potential data leakage: model.fit() used without a pipeline at line 631",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 338",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 358",
+      "Potential data leakage: model.fit() used without a pipeline at line 674",
+      "Potential data leakage: model.fit() used without a pipeline at line 686",
+      "Potential data leakage: model.fit() used without a pipeline at line 698",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 629",
+      "Potential data leakage: model.fit() used without a pipeline at line 639",
+      "Potential data leakage: model.fit() used without a pipeline at line 745",
+      "Potential data leakage: model.fit() used without a pipeline at line 847",
+      "Potential data leakage: model.fit() used without a pipeline at line 909",
+      "Potential data leakage: model.fit() used without a pipeline at line 937"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/searchlight.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/_objective_functions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 95",
+      "Use np.matmul() instead of np.dot() for matrices at line 259",
+      "Use np.matmul() instead of np.dot() for matrices at line 87",
+      "Use np.matmul() instead of np.dot() for matrices at line 242",
+      "Use np.matmul() instead of np.dot() for matrices at line 254",
+      "Use np.matmul() instead of np.dot() for matrices at line 91"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/_proximal_operators.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 180",
+      "Use np.matmul() instead of np.dot() for matrices at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/space_net_solvers.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 52",
+      "Use np.matmul() instead of np.dot() for matrices at line 85",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 200",
+      "Use np.matmul() instead of np.dot() for matrices at line 219",
+      "Use np.matmul() instead of np.dot() for matrices at line 228",
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 190",
+      "Use np.matmul() instead of np.dot() for matrices at line 226",
+      "Use np.matmul() instead of np.dot() for matrices at line 241",
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 223"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/datasets/atlas.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 888"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 181",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 442",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1036",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1912",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1987",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2624",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1076",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1481",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 449"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/datasets/tests/test_func.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/test_searchlight.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/_testing.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/decoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 403",
+      "Potential data leakage: model.fit() used without a pipeline at line 1452",
+      "Potential data leakage: model.fit() used without a pipeline at line 1633",
+      "Potential data leakage: model.fit() used without a pipeline at line 1815"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/tests/test_masking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/space_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 122"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 265",
+      "Use np.matmul() instead of np.dot() for matrices at line 266",
+      "Use np.matmul() instead of np.dot() for matrices at line 290",
+      "Use np.matmul() instead of np.dot() for matrices at line 268",
+      "Use np.matmul() instead of np.dot() for matrices at line 190",
+      "Use np.matmul() instead of np.dot() for matrices at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/test_space_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 232",
+      "Potential data leakage: model.fit() used without a pipeline at line 290",
+      "Potential data leakage: model.fit() used without a pipeline at line 306",
+      "Potential data leakage: model.fit() used without a pipeline at line 334",
+      "Potential data leakage: model.fit() used without a pipeline at line 345",
+      "Potential data leakage: model.fit() used without a pipeline at line 379",
+      "Potential data leakage: model.fit() used without a pipeline at line 380",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 488",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 273",
+      "Potential data leakage: model.fit() used without a pipeline at line 502",
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 544",
+      "Potential data leakage: model.fit() used without a pipeline at line 547"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 227",
+      "Use np.matmul() instead of np.dot() for matrices at line 253",
+      "Use np.matmul() instead of np.dot() for matrices at line 270",
+      "Use np.matmul() instead of np.dot() for matrices at line 286",
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 383"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/test_same_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 241",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 287",
+      "Potential data leakage: model.fit() used without a pipeline at line 308"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/test_graph_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 283"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 269",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 105",
+      "Use np.matmul() instead of np.dot() for matrices at line 126",
+      "Use np.matmul() instead of np.dot() for matrices at line 127",
+      "Use np.matmul() instead of np.dot() for matrices at line 271",
+      "Use np.matmul() instead of np.dot() for matrices at line 306",
+      "Use np.matmul() instead of np.dot() for matrices at line 73",
+      "Use np.matmul() instead of np.dot() for matrices at line 253",
+      "Use np.matmul() instead of np.dot() for matrices at line 303",
+      "Use np.matmul() instead of np.dot() for matrices at line 270",
+      "Use np.matmul() instead of np.dot() for matrices at line 288",
+      "Use np.matmul() instead of np.dot() for matrices at line 292",
+      "Use np.matmul() instead of np.dot() for matrices at line 287",
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/mass_univariate/tests/_testing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/datasets/func.py": {
+    "R15": [
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 899"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 343",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 896",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 898",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1277",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1588",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1792",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1977",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2279"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/mass_univariate/_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 435",
+      "Use np.matmul() instead of np.dot() for matrices at line 439"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/tests/test_signal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 79",
+      "Use np.matmul() instead of np.dot() for matrices at line 768",
+      "Use np.matmul() instead of np.dot() for matrices at line 908"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/image/resampling.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 148",
+      "Use np.matmul() instead of np.dot() for matrices at line 195",
+      "Use np.matmul() instead of np.dot() for matrices at line 559"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/mass_univariate/permuted_least_squares.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 670",
+      "Use np.matmul() instead of np.dot() for matrices at line 682",
+      "Use np.matmul() instead of np.dot() for matrices at line 673",
+      "Use np.matmul() instead of np.dot() for matrices at line 685"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/plotting/img_comparison.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 489"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/plotting/tests/test_img_comparisons.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/mass_univariate/tests/test_permuted_least_squares.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decoding/tests/test_decoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 609",
+      "Potential data leakage: model.fit() used without a pipeline at line 622",
+      "Potential data leakage: model.fit() used without a pipeline at line 637",
+      "Potential data leakage: model.fit() used without a pipeline at line 650",
+      "Potential data leakage: model.fit() used without a pipeline at line 669",
+      "Potential data leakage: model.fit() used without a pipeline at line 688",
+      "Potential data leakage: model.fit() used without a pipeline at line 705",
+      "Potential data leakage: model.fit() used without a pipeline at line 718",
+      "Potential data leakage: model.fit() used without a pipeline at line 732",
+      "Potential data leakage: model.fit() used without a pipeline at line 747",
+      "Potential data leakage: model.fit() used without a pipeline at line 763",
+      "Potential data leakage: model.fit() used without a pipeline at line 804",
+      "Potential data leakage: model.fit() used without a pipeline at line 819",
+      "Potential data leakage: model.fit() used without a pipeline at line 837",
+      "Potential data leakage: model.fit() used without a pipeline at line 857",
+      "Potential data leakage: model.fit() used without a pipeline at line 875",
+      "Potential data leakage: model.fit() used without a pipeline at line 892",
+      "Potential data leakage: model.fit() used without a pipeline at line 907",
+      "Potential data leakage: model.fit() used without a pipeline at line 922",
+      "Potential data leakage: model.fit() used without a pipeline at line 936",
+      "Potential data leakage: model.fit() used without a pipeline at line 952",
+      "Potential data leakage: model.fit() used without a pipeline at line 972",
+      "Potential data leakage: model.fit() used without a pipeline at line 992",
+      "Potential data leakage: model.fit() used without a pipeline at line 1117",
+      "Potential data leakage: model.fit() used without a pipeline at line 1136",
+      "Potential data leakage: model.fit() used without a pipeline at line 1148",
+      "Potential data leakage: model.fit() used without a pipeline at line 1196",
+      "Potential data leakage: model.fit() used without a pipeline at line 1209",
+      "Potential data leakage: model.fit() used without a pipeline at line 1240",
+      "Potential data leakage: model.fit() used without a pipeline at line 1271",
+      "Potential data leakage: model.fit() used without a pipeline at line 1283",
+      "Potential data leakage: model.fit() used without a pipeline at line 1303",
+      "Potential data leakage: model.fit() used without a pipeline at line 1350",
+      "Potential data leakage: model.fit() used without a pipeline at line 1367",
+      "Potential data leakage: model.fit() used without a pipeline at line 1390",
+      "Potential data leakage: model.fit() used without a pipeline at line 1423",
+      "Potential data leakage: model.fit() used without a pipeline at line 1512",
+      "Potential data leakage: model.fit() used without a pipeline at line 411",
+      "Potential data leakage: model.fit() used without a pipeline at line 778",
+      "Potential data leakage: model.fit() used without a pipeline at line 794",
+      "Potential data leakage: model.fit() used without a pipeline at line 1077",
+      "Potential data leakage: model.fit() used without a pipeline at line 1088",
+      "Potential data leakage: model.fit() used without a pipeline at line 1320",
+      "Potential data leakage: model.fit() used without a pipeline at line 1327",
+      "Potential data leakage: model.fit() used without a pipeline at line 1342",
+      "Potential data leakage: model.fit() used without a pipeline at line 1545",
+      "Potential data leakage: model.fit() used without a pipeline at line 1061",
+      "Potential data leakage: model.fit() used without a pipeline at line 1452"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 459",
+      "Random Seed Not Set at line 315"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 459",
+      "Hyperparameter not explicitly set at line 315"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/plotting/displays/_axes.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 412",
+      "Use np.matmul() instead of np.dot() for matrices at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/plotting/displays/_figures.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 465"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/image/tests/test_resampling.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/connectome/tests/test_group_sparse_cov.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 79",
+      "Use np.matmul() instead of np.dot() for matrices at line 194",
+      "Use np.matmul() instead of np.dot() for matrices at line 334",
+      "Use np.matmul() instead of np.dot() for matrices at line 421",
+      "Use np.matmul() instead of np.dot() for matrices at line 147",
+      "Use np.matmul() instead of np.dot() for matrices at line 195"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/thresholding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 159",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/connectome/connectivity_matrices.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 532"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 264",
+      "Use np.matmul() instead of np.dot() for matrices at line 201",
+      "Use np.matmul() instead of np.dot() for matrices at line 159",
+      "Use np.matmul() instead of np.dot() for matrices at line 273"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_paradigm.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/contrasts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 530",
+      "Potential data leakage: model.fit() used without a pipeline at line 533",
+      "Potential data leakage: model.fit() used without a pipeline at line 535",
+      "Potential data leakage: model.fit() used without a pipeline at line 537",
+      "Potential data leakage: model.fit() used without a pipeline at line 539"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 133"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 67",
+      "Potential data leakage: model.fit() used without a pipeline at line 74",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 143"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 168",
+      "Use np.matmul() instead of np.dot() for matrices at line 182",
+      "Use np.matmul() instead of np.dot() for matrices at line 167",
+      "Use np.matmul() instead of np.dot() for matrices at line 179",
+      "Use np.matmul() instead of np.dot() for matrices at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_design_matrix.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 441"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_contrasts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/dict_learning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/first_level/design_matrix.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 529"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/plotting/displays/_slicers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1178",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/first_level/hemodynamic_models.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 543"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/tests/test_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 526",
+      "Potential data leakage: model.fit() used without a pipeline at line 696",
+      "Potential data leakage: model.fit() used without a pipeline at line 494",
+      "Potential data leakage: model.fit() used without a pipeline at line 496"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/tests/test_multi_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 133",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 175",
+      "Potential data leakage: model.fit() used without a pipeline at line 189",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 247",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_hemodynamic_models.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/tests/test_dict_learning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 222",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/fmriprep/tests/test_load_confounds_components.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/decomposition/tests/test_canica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 182",
+      "Potential data leakage: model.fit() used without a pipeline at line 211",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 266",
+      "Potential data leakage: model.fit() used without a pipeline at line 286",
+      "Potential data leakage: model.fit() used without a pipeline at line 307",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 336",
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 157",
+      "Potential data leakage: model.fit() used without a pipeline at line 168",
+      "Potential data leakage: model.fit() used without a pipeline at line 225"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/connectome/tests/test_connectivity_matrices.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 840",
+      "Potential data leakage: model.fit() used without a pipeline at line 644",
+      "Potential data leakage: model.fit() used without a pipeline at line 650",
+      "Potential data leakage: model.fit() used without a pipeline at line 656",
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 977"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/fmriprep/load_confounds_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 329",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/connectome/group_sparse_cov.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100",
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 97",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 511",
+      "Use np.matmul() instead of np.dot() for matrices at line 529",
+      "Use np.matmul() instead of np.dot() for matrices at line 356",
+      "Use np.matmul() instead of np.dot() for matrices at line 419",
+      "Use np.matmul() instead of np.dot() for matrices at line 420"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/fmriprep/tests/test_load_confounds_strategy.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/maint_tools/plot_test_timing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/fmriprep/tests/_testing.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/second_level/second_level.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1050",
+      "Potential data leakage: model.fit() used without a pipeline at line 604"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1071"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_searchlight.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_frem.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_oasis_vbm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_searchlight_surface.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_anova_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 43; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_mixed_gambles_frem.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_different_estimators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 49; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 167; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/maint_tools/check_gha_workflow.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 98",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_understand_decoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 276"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 44; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_glm_decoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/06_manipulating_images/plot_extract_rois_smith_atlas.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/tests/test_bids.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 441",
+      "Potential data leakage: model.fit() used without a pipeline at line 477",
+      "Potential data leakage: model.fit() used without a pipeline at line 521",
+      "Potential data leakage: model.fit() used without a pipeline at line 523",
+      "Potential data leakage: model.fit() used without a pipeline at line 685",
+      "Potential data leakage: model.fit() used without a pipeline at line 802",
+      "Potential data leakage: model.fit() used without a pipeline at line 877"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_oasis_vbm_space_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_multiclass.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_full_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 104",
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 52; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_haxby_grid_search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 189"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 64; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/06_manipulating_images/plot_nifti_labels_simple.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_miyawaki_encoding.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/06_manipulating_images/plot_nifti_simple.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/06_manipulating_images/plot_mask_computation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 136",
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_simulated_data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_adhd_dmn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_spm_multimodal_faces.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_fir_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/06_manipulating_images/plot_roi_extraction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 353"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_two_runs_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_bids_features.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_localizer_surface_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/interfaces/fmriprep/tests/test_load_confounds.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 425"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/02_decoding/plot_miyawaki_reconstruction.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 118",
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 120",
+      "Use np.matmul() instead of np.dot() for matrices at line 230",
+      "Use np.matmul() instead of np.dot() for matrices at line 211",
+      "Use np.matmul() instead of np.dot() for matrices at line 222",
+      "Use np.matmul() instead of np.dot() for matrices at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_multi_subject_connectome.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_probabilistic_atlas_extraction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_predictions_residuals.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_inverse_covariance_connectome.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_simulated_connectome.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_extract_regions_dictlearning_maps.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_compare_decomposition.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_seed_to_voxel_correlation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_data_driven_parcellations.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 205",
+      "Potential data leakage: model.fit() used without a pipeline at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/04_glm_first_level/plot_first_level_details.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 242",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 298",
+      "Potential data leakage: model.fit() used without a pipeline at line 321",
+      "Potential data leakage: model.fit() used without a pipeline at line 353",
+      "Potential data leakage: model.fit() used without a pipeline at line 376",
+      "Potential data leakage: model.fit() used without a pipeline at line 404",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 430",
+      "Potential data leakage: model.fit() used without a pipeline at line 460",
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 517",
+      "Potential data leakage: model.fit() used without a pipeline at line 573"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/01_plotting/plot_surf_stat_map.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_sphere_based_connectome.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 362"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/03_connectivity/plot_group_level_connectivity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_thresholding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_proportion_activated_voxels.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/first_level/first_level.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 1155"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 275",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1678",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2037"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_second_level_two_sample_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_second_level.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 493",
+      "Potential data leakage: model.fit() used without a pipeline at line 523",
+      "Potential data leakage: model.fit() used without a pipeline at line 536",
+      "Potential data leakage: model.fit() used without a pipeline at line 623",
+      "Potential data leakage: model.fit() used without a pipeline at line 642",
+      "Potential data leakage: model.fit() used without a pipeline at line 643",
+      "Potential data leakage: model.fit() used without a pipeline at line 645",
+      "Potential data leakage: model.fit() used without a pipeline at line 646",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 652",
+      "Potential data leakage: model.fit() used without a pipeline at line 678",
+      "Potential data leakage: model.fit() used without a pipeline at line 679",
+      "Potential data leakage: model.fit() used without a pipeline at line 680",
+      "Potential data leakage: model.fit() used without a pipeline at line 681",
+      "Potential data leakage: model.fit() used without a pipeline at line 697",
+      "Potential data leakage: model.fit() used without a pipeline at line 741",
+      "Potential data leakage: model.fit() used without a pipeline at line 773",
+      "Potential data leakage: model.fit() used without a pipeline at line 780",
+      "Potential data leakage: model.fit() used without a pipeline at line 783",
+      "Potential data leakage: model.fit() used without a pipeline at line 790",
+      "Potential data leakage: model.fit() used without a pipeline at line 793",
+      "Potential data leakage: model.fit() used without a pipeline at line 845",
+      "Potential data leakage: model.fit() used without a pipeline at line 898",
+      "Potential data leakage: model.fit() used without a pipeline at line 921",
+      "Potential data leakage: model.fit() used without a pipeline at line 929",
+      "Potential data leakage: model.fit() used without a pipeline at line 943",
+      "Potential data leakage: model.fit() used without a pipeline at line 955",
+      "Potential data leakage: model.fit() used without a pipeline at line 1118",
+      "Potential data leakage: model.fit() used without a pipeline at line 1148",
+      "Potential data leakage: model.fit() used without a pipeline at line 1179",
+      "Potential data leakage: model.fit() used without a pipeline at line 1202",
+      "Potential data leakage: model.fit() used without a pipeline at line 1217",
+      "Potential data leakage: model.fit() used without a pipeline at line 1234",
+      "Potential data leakage: model.fit() used without a pipeline at line 1337",
+      "Potential data leakage: model.fit() used without a pipeline at line 1363",
+      "Potential data leakage: model.fit() used without a pipeline at line 1380",
+      "Potential data leakage: model.fit() used without a pipeline at line 1392",
+      "Potential data leakage: model.fit() used without a pipeline at line 1416",
+      "Potential data leakage: model.fit() used without a pipeline at line 1420",
+      "Potential data leakage: model.fit() used without a pipeline at line 1453",
+      "Potential data leakage: model.fit() used without a pipeline at line 1515",
+      "Potential data leakage: model.fit() used without a pipeline at line 1528",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 249",
+      "Potential data leakage: model.fit() used without a pipeline at line 284",
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 464",
+      "Potential data leakage: model.fit() used without a pipeline at line 544",
+      "Potential data leakage: model.fit() used without a pipeline at line 709",
+      "Potential data leakage: model.fit() used without a pipeline at line 713",
+      "Potential data leakage: model.fit() used without a pipeline at line 728",
+      "Potential data leakage: model.fit() used without a pipeline at line 747",
+      "Potential data leakage: model.fit() used without a pipeline at line 749",
+      "Potential data leakage: model.fit() used without a pipeline at line 756",
+      "Potential data leakage: model.fit() used without a pipeline at line 760",
+      "Potential data leakage: model.fit() used without a pipeline at line 764",
+      "Potential data leakage: model.fit() used without a pipeline at line 804",
+      "Potential data leakage: model.fit() used without a pipeline at line 814",
+      "Potential data leakage: model.fit() used without a pipeline at line 827",
+      "Potential data leakage: model.fit() used without a pipeline at line 832",
+      "Potential data leakage: model.fit() used without a pipeline at line 1405",
+      "Potential data leakage: model.fit() used without a pipeline at line 1436",
+      "Potential data leakage: model.fit() used without a pipeline at line 1473",
+      "Potential data leakage: model.fit() used without a pipeline at line 1483",
+      "Potential data leakage: model.fit() used without a pipeline at line 1497",
+      "Potential data leakage: model.fit() used without a pipeline at line 1507",
+      "Potential data leakage: model.fit() used without a pipeline at line 509"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 903"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/01_plotting/plot_transparency.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_second_level_association_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/00_tutorials/plot_single_subject_single_run.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_oasis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/05_glm_second_level/plot_second_level_one_sample_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/00_tutorials/plot_decoding_tutorial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 283",
+      "Potential data leakage: model.fit() used without a pipeline at line 350",
+      "Potential data leakage: model.fit() used without a pipeline at line 221"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 268; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_surface_bids_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 180",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_age_group_prediction_cross_val.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_bids_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_haxby_mass_univariate.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_advanced_decoding_scikit.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 53; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 69",
+      "Hyperparameter not explicitly set at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_ica_neurovault.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_surface_image_and_maskers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 151",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 234"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/examples/07_advanced/plot_beta_series.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 227"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 346",
+      "Use np.matmul() instead of np.dot() for matrices at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/doc/make_atlas_table.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 338"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/doc/visual_testing/reporter_visual_inspection_suite.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 176",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 299",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 386",
+      "Potential data leakage: model.fit() used without a pipeline at line 391",
+      "Potential data leakage: model.fit() used without a pipeline at line 415",
+      "Potential data leakage: model.fit() used without a pipeline at line 442",
+      "Potential data leakage: model.fit() used without a pipeline at line 447",
+      "Potential data leakage: model.fit() used without a pipeline at line 479",
+      "Potential data leakage: model.fit() used without a pipeline at line 515",
+      "Potential data leakage: model.fit() used without a pipeline at line 560",
+      "Potential data leakage: model.fit() used without a pipeline at line 634",
+      "Potential data leakage: model.fit() used without a pipeline at line 680"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nilearn_nilearn/nilearn-main/nilearn/glm/tests/test_first_level.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 125",
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 146",
+      "Potential data leakage: model.fit() used without a pipeline at line 152",
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 207",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 250",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 326",
+      "Potential data leakage: model.fit() used without a pipeline at line 329",
+      "Potential data leakage: model.fit() used without a pipeline at line 332",
+      "Potential data leakage: model.fit() used without a pipeline at line 343",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 384",
+      "Potential data leakage: model.fit() used without a pipeline at line 393",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 418",
+      "Potential data leakage: model.fit() used without a pipeline at line 440",
+      "Potential data leakage: model.fit() used without a pipeline at line 625",
+      "Potential data leakage: model.fit() used without a pipeline at line 629",
+      "Potential data leakage: model.fit() used without a pipeline at line 633",
+      "Potential data leakage: model.fit() used without a pipeline at line 637",
+      "Potential data leakage: model.fit() used without a pipeline at line 653",
+      "Potential data leakage: model.fit() used without a pipeline at line 667",
+      "Potential data leakage: model.fit() used without a pipeline at line 673",
+      "Potential data leakage: model.fit() used without a pipeline at line 691",
+      "Potential data leakage: model.fit() used without a pipeline at line 699",
+      "Potential data leakage: model.fit() used without a pipeline at line 706",
+      "Potential data leakage: model.fit() used without a pipeline at line 713",
+      "Potential data leakage: model.fit() used without a pipeline at line 739",
+      "Potential data leakage: model.fit() used without a pipeline at line 848",
+      "Potential data leakage: model.fit() used without a pipeline at line 883",
+      "Potential data leakage: model.fit() used without a pipeline at line 903",
+      "Potential data leakage: model.fit() used without a pipeline at line 1115",
+      "Potential data leakage: model.fit() used without a pipeline at line 1165",
+      "Potential data leakage: model.fit() used without a pipeline at line 1224",
+      "Potential data leakage: model.fit() used without a pipeline at line 1225",
+      "Potential data leakage: model.fit() used without a pipeline at line 1257",
+      "Potential data leakage: model.fit() used without a pipeline at line 1283",
+      "Potential data leakage: model.fit() used without a pipeline at line 1305",
+      "Potential data leakage: model.fit() used without a pipeline at line 1316",
+      "Potential data leakage: model.fit() used without a pipeline at line 1344",
+      "Potential data leakage: model.fit() used without a pipeline at line 1366",
+      "Potential data leakage: model.fit() used without a pipeline at line 1409",
+      "Potential data leakage: model.fit() used without a pipeline at line 1428",
+      "Potential data leakage: model.fit() used without a pipeline at line 2229",
+      "Potential data leakage: model.fit() used without a pipeline at line 2245",
+      "Potential data leakage: model.fit() used without a pipeline at line 2270",
+      "Potential data leakage: model.fit() used without a pipeline at line 2285",
+      "Potential data leakage: model.fit() used without a pipeline at line 2306",
+      "Potential data leakage: model.fit() used without a pipeline at line 2326",
+      "Potential data leakage: model.fit() used without a pipeline at line 2337",
+      "Potential data leakage: model.fit() used without a pipeline at line 2339",
+      "Potential data leakage: model.fit() used without a pipeline at line 2353",
+      "Potential data leakage: model.fit() used without a pipeline at line 2355",
+      "Potential data leakage: model.fit() used without a pipeline at line 2368",
+      "Potential data leakage: model.fit() used without a pipeline at line 2370",
+      "Potential data leakage: model.fit() used without a pipeline at line 2376",
+      "Potential data leakage: model.fit() used without a pipeline at line 2379",
+      "Potential data leakage: model.fit() used without a pipeline at line 2395",
+      "Potential data leakage: model.fit() used without a pipeline at line 2398",
+      "Potential data leakage: model.fit() used without a pipeline at line 2463",
+      "Potential data leakage: model.fit() used without a pipeline at line 2466",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 758",
+      "Potential data leakage: model.fit() used without a pipeline at line 762",
+      "Potential data leakage: model.fit() used without a pipeline at line 771",
+      "Potential data leakage: model.fit() used without a pipeline at line 779",
+      "Potential data leakage: model.fit() used without a pipeline at line 781",
+      "Potential data leakage: model.fit() used without a pipeline at line 788",
+      "Potential data leakage: model.fit() used without a pipeline at line 806",
+      "Potential data leakage: model.fit() used without a pipeline at line 813",
+      "Potential data leakage: model.fit() used without a pipeline at line 824",
+      "Potential data leakage: model.fit() used without a pipeline at line 1251",
+      "Potential data leakage: model.fit() used without a pipeline at line 2260",
+      "Potential data leakage: model.fit() used without a pipeline at line 2304",
+      "Potential data leakage: model.fit() used without a pipeline at line 2311",
+      "Potential data leakage: model.fit() used without a pipeline at line 2324",
+      "Potential data leakage: model.fit() used without a pipeline at line 2331"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 2060",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 650",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 330"
+    ]
+  }
+}

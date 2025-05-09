@@ -1,0 +1,53 @@
+{
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/dataset/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/generators/obstacle_gen.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/dataset/make_training_data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 25",
+      "Use np.matmul() instead of np.dot() for matrices at line 27"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/test.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/kentsommer_pytorch-value-iteration-networks/pytorch-value-iteration-networks-master/domains/gridworld.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 210"
+    ]
+  }
+}

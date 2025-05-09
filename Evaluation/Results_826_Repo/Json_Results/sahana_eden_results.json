@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/geojson/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/s3/s3validators.py": {
+    "R2": [
+      "Random Seed Not Set at line 1386"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/s3/codecs/pdf.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 589"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/s3db/s3.py": {
+    "R2": [
+      "Random Seed Not Set at line 644"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/nameparser/parser.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 456"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/s3db/setup.py": {
+    "R2": [
+      "Random Seed Not Set at line 1520"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/templates/historic/DRK/config.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/templates/historic/RLPPTM/helpers.py": {
+    "R2": [
+      "Random Seed Not Set at line 1007"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/controllers/building.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 837",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 839"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/sahana_eden/eden-master/modules/s3db/inv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 11253",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 11264"
+    ]
+  }
+}

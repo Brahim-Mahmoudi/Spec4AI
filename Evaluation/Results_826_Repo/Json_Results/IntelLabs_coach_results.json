@@ -1,0 +1,479 @@
+{
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/tutorials/Resources/exploration.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/setup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/filters/observation/observation_squeeze_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/environments/control_suite_environment.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/environments/toy_problems/bit_flip.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/environments/mujoco/pendulum_with_goals.py": {
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/test_checkpoint.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 146"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/filters/observation/test_observation_rgb_to_y_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/spaces.py": {
+    "R2": [
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 455",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 351",
+      "Random Seed Not Set at line 352"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/filters/observation/test_observation_squeeze_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/trace_tests.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 137",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 146",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 150",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/filters/observation/test_observation_to_uint8_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/architectures/tensorflow_components/embedders/test_identity_embedder.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/filters/observation/test_observation_crop_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/environments/carla_environment.py": {
+    "R2": [
+      "Random Seed Not Set at line 444",
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/filters/observation/test_observation_stacking_filter.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/test_golden.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 170",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 185",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 158",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 215",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 216"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/architectures/tensorflow_components/embedders/test_vector_embedder.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/architectures/tensorflow_components/embedders/test_image_embedder.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/memories/test_differential_neural_dictionary.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 60"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/cil_head.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/acer_policy_head.py": {
+    "R7": [
+      "Missing mask for tf.log at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/ppo_head.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/sac_head.py": {
+    "R7": [
+      "Missing mask for tf.log at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/quantile_regression_q_head.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 60",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 61",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/architectures/tensorflow_components/heads/head.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/tests/utils/args_utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 134",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 146",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 122",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 395",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 399",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 389",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 396",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 464"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 125",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 386",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 390",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 463",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 466",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 469"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/acer_agent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/ddqn_bcq_agent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 153",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/dfp_agent.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 184",
+      "Use np.matmul() instead of np.dot() for matrices at line 185"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 58",
+      "Hyperparameter not explicitly set at line 59",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/td3_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/hac_ddpg_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/categorical_dqn_agent.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/categorical.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/qr_dqn_agent.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/boltzmann.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/ou_process.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/bootstrapped.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/additive_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/parameter_noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/exploration_policies/e_greedy.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/RoboSuite_CubeExp_Random.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 53",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_A3C_LSTM.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/RoboSuite_CubeExp_TD3_Goal_Based.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_ClippedPPO.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/CartPole_ClippedPPO.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/CartPole_DDQN_BCQ_BatchRL.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 77",
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_TD3.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 24",
+      "Hyperparameter not explicitly set at line 25",
+      "Hyperparameter not explicitly set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_NAF.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/ControlSuite_DDPG.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 31",
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Fetch_DDPG_HER_baselines.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 48",
+      "Hyperparameter not explicitly set at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/RoboSuite_CubeExp_TD3_Intrinsic_Reward.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 44",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_PPO.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 30",
+      "Hyperparameter not explicitly set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Atari_NStepQ.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_DDPG.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 24",
+      "Hyperparameter not explicitly set at line 25",
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_Wolpertinger.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27",
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/BitFlip_DQN_HER.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Mujoco_SAC.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33",
+      "Hyperparameter not explicitly set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/agents/td3_exp_agent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 180"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 387",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/CARLA_CIL.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 86",
+      "Hyperparameter not explicitly set at line 64",
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 73",
+      "Hyperparameter not explicitly set at line 75",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/BitFlip_DQN.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/presets/Pendulum_HAC.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 77",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/dashboard_components/signals_file.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/episodic/episodic_hindsight_experience_replay.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/dashboard_components/signals.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/non_episodic/balanced_experience_replay.py": {
+    "R2": [
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/non_episodic/experience_replay.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/non_episodic/prioritized_experience_replay.py": {
+    "R2": [
+      "Random Seed Not Set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/non_episodic/differentiable_neural_dictionary.py": {
+    "R2": [
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_coach/coach-master/rl_coach/memories/episodic/episodic_experience_replay.py": {
+    "R2": [
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 118"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 449"
+    ]
+  }
+}

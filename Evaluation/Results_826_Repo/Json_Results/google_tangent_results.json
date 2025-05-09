@@ -1,0 +1,42 @@
+{
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tangent/naming.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tests/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tests/tfe_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tangent/tf_extensions.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tangent/tangent-master/tests/functions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 763",
+      "Use np.matmul() instead of np.dot() for matrices at line 463",
+      "Use np.matmul() instead of np.dot() for matrices at line 764",
+      "Use np.matmul() instead of np.dot() for matrices at line 752"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 488"
+    ]
+  }
+}

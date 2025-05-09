@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bulik_ldsc/ldsc-master/make_annot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 11",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bulik_ldsc/ldsc-master/test/simulate.py": {
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bulik_ldsc/ldsc-master/ldscore/jackknife.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 352",
+      "Use np.matmul() instead of np.dot() for matrices at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bulik_ldsc/ldsc-master/ldscore/parse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 240",
+      "Use np.matmul() instead of np.dot() for matrices at line 216"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 21",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bulik_ldsc/ldsc-master/ldscore/regressions.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 293",
+      "Use np.matmul() instead of np.dot() for matrices at line 416",
+      "Use np.matmul() instead of np.dot() for matrices at line 417",
+      "Use np.matmul() instead of np.dot() for matrices at line 255",
+      "Use np.matmul() instead of np.dot() for matrices at line 274",
+      "Use np.matmul() instead of np.dot() for matrices at line 403",
+      "Use np.matmul() instead of np.dot() for matrices at line 400"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/tests/application/test_msa.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/tests/structure/test_basepairs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/tests/structure/test_info.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/tests/structure/data/base_pairs/create_bond_orientation_test_data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 14"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/tests/structure/data/base_pairs/create_interacting_edge_test_data.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 14"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/sequence/misc/codon_usage.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 93",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/structure/protein/residue_chirality.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/sequence/homology/plotepiscan.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/structure/modeling/water_exchange_noexec.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/structure/molecule/peoe_visualization.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/structure/misc/glycan_visualization.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/doc/examples/scripts/sequence/sequencing/genome_assembly.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 501"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/sequence/align/statistics.py": {
+    "R2": [
+      "Random Seed Not Set at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/util.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/sequence/align/alignment.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 508",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 513",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 514"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/box.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 221",
+      "Use np.matmul() instead of np.dot() for matrices at line 222",
+      "Use np.matmul() instead of np.dot() for matrices at line 223"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 403",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 404",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 465"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/graphics/rna.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/io/pdbqt/file.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 642"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/basepairs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1101",
+      "Use np.matmul() instead of np.dot() for matrices at line 608",
+      "Use np.matmul() instead of np.dot() for matrices at line 1025",
+      "Use np.matmul() instead of np.dot() for matrices at line 1030",
+      "Use np.matmul() instead of np.dot() for matrices at line 1016",
+      "Use np.matmul() instead of np.dot() for matrices at line 1111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/biotite-dev_biotite/biotite-main/src/biotite/structure/io/pdbx/convert.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1946"
+    ]
+  }
+}

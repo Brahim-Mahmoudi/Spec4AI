@@ -1,0 +1,66 @@
+{
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/test/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/development/docker-demo/examples/WP_2019_SoS_Manuscript/regression_modules/lasso.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/test/test_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 867",
+      "Random Seed Not Set at line 1012",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 433"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/misc/vim-ipython/vim_ipython.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 515"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 317",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 454",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 464",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 466"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/src/sos/monitor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 214"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/src/sos/remote.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/src/sos/parser.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 819",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 584",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 613",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1411",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1412"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/src/sos/tasks.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/vatlab_sos/sos-master/src/sos/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1784",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1791"
+    ]
+  }
+}

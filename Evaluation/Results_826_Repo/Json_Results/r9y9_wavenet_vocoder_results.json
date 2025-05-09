@@ -1,0 +1,83 @@
+{
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/tests/test_audio.py": {
+    "R2": [
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/audio.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/wavenet_vocoder/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/tests/test_mixture.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/wavenet_vocoder/mixture.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/synthesis.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/wavenet_vocoder/wavenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/evaluate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/tests/test_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 132",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 271",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 309",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 346"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_wavenet_vocoder/wavenet_vocoder-master/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 562",
+      "Random Seed Not Set at line 628",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 465",
+      "Random Seed Not Set at line 457"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

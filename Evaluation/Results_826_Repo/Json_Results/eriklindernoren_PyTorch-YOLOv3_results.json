@@ -1,0 +1,58 @@
+{
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/utils/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/utils/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/detect.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/eriklindernoren_PyTorch-YOLOv3/PyTorch-YOLOv3-master/pytorchyolo/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

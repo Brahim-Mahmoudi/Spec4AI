@@ -1,0 +1,62 @@
+{
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2/data/Indoor3DSemSegLoader.py": {
+    "R2": [
+      "Random Seed Not Set at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2_ops_lib/pointnet2_ops/pointnet2_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2_ops_lib/pointnet2_ops/pointnet2_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2/data/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 137"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2/data/ModelNet40Loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikwijmans_Pointnet2_PyTorch/Pointnet2_PyTorch-master/pointnet2/models/pointnet2_ssg_cls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

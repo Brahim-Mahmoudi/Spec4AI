@@ -1,0 +1,248 @@
+{
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/utils/exp_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/scripts/build_lm.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/scripts/tacotron_gst_combine_csv.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/utils/adaptive_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/utils/log_uniform_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/scripts/nsr_create_syn_train_csv.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/scripts/tacotron_gst_create_infer_csv.py": {
+    "R2": [
+      "Random Seed Not Set at line 89"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 69",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/utils/proj_adaptive_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/utils/vocabulary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/process_beam_dump.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/scripts/ctc_decoders_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/losses/sequence_loss_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/utils/ctc_decoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/frame_asr.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/test_utils/create_reversed_examples.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/models/lstm_lm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 245"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/losses/sequence_loss.py": {
+    "R7": [
+      "Missing mask for tf.log at line 299",
+      "Missing mask for tf.log at line 301"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/optimizers/automatic_loss_scaler.py": {
+    "R7": [
+      "Missing mask for tf.log at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/models/speech2text.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 23",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 39",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/models/speech2text_test.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 205",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/models/text2speech.py": {
+    "R2": [
+      "Random Seed Not Set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/encoders/tacotron2_encoder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 501",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/parts/cnns/tcn.py": {
+    "R3": [
+      "TensorArray Not Used at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/external_lm_rescore/transformerxl/mem_transformer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 706"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/decoders/las_decoder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 352"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/encoders/lm_encoders.py": {
+    "R3": [
+      "TensorArray Not Used at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/decoders/rnn_decoders.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/parts/transformer/beam_search.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 443",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/text2speech/speech_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 229",
+      "Use np.matmul() instead of np.dot() for matrices at line 282",
+      "Use np.matmul() instead of np.dot() for matrices at line 173"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/speech2text/speech_commands_preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/text2speech/text2speech_wavenet.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/speech2text/speech_commands.py": {
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/text2text/process_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 340"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/lm/lmdata.py": {
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/speech2text/speech_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 406"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 430",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/speech2text/speech2text.py": {
+    "R2": [
+      "Random Seed Not Set at line 422"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/text2speech/text2speech.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVIDIA_OpenSeq2Seq/OpenSeq2Seq-master/open_seq2seq/data/lm/lmutils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 404"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 307"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 398"
+    ]
+  }
+}

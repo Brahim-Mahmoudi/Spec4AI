@@ -1,0 +1,68 @@
+{
+  "/Users/bramss/Desktop/All_Repo/lmc2179_bayesian_bootstrap/bayesian_bootstrap-master/bayesian_bootstrap/demos/linear_regression.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lmc2179_bayesian_bootstrap/bayesian_bootstrap-master/bayesian_bootstrap/demos/group_mean_secret_weapon.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lmc2179_bayesian_bootstrap/bayesian_bootstrap-master/bayesian_bootstrap/demos/demos.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 142",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 139"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 106",
+      "Hyperparameter not explicitly set at line 141",
+      "Hyperparameter not explicitly set at line 92",
+      "Hyperparameter not explicitly set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lmc2179_bayesian_bootstrap/bayesian_bootstrap-master/bayesian_bootstrap/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 215"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 17",
+      "Use np.matmul() instead of np.dot() for matrices at line 90",
+      "Use np.matmul() instead of np.dot() for matrices at line 91",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 72",
+      "Use np.matmul() instead of np.dot() for matrices at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/lmc2179_bayesian_bootstrap/bayesian_bootstrap-master/bayesian_bootstrap/tests/test_bootstrap.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 90",
+      "Hyperparameter not explicitly set at line 113",
+      "Hyperparameter not explicitly set at line 136",
+      "Hyperparameter not explicitly set at line 159"
+    ]
+  }
+}

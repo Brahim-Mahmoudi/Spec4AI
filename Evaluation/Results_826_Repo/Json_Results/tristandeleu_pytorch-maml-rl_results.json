@@ -1,0 +1,79 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/metalearners/base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/utils/optimization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/policies/policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/policies/normal_mlp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/baseline.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/utils/torch_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/metalearners/maml_trpo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/tests/utils/test_torch_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 24",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 25",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/episode.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/tristandeleu_pytorch-maml-rl/pytorch-maml-rl-master/maml_rl/samplers/multi_task_sampler.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 301"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tutorials/customcell_example.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tnn/spatial_transformer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tests/test_basic.py": {
+    "R2": [
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tests/test_temporal.py": {
+    "R3": [
+      "TensorArray Not Used at line 76",
+      "TensorArray Not Used at line 136",
+      "TensorArray Not Used at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tnn/convrnn.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1183",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/neuroailab_tnn/tnn-master/tnn/cell.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 337",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 1272",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 218"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 272",
+      "TensorArray Not Used at line 1215"
+    ]
+  }
+}

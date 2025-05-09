@@ -1,0 +1,96 @@
+{
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/docs/llm/phi2-gekko-eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/docs/llm/gekko-rag-local.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/test_cspline.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/docs/llm/phi2-finetune.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/gekko/gk_solver_extension_amplpy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/test_arrays.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 16",
+      "Use np.matmul() instead of np.dot() for matrices at line 18",
+      "Use np.matmul() instead of np.dot() for matrices at line 20"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 7",
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/test_matrix.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/gekko/brain.py": {
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/stochastic_mpc.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/hw_collocation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/examples/ANN_CSTR_control.py": {
+    "R2": [
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/gekko/ML.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 530"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 834",
+      "Use np.matmul() instead of np.dot() for matrices at line 566",
+      "Use np.matmul() instead of np.dot() for matrices at line 1033",
+      "Use np.matmul() instead of np.dot() for matrices at line 1012",
+      "Use np.matmul() instead of np.dot() for matrices at line 564",
+      "Use np.matmul() instead of np.dot() for matrices at line 568",
+      "Use np.matmul() instead of np.dot() for matrices at line 1036"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/BYU-PRISM_GEKKO/GEKKO-master/gekko/gekko.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1693",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1739",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1722",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1740",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1743",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1745"
+    ]
+  }
+}

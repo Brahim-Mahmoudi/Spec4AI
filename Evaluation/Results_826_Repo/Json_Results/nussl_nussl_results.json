@@ -1,0 +1,459 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/core/test_mixing.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_overfit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_filterbank.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_gaussian_mixture.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/core/test_stft.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/core/test_masks.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/datasets/test_hooks.py": {
+    "R2": [
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_clustering.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_closures.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/datasets/test_base_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_gradients.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 149",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_nmf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 207"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_factorization.py": {
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/core/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_spatial.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_composite.py": {
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_separation_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 293"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/docs/examples/factorization/ica.py": {
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/datasets/test_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 423"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_confidence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 103",
+      "Potential data leakage: model.fit() used without a pipeline at line 104"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 273"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/docs/examples/spatial/projet.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/docs/examples/spatial/spatial_clustering.py": {
+    "R2": [
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 143"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/ml/test_modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 293"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_separation_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/separation/test_deep.py": {
+    "R2": [
+      "Random Seed Not Set at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/recipes/wham/evaluate_dpcl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/core/play_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/recipes/wham/deep_clustering.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/core/migration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/recipes/wham/chimera.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/recipes/wham/mask_inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/docs/tutorials/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/tests/evaluation/test_evaluation.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 452",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/confidence.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 98"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 199"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 143",
+      "Hyperparameter not explicitly set at line 204",
+      "Hyperparameter not explicitly set at line 247",
+      "Hyperparameter not explicitly set at line 287",
+      "Hyperparameter not explicitly set at line 331"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/unfold/gaussian_mixture.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/train/closures.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 260"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/networks/modules/filter_bank.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/primitive/timbre.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/networks/separation_model.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 323"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/deep/deep_clustering.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/core/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/factorization/rpca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/deep/deep_audio_estimation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/train/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/train/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/deep/deep_mask_estimation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/primitive/repet_sim.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/datasets/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 536"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/docs/tutorials/training.py": {
+    "R2": [
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 433"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/base/clustering_separation_base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/base/deep_mixin.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/separation/spatial/projet.py": {
+    "R2": [
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/evaluation/bss_eval.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 43",
+      "Use np.matmul() instead of np.dot() for matrices at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nussl_nussl/nussl-master/nussl/ml/networks/modules/blocks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/init/FromScratchGauss.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/init/FromScratchBregmanMixture.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 384",
+      "Use np.matmul() instead of np.dot() for matrices at line 386",
+      "Use np.matmul() instead of np.dot() for matrices at line 376",
+      "Use np.matmul() instead of np.dot() for matrices at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/Runner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 243"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/relational/FiniteAssortativeMMSB.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 157"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 314",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 332"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/mix/DPMixtureRestrictedLocalStep.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/BetterLocalStep.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 29"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/hmm/FiniteHMM.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/suffstats/SuffStatBag.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 451",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 487",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 534"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/FiniteTopicModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/LocalStepSingleDoc.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 72",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 92",
+      "Use np.matmul() instead of np.dot() for matrices at line 314",
+      "Use np.matmul() instead of np.dot() for matrices at line 318",
+      "Use np.matmul() instead of np.dot() for matrices at line 334",
+      "Use np.matmul() instead of np.dot() for matrices at line 337",
+      "Use np.matmul() instead of np.dot() for matrices at line 175",
+      "Use np.matmul() instead of np.dot() for matrices at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/OptimizerRhoOmega.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 325",
+      "Use np.matmul() instead of np.dot() for matrices at line 331",
+      "Use np.matmul() instead of np.dot() for matrices at line 334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/LocalStepSingleDocSimpler.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 169",
+      "Use np.matmul() instead of np.dot() for matrices at line 56",
+      "Use np.matmul() instead of np.dot() for matrices at line 65",
+      "Use np.matmul() instead of np.dot() for matrices at line 140",
+      "Use np.matmul() instead of np.dot() for matrices at line 173",
+      "Use np.matmul() instead of np.dot() for matrices at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/OptimizerRhoOmegaBetter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/learnalg/ElapsedTimeLogger.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 41",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/HDPTopicRestrictedLocalStep2.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 19",
+      "Use np.matmul() instead of np.dot() for matrices at line 395",
+      "Use np.matmul() instead of np.dot() for matrices at line 400",
+      "Use np.matmul() instead of np.dot() for matrices at line 414",
+      "Use np.matmul() instead of np.dot() for matrices at line 452"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/MatMultUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 49",
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/RandUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/hmm/HMMUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 401",
+      "Use np.matmul() instead of np.dot() for matrices at line 361"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/HDPTopicRestrictedLocalStep.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 284",
+      "Use np.matmul() instead of np.dot() for matrices at line 288",
+      "Use np.matmul() instead of np.dot() for matrices at line 309",
+      "Use np.matmul() instead of np.dot() for matrices at line 449",
+      "Use np.matmul() instead of np.dot() for matrices at line 582"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/SparseRespStatsUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 93"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/allocmodel/topics/HDPTopicModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 957",
+      "Use np.matmul() instead of np.dot() for matrices at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/OptimizerForPi.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 62",
+      "Use np.matmul() instead of np.dot() for matrices at line 228",
+      "Use np.matmul() instead of np.dot() for matrices at line 230",
+      "Use np.matmul() instead of np.dot() for matrices at line 282",
+      "Use np.matmul() instead of np.dot() for matrices at line 283",
+      "Use np.matmul() instead of np.dot() for matrices at line 189",
+      "Use np.matmul() instead of np.dot() for matrices at line 262",
+      "Use np.matmul() instead of np.dot() for matrices at line 403",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/EntropyUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 180",
+      "Use np.matmul() instead of np.dot() for matrices at line 184"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 188",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/lib/LibLocalStep.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/SparseRespUtil.py": {
+    "R2": [
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/lib/sparseResp/LibSparseRespTopics.py": {
+    "R2": [
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/GaussRegressYFromDiagGaussXObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 271"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/NumericUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 308",
+      "Use np.matmul() instead of np.dot() for matrices at line 318",
+      "Use np.matmul() instead of np.dot() for matrices at line 355",
+      "Use np.matmul() instead of np.dot() for matrices at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/AsteriskK8/make_asterisk_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/AsteriskK8.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/util/lib/sparseResp/LibSparseResp.py": {
+    "R2": [
+      "Random Seed Not Set at line 470"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/HashtagK9.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/Letters.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 380"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 25",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/AdmixAsteriskK8.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/DeadLeaves.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/GaussRegressYFromFixedXObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 727",
+      "Use np.matmul() instead of np.dot() for matrices at line 728",
+      "Use np.matmul() instead of np.dot() for matrices at line 342",
+      "Use np.matmul() instead of np.dot() for matrices at line 442",
+      "Use np.matmul() instead of np.dot() for matrices at line 492",
+      "Use np.matmul() instead of np.dot() for matrices at line 527",
+      "Use np.matmul() instead of np.dot() for matrices at line 528",
+      "Use np.matmul() instead of np.dot() for matrices at line 559"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/ToyARK13.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/callbacks/InferHeldoutTopics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 416",
+      "Use np.matmul() instead of np.dot() for matrices at line 423"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/MultObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 646",
+      "Use np.matmul() instead of np.dot() for matrices at line 688",
+      "Use np.matmul() instead of np.dot() for matrices at line 720"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/StarCovarK5.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/ToyARD2.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 68",
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 77",
+      "Use np.matmul() instead of np.dot() for matrices at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/bars_many_per_doc/make_many_bar_per_doc_dataset.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/zzz_unsupported/AutoRegK4.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 94",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/ZeroMeanGaussObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 698",
+      "Use np.matmul() instead of np.dot() for matrices at line 703"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/datasets/mocap6/make_mocap6_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 52",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/BernObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 875",
+      "Use np.matmul() instead of np.dot() for matrices at line 273",
+      "Use np.matmul() instead of np.dot() for matrices at line 737",
+      "Use np.matmul() instead of np.dot() for matrices at line 940",
+      "Use np.matmul() instead of np.dot() for matrices at line 941"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1010"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/viz/RelationalViz.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/learnalg/MemoVBMovesAlg.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 507"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/AutoRegGaussObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 509",
+      "Use np.matmul() instead of np.dot() for matrices at line 547",
+      "Use np.matmul() instead of np.dot() for matrices at line 548",
+      "Use np.matmul() instead of np.dot() for matrices at line 1045",
+      "Use np.matmul() instead of np.dot() for matrices at line 1092",
+      "Use np.matmul() instead of np.dot() for matrices at line 355",
+      "Use np.matmul() instead of np.dot() for matrices at line 468",
+      "Use np.matmul() instead of np.dot() for matrices at line 475",
+      "Use np.matmul() instead of np.dot() for matrices at line 505",
+      "Use np.matmul() instead of np.dot() for matrices at line 569",
+      "Use np.matmul() instead of np.dot() for matrices at line 623",
+      "Use np.matmul() instead of np.dot() for matrices at line 918",
+      "Use np.matmul() instead of np.dot() for matrices at line 922",
+      "Use np.matmul() instead of np.dot() for matrices at line 407",
+      "Use np.matmul() instead of np.dot() for matrices at line 574",
+      "Use np.matmul() instead of np.dot() for matrices at line 596",
+      "Use np.matmul() instead of np.dot() for matrices at line 905",
+      "Use np.matmul() instead of np.dot() for matrices at line 508",
+      "Use np.matmul() instead of np.dot() for matrices at line 668",
+      "Use np.matmul() instead of np.dot() for matrices at line 670",
+      "Use np.matmul() instead of np.dot() for matrices at line 406",
+      "Use np.matmul() instead of np.dot() for matrices at line 474",
+      "Use np.matmul() instead of np.dot() for matrices at line 669",
+      "Use np.matmul() instead of np.dot() for matrices at line 666"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/viz/GaussViz.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 217",
+      "Use np.matmul() instead of np.dot() for matrices at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/birthmove/BCleanup.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 71",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/DiagGaussObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1130",
+      "Use np.matmul() instead of np.dot() for matrices at line 447",
+      "Use np.matmul() instead of np.dot() for matrices at line 833",
+      "Use np.matmul() instead of np.dot() for matrices at line 834"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/obsmodel/GaussObsModel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 925",
+      "Use np.matmul() instead of np.dot() for matrices at line 931",
+      "Use np.matmul() instead of np.dot() for matrices at line 932"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/birthmove/zzzdeprecated/TargetPlannerWordFreq.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/birthmove/zzzdeprecated/BirthCreate.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/data/XData.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/init/Symbols.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/deletemove/TryDelete.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 169"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/mix/TestMixModel.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/birthmove/zzzdeprecated/TargetPlanner.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 594"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/parallel/kmeans/KMeansUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 123",
+      "Use np.matmul() instead of np.dot() for matrices at line 110"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 95",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/hmm/TestSummaryAlg.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/parallel/simple-task-benchmark/RunBenchmark.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 217"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 204",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 206"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/PointEstimationOfPi/TestInitBregmanMixtureOfMeans.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/suffstats/TestParamBag.py": {
+    "R2": [
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 144",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 402",
+      "Random Seed Not Set at line 408",
+      "Random Seed Not Set at line 420",
+      "Random Seed Not Set at line 423"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/HDP-point-estimation/OptimizerHDPSB.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/data/BagOfWordsData.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1217",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/PointEstimationOfPi/OptimizerForPi.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 21",
+      "Use np.matmul() instead of np.dot() for matrices at line 23",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 56",
+      "Use np.matmul() instead of np.dot() for matrices at line 221",
+      "Use np.matmul() instead of np.dot() for matrices at line 287",
+      "Use np.matmul() instead of np.dot() for matrices at line 372"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/HDP-point-estimation/OptimizerHDPPE.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 237",
+      "Use np.matmul() instead of np.dot() for matrices at line 235",
+      "Use np.matmul() instead of np.dot() for matrices at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/obsmodel/TestZeroMeanGaussLocalStepSpeed.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/bnpy/data/SeqOfWordsData.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1173",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/HDP-point-estimation/HDPSB.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 248"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/HDP-point-estimation/LocalUtil.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 337",
+      "Use np.matmul() instead of np.dot() for matrices at line 340",
+      "Use np.matmul() instead of np.dot() for matrices at line 401",
+      "Use np.matmul() instead of np.dot() for matrices at line 404",
+      "Use np.matmul() instead of np.dot() for matrices at line 489",
+      "Use np.matmul() instead of np.dot() for matrices at line 493",
+      "Use np.matmul() instead of np.dot() for matrices at line 571",
+      "Use np.matmul() instead of np.dot() for matrices at line 574"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/birthmove/delete-as-split/DeleteProposal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 112",
+      "Use np.matmul() instead of np.dot() for matrices at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/birthmove/SinglePassBirth_HDPTopicModel.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 226",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/third-party/anchorwordtopics/random_projection.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/tests/zzz_deprecated_unmaintained/allocmodel/topics/HDP-point-estimation/HDPDir.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 890",
+      "Use np.matmul() instead of np.dot() for matrices at line 249",
+      "Use np.matmul() instead of np.dot() for matrices at line 381"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/third-party/anchorwordtopics/gram_schmidt_stable.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 22",
+      "Use np.matmul() instead of np.dot() for matrices at line 38",
+      "Use np.matmul() instead of np.dot() for matrices at line 54",
+      "Use np.matmul() instead of np.dot() for matrices at line 43",
+      "Use np.matmul() instead of np.dot() for matrices at line 53",
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bnpy_bnpy/bnpy-master/third-party/anchorwordtopics/AnchorFinder.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 176",
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 129",
+      "Use np.matmul() instead of np.dot() for matrices at line 207",
+      "Use np.matmul() instead of np.dot() for matrices at line 128",
+      "Use np.matmul() instead of np.dot() for matrices at line 196",
+      "Use np.matmul() instead of np.dot() for matrices at line 206",
+      "Use np.matmul() instead of np.dot() for matrices at line 212"
+    ]
+  }
+}

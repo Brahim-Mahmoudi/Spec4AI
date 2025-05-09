@@ -1,0 +1,104 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/models/pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/spatial_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/dataset_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/gen_attack_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/spatial_attack_transformations.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 138",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 252"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/pointwise.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/gen_attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/tests/test_gen_attack_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/spatial_attack_pytorch_resnet18.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/single_attack_pytorch_resnet18.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/zoo/mnist/foolbox_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/multiple_attacks_pytorch_resnet18.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/substituion_model_pytorch_resnet18.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/examples/eot_attack_pytorch_resnet18.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/tests/conftest.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bethgelab_foolbox/foolbox-master/foolbox/attacks/brendel_bethge.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1977"
+    ]
+  }
+}

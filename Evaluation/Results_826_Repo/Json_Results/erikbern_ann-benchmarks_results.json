@@ -1,0 +1,70 @@
+{
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/distance.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/algorithms/rpforest/module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 320"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/algorithms/tinyknn/module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/algorithms/dummy_algo/module.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/algorithms/bruteforce/module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/algorithms/elastiknn/module.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 98",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/runner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/erikbern_ann-benchmarks/ann-benchmarks-main/ann_benchmarks/datasets.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 370",
+      "Potential data leakage: fit_transform called before train/test split at line 372"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 500",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 176"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 389",
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 460",
+      "Random Seed Not Set at line 471",
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 373",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 436",
+      "Random Seed Not Set at line 549",
+      "Random Seed Not Set at line 590",
+      "Random Seed Not Set at line 595"
+    ]
+  }
+}

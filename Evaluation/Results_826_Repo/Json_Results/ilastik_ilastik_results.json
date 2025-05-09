@@ -1,0 +1,248 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/roi.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 780"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/operators/opInterpMissingData.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 143",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/tools/schematic.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 234",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 243",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 296",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 299"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/operators/generic.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/classifiers/sklearnLazyflowClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/utility/transposed_view.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/utility/alternative_numpy_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/lazyflow/operators/opDetectMissingData.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 357",
+      "Potential data leakage: model.fit() used without a pipeline at line 390",
+      "Potential data leakage: model.fit() used without a pipeline at line 342"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 563",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 637"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 390"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_request/testSimpleRequestCondition.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_request/test_threadPool.py": {
+    "R2": [
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_request/testRequestLock.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testCacheMemoryManager.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testOpSplitRequestsBlockwise.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testOpUnblockedArrayCache.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testOpCacheFixer.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_request/testRequest.py": {
+    "R2": [
+      "Random Seed Not Set at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testOpLabelVolume.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_lazyflow/test_operators/testOpReorderAxes.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_applets/thresholdTwoLevels/testOpAnisotropicGaussianSmoothing.py": {
+    "R2": [
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_applets/objectCounting/testObjectCountingOperators.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_applets/thresholdTwoLevels/testOpGraphcutSegment.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_applets/thresholdTwoLevels/testThresholdTwoLevels.py": {
+    "R2": [
+      "Random Seed Not Set at line 752"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_applets/objectClassification/testOperators.py": {
+    "R2": [
+      "Random Seed Not Set at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/tests/test_ilastik/test_utility/testOperatorSubView.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/counting/countingOperators.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 288"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/counting/countingsvr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 472",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 479"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 60",
+      "Use np.matmul() instead of np.dot() for matrices at line 232"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 437"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/objectExtraction/objectExtractionGui.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 666",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 668"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/pixelClassification/opPixelClassification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 812"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/pixelClassification/suggestFeaturesDialog.py": {
+    "R2": [
+      "Random Seed Not Set at line 757"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/applets/tracking/structured/structuredTrackingGui.py": {
+    "R2": [
+      "Random Seed Not Set at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/workflows/newAutocontext/newAutocontextWorkflow.py": {
+    "R2": [
+      "Random Seed Not Set at line 602"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/plugins_default/tracking_contours_with_head_export.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 61",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 74",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/plugins_default/tracking_mamut_export.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 18"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/plugins_default/tracking_mwt_export.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/widgets/boxListView.py": {
+    "R2": [
+      "Random Seed Not Set at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/utility/slicingtools.py": {
+    "R2": [
+      "Random Seed Not Set at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/workflows/voxelSegmentation/opVoxelSegmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ilastik_ilastik/ilastik-main/ilastik/utility/exportFile.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 156"
+    ]
+  }
+}

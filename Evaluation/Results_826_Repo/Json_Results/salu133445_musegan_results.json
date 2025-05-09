@@ -1,0 +1,31 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/salu133445_musegan/musegan-main/src/musegan/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/salu133445_musegan/musegan-main/src/musegan/presets/binary_ops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/salu133445_musegan/musegan-main/src/collect_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/salu133445_musegan/musegan-main/src/interpolation.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/salu133445_musegan/musegan-main/src/musegan/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 327"
+    ]
+  }
+}

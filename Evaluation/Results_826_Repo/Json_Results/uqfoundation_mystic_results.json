@@ -1,0 +1,635 @@
+{
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST2.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST3b.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_diam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MPI_surrogate_diam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MM_surrogate_diam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/PP_surrogate_diam.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MPI_surrogate_diam_scatter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 125",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST3.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/QSUB2_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MM2_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MPI_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/QSUB_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MSUB_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 137",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_McD.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4xs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/MPI2_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_diam_batchgrid.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_diam_scatter.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 136"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected0.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_searcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3NN_skorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3NN.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error2b.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_cut.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3DT.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_gub_expected.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_smartcut.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3GP.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_glb_expected.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error3.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_improve_score.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error2bGP.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/constrained_scikeras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error2bNN.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error1NN.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error1GP.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/constrained_sklearn.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples4/TEST_surrogate_samples.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error0.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4y.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4x.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4vy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_error.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/hyperopt_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error1.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/ml.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 339"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML3n.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_searcher2.py": {
+    "R2": [
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4s.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_lub_expected_error2a.py": {
+    "R2": [
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/test_llb_expected.py": {
+    "R2": [
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/interpolator.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/xrd_optML4v.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/slsqp.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/estimator.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/qp_inequality.py": {
+    "R2": [
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/max_percentle.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/slsqp3.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/slsqp2.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples2/slack_variable.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 34",
+      "Use np.matmul() instead of np.dot() for matrices at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/ouq_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 744",
+      "Potential data leakage: model.fit() used without a pipeline at line 856"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 327"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples3/ouq.py": {
+    "R2": [
+      "Random Seed Not Set at line 509"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/metropolis.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/svr.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/forward_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/ensemble.py": {
+    "R2": [
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/abstract_solver.py": {
+    "R2": [
+      "Random Seed Not Set at line 461",
+      "Random Seed Not Set at line 526"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/tests/test_vectorize.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/tests/test_converters.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/tests/test_interpolate.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/symbolic.py": {
+    "R2": [
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 792",
+      "Random Seed Not Set at line 812"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/models/lorentzian.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/models/circle.py": {
+    "R2": [
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/models/dejong.py": {
+    "R2": [
+      "Random Seed Not Set at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/_rbf.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/stats.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_griewangk.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_ffitC.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_mogi.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_corana.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/TEST_ffitPP2_b.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/forward_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/example06.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/example11.py": {
+    "R2": [
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_mogi2.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/test_zimmermann.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/rosetta_mogi.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/TEST_ffitPP2.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/chebyshevinputs.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/interpolate.py": {
+    "R2": [
+      "Random Seed Not Set at line 412"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/examples/rosetta_parabola.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_corana.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_circle_matlab.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_corana2.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_rosenbrock.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_cg_rosenbrock.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_cg_zimmermann.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_zimmermann.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/_examples/sam_mogi.py": {
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 89"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/discrete.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 762",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/uqfoundation_mystic/mystic-master/mystic/math/measures.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1790",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1974",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 2001",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 1792"
+    ]
+  }
+}

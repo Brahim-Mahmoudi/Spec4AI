@@ -1,0 +1,41 @@
+{
+  "/Users/bramss/Desktop/All_Repo/davidhallac_TICC/TICC-master/example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/davidhallac_TICC/TICC-master/UnitTest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/davidhallac_TICC/TICC-master/src/TICC_helper.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 194"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 198"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/davidhallac_TICC/TICC-master/TICC_solver.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 82"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 287",
+      "Use np.matmul() instead of np.dot() for matrices at line 288"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 227",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 243"
+    ]
+  }
+}

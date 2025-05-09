@@ -1,0 +1,176 @@
+{
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/compat.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/_core/ops/minimize.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 121"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/_plotting.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/extensions/nexsci/nexsci.py": {
+    "R2": [
+      "Random Seed Not Set at line 87"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 151",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 224",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 229",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/_core/math.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/_core/ops/lib/include/reflected/oren_nayar.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 187",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 189",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/greedy/test_system_rv_greedy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_grid.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_multi_wavelength_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 57",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_rotate_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 13",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_system_solve_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/doppler_solve.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 592",
+      "Use np.matmul() instead of np.dot() for matrices at line 643",
+      "Use np.matmul() instead of np.dot() for matrices at line 612",
+      "Use np.matmul() instead of np.dot() for matrices at line 700",
+      "Use np.matmul() instead of np.dot() for matrices at line 701",
+      "Use np.matmul() instead of np.dot() for matrices at line 702",
+      "Use np.matmul() instead of np.dot() for matrices at line 732",
+      "Use np.matmul() instead of np.dot() for matrices at line 652",
+      "Use np.matmul() instead of np.dot() for matrices at line 666"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_solve_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_ld_coeffs.py": {
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_doppler_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 27",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 125",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 119",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 135",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 141",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/kepler.py": {
+    "R2": [
+      "Random Seed Not Set at line 1483"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/tests/lazy/test_indices_lazy.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rodluger_starry/starry-master/starry/maps.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 1772"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 968"
+    ]
+  }
+}

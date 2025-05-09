@@ -1,0 +1,63 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/tests/test_ffmpeg.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/tests/test_libav.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/measure/niqe.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/doc/examples/outputdictexample.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/doc/examples/imagedata3.py": {
+    "R2": [
+      "Random Seed Not Set at line 5"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/doc/examples/IOcorrupt.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/doc/examples/sparsevid.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 44",
+      "Use np.matmul() instead of np.dot() for matrices at line 45",
+      "Use np.matmul() instead of np.dot() for matrices at line 106",
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/measure/videobliinds.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 150"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/utils/stpyr.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/scikit-video_scikit-video/scikit-video-master/skvideo/motion/block.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 81",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 247",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 82",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 248"
+    ]
+  }
+}

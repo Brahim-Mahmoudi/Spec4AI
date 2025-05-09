@@ -1,0 +1,151 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/threshold.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/resample.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/affine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/one_hot.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/nilearn_custom_utils/nilearn_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/normalize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/radiomic_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 121"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/graph/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/predict/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/graph/graph_cmr_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/segmentation/unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/scripts/predict.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/predict/volumetric.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 15"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/graph/graph_cmr_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/autoencoder/variational.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/models/pytorch/autoencoder/vqvae2.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/train/train.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/nipy/empirical_pvalue.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/train/training_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/scripts/script_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ellisdg_3DUnetCNN/3DUnetCNN-master/unet3d/utils/nipy/ggmixture.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 61",
+      "Use np.matmul() instead of np.dot() for matrices at line 109",
+      "Use np.matmul() instead of np.dot() for matrices at line 213",
+      "Use np.matmul() instead of np.dot() for matrices at line 214",
+      "Use np.matmul() instead of np.dot() for matrices at line 506",
+      "Use np.matmul() instead of np.dot() for matrices at line 507"
+    ]
+  }
+}

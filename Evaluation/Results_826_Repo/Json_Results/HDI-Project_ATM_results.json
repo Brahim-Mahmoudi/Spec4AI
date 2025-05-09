@@ -1,0 +1,52 @@
+{
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/tests/utilities/myselector.py": {
+    "R2": [
+      "Random Seed Not Set at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/data.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 223"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/core.py": {
+    "R2": [
+      "Random Seed Not Set at line 297"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/classifier.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/tests/test_worker.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/HDI-Project_ATM/ATM-master/atm/database.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 547"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 521",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 534"
+    ]
+  }
+}

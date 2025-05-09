@@ -1,0 +1,164 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/shogun/kmeans.py": {
+    "R2": [
+      "Random Seed Not Set at line 160"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/gmm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/elastic_net.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/adaboost.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/LSHForest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/svr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/nbc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/lars.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/lasso.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/knc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/qda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/ica.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/lda.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/linear_ridge_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/logistic_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/dtc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/knn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/methods/scikit/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mlpack_benchmarks/benchmarks-master/util/util.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 418",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 439",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 463",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 602",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 606",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 611",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 689",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 419",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 512",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 516",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 521",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 613",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 523"
+    ]
+  }
+}

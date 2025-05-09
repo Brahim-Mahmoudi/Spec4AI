@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/hubconf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/utils/dice_score.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/evaluate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/unet/unet_parts.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/predict.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/utils/data_loading.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/milesial_Pytorch-UNet/Pytorch-UNet-master/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

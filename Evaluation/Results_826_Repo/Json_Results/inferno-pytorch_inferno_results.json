@@ -1,0 +1,281 @@
+{
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/utils/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/utils/model_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/io/box/cifar.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/io/transform/generic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/io/box/camvid.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/utils/partial_cls.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/io/core/zip.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/utils/torch_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/extensions/metrics/categorical.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/extensions/layers/reshape.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/extensions/models/res_unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_utils/test_model_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_io/test_volumetric/test_volume_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_inferno.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 136"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/extensions/models/unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_criteria/test_core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_layers/test_activations.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_criteria/test_elementwise_measures.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_layers/test_convolutional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_criteria/test_set_similarity_measures.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_models/test_res_unet.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_layers/test_device.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_metrics/categorical.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_layers/test_reshape.py": {
+    "R2": [
+      "Random Seed Not Set at line 7"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_training/test_callbacks/test_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/examples/trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_training/test_callbacks/test_essentials.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_layers/deprecated/building_blocks.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_training/test_callbacks/test_logging/test_tensorboard.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/examples/regularized_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_extensions/test_containers/test_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 133"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/examples/plot_unet_tutorial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/tests/test_training/test_basic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 107",
+      "Potential data leakage: model.fit() used without a pipeline at line 158",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/examples/plot_cheap_unet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/examples/plot_train_side_loss_unet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/inferno-pytorch_inferno/inferno-master/inferno/trainers/basic.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1454",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 1452"
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_standard_datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_meta_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_disparate_impact_remover.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 52",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_lfr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_eq_odds_postprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 9",
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_sample_distortion_metric.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_differential_fairness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/mlops/kubeflow/bias_detector_pytorch/src/fairness.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_deterministic_reranking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_reweighing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_adversarial_debiasing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_calibrated_equalized_odds.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 95",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 48",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_learning_fair_representations.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_reject_option_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 108",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 122",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 141",
+      "Potential data leakage: model.fit() used without a pipeline at line 154",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 20",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 108",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/test_classification_metric.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 141",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_infairness.py": {
+    "R2": [
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 125"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/test_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/facts/test_parameters.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/facts/test_init.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/metrics/binary_label_dataset_metric.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/bank_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/compas_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/german_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/metrics/ot_metric.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/adult_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 89",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/meps_dataset_panel19_fy2015.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/tests/sklearn/facts/test_predicate.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/exponentiated_gradient_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/art_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/meps_dataset_panel20_fy2015.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/regression_dataset.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/lime_encoder.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/grid_search_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/datasets/meps_dataset_panel21_fy2016.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/gerryfair_classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 285"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/gerryfair/learner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/gerryfair/reg_oracle_class.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 40",
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/gerryfair/clean.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 64; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 77; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 153",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 154",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/kamfadm-2012ecmlpkdd/train_pr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/adversarial_debiasing.py": {
+    "R3": [
+      "TensorArray Not Used at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/postprocessing/calibrated_eq_odds_postprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/postprocessing/reject_option_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/gerryfair/auditor.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 217",
+      "Potential data leakage: model.fit() used without a pipeline at line 219",
+      "Potential data leakage: model.fit() used without a pipeline at line 239",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 216",
+      "Hyperparameter not explicitly set at line 218",
+      "Hyperparameter not explicitly set at line 238",
+      "Hyperparameter not explicitly set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/inprocessing/kamfadm-2012ecmlpkdd/fadm/lr/pr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 229",
+      "Potential data leakage: model.fit() used without a pipeline at line 241"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 219"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 229",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/preprocessing/lfr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/datasets/compas_dataset.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/preprocessing/optim_preproc_helpers/distortion_functions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 133",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/preprocessing/optim_preproc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/postprocessing/deterministic_reranking.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 203"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/algorithms/postprocessing/eq_odds_postprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 257"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/inprocessing/exponentiated_gradient_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/inprocessing/grid_search_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/preprocessing/reweighing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/postprocessing/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 105",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 123"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/inprocessing/infairness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 197"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/detectors/facts/metrics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/postprocessing/reject_option_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 219"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/preprocessing/learning_fair_representations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 139"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/detectors/mdss/generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/detectors/facts/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/inprocessing/adversarial_debiasing.py": {
+    "R3": [
+      "TensorArray Not Used at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/sklearn/metrics/metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1147"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 837",
+      "Use np.matmul() instead of np.dot() for matrices at line 444",
+      "Use np.matmul() instead of np.dot() for matrices at line 474"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Trusted-AI_AIF360/AIF360-main/aif360/detectors/mdss/MDSS.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 121"
+    ]
+  }
+}

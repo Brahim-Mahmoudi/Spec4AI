@@ -1,0 +1,336 @@
+{
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/metrics/distance.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/tests/test_regression_accuracy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 34",
+      "Hyperparameter not explicitly set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/tests/test_reduction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/fm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 46",
+      "Use np.matmul() instead of np.dot() for matrices at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/rbm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 64",
+      "Use np.matmul() instead of np.dot() for matrices at line 69",
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 62",
+      "Use np.matmul() instead of np.dot() for matrices at line 66",
+      "Use np.matmul() instead of np.dot() for matrices at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/linear_models.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 113",
+      "Use np.matmul() instead of np.dot() for matrices at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/tsne.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/ensemble/gbm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 134",
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/kmeans.py": {
+    "R2": [
+      "Random Seed Not Set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/tests/test_classification_accuracy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 55"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 37",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 44",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 80",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 55"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 75",
+      "Hyperparameter not explicitly set at line 66",
+      "Hyperparameter not explicitly set at line 69",
+      "Hyperparameter not explicitly set at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/svm/kernerls.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 8",
+      "Use np.matmul() instead of np.dot() for matrices at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/initializations.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/rl_deep_q_learning.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 15",
+      "Hyperparameter not explicitly set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/tests/test_optimizers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43",
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 55",
+      "Hyperparameter not explicitly set at line 59",
+      "Hyperparameter not explicitly set at line 23",
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/gaussian_mixture.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/nnet_convnet_mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 35",
+      "Hyperparameter not explicitly set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/linear_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 25",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/naive_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/nearest_neighbors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 25",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/nnet_rnn_binary_add.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 66"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76",
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/gaussian_mixture.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/nnet_rnn_text_generation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/rbm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/random_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/layers/recurrent/rnn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 81",
+      "Use np.matmul() instead of np.dot() for matrices at line 83",
+      "Use np.matmul() instead of np.dot() for matrices at line 85",
+      "Use np.matmul() instead of np.dot() for matrices at line 87",
+      "Use np.matmul() instead of np.dot() for matrices at line 88",
+      "Use np.matmul() instead of np.dot() for matrices at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/layers/basic.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 80",
+      "Use np.matmul() instead of np.dot() for matrices at line 86"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/gbm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/examples/nnet_mlp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 42",
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 33",
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 38",
+      "Hyperparameter not explicitly set at line 60",
+      "Hyperparameter not explicitly set at line 62",
+      "Hyperparameter not explicitly set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/rl/dqn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/svm/svm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/layers/convnet.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 54"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 176",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rushter_MLAlgorithms/MLAlgorithms-master/mla/neuralnet/layers/recurrent/lstm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 138",
+      "Use np.matmul() instead of np.dot() for matrices at line 139",
+      "Use np.matmul() instead of np.dot() for matrices at line 143",
+      "Use np.matmul() instead of np.dot() for matrices at line 144",
+      "Use np.matmul() instead of np.dot() for matrices at line 148",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 153",
+      "Use np.matmul() instead of np.dot() for matrices at line 154",
+      "Use np.matmul() instead of np.dot() for matrices at line 93"
+    ]
+  }
+}

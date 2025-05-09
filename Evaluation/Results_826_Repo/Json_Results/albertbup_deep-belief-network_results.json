@@ -1,0 +1,69 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/example_save.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/example_classification.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/example_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/dbn/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/example_unsupervised.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 96"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/dbn/tensorflow/models.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/albertbup_deep-belief-network/deep-belief-network-master/dbn/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 358",
+      "Potential data leakage: model.fit() used without a pipeline at line 272"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 601",
+      "Use np.matmul() instead of np.dot() for matrices at line 703",
+      "Use np.matmul() instead of np.dot() for matrices at line 201",
+      "Use np.matmul() instead of np.dot() for matrices at line 210",
+      "Use np.matmul() instead of np.dot() for matrices at line 498",
+      "Use np.matmul() instead of np.dot() for matrices at line 613",
+      "Use np.matmul() instead of np.dot() for matrices at line 711",
+      "Use np.matmul() instead of np.dot() for matrices at line 183"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 434",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 439",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 443",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 445"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 435",
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/test/test_pth_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/tools/eval.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/tools/eval_ensemble.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/M2Transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/BertCapModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/utils/misc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/AttEnsemble.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/ShowTellModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/modules/loss_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/tools/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/AoAModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/FCModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/TransformerModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/scripts/prepro_feats.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/data/dataloaderraw.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/utils/eval_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/tools/train_pl.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 499"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/cachedTransformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/modules/losses.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 288",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 322"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/data/pth_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/data/dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/CaptionModel.py": {
+    "R2": [
+      "Random Seed Not Set at line 377"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ruotianluo_ImageCaptioning.pytorch/ImageCaptioning.pytorch-master/captioning/models/AttModel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

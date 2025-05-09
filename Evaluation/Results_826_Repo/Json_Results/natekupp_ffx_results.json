@@ -1,0 +1,31 @@
+{
+  "/Users/bramss/Desktop/All_Repo/natekupp_ffx/ffx-master/ffx_tests/conftest.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/natekupp_ffx/ffx-master/ffx_tests/test_sklearn_api.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/natekupp_ffx/ffx-master/ffx/core/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/natekupp_ffx/ffx-master/ffx/cli.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 55",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 99",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/natekupp_ffx/ffx-master/ffx/core/model_factories.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 461"
+    ]
+  }
+}

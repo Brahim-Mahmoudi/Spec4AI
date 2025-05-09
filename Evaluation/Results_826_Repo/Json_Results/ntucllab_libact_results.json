@@ -1,0 +1,199 @@
+{
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/logistic_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/labelers/ideal_labeler.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/sklearn_adapter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/tests/test_svm.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/tests/test_perceptron.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/tests/test_logistic_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/tests/test_sklearn_adapter.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 30",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/models/multilabel/tests/test_binary_relevance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/density_weighted_meta.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/quire.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 120",
+      "Use np.matmul() instead of np.dot() for matrices at line 122",
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 136",
+      "Use np.matmul() instead of np.dot() for matrices at line 139",
+      "Use np.matmul() instead of np.dot() for matrices at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/multiclass/active_learning_with_cost_embedding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/density_weighted_uncertainty_sampling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 123",
+      "Use np.matmul() instead of np.dot() for matrices at line 239",
+      "Use np.matmul() instead of np.dot() for matrices at line 208",
+      "Use np.matmul() instead of np.dot() for matrices at line 211",
+      "Use np.matmul() instead of np.dot() for matrices at line 212"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/multilabel/cost_sensitive_reference_pair_encoding.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 215"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/multiclass/tests/test_iris.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/active_learning_by_learning.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 397"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/examples/plot.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 74",
+      "Hyperparameter not explicitly set at line 78",
+      "Hyperparameter not explicitly set at line 73"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/base/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 238",
+      "Random Seed Not Set at line 220"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/tests/test_realdata.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/examples/label_digits.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 42"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/multiclass/mdsp.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 156",
+      "Use np.matmul() instead of np.dot() for matrices at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/examples/albl_plot.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/examples/multilabel_plot.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 56"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 115",
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 101",
+      "Hyperparameter not explicitly set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/examples/alce_plot.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 78"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/ntucllab_libact/libact-master/libact/query_strategies/multiclass/hierarchical_sampling.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 130"
+    ]
+  }
+}

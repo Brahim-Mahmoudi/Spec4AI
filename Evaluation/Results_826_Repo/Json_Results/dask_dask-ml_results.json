@@ -1,0 +1,660 @@
+{
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_naive_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 13",
+      "Potential data leakage: model.fit() used without a pipeline at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_model_selection.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_normalize.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 15",
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 15",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 16",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 33",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_spectral_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_partial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 56"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_impute.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_svd.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 97",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 164",
+      "Potential data leakage: model.fit() used without a pipeline at line 165",
+      "Potential data leakage: model.fit() used without a pipeline at line 68",
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 162",
+      "Use np.matmul() instead of np.dot() for matrices at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/metrics/test_metrics.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 181"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/compose/test_column_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/preprocessing/test_block_transformer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 124",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 148",
+      "Potential data leakage: model.fit() used without a pipeline at line 149",
+      "Potential data leakage: model.fit() used without a pipeline at line 181",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 193"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_incremental_warns.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_incremental.py": {
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 134",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 237",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 56",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 121",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_pytorch.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_parallel_post_fit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 113",
+      "Potential data leakage: model.fit() used without a pipeline at line 138",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 186",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 225",
+      "Potential data leakage: model.fit() used without a pipeline at line 239"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 61",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 92",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 113",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 138",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 169",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 225"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 21",
+      "Hyperparameter not explicitly set at line 36",
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 205",
+      "Hyperparameter not explicitly set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/feature_extraction/test_text.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_successive_halving.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/ensemble/test_blockwise.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19",
+      "Potential data leakage: model.fit() used without a pipeline at line 72",
+      "Potential data leakage: model.fit() used without a pipeline at line 110",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 185"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 192",
+      "Hyperparameter not explicitly set at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/preprocessing/test_label.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 160",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 172",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 52",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/preprocessing/test_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 156",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 185",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 34",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 164"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/linear_model/test_glm.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 146"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 57",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 83",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 93",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 189",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 204",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 205",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 206",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 212",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 203"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 188",
+      "Hyperparameter not explicitly set at line 211",
+      "Hyperparameter not explicitly set at line 114",
+      "Hyperparameter not explicitly set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/impute.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_incremental_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 139",
+      "Potential data leakage: model.fit() used without a pipeline at line 210",
+      "Potential data leakage: model.fit() used without a pipeline at line 235",
+      "Potential data leakage: model.fit() used without a pipeline at line 308",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 389",
+      "Potential data leakage: model.fit() used without a pipeline at line 429",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 252",
+      "Potential data leakage: model.fit() used without a pipeline at line 270",
+      "Potential data leakage: model.fit() used without a pipeline at line 288",
+      "Potential data leakage: model.fit() used without a pipeline at line 361",
+      "Potential data leakage: model.fit() used without a pipeline at line 362",
+      "Potential data leakage: model.fit() used without a pipeline at line 448",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 428",
+      "Use np.matmul() instead of np.dot() for matrices at line 91"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 429"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/wrappers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 198"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/ensemble/_blockwise.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 265",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/feature_extraction/text.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/cluster/spectral.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 302"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 302"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/preprocessing/_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/preprocessing/label.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/cluster/k_means.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 511"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 628",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 629"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 511"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_hyperband.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 171",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 303",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 365",
+      "Potential data leakage: model.fit() used without a pipeline at line 416",
+      "Potential data leakage: model.fit() used without a pipeline at line 431",
+      "Potential data leakage: model.fit() used without a pipeline at line 484",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 195",
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 460",
+      "Potential data leakage: model.fit() used without a pipeline at line 209"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/test_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 62",
+      "Potential data leakage: model.fit() used without a pipeline at line 200",
+      "Potential data leakage: model.fit() used without a pipeline at line 201",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 238",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 259",
+      "Potential data leakage: model.fit() used without a pipeline at line 315",
+      "Potential data leakage: model.fit() used without a pipeline at line 316",
+      "Potential data leakage: model.fit() used without a pipeline at line 317",
+      "Potential data leakage: model.fit() used without a pipeline at line 351",
+      "Potential data leakage: model.fit() used without a pipeline at line 452",
+      "Potential data leakage: model.fit() used without a pipeline at line 458",
+      "Potential data leakage: model.fit() used without a pipeline at line 478",
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 515",
+      "Potential data leakage: model.fit() used without a pipeline at line 529",
+      "Potential data leakage: model.fit() used without a pipeline at line 541",
+      "Potential data leakage: model.fit() used without a pipeline at line 546",
+      "Potential data leakage: model.fit() used without a pipeline at line 554",
+      "Potential data leakage: model.fit() used without a pipeline at line 695",
+      "Potential data leakage: model.fit() used without a pipeline at line 696",
+      "Potential data leakage: model.fit() used without a pipeline at line 720",
+      "Potential data leakage: model.fit() used without a pipeline at line 721",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 173",
+      "Potential data leakage: model.fit() used without a pipeline at line 359",
+      "Potential data leakage: model.fit() used without a pipeline at line 567",
+      "Potential data leakage: model.fit() used without a pipeline at line 581",
+      "Potential data leakage: model.fit() used without a pipeline at line 588",
+      "Potential data leakage: model.fit() used without a pipeline at line 604",
+      "Potential data leakage: model.fit() used without a pipeline at line 625",
+      "Potential data leakage: model.fit() used without a pipeline at line 653",
+      "Potential data leakage: model.fit() used without a pipeline at line 735",
+      "Potential data leakage: model.fit() used without a pipeline at line 816",
+      "Potential data leakage: model.fit() used without a pipeline at line 396",
+      "Potential data leakage: model.fit() used without a pipeline at line 414",
+      "Potential data leakage: model.fit() used without a pipeline at line 432",
+      "Potential data leakage: model.fit() used without a pipeline at line 781",
+      "Potential data leakage: model.fit() used without a pipeline at line 44",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 334",
+      "Potential data leakage: model.fit() used without a pipeline at line 800",
+      "Potential data leakage: model.fit() used without a pipeline at line 806",
+      "Potential data leakage: model.fit() used without a pipeline at line 378",
+      "Potential data leakage: model.fit() used without a pipeline at line 383"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 134",
+      "Use np.matmul() instead of np.dot() for matrices at line 313",
+      "Use np.matmul() instead of np.dot() for matrices at line 136",
+      "Use np.matmul() instead of np.dot() for matrices at line 58",
+      "Use np.matmul() instead of np.dot() for matrices at line 90"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 769"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 30",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 31",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 62",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 315",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 316",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 317",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 495",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 515",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 529",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 541",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 546",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 94",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 119",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 359",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 567",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 581",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 588",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 604",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 625",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 653",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 735",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 816",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 396",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 781",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 44",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 76",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 800",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 806"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/decomposition/incremental_pca.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 218",
+      "Potential data leakage: model.fit() used without a pipeline at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/preprocessing/test_data.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 190",
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 198",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 253",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 275",
+      "Potential data leakage: model.fit() used without a pipeline at line 277",
+      "Potential data leakage: model.fit() used without a pipeline at line 331",
+      "Potential data leakage: model.fit() used without a pipeline at line 339",
+      "Potential data leakage: model.fit() used without a pipeline at line 370",
+      "Potential data leakage: model.fit() used without a pipeline at line 403",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 456",
+      "Potential data leakage: model.fit() used without a pipeline at line 472",
+      "Potential data leakage: model.fit() used without a pipeline at line 487",
+      "Potential data leakage: model.fit() used without a pipeline at line 519",
+      "Potential data leakage: model.fit() used without a pipeline at line 532",
+      "Potential data leakage: model.fit() used without a pipeline at line 551",
+      "Potential data leakage: model.fit() used without a pipeline at line 552",
+      "Potential data leakage: model.fit() used without a pipeline at line 604",
+      "Potential data leakage: model.fit() used without a pipeline at line 637",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 71",
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 88",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 348",
+      "Potential data leakage: model.fit() used without a pipeline at line 352",
+      "Potential data leakage: model.fit() used without a pipeline at line 560",
+      "Potential data leakage: model.fit() used without a pipeline at line 563",
+      "Potential data leakage: model.fit() used without a pipeline at line 564",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 571",
+      "Potential data leakage: model.fit() used without a pipeline at line 574",
+      "Potential data leakage: model.fit() used without a pipeline at line 575"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/dask_searchcv/test_model_selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 342",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 902",
+      "Random Seed Not Set at line 942",
+      "Random Seed Not Set at line 966",
+      "Random Seed Not Set at line 896",
+      "Random Seed Not Set at line 903",
+      "Random Seed Not Set at line 922",
+      "Random Seed Not Set at line 937",
+      "Random Seed Not Set at line 943"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 632",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 637",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 978"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 937",
+      "Hyperparameter not explicitly set at line 943"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/test_incremental.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 654",
+      "Potential data leakage: model.fit() used without a pipeline at line 267",
+      "Potential data leakage: model.fit() used without a pipeline at line 364",
+      "Potential data leakage: model.fit() used without a pipeline at line 388",
+      "Potential data leakage: model.fit() used without a pipeline at line 394",
+      "Potential data leakage: model.fit() used without a pipeline at line 405",
+      "Potential data leakage: model.fit() used without a pipeline at line 449",
+      "Potential data leakage: model.fit() used without a pipeline at line 479",
+      "Potential data leakage: model.fit() used without a pipeline at line 491",
+      "Potential data leakage: model.fit() used without a pipeline at line 561",
+      "Potential data leakage: model.fit() used without a pipeline at line 576",
+      "Potential data leakage: model.fit() used without a pipeline at line 580",
+      "Potential data leakage: model.fit() used without a pipeline at line 605",
+      "Potential data leakage: model.fit() used without a pipeline at line 608",
+      "Potential data leakage: model.fit() used without a pipeline at line 631",
+      "Potential data leakage: model.fit() used without a pipeline at line 790",
+      "Potential data leakage: model.fit() used without a pipeline at line 816",
+      "Potential data leakage: model.fit() used without a pipeline at line 834",
+      "Potential data leakage: model.fit() used without a pipeline at line 857",
+      "Potential data leakage: model.fit() used without a pipeline at line 883",
+      "Potential data leakage: model.fit() used without a pipeline at line 425",
+      "Potential data leakage: model.fit() used without a pipeline at line 462",
+      "Potential data leakage: model.fit() used without a pipeline at line 622",
+      "Potential data leakage: model.fit() used without a pipeline at line 701",
+      "Potential data leakage: model.fit() used without a pipeline at line 748",
+      "Potential data leakage: model.fit() used without a pipeline at line 761",
+      "Potential data leakage: model.fit() used without a pipeline at line 849",
+      "Potential data leakage: model.fit() used without a pipeline at line 853",
+      "Potential data leakage: model.fit() used without a pipeline at line 870",
+      "Potential data leakage: model.fit() used without a pipeline at line 744"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 353"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/preprocessing/data.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1130"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1021",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 802"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/tests/model_selection/dask_searchcv/test_model_selection_sklearn.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 492",
+      "Use np.matmul() instead of np.dot() for matrices at line 502"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 1046"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 385",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 550",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 1057"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 347",
+      "Hyperparameter not explicitly set at line 380",
+      "Hyperparameter not explicitly set at line 397",
+      "Hyperparameter not explicitly set at line 403",
+      "Hyperparameter not explicitly set at line 409",
+      "Hyperparameter not explicitly set at line 415",
+      "Hyperparameter not explicitly set at line 293",
+      "Hyperparameter not explicitly set at line 781",
+      "Hyperparameter not explicitly set at line 790",
+      "Hyperparameter not explicitly set at line 1009"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/model_selection/_search.py": {
+    "R2": [
+      "Random Seed Not Set at line 980"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/dask_dask-ml/dask-ml-main/dask_ml/model_selection/_incremental.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1090"
+    ]
+  }
+}

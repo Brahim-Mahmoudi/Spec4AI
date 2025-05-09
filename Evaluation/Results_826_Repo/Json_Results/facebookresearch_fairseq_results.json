@@ -1,0 +1,3329 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_sparse_multihead_attention.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_amp_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_inference_dropout.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_sequence_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_lstm_jitable.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 105"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 89",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_checkpoint_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_rotary_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_backtranslation_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_positional_encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_ema.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 230"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 80",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 175",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_plasma_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_convtbc.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 37",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_multi_corpus_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_memory_efficient_fp16.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_hf_hub.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_checkpoint_utils_for_task_level_attributes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_fp16_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_label_smoothing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_roberta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 230",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 241",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 321"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_concat_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_lm_context_window.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_noising.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_token_block_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_reproducibility.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_character_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_multi_corpus_sampled_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_activation_checkpointing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_export.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_average_checkpoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/distributed/test_distributed_timeout_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/distributed/test_module_proxy_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_constraints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/distributed/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech_recognition/test_data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech_recognition/test_collaters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/distributed/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_online_backtranslation.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/test_fastspeech2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/test_tts_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/test_dual_input_wav_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/test_wav2vec2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/gpu/test_ema_gpu.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 79",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 119",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/test_dualinput_s2t_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/distributed/test_bmuf.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 194",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 195",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 312",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 313"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/ngram_repeat_block.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/nan_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 771",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/gpu/test_binaries_gpu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/sequence_scorer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/options.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/speech_recognition/asr_test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 290",
+      "Use module() instead of forward() at line 300",
+      "Use module() instead of forward() at line 355",
+      "Use module() instead of forward() at line 368",
+      "Use module() instead of forward() at line 417",
+      "Use module() instead of forward() at line 463"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/iterative_refinement_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/benchmark/dummy_masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/benchmark/dummy_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/hub_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/benchmark/dummy_mt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/binarizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/benchmark/benchmark_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 113",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_binaries.py": {
+    "R2": [
+      "Random Seed Not Set at line 1786",
+      "Random Seed Not Set at line 1789",
+      "Random Seed Not Set at line 1798",
+      "Random Seed Not Set at line 1791"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/speech_ulm_task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/translation_from_pretrained_bart.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/token_generation_constraints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/speech_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 172",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 382"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/multilingual_denoising.py": {
+    "R2": [
+      "Random Seed Not Set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/tests/test_sequence_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 385"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/translation_lev.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/language_modeling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/fairseq_task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 536"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/multilingual_translation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 351",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 376",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 390",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 403"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 385"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/speech_to_text.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 287"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/audio_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/checkpoint_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/sentence_prediction.py": {
+    "R2": [
+      "Random Seed Not Set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/sentence_ranking.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/masked_lm.py": {
+    "R2": [
+      "Random Seed Not Set at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/speech_to_speech.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 512"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/distributed/legacy_distributed_data_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/translation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/speech_dlm_task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/nlu_finetuning.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 292",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 301",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 342",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 346"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/distributed/tpu_distributed_data_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/distributed/fully_sharded_data_parallel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/semisupervised_translation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 421"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 417"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/text_to_speech.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/multilingual_masked_lm.py": {
+    "R2": [
+      "Random Seed Not Set at line 294"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/amp_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/nag.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/translation_multi_simple_epoch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/multilingual_language_modeling.py": {
+    "R2": [
+      "Random Seed Not Set at line 486"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/online_backtranslation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 520",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 547"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 500"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 543"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/bmuf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/tasks/audio_finetuning.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 302",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/adamax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/fairseq_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/cpu_adam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/adafactor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/adam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/fairseq_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/fused_adam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/model_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/ema/ema.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/optim/fp16_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 108",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 401"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_speech/s2s_conformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/fairseq_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/transformer_ulm.py": {
+    "R2": [
+      "Random Seed Not Set at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_speech/modules/stacked_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/distributed/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/s2t_conformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/hub_interface.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/modules/convolution.py": {
+    "R2": [
+      "Random Seed Not Set at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/fconv_self_att.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 524"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/convtransformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_speech/s2s_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/s2t_wav_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 452"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/fconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/berard.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/s2t_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/modules/augmented_memory_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/transformer/transformer_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/transformer/transformer_decoder_aug.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/fairseq_nat_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/lightconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/iterative_nonautoregressive_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/xm_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 330"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/hubert/hubert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/nonautoregressive_ensembles.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/transformer/transformer_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/levenshtein_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/hubert/hubert_asr.py": {
+    "R2": [
+      "Random Seed Not Set at line 610"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/roberta/alignment_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/wav2vec/wav2vec2_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/insertion_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/huggingface/hf_gpt2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/nonautoregressive_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/nat/levenshtein_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/roberta/hub_interface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/bart/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_dlm/hub_interface.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/codehifigan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/hifigan.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/vocoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 111"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 228"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/xmod/transformer_layer_xmod.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_dlm/sequence_generator/multichannel_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/hub_interface.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 173"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/wav2vec/wav2vec.py": {
+    "R2": [
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 550"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/roberta/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_dlm/modules/speech_dlm_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/tacotron2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/wav2vec/wav2vec2_asr.py": {
+    "R2": [
+      "Random Seed Not Set at line 813"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/fastspeech2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/text_to_speech/tts_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/scoring/wer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/model_parallel/models/roberta/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_dlm/modules/speech_dlm_decoder_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/multires_hubert/multires_hubert_asr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/beamable_mm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/learned_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/rotary_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/vggblock.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_to_text/modules/emformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/model_parallel/modules/multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/conv_tbc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/gelu.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/layer_drop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/checkpoint_activations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/downsampled_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/character_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/base_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/model_parallel/models/pipeline_parallel_transformer/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/dynamic_crf_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quant_noise.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/transformer_sentence_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/adaptive_softmax.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/model_parallel/models/pipeline_parallel_transformer/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/location_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/linearized_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/adaptive_input.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/wav2vec/wav2vec2.py": {
+    "R2": [
+      "Random Seed Not Set at line 1245",
+      "Random Seed Not Set at line 521",
+      "Random Seed Not Set at line 534",
+      "Random Seed Not Set at line 1124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/kmeans_vector_quantizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/sparse_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/layer_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/positional_encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/ema_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/gumbel_vector_quantizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/sinusoidal_positional_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/transformer_layer_aug.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/dataclass/configs.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/lightweight_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/conformer_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/pq/modules/qlinear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/scalar/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/pq/modules/qemb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/pq/modules/qconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/scalar/modules/qlinear.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/scalar/modules/qconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/pq/em.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/scalar/modules/qact.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/multires_hubert/multires_hubert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/espnet_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/scalar/modules/qemb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/id_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/padding_mask_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/transformer_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/models/speech_dlm/sequence_generator/multichannel_sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/backtranslation_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/lightconv_layer/lightconv_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/quantization/pq/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/dynamic_convolution.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/shorten_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/subsample_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/add_class_target_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/numel_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/multi_corpus_sampled_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/concat_sentences_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/raw_label_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/prepend_token_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/colorize_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/multi_corpus_dataset.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 73"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/dynamicconv_layer/dynamicconv_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/transform_eos_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/monolingual_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/roll_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/append_token_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/noising.py": {
+    "R2": [
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 132"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/mask_tokens_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/span_mask_tokens_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 277"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/lm_context_window_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/transform_eos_lang_pair_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/add_target_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/transform_eos_concat_langpair_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/token_block_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/speech_dlm_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 292"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/legacy/masked_lm_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/denoising_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 372",
+      "Random Seed Not Set at line 393",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 351"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/dictionary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/modules/kmeans_attention.py": {
+    "R2": [
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 346",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 429"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/language_pair_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 431"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/codedataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/legacy/block_pair_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 190",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 183"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/huffman/huffman_mmap_indexed_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/frm_text_to_speech_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/feature_transforms/delta_deltas.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/iterators.py": {
+    "R2": [
+      "Random Seed Not Set at line 824",
+      "Random Seed Not Set at line 542",
+      "Random Seed Not Set at line 545",
+      "Random Seed Not Set at line 838"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/speech_to_speech_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/indexed_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/dataset_transforms/concataugment.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/speech_to_text_joint_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/text_to_speech_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/feature_transforms/specaugment.py": {
+    "R2": [
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/multilingual/sampled_multi_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 354"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/waveform_transforms/noiseaugment.py": {
+    "R2": [
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/encoders/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/dataset_transforms/noisyoverlapaugment.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/audio_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/multi_modality_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/raw_audio_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 202"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/hubert_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 224",
+      "Random Seed Not Set at line 338"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/fastspeech2_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/label_smoothed_cross_entropy_with_rdrop.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/label_smoothed_cross_entropy_with_ctc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/model_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/logging/meters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/nat_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/label_smoothed_cross_entropy_latency_augmented.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/label_smoothed_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/wav2vec_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/ctc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 240",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 241",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/speech_ulm_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/hydra_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/tacotron2_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 633",
+      "Random Seed Not Set at line 764"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/data/audio/speech_to_text_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 380"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/hubert_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/sentence_ranking.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/validate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/logging/progress_bar.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/hydra_validate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/sentence_prediction.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/generate_waveform_from_code.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/interactive.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/eval_lm.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 107",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 117",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 132",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/unity/sequence_generator_multi_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/generate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/asr_bleu/compute_asr_bleu.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq/criterions/speech_to_speech_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/asr_bleu/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/benchmarking/get_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/pointer_generator/pointer_generator_src/transformer_pg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/fairseq_cli/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/paraphraser/paraphrase.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/benchmarking/data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/utils/p_choose_strategy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/utils/functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/tests/test_alignment_train.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/utils/monotonic_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_text/prep_mtedx_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/linformer/linformer_src/models/linformer_roberta.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_text/prep_mustc_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/update_ckpt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/linformer/linformer_src/modules/linformer_sentence_encoder_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/modules/fixed_pre_decision.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/models/transformer_monotonic_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/eval/agents/simul_t2t_enja.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_text/simultaneous_translation/agents/fairseq_simul_st_agent.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 227"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_text/data_utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 207"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/modules/monotonic_transformer_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/simple_kmeans/dump_hubert_feature.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 35"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/simple_kmeans/dump_km_label.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/benchmarking/core.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_to_speech/unity/sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/dgslm/dgslm_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/simple_kmeans/dump_mfcc_feature.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/truncated_laplace.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/simple_kmeans/learn_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/hubert/simple_kmeans/dump_w2v2_feature.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/naive_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/preprocess_f0.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/quantize_f0.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/generate_waveform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/dgslm/vocoder_hifigan/generate_stereo_waveform.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/tests/test_text_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 230",
+      "Use module() instead of forward() at line 236",
+      "Use module() instead of forward() at line 299",
+      "Use module() instead of forward() at line 245",
+      "Use module() instead of forward() at line 307"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/inference_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/prepare_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/dgslm/sample_speech_dlm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/simultaneous_translation/modules/monotonic_multihead_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/pretrained/logmel_feature_reader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/tools/resynthesize_speech.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/pretrained/w2v2_feature_reader.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tts_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/pretrained/hubert_feature_reader.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/pretrained/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/metrics/asr_metrics/ppx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/clustering/cluster_kmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/multiproc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/waveglow_denoiser.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/audio_processing.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 53"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/text.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/tasks/mae_image_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/linformer/linformer_src/modules/multihead_linear_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/stft.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/tasks/image_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/speech2unit/pretrained/cpc_feature_reader.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/fb_convert_beit_cp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/tasks/image_pretraining.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/tasks/audio_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/data2vec_image_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/glow.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/modalities/audio.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/modalities/images.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/sample/sample.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 313"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/data/add_class_target_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/data/mae_finetuning_image_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/pgslm/eval/cont_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 714"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 512"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/data2vec_text.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 424"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/data/image_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/mae_image_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/textless_nlp/gslm/unit2speech/tacotron2/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/data2vec_audio.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 384"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/modalities/modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/emotion_conversion/emotion_models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/data/mae_image_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 48"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/audio_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/translation_moe/translation_moe_src/logsumexp_moe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/latent_depth/latent_depth_src/modules/latent_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/latent_depth/latent_depth_src/loss/latent_depth.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/translation_moe/translation_moe_src/mean_pool_gating_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/latent_depth/latent_depth_src/multilingual_translation_latent_depth.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 110",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 112",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 142"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/modalities/base.py": {
+    "R2": [
+      "Random Seed Not Set at line 499",
+      "Random Seed Not Set at line 378"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/mae.py": {
+    "R2": [
+      "Random Seed Not Set at line 692"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/data2vec2.py": {
+    "R2": [
+      "Random Seed Not Set at line 444"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 528"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/emotion_conversion/emotion_models/duration_predictor.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/data2vec/models/data2vec_vision.py": {
+    "R2": [
+      "Random Seed Not Set at line 585",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 214"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/translation_moe/translation_moe_src/translation_moe.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/translation_moe/score.py": {
+    "R2": [
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/new/decoders/base_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/models/w2l_conv_glu_enc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/data/data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/emotion_conversion/synthesize.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 204"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/data/collaters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/criterions/cross_entropy_acc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/adaptive_span/adaptive_span_model_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid_rerank/mms-zs/lib.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid_rerank/mala/infer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/criterions/ASG_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/infer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/adaptive_span/adaptive_span_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/w2l_decoder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid_rerank/mms-zs/falign.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/emotion_conversion/emotion_models/pitch_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/adaptive_span/adaptive_span_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 204"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/new/decoders/flashlight_decoder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/bart/summarize.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/new/infer.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 328"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/data_prep/align_utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 120"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/data_prep/align_and_segment.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid_rerank/rerank/rerank.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/tts/infer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid_rerank/rerank/tune_coefficients.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/mms/lid/infer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/laser/laser_src/multitask_data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/losses/loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/tasks/milncetask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_recognition/models/vggtransformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 394"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/tasks/vlmtask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/losses/nce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/utils/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/datasets/mmdataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/tasks/task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/laser/laser_src/laser_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/tasks/retritask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/multilingual/data_scripts/remove_valid_test_in_train.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 246",
+      "API call might be missing reassignment or inplace=True at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/modules/mm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/laser/laser_src/laser_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/processors/processor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/processors/dedupprocessor.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/scripts/video_feature_extractor/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/modules/vectorpool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/scripts/video_feature_extractor/random_sequence_shuffler.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/models/transformermodel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/scripts/video_feature_extractor/videoreader.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/rxf/rxf_src/sentence_prediction_r3f.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/rxf/rxf_src/label_smoothed_cross_entropy_r3f.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/scripts/convert_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/truncated_bptt/truncated_bptt_lm_task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/criterions/multi_modality_cross_entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/tasks/speech_text_joint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/models/mmfusionnlg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/models/mmfusion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/evaluators/predictor.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 289",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 398"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 195",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 263",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 365",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 443",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 537"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/loss/attention_head_selection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/tasks/pair_denoising.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/criterions/text_guide_cross_entropy_acc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/speech_to_text_head_selection.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/models/s2t_dualinputxmtransformer.py": {
+    "R8": [
+      "Use module() instead of forward() at line 101",
+      "Use module() instead of forward() at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/modules/attn_head_selector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/data/pair_denoising_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 283"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/processors/dsprocessor.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 210",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 211",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 212",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 213",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 214",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 215",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 216",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 138"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 190"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 128",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 207",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 134",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/MMPT/mmpt/processors/how2processor.py": {
+    "R2": [
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 593",
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 808",
+      "Random Seed Not Set at line 813",
+      "Random Seed Not Set at line 325",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 690",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 708",
+      "Random Seed Not Set at line 710",
+      "Random Seed Not Set at line 754",
+      "Random Seed Not Set at line 716",
+      "Random Seed Not Set at line 723"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/wav2vec_featurize.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/modules/multihead_functional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/data/speech_to_text_dataset_with_domain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/kaldi_self_train/st/local/unsup_select.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/wav2vec_apply_cluster_faiss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/phonemize_with_sil.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/attention_head_selection/src/modules/multihead_attention_selection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/merge_clusters.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/models/joint_speech_text_pretrain_transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/mean_pool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/wer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/vq-wav2vec_featurize.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/wav2vec_cluster_faiss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/apply_pca.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/remove_silence.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/data/random_input_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/scripts/wav2vec_extract_features.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/data/extracted_features_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/tasks/unpaired_audio_text.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 249"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/roberta/wsc/wsc_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_text_joint_to_text/models/s2t_dualinputtransformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/roberta/commonsense_qa/commonsense_qa_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/evaluation/eval_sp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/evaluation/eval_asr.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/generate_waveform.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/xlsr/scripts/gen_audio_embedding.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/preprocessing/speaker_embedder/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/roberta/wsc/wsc_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 390"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/preprocessing/denoiser/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/w2vu_generate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 298",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 242",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 529"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/data_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/discriminative_reranking_nmt/criterions/discriminative_reranking_criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/fast_noisy_channel/noisy_channel_beam_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/fast_noisy_channel/noisy_channel_translation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/wav2vec/unsupervised/models/wav2vec_u.py": {
+    "R2": [
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 386"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/criss/save_encoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/byte_level_bpe/gru_transformer.py": {
+    "R8": [
+      "Use module() instead of forward() at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/discriminative_reranking_nmt/models/discriminative_reranking_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/discriminative_reranking_nmt/drnmt_rerank.py": {
+    "R2": [
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 255"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/criss/mining/mine.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/scripts/average_checkpoints.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/discriminative_reranking_nmt/tasks/discriminative_reranking_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 274"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/speech_synthesis/preprocessing/denoiser/demucs.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 396"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_fairseq/fairseq-main/examples/fast_noisy_channel/noisy_channel_sequence_generator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

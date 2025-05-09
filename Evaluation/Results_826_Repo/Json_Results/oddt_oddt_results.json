@@ -1,0 +1,124 @@
+{
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/tests/test_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 21",
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/tests/test_pandas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/surface.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/tests/test_virtualscreening.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 255",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/tests/test_scoring.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43",
+      "Potential data leakage: model.fit() used without a pipeline at line 96",
+      "Potential data leakage: model.fit() used without a pipeline at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/pandas.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/datasets.py": {
+    "R15": [
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 392",
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 407"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 396"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 386; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 291",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 335",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 72",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 387",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 398"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/scoring/functions/NNScore.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/scoring/functions/RFScore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/tests/test_toolkit.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 320",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 329",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 367",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 368",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 369",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 379",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 380",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 381"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 320; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 329; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 367; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 368; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 369; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 379; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 380; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 381; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 321; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 330; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 312",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 358"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/scoring/__init__.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 245",
+      "Potential data leakage: model.fit() used without a pipeline at line 393"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 223",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 231",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 222",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 230",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 219",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 227"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/scoring/functions/PLECscore.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 270"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/oddt_oddt/oddt-master/oddt/toolkits/extras/rdkit/fixer.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 892",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 896"
+    ]
+  }
+}

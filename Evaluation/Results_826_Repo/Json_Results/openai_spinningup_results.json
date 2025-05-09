@@ -1,0 +1,153 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/utils/mpi_pytorch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/utils/test_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/utils/plot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/sac/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/ddpg/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/utils/logx.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/vpg/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/ppo/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/tf1/problem_set_1/exercise1_1.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/tf1/problem_set_1/exercise1_2.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 109; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/td3/core.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1_solutions/exercise1_1_soln.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1/exercise1_1.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1/exercise1_2_auxiliary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1/exercise1_2.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 129; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1_solutions/exercise1_2_soln.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_2/exercise2_2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/tf1/trpo/trpo.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 271",
+      "Use np.matmul() instead of np.dot() for matrices at line 277",
+      "Use np.matmul() instead of np.dot() for matrices at line 274",
+      "Use np.matmul() instead of np.dot() for matrices at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/examples/tf1/train_mnist.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/vpg/vpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/sac/sac.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/ddpg/ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/examples/pytorch/pg_math/1_simple_pg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/examples/pytorch/pg_math/2_rtg_pg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/td3/td3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/algos/pytorch/ppo/ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_spinningup/spinningup-master/spinup/exercises/pytorch/problem_set_1/exercise1_3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,1529 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/test_seq2slate_simulation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/test_seq2slate_off_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/test_seq2slate_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/tracker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/oss_tensorboard_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/core/aggregators_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/optimizer/test_make_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_ars_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/aggregators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_behavioral_cloning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/torch_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/cb/test_supervised_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_probabilistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/seq2slate_utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 365"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/test_seq2slate_on_policy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_multi_stage_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/cb/test_deep_represent_linucb.py": {
+    "R2": [
+      "Random Seed Not Set at line 54"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/prediction/test_prediction_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_ppo.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_qrdqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/prediction/test_model_with_preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_residual_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/cb/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_deep_represent_linucb_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_bcq.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_crr.py": {
+    "R2": [
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_sparse_dqn_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_synthetic_reward_training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 133"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_critic.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_dqn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_cb_fully_connected.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_no_soft_update_embedding.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 323"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_mab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_dueling_q_network.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_actor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 190",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_linear_regression_ucb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/world_model/simulated_world_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_disjoint_linucb_predictor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/ranking/test_seq2slate_trainer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 310",
+      "Potential data leakage: model.fit() used without a pipeline at line 380"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 231",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 248",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 326",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 341",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 398"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/workflow/reagent_sql_test_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/workflow/test_preprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/cb/test_disjoint_linucb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/workflow/test_oss_workflows.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/cb/test_linucb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/samplers/test_frechet_sort.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/prediction/test_predictor_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 290"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/cb/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/cb/test_synthetic_contextual_bandit.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/training/test_dqn_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 530",
+      "Random Seed Not Set at line 533",
+      "Random Seed Not Set at line 466",
+      "Random Seed Not Set at line 469"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/preprocessing/test_postprocessing.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/world_model/test_mdnrnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 108"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/preprocessing/test_sparse_to_dense.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/models/test_synthetic_reward_net.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/net_builder/test_value_net_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/test_evaluation_data_page.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/cb/test_policy_evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/base/horizon_test_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/lite/test_combo_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/base/test_types.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/test_ope_integration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/evaluation/cb/test_integration.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/base/test_tensorboardX.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/net_builder/test_synthetic_reward_net_builder.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 60"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 270"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/world_model/test_seq2reward.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 226",
+      "Potential data leakage: model.fit() used without a pipeline at line 307"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/optimizer/soft_update.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/mab/test_mab.py": {
+    "R2": [
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 300",
+      "Random Seed Not Set at line 126"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/base/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/unit_tests/test_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/unit_tests/test_contextual_bandit_estimators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/unit_tests/test_slate_estimators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/core/types.py": {
+    "R2": [
+      "Random Seed Not Set at line 792",
+      "Random Seed Not Set at line 941",
+      "Random Seed Not Set at line 1155",
+      "Random Seed Not Set at line 797",
+      "Random Seed Not Set at line 801",
+      "Random Seed Not Set at line 938",
+      "Random Seed Not Set at line 942",
+      "Random Seed Not Set at line 790",
+      "Random Seed Not Set at line 791",
+      "Random Seed Not Set at line 936"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/preprocessing/test_preprocessing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/replay_memory/circular_replay_buffer_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/cartpole.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/model_utils/seq2slate_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/multiclass_bandits.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/estimators/estimator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/gridworld.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/trainers/linear_trainers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87",
+      "Potential data leakage: model.fit() used without a pipeline at line 123",
+      "Potential data leakage: model.fit() used without a pipeline at line 135",
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 251"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 87",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 135",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 174",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 213",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 251"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 351"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/reinforce_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/trainers/rl_tabular_trainers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/unit_tests/test_types.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/reagent_lightning_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/replay_memory/extra_replay_buffer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 248"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/mslr_slate.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/imitator_training.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/c51_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/behavioral_cloning_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/multi_stage_trainer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/qrdqn_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/estimators/types.py": {
+    "R2": [
+      "Random Seed Not Set at line 557"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/estimators/contextual_bandits_estimators.py": {
+    "R2": [
+      "Random Seed Not Set at line 263"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/sac_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/gradient_free/es_worker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/reward_network_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/dqn_trainer_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/discrete_crr_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ppo_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/gradient_free/ars_util.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 109"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ranking/helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/gradient_free/evolution_pool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/td3_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/parametric_dqn_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/test/yandex_web_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cfeval/bayes_by_backprop_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ranking/seq2slate_tf_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/slate_q_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ranking/seq2slate_sim_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/linucb_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cfeval/bandit_reward_network_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/dqn_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/world_model/compress_model_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/disjoint_linucb_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/test/preprocessing/test_transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/supervised_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ranking/seq2slate_attn_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/world_model/mdnrnn_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/deep_represent_linucb_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/prediction/cfeval/predictor_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/ranking/seq2slate_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/mlp_scorer.py": {
+    "R2": [
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/bcq.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/cb/base_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/seq2reward_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/cb_base_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/sparse_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/prediction/ranking/predictor_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/categorical_dqn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/training/world_model/seq2reward_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/deep_represent_linucb.py": {
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/convolutional_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/estimators/sequential_estimators.py": {
+    "R2": [
+      "Random Seed Not Set at line 757"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/embedding_bag_concat.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/disjoint_linucb_predictor.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/cb_fully_connected_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/dueling_q_network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/world_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/mdn_rnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/fully_connected_network.py": {
+    "R2": [
+      "Random Seed Not Set at line 156"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/linear_regression.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/critic.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/probabilistic_fully_connected_network.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/cem_planner.py": {
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/mab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/mab/ucb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/mab/thompson_sampling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/synthetic_reward_sparse_arch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/workflow/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/seq2slate_reward.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/mab/simulation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/actor.py": {
+    "R2": [
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/mab/mab_algorithm.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/workflow/gym_batch_rl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/samplers/frechet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/sequential_doubly_robust_estimator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cb/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/synthetic_reward.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/feature_importance/feature_importance_perturbation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cpe.py": {
+    "R2": [
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/workflow/training.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cb/run_synthetic_bandit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/ope_adapter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/world_model_evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/prediction/predictor_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 865"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cb/base_evaluator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cb/policy_evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/types.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/ope/estimators/slate_estimators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/test_epsilon_greedy_action_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/doubly_robust_estimator.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/preprocessors/default_preprocessors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/cb/synthetic_contextual_bandit_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 181"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/weighted_sequential_doubly_robust_estimator.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 387",
+      "Use np.matmul() instead of np.dot() for matrices at line 239"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/lite/optimizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 539",
+      "Random Seed Not Set at line 777",
+      "Random Seed Not Set at line 939",
+      "Random Seed Not Set at line 940",
+      "Random Seed Not Set at line 1192",
+      "Random Seed Not Set at line 340",
+      "Random Seed Not Set at line 1114",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 524",
+      "Random Seed Not Set at line 1132"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1645"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/datasets/replay_buffer_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/test_linear_dynamics.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 40",
+      "Use np.matmul() instead of np.dot() for matrices at line 41"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/test_gym_offline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/scorers/continuous_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/samplers/top_k_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/scorers/slate_q_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/agents/agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/samplers/continuous_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/predictor_policies.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/gym.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/test_gym.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 260",
+      "Potential data leakage: model.fit() used without a pipeline at line 314"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/preprocessors/test_default_preprocessors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/scorers/discrete_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/random_policies.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/evaluation/evaluation_data_page.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/functionality/possible_actions_mask_tester.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/models/seq2slate.py": {
+    "R2": [
+      "Random Seed Not Set at line 869",
+      "Random Seed Not Set at line 870",
+      "Random Seed Not Set at line 871",
+      "Random Seed Not Set at line 872",
+      "Random Seed Not Set at line 873"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/policies/samplers/discrete_sampler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/dynamics/linear_dynamics.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/preprocessors/test_replay_buffer_inserters.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/env_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/oracle_pvm.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/tests/test_world_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/preprocessors/trainer_preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/pomdp/string_game.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/pomdp/string_game_v1.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/pomdp/state_embed_env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/gym/envs/changing_arms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/model_managers/actor_critic_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/model_managers/model_based/cross_entropy_method.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/postprocessor.py": {
+    "R2": [
+      "Random Seed Not Set at line 71"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/parametric_dqn_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/categorical_dqn_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/discrete_dqn_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/discrete_actor_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/model_managers/discrete/discrete_crr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/quantile_dqn_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/synthetic_reward_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/continuous_actor_net_builder.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/sparse_to_dense.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/batch_preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/slate_ranking/slate_ranking_scorer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/net_builder/synthetic_reward/single_step_synthetic_reward_sparse_arch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/sparse_preprocessor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/normalization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/replay_memory/sum_tree.py": {
+    "R2": [
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/replay_memory/prioritized_replay_buffer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/data/oss_data_fetcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 382"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/preprocessor.py": {
+    "R2": [
+      "Random Seed Not Set at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/preprocessing/transforms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ReAgent/ReAgent-main/reagent/replay_memory/circular_replay_buffer.py": {
+    "R2": [
+      "Random Seed Not Set at line 604"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

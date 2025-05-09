@@ -1,0 +1,19 @@
+{
+  "/Users/bramss/Desktop/All_Repo/regel_loudml/loudml-develop/loudml/misc.py": {
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 349"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/regel_loudml/loudml-develop/tests/randevents.py": {
+    "R2": [
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/regel_loudml/loudml-develop/loudml/donut.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 882"
+    ]
+  }
+}

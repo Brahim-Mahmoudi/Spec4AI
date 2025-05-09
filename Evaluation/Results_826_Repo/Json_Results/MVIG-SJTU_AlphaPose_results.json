@@ -1,0 +1,699 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/utils/transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/utils/kalman_filter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 120",
+      "Use np.matmul() instead of np.dot() for matrices at line 150",
+      "Use np.matmul() instead of np.dot() for matrices at line 191",
+      "Use np.matmul() instead of np.dot() for matrices at line 193",
+      "Use np.matmul() instead of np.dot() for matrices at line 226",
+      "Use np.matmul() instead of np.dot() for matrices at line 192",
+      "Use np.matmul() instead of np.dot() for matrices at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/ResBnLin.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/tracking/utils/kalman_filter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/reid/__init__.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/classification/classifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/net_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/psroi_pooling/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/classification/rfcn_cls.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/reid/image_part_aligned.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/psroi_pooling/functions/psroi_pooling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/backbone/lrn.py": {
+    "R8": [
+      "Use module() instead of forward() at line 20"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/tracker_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 205"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/ResNet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/backbone/googlenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/utils/compat.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/build.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/osnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/ReidModels/osnet_ain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/utils/boxes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/yolo_fpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/yolo_pafpn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/tools/demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 278"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/utils/preprocess.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/network_blocks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/effdet_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/exps/example/yolox_voc/yolox_voc_s.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker/preprocess.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker/utils/kalman_filter.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 119",
+      "Use np.matmul() instead of np.dot() for matrices at line 149",
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/tracking/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/exp/yolox_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 210"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/helpers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/bench.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/matcher.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/box_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/faster_rcnn_box_coder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/target_assigner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/region_similarity_calculator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/box_list.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/object_detection/argmax_matcher.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/nms/nms_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/preprocess.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/anchors.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/trackers/utils/basetransforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 806"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolox/yolox/models/yolo_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/detect.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker/tracker/multitracker.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/cam_demo.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/video_demo_half.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/bbox.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/opt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/video_demo.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/efficientdet/effdet/efficientdet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/concat_dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/halpe_coco_wholebody_26_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/halpe_68_noface_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/scripts/demo_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/coco_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/scripts/demo_3d_inference.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker/utils/datasets.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 405"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/scripts/validate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/halpe_26_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/coco_wholebody_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/tracker/utils/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/halpe_136_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/scripts/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 127",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 191"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/single_hand_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/detector/yolo/darknet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/single_hand.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 153"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/scripts/demo_api.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 306"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/datasets/halpe_coco_wholebody_136_det.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/env.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/render_pytorch3d.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/roi_align/roi_align.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/file_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/webcam_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/fastpose_duc_dense.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/writer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/writer_smpl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/bbox.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/criterion.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/presets/simple_transform.py": {
+    "R2": [
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 216"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/hrnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/layers/smpl/SMPL.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/simple3dposeSMPLWithCam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/layers/dcn/deform_pool.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/layers/dcn/deform_conv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/hardnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 280",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 292"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/presets/simple_transform_3d_smpl.py": {
+    "R2": [
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 281",
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 462",
+      "Random Seed Not Set at line 463",
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 350",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 265",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 380",
+      "Random Seed Not Set at line 384",
+      "Random Seed Not Set at line 385",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 361",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 376"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/pPose_nms.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/transforms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 800"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/models/layers/smpl/lbs.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MVIG-SJTU_AlphaPose/AlphaPose-master/alphapose/utils/vis.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

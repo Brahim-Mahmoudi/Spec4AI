@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/OpenMined_PyGrid-deprecated---see-PySyft-/PyGrid-deprecated---see-PySyft--dev/apps/network/src/main/core/database/store_disk.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 95",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 133"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 94",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/OpenMined_PyGrid-deprecated---see-PySyft-/PyGrid-deprecated---see-PySyft--dev/apps/worker/src/main/core/database/store_disk.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 95",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 133"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 94",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/OpenMined_PyGrid-deprecated---see-PySyft-/PyGrid-deprecated---see-PySyft--dev/apps/domain/src/main/core/datasets/dataset_ops.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 153"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 152"
+    ]
+  }
+}

@@ -1,0 +1,1987 @@
+{
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/regularizers/regularizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/checkpoint/checkpoint_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/activations.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/no_op_trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/parallel/fairscale_fsdp_accelerator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/tools/create_elmo_embeddings_from_vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/parallel/ddp_accelerator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/mean_absolute_error.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/boolean_accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/spearman_correlation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/covariance.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/checkpointer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/initializers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/chu_liu_edmonds.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/fbeta_multi_label_measure.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/entropy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/attachment_scores.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/fbeta_measure.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/categorical_accuracy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/learning_rate_schedulers/pytorch_lr_schedulers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/rouge.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/evalb_bracketing_scorer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/callbacks/backward.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/auc.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/util.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 339"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/callbacks/console_logger.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/metrics/span_based_f1_measure.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/models/heads/classifier_head.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/models/basic_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/confidence_checks/task_checklists/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/sequences.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/models/multitask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/predictors/predictor.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 409"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 117"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/optimizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/models/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/beam_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/checks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/callbacks/log_writer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/testing/confidence_check_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/cached_transformers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/testing/distributed_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/testing/interpret_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/testing/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_mitigator_applicator.py": {
+    "R8": [
+      "Use module() instead of forward() at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_direction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 299"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_mitigator_wrappers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/confidence_checks/task_checklists/sentiment_analysis_suite.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/training/gradient_descent_trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 641"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/saliency_interpreters/saliency_interpreter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_direction_wrappers.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/saliency_interpreters/integrated_gradient.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 86",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/saliency_interpreters/smooth_gradient.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 72",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 83"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/testing/model_test_case.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 381"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 220",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/adversarial_bias_mitigator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 119",
+      "Use module() instead of forward() at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/influence_interpreters/simple_influence.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/evaluation/evaluator.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 160"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/util.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 595"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/common/file_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/commands/test_install.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_mitigators.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 327"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/influence_interpreters/influence_interpreter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/stacked_alternating_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/scalar_mix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/bias_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/softmax_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/maxout.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/interpret/attackers/hotflip.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/residual_with_layer_dropout.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/input_variational_dropout.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/highway.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/masked_layer_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/feedforward.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/commands/evaluate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/commands/diff.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/layer_norm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/fairness/fairness_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/gated_sum.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/stacked_bidirectional_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/encoder_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/commands/find_learning_rate.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/attention/bilinear_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/attention/cosine_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2seq_encoders/pytorch_transformer_wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/attention/linear_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/attention/additive_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/conditional_random_field/conditional_random_field_wemission.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/conditional_random_field/conditional_random_field_wtrans.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/activation_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/lstm_cell_with_projection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/sampled_softmax_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 114"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/commands/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/text_field_embedders/basic_text_field_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2seq_encoders/pytorch_seq2seq_wrapper.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/bimpm_matching.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2seq_encoders/gated_cnn_encoder.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/util.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/elmo_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/positional_encoding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/conditional_random_field/conditional_random_field_wlannoy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/vision/image2image.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/transformer_embeddings.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2vec_encoders/boe_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/bimodal_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/bimodal_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/nn/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 235"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/augmented_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2vec_encoders/bert_pooler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/span_extractors/self_attentive_span_extractor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2vec_encoders/cnn_highway_encoder.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/span_extractors/span_extractor_with_span_width_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/elmo.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2vec_encoders/cnn_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/span_extractors/max_pooling_span_extractor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/span_extractors/endpoint_span_extractor.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/matrix_attention/linear_matrix_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/matrix_attention/cosine_matrix_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/span_extractors/bidirectional_endpoint_span_extractor.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/token_characters_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/matrix_attention/bilinear_matrix_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/seq2vec_encoders/pytorch_seq2vec_wrapper.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/vision/region_detector.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/pretrained_transformer_mismatched_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/conditional_random_field/conditional_random_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/elmo_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/bag_of_word_counts_token_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/backbones/vilbert_backbone.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/image_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/attention_module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/pretrained_transformer_embedder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/token_indexers/token_indexer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/token_indexers/spacy_indexer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/token_indexers/pretrained_transformer_mismatched_indexer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/samplers/max_tokens_batch_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/token_indexers/elmo_indexer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/token_indexers/token_characters_indexer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/namespace_swapping_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/span_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/tensor_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/samplers/bucket_batch_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 125"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/label_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/index_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/token_embedders/embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/adjacency_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/transformer_text_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/sequence_label_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/fields/multilabel_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/data_loaders/simple_data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/regularizers_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/chu_liu_edmonds_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/no_op_trainer_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/checkpoint/fairscale_checkpoint_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 75"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/data_loaders/multitask_data_loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/initializers_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 51",
+      "Hyperparameter not explicitly set at line 117"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/checkpoint/checkpoint_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 68"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/pretrained_model_initializer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/moving_average_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/parallel/fairscale_fsdp_accelerator_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 177",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/covariance_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 53"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/modules/transformer/t5.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/attachment_scores_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/categorical_accuracy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/rouge_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/allennlp/data/data_loaders/multiprocess_data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 655"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/pearson_correlation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 83"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/mean_absolute_error_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/sequence_accuracy_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/auc_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/entropy_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/bleu_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/boolean_accuracy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/learning_rate_schedulers/combined_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/unigram_recall_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/f1_measure_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/span_based_f1_measure_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 229"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/models/model_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/learning_rate_schedulers/cosine_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/momentum_schedulers/inverted_triangular_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/learning_rate_schedulers/learning_rate_scheduler_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/spearman_correlation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 92"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/confidence_checks/normalization_bias_verification_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/models/archival_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/learning_rate_schedulers/slanted_triangular_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/models/simple_tagger_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/testing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/logging_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/fbeta_multi_label_measure_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/fairness/bias_utils_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/beam_search_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 638"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/fbeta_measure_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/cached_transformers_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/interpret/hotflip_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/util_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/interpret/simple_influence_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/evaluation/evaluator_tests.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/evaluation/serializers/serializer_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/fairness/bias_direction_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 44",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 84",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/commands/no_op_train_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/metrics/fbeta_verbose_measure_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/commands/diff_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/maxout_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/fairness/fairness_metrics_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/stacked_alternating_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/file_utils_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/masked_layer_norm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/bimpm_matching_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/feedforward_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/fairness/bias_mitigators_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 83",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 193",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 317"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/stacked_elmo_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/scalar_mix_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/fairness/bias_metrics_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/highway_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/gated_sum_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/stacked_bidirectional_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 96"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/lstm_cell_with_projection_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/residual_with_layer_dropout_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/sampled_softmax_loss_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/time_distributed_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/pass_through_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/feedforward_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/dot_product_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/training/trainer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 905",
+      "Random Seed Not Set at line 920",
+      "Random Seed Not Set at line 1410"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 146",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 227"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/gated_cnn_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 42"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/bilinear_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/scaled_dot_product_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/cosine_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/augmented_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 156"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/compose_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 62"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/additive_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/attention/linear_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/output_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/pytorch_transformer_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 88"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/self_attention_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/positional_encoding_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/transformer_module_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/bimodal_attention_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/transformer_stack_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/activation_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/transformer_pooler_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/t5_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/bimodal_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 88",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/text_field_embedders/basic_text_field_embedder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 187"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/vision/region_detector_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 14",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/elmo_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 144",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 274",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 280"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/cls_pooler_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/cnn_highway_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/bert_pooler_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/toolkit_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 182",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 183",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 184"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/t5_self_attention_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 115",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/cnn_encoder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2seq_encoders/pytorch_seq2seq_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 145",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 187"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 154"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/boe_encoder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/scaled_dot_product_matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/bilinear_matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/transformer_embeddings_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 212",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 219"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/dot_product_matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/pass_through_embedder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/linear_matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/matrix_attention/cosine_matrix_attention_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/span_extractors/endpoint_span_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/seq2vec_encoders/pytorch_seq2vec_wrapper_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 131"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/span_extractors/self_attentive_span_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/token_characters_encoder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/bag_of_word_counts_token_embedder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/conditional_random_field_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 60",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 415"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/elmo_token_embedder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/transformer/transformer_layer_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 38",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 82",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 157",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 207",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 236",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 262",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 272",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 68",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 71",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 228",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/common/from_params_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/commands/train_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/span_extractors/max_pooling_span_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 179"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/span_extractors/bidirectional_endpoint_span_extractor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/data/image_loader_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/encoder_base_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 327"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/pretrained_transformer_mismatched_embedder_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/pretrained_transformer_embedder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/data/fields/transformer_text_field_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/modules/token_embedders/embedding_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/benchmarks/nn/util_bench.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 34"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/scripts/check_torch_version.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/data/data_loaders/multitask_data_loader_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/data/data_loaders/multiprocess_data_loader_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/scripts/ai2_internal/resume_daemon.py": {
+    "R2": [
+      "Random Seed Not Set at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/scripts/ai2_internal/run_with_beaker.py": {
+    "R2": [
+      "Random Seed Not Set at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/data/fields/list_field_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 308",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 322"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/allenai_allennlp/allennlp-main/tests/nn/util_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 860",
+      "Random Seed Not Set at line 879",
+      "Random Seed Not Set at line 900",
+      "Random Seed Not Set at line 921",
+      "Random Seed Not Set at line 945",
+      "Random Seed Not Set at line 969",
+      "Random Seed Not Set at line 997",
+      "Random Seed Not Set at line 1022",
+      "Random Seed Not Set at line 1403",
+      "Random Seed Not Set at line 1404",
+      "Random Seed Not Set at line 1420",
+      "Random Seed Not Set at line 1421",
+      "Random Seed Not Set at line 1432",
+      "Random Seed Not Set at line 1438",
+      "Random Seed Not Set at line 642",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 747",
+      "Random Seed Not Set at line 839",
+      "Random Seed Not Set at line 840",
+      "Random Seed Not Set at line 841",
+      "Random Seed Not Set at line 842",
+      "Random Seed Not Set at line 843",
+      "Random Seed Not Set at line 1772",
+      "Random Seed Not Set at line 1773",
+      "Random Seed Not Set at line 1786",
+      "Random Seed Not Set at line 1787",
+      "Random Seed Not Set at line 1830",
+      "Random Seed Not Set at line 1502",
+      "Random Seed Not Set at line 1527",
+      "Random Seed Not Set at line 1555",
+      "Random Seed Not Set at line 1590"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/hpsklearn/objects/vkmeans.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/hpsklearn/estimator/_transform.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/hpsklearn/estimator/_cost_fn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/hpsklearn/components/linear_model/_logistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/hpsklearn/estimator/estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 403"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_preprocessing/test_encoders.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_preprocessing/test_data.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_cross_decomposition/test_pls.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_ensemble/test_iforest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_svm/test_svm_classes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_tree/test_tree_classes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_ensemble/test_forest.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_ensemble/test_hist_gradient_boosting.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_linear_model/test_logistic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_feature_extraction/test_text.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 64",
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_linear_model/test_stochastic_gradient.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/utils.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_components/test_lagselectors.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 142"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hyperopt_hyperopt-sklearn/hyperopt-sklearn-master/tests/test_estimator/test_estimator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 65",
+      "Potential data leakage: model.fit() used without a pipeline at line 76",
+      "Potential data leakage: model.fit() used without a pipeline at line 93",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 214",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 278"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/empirical.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/classification/gmm_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/sum_of_norms.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 116",
+      "Use np.matmul() instead of np.dot() for matrices at line 117",
+      "Use np.matmul() instead of np.dot() for matrices at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/classification/tests/test_gmm_bayes.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 46",
+      "Potential data leakage: model.fit() used without a pipeline at line 59",
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/histtools.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/tests/test_density.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/tests/test_xdeconv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/datasets/sdss_corrected_spectra.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/lumfunc.py": {
+    "R2": [
+      "Random Seed Not Set at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/datasets/kelly2007test.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 75"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/filters.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 283",
+      "Use np.matmul() instead of np.dot() for matrices at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/xdeconv.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 83"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 183"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/correlation.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/linear_model/TLS.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 42",
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/clustering/tests/test_MST_clustering.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 11",
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/linear_model/tests/test_kernel_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 32",
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/density_estimation/bayesian_blocks.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 344"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/dimensionality/iterative_pca.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 124",
+      "Use np.matmul() instead of np.dot() for matrices at line 126",
+      "Use np.matmul() instead of np.dot() for matrices at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/utils/tests/test_utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 14",
+      "Use np.matmul() instead of np.dot() for matrices at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/linear_model/linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 103",
+      "Use np.matmul() instead of np.dot() for matrices at line 105",
+      "Use np.matmul() instead of np.dot() for matrices at line 104",
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/linear_model/tests/test_linear_regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 79",
+      "Potential data leakage: model.fit() used without a pipeline at line 80",
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 92",
+      "Potential data leakage: model.fit() used without a pipeline at line 102",
+      "Potential data leakage: model.fit() used without a pipeline at line 116",
+      "Potential data leakage: model.fit() used without a pipeline at line 137",
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 38",
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 48",
+      "Use np.matmul() instead of np.dot() for matrices at line 49",
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 61",
+      "Hyperparameter not explicitly set at line 79",
+      "Hyperparameter not explicitly set at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/plotting/regression.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 44"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 10"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/examples/learning/plot_neighbors_photoz.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/time_series/ACF.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/stats/random.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/examples/datasets/plot_wmap_power_spectra.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/time_series/periodogram.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 158",
+      "Use np.matmul() instead of np.dot() for matrices at line 183",
+      "Use np.matmul() instead of np.dot() for matrices at line 386",
+      "Use np.matmul() instead of np.dot() for matrices at line 359",
+      "Use np.matmul() instead of np.dot() for matrices at line 360"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/astroML/stats/tests/test_binned_statistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 8",
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/astroML_astroML/astroML-main/examples/datasets/plot_moving_objects.py": {
+    "R2": [
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77"
+    ]
+  }
+}

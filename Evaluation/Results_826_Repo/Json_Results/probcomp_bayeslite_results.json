@@ -1,0 +1,16 @@
+{
+  "/Users/bramss/Desktop/All_Repo/probcomp_bayeslite/bayeslite-master/tests/test_loom_backend.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 210",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/probcomp_bayeslite/bayeslite-master/src/regress.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 42"
+    ]
+  }
+}

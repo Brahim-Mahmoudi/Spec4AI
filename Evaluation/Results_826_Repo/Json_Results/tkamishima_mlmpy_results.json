@@ -1,0 +1,41 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/source/run_nbayes1b.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/source/run_nbayes1.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/source/run_lr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 19"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 19"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/source/run_nbayes2.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24",
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/sphinxext/ipython_console_highlighting.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tkamishima_mlmpy/mlmpy-master/source/lr.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 94",
+      "Use np.matmul() instead of np.dot() for matrices at line 134"
+    ]
+  }
+}

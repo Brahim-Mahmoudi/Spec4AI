@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/src/test_batch_norm.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/src/test_first_block.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/i3d_pt_profiling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 26"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/src/test_inflate_conv.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/i3d_pt_demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/i3d_tf_to_pt.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 72"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 132"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/hassony2_kinetics_i3d_pytorch/kinetics_i3d_pytorch-master/src/i3dpt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

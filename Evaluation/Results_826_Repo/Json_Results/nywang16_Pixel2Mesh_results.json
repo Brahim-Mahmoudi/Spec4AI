@@ -1,0 +1,25 @@
+{
+  "/Users/bramss/Desktop/All_Repo/nywang16_Pixel2Mesh/Pixel2Mesh-master/GenerateData/3_camera_transform.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50",
+      "Use np.matmul() instead of np.dot() for matrices at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nywang16_Pixel2Mesh/Pixel2Mesh-master/p2m/losses.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nywang16_Pixel2Mesh/Pixel2Mesh-master/GenerateData/generate_data.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 70",
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/nywang16_Pixel2Mesh/Pixel2Mesh-master/GenerateData/2_generate_normal.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 67",
+      "Use np.matmul() instead of np.dot() for matrices at line 56"
+    ]
+  }
+}

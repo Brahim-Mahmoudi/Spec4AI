@@ -1,0 +1,58 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/data_loaders/generate_tfr/imagenet_oord.py": {
+    "R2": [
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/data_loaders/get_mnist_cifar.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/data_loaders/generate_tfr/lsun.py": {
+    "R2": [
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/demo/model.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 181"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 225"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/data_loaders/generate_tfr/generate.py": {
+    "R2": [
+      "Random Seed Not Set at line 275"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/memory_saving_gradients.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 249",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 300"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/tfops.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 225"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 473",
+      "Missing mask for tf.log at line 151",
+      "Missing mask for tf.log at line 141"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_glow/glow-master/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 448",
+      "Random Seed Not Set at line 485"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 379",
+      "Missing mask for tf.log at line 399",
+      "Missing mask for tf.log at line 454"
+    ]
+  }
+}

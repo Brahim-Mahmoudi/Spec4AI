@@ -1,0 +1,10 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/HumanSignal_labelImg/labelImg-master/tools/label_to_csv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 37"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34"
+    ]
+  }
+}

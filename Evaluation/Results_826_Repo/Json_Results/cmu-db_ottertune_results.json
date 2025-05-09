@@ -1,0 +1,175 @@
+{
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/docker/credentials.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/factor_analysis.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/gpr/gprc.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 44",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/tests/test_nn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/ddpg/ou_process.py": {
+    "R2": [
+      "Random Seed Not Set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/tests/test_ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/constraints.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 92",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/tests/test_cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20",
+      "Potential data leakage: model.fit() used without a pipeline at line 69",
+      "Potential data leakage: model.fit() used without a pipeline at line 78",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/tests/test_constraints.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 50",
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/ddpg/prioritized_replay_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/tests/test_gpr.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 31",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/nn_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 167"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/cluster.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128",
+      "Potential data leakage: model.fit() used without a pipeline at line 261",
+      "Potential data leakage: model.fit() used without a pipeline at line 416"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 415",
+      "Random Seed Not Set at line 416"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 261",
+      "Hyperparameter not explicitly set at line 416"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/ddpg/ddpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/preprocessing.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 29",
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 329"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/simulation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 246"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/website/website/tasks/periodic_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 304",
+      "Potential data leakage: model.fit() used without a pipeline at line 313",
+      "Potential data leakage: model.fit() used without a pipeline at line 320",
+      "Potential data leakage: model.fit() used without a pipeline at line 405"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/website/tests/test_tasks.py": {
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/website/script/upload/upload_batch.py": {
+    "R2": [
+      "Random Seed Not Set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/analysis/gp_tf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 393"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 758",
+      "Random Seed Not Set at line 759",
+      "Random Seed Not Set at line 760",
+      "Random Seed Not Set at line 762",
+      "Random Seed Not Set at line 763",
+      "Random Seed Not Set at line 764"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cmu-db_ottertune/ottertune-master/server/website/website/tasks/async_tasks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 495",
+      "Potential data leakage: model.fit() used without a pipeline at line 500",
+      "Potential data leakage: model.fit() used without a pipeline at line 630",
+      "Potential data leakage: model.fit() used without a pipeline at line 1095",
+      "Potential data leakage: model.fit() used without a pipeline at line 1099",
+      "Potential data leakage: model.fit() used without a pipeline at line 904",
+      "Potential data leakage: model.fit() used without a pipeline at line 509",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 946",
+      "Potential data leakage: model.fit() used without a pipeline at line 1140"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 866",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 370"
+    ]
+  }
+}

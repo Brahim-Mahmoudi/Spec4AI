@@ -1,0 +1,27 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MaybeShewill-CV_lanenet-lane-detection/lanenet-lane-detection-master/lanenet_model/lanenet_discriminative_loss.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 64",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MaybeShewill-CV_lanenet-lane-detection/lanenet-lane-detection-master/lanenet_model/lanenet_back_end.py": {
+    "R7": [
+      "Missing mask for tf.log at line 84",
+      "Missing mask for tf.log at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MaybeShewill-CV_lanenet-lane-detection/lanenet-lane-detection-master/data_provider/lanenet_data_feed_pipline.py": {
+    "R2": [
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 205",
+      "Random Seed Not Set at line 191"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MaybeShewill-CV_lanenet-lane-detection/lanenet-lane-detection-master/lanenet_model/lanenet_postprocess.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 168"
+    ]
+  }
+}

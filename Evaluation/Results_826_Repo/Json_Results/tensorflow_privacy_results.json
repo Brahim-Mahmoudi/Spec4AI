@@ -1,0 +1,601 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/hyperparameters_2022/figure7.py": {
+    "R2": [
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/pate_2018/ICLR2018/plots_for_slides.py": {
+    "R2": [
+      "Random Seed Not Set at line 240"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/audit_2020/attacks.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 45"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 40",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/instahide_attack_2020/step_2_color_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 37"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/instahide_attack_2020/step_3_second_graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/audit_2020/mean_audit.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/audit_2020/fmnist_audit.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/logistic_regression/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/logistic_regression/single_layer_softmax.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/dp_newton/src/my_logistic_regression.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 76",
+      "Use np.matmul() instead of np.dot() for matrices at line 132",
+      "Use np.matmul() instead of np.dot() for matrices at line 153",
+      "Use np.matmul() instead of np.dot() for matrices at line 180",
+      "Use np.matmul() instead of np.dot() for matrices at line 204",
+      "Use np.matmul() instead of np.dot() for matrices at line 130",
+      "Use np.matmul() instead of np.dot() for matrices at line 151",
+      "Use np.matmul() instead of np.dot() for matrices at line 172",
+      "Use np.matmul() instead of np.dot() for matrices at line 197",
+      "Use np.matmul() instead of np.dot() for matrices at line 95",
+      "Use np.matmul() instead of np.dot() for matrices at line 110",
+      "Use np.matmul() instead of np.dot() for matrices at line 61",
+      "Use np.matmul() instead of np.dot() for matrices at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/GDP_2019/imdb_tutorial.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/GDP_2019/adult_tutorial.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 108"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/logistic_regression/multinomial_logistic.py": {
+    "R2": [
+      "Random Seed Not Set at line 55"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/dp_newton/src/dataset_loader.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 174",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 125"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 59",
+      "Use np.matmul() instead of np.dot() for matrices at line 231"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/noise_utils_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 45",
+      "Hyperparameter not explicitly set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/bert_encoder_utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/noise_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/mi_lira_2021/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/registry_functions/layer_normalization.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/sparsity_preserving_noise/sparse_noise_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/registry_functions/dense_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/gradient_clipping_utils.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/gradient_clipping_utils_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 212"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/dp_newton/src/opt_algs.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 146",
+      "Use np.matmul() instead of np.dot() for matrices at line 227",
+      "Use np.matmul() instead of np.dot() for matrices at line 374",
+      "Use np.matmul() instead of np.dot() for matrices at line 430"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 364",
+      "Random Seed Not Set at line 422",
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 331"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/sparsity_preserving_noise/sparse_noise_utils_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/clip_grads_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 32",
+      "Hyperparameter not explicitly set at line 33",
+      "Hyperparameter not explicitly set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/common_test_utils.py": {
+    "R3": [
+      "TensorArray Not Used at line 47"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 269",
+      "Hyperparameter not explicitly set at line 287",
+      "Hyperparameter not explicitly set at line 339",
+      "Hyperparameter not explicitly set at line 376"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/secret_sharer/exposures.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/secret_sharer/exposures_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/fast_gradient_clipping/registry_functions/multi_head_attention_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 143"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/tf_estimator_evaluation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/keras_evaluation_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 89"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 233",
+      "Potential data leakage: model.fit() used without a pipeline at line 254",
+      "Potential data leakage: model.fit() used without a pipeline at line 278",
+      "Potential data leakage: model.fit() used without a pipeline at line 297"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 106"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/advanced_mia_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 149"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/research/neuracrypt_attack_2021/attack.py": {
+    "R2": [
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 378",
+      "Random Seed Not Set at line 494"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 337"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/keras_evaluation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/tf_estimator_evaluation_example.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/seq2seq_mia.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/bolt_on/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/privacy_tests/membership_inference_attack/codelabs/example.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/bolt_on/models_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 295"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/analysis/tensor_buffer.py": {
+    "R3": [
+      "TensorArray Not Used at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/bolt_on/optimizers.py": {
+    "R2": [
+      "Random Seed Not Set at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_keras_sparse_distributed_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/analysis/tree_aggregation_accountant_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/keras_models/dp_keras_model_distributed_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_vectorized.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/keras_models/dp_keras_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_keras_sparse.py": {
+    "R2": [
+      "Random Seed Not Set at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/clip_and_aggregate_gradients.py": {
+    "R3": [
+      "TensorArray Not Used at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/estimators/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_vectorized_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_keras_vectorized.py": {
+    "R2": [
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 189"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/keras_models/dp_keras_model_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 121",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 271",
+      "Potential data leakage: model.fit() used without a pipeline at line 314",
+      "Potential data leakage: model.fit() used without a pipeline at line 375",
+      "Potential data leakage: model.fit() used without a pipeline at line 422",
+      "Potential data leakage: model.fit() used without a pipeline at line 485",
+      "Potential data leakage: model.fit() used without a pipeline at line 486"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 465",
+      "Hyperparameter not explicitly set at line 367",
+      "Hyperparameter not explicitly set at line 414",
+      "Hyperparameter not explicitly set at line 310",
+      "Hyperparameter not explicitly set at line 333"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/clip_and_aggregate_gradients_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 25",
+      "TensorArray Not Used at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/dp_query/gaussian_query.py": {
+    "R2": [
+      "Random Seed Not Set at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 255",
+      "Random Seed Not Set at line 258"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_keras_sparse_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 424",
+      "Potential data leakage: model.fit() used without a pipeline at line 461",
+      "Potential data leakage: model.fit() used without a pipeline at line 496",
+      "Potential data leakage: model.fit() used without a pipeline at line 281"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 419",
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 493",
+      "Random Seed Not Set at line 421",
+      "Random Seed Not Set at line 453"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/dp_query/discrete_gaussian_utils.py": {
+    "R3": [
+      "TensorArray Not Used at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/dp_query/tree_range_query.py": {
+    "R3": [
+      "TensorArray Not Used at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_dpsgd_tutorial_common.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/bolton_tutorial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 192"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_dpsgd_tutorial_keras_model.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_dpsgd_tutorial_vectorized.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_dpsgd_tutorial_keras.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_dpsgd_tutorial_eager.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/walkthrough/mnist_scratch.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/dp_query/tree_aggregation_query_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 409",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/lm_dpsgd_tutorial.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/movielens_tutorial.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tutorials/mnist_lr_tutorial.py": {
+    "R2": [
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/dp_query/tree_aggregation_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 379"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tensorflow_privacy/privacy-master/tensorflow_privacy/privacy/optimizers/dp_optimizer_keras_test.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 94",
+      "Potential data leakage: model.fit() used without a pipeline at line 131",
+      "Potential data leakage: model.fit() used without a pipeline at line 161",
+      "Potential data leakage: model.fit() used without a pipeline at line 785",
+      "Potential data leakage: model.fit() used without a pipeline at line 820"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 745",
+      "Random Seed Not Set at line 746",
+      "Random Seed Not Set at line 777",
+      "Random Seed Not Set at line 778",
+      "Random Seed Not Set at line 812",
+      "Random Seed Not Set at line 813",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 402",
+      "Random Seed Not Set at line 986",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 989"
+    ]
+  }
+}

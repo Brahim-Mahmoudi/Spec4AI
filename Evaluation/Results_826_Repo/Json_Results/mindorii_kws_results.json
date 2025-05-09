@@ -1,0 +1,19 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/mindorii_kws/kws-master/models/streaming_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mindorii_kws/kws-master/user_ops/test_warp_ctc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/mindorii_kws/kws-master/audio_producer.py": {
+    "R2": [
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 65"
+    ]
+  }
+}

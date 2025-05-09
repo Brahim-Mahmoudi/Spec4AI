@@ -1,0 +1,47 @@
+{
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/tests/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/tests/test_augmentation.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/tests/test_backend.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 37",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/tests/test_signal.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/kapre/augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 201",
+      "Random Seed Not Set at line 202",
+      "Random Seed Not Set at line 93"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/kapre/tflite_compatible_stft.py": {
+    "R3": [
+      "TensorArray Not Used at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/kapre/time_frequency.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 690"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keunwoochoi_kapre/kapre-master/tests/test_time_frequency.py": {
+    "R2": [
+      "Random Seed Not Set at line 564",
+      "Random Seed Not Set at line 585",
+      "Random Seed Not Set at line 515"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/test_drawing.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/test_adapters.py": {
+    "R2": [
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/cover_test_script.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/test_plotly.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/examples/plot_breast_cancer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/kmapper/cover.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/test_coverer.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 16",
+      "Potential data leakage: model.fit() used without a pipeline at line 23",
+      "Potential data leakage: model.fit() used without a pipeline at line 30",
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 90",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 155",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 204",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 230",
+      "Potential data leakage: model.fit() used without a pipeline at line 120",
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/depricated/km.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/kmapper/visuals.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 408"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/kmapper/kmapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 499",
+      "Potential data leakage: model.fit() used without a pipeline at line 976",
+      "Potential data leakage: model.fit() used without a pipeline at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-tda_kepler-mapper/kepler-mapper-master/test/test_mapper.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 258",
+      "Potential data leakage: model.fit() used without a pipeline at line 323"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 217",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 303",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 344"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 323"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 322",
+      "Hyperparameter not explicitly set at line 220",
+      "Hyperparameter not explicitly set at line 334"
+    ]
+  }
+}

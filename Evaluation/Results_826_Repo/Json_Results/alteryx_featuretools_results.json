@@ -1,0 +1,94 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/demo/weather.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/demo/retail.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/demo/mock_customer.py": {
+    "R15": [
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 67",
+      "Specify 'on' or 'left_on/right_on' when using merge() at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/demo/flight.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/tests/primitive_tests/test_agg_feats.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 579; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/tests/computational_backend/test_feature_set_calculator.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 666"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/tests/primitive_tests/test_transform_features.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1297"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/primitives/standard/transform/nth_week_of_month.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/primitives/standard/transform/datetime/date_to_holiday.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/primitives/standard/transform/datetime/is_first_week_of_month.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 47",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/primitives/standard/transform/email/email_address_to_domain.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/primitives/standard/transform/email/is_free_email_domain.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 58",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 55"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/alteryx_featuretools/featuretools-main/featuretools/tests/computational_backend/test_calculate_feature_matrix.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 162",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1949",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1964",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1242",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1274",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1301",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1334",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1414",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1415",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1450",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1451",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1463",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1464",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1476",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1477",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1489",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1490",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 1737"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 350"
+    ]
+  }
+}

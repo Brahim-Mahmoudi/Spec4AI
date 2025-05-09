@@ -1,0 +1,20 @@
+{
+  "/Users/bramss/Desktop/All_Repo/mir-evaluation_mir_eval/mir_eval-main/tests/test_sonify.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mir-evaluation_mir_eval/mir_eval-main/tests/test_segment.py": {
+    "R2": [
+      "Random Seed Not Set at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/mir-evaluation_mir_eval/mir_eval-main/mir_eval/separation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 734",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 807",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 808"
+    ]
+  }
+}

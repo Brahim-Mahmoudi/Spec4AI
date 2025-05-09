@@ -1,0 +1,373 @@
+{
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/tests/test_data_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/tests/test_ner_taggers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/solutions/InterpreT/application/appConfiguration.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 134",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 232",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 106",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 237",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 259",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 262",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/solutions/absa_solution/sentiment_solution.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 203; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/data/dataset.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/distillation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/tensorflow/python/keras/layers/crf.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/quantization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/modules/embedders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/nn/torch/layers/crf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/solutions/absa_solution/ui.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 280",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 411"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/procedures/token_tagging.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/tests/test_quantization.py": {
+    "R2": [
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 141",
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 63"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 329",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 405",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 421",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 53",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 196",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 381"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/most_common_word_sense.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/ner_crf.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 163"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/chunker.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 183"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/np_semantic_segmentation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/solutions/InterpreT/application/tasks.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/temporal_convolutional_network.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 459"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/intent_extraction.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 46"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 244"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/transformers/sequence_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/solutions/trend_analysis/ui_main.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 312"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/crossling_emb.py": {
+    "R2": [
+      "Random Seed Not Set at line 258",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/transformers/quantized_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/bist/decoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/transformers/base_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 434"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/transformers/token_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/absa/train/rerank_terms.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 417",
+      "Potential data leakage: model.fit() used without a pipeline at line 447"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/tagging.py": {
+    "R2": [
+      "Random Seed Not Set at line 313"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 601",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 424"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/data/ptb.py": {
+    "R2": [
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 267"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/nlp_architect/models/bist/mstlstm.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 411",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 399"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/np_semantic_segmentation/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/supervised_sentiment/example_ensemble.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75",
+      "Potential data leakage: model.fit() used without a pipeline at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/supervised_sentiment/supervised_sentiment.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 104",
+      "Hyperparameter not explicitly set at line 109",
+      "Hyperparameter not explicitly set at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/supervised_sentiment/optimize_example.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/ner/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/intent_extraction/train_mtl_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/intent_extraction/train_seq2seq_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/gnmt/utils/bleu.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 85",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/memn2n_dialogue/memn2n_dialogue.py": {
+    "R7": [
+      "Missing mask for tf.log at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/gnmt/utils/misc_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 186"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/memn2n_dialogue/train_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/gnmt/utils/iterator_utils.py": {
+    "R3": [
+      "TensorArray Not Used at line 118"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/most_common_word_sense/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/most_common_word_sense/prepare_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/word_language_model_with_tcn/toy_data/adding.py": {
+    "R2": [
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/chunker/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 809"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/gnmt/model_helper.py": {
+    "R3": [
+      "TensorArray Not Used at line 284"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 790",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 811"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/sparse_gnmt/gnmt/model.py": {
+    "R7": [
+      "Missing mask for tf.log at line 291"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/IntelLabs_nlp-architect/nlp-architect-master/examples/reading_comprehension/match_lstm_mrc/matchlstm_ansptr.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 106",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 110",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 114",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 314",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 315",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 316",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 320",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 236",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 237",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 238",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 239",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 240"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 132",
+      "TensorArray Not Used at line 217"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 336",
+      "Missing mask for tf.log at line 353"
+    ]
+  }
+}

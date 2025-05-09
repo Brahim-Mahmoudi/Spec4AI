@@ -1,0 +1,69 @@
+{
+  "/Users/bramss/Desktop/All_Repo/christophM_rulefit/rulefit-master/example_simulated.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 24"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 9",
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11",
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/christophM_rulefit/rulefit-master/test_predict.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 25"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 9"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/christophM_rulefit/rulefit-master/example_boston_rf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 33"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 10",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 13"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 31"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/christophM_rulefit/rulefit-master/example_boston.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 34"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 10",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 13"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/christophM_rulefit/rulefit-master/rulefit/rulefit.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 538",
+      "Potential data leakage: model.fit() used without a pipeline at line 553",
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 477"
+    ]
+  }
+}

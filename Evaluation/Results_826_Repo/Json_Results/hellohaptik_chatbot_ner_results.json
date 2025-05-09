@@ -1,0 +1,55 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v1/detectors/textual/name/tests/test_name_detection.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/external_api/api.py": {
+    "R2": [
+      "Random Seed Not Set at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v2/detectors/temporal/utils.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v2/detectors/numeral/number/zh-TW/number_detection.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v2/detectors/numeral/number/standard_number_detector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 249",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 325",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 148",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 251"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 114",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 145"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v2/detectors/numeral/number_range/standard_number_range_detector.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/hellohaptik_chatbot_ner/chatbot_ner-develop/ner_v2/detectors/temporal/time/en/time_detection.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 117"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 138; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 116",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136"
+    ]
+  }
+}

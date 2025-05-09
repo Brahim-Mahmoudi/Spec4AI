@@ -1,0 +1,253 @@
+{
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_baseline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 77",
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_paramgen.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_pack_pad_sequence.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_testhelp.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_datasets.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_tensor.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 35",
+      "Use np.matmul() instead of np.dot() for matrices at line 47",
+      "Use np.matmul() instead of np.dot() for matrices at line 89",
+      "Use np.matmul() instead of np.dot() for matrices at line 71",
+      "Use np.matmul() instead of np.dot() for matrices at line 113",
+      "Use np.matmul() instead of np.dot() for matrices at line 137",
+      "Use np.matmul() instead of np.dot() for matrices at line 172"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/nnmnkwii/autograd/_impl/modspec.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_autograd.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 59",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 66",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 72",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 151",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 152",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 170",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/nnmnkwii/autograd/_impl/mlpg.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_full.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 124",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_linalg.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 96",
+      "Use np.matmul() instead of np.dot() for matrices at line 115"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 280",
+      "Random Seed Not Set at line 298",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 335"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_overlap.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 126",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 211",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 236",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/nnmnkwii/baseline/gmm.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/perf/autograd_mlpg_perf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 64",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/nnmnkwii/preprocessing/alignment.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/test_preprocessing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/r9y9_nnmnkwii/nnmnkwii-master/tests/bandmat/test_core.py": {
+    "R2": [
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 261",
+      "Random Seed Not Set at line 287",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 428",
+      "Random Seed Not Set at line 480",
+      "Random Seed Not Set at line 493",
+      "Random Seed Not Set at line 510",
+      "Random Seed Not Set at line 526",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 537",
+      "Random Seed Not Set at line 538",
+      "Random Seed Not Set at line 539",
+      "Random Seed Not Set at line 554",
+      "Random Seed Not Set at line 555",
+      "Random Seed Not Set at line 556",
+      "Random Seed Not Set at line 567",
+      "Random Seed Not Set at line 569",
+      "Random Seed Not Set at line 570",
+      "Random Seed Not Set at line 580",
+      "Random Seed Not Set at line 582",
+      "Random Seed Not Set at line 583",
+      "Random Seed Not Set at line 595",
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 598",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 621"
+    ]
+  }
+}

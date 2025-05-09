@@ -1,0 +1,39 @@
+{
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/models/shared_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/models/controller.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/models/shared_rnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/carpedm20_ENAS-pytorch/ENAS-pytorch-master/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 475",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 476"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

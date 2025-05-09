@@ -1,0 +1,20 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/openai_pixel-cnn/pixel-cnn-master/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 139",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 142"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/openai_pixel-cnn/pixel-cnn-master/pixel_cnn_pp/nn.py": {
+    "R7": [
+      "Missing mask for tf.log at line 22",
+      "Missing mask for tf.log at line 28",
+      "Missing mask for tf.log at line 81",
+      "Missing mask for tf.log at line 96",
+      "Missing mask for tf.log at line 105"
+    ]
+  }
+}

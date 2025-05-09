@@ -1,0 +1,496 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/benchmark/plot.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/benchmark/datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 126",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 135",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 144",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 91"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/integration/test_benchmark.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 44",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/test_inducing_variables.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 40"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/benchmark/run.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 290"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/test_logdensities.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/kernels/reference.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/conditionals/test_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 127"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/test_monitor.py": {
+    "R2": [
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 114"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 308",
+      "Hyperparameter not explicitly set at line 318"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_gpr_posterior.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_training_mixins.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_vgp.py": {
+    "R3": [
+      "TensorArray Not Used at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/conditionals/test_broadcasted_conditionals.py": {
+    "R2": [
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 159",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/conditionals/test_conditionals.py": {
+    "R2": [
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_vgp_posterior.py": {
+    "R2": [
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 38",
+      "Random Seed Not Set at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_svgp_posterior.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 42"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/test_functions.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_sgpr_posterior.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/conditionals/test_uncertain_conditional.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 197",
+      "Hyperparameter not explicitly set at line 230",
+      "Hyperparameter not explicitly set at line 265"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/quadrature/ndiagquad_old.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/utilities/test_training_loop.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 47",
+      "Hyperparameter not explicitly set at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/utilities/test_ops.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 60",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/models/test_variational.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/optimizers/test_natural_gradient.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/covariances/test_base_covariances.py": {
+    "R2": [
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 104",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/likelihoods/test_multiclass.py": {
+    "R2": [
+      "Random Seed Not Set at line 56",
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/utilities/test_traversal.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/likelihoods/test_switched_likelihood.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 83",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 98"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/kernels/test_kernels.py": {
+    "R2": [
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 284",
+      "Random Seed Not Set at line 296",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 668",
+      "Random Seed Not Set at line 665",
+      "Random Seed Not Set at line 666",
+      "Random Seed Not Set at line 652"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/advanced/gps_for_big_data.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 218"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/advanced/heteroskedastic.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/posteriors/test_bo_integration.py": {
+    "R3": [
+      "TensorArray Not Used at line 308",
+      "TensorArray Not Used at line 316",
+      "TensorArray Not Used at line 317"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/advanced/natural_gradients.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 125",
+      "Hyperparameter not explicitly set at line 126",
+      "Hyperparameter not explicitly set at line 253",
+      "Hyperparameter not explicitly set at line 261",
+      "Hyperparameter not explicitly set at line 343",
+      "Hyperparameter not explicitly set at line 351",
+      "Hyperparameter not explicitly set at line 402"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/theory/cglb.pct.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/tailor/gp_nn.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/tailor/external-mean-function.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 199",
+      "Hyperparameter not explicitly set at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/getting_started/monitoring.pct.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 256"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/kernels/categorical.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/kullback_leiblers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/posteriors/test_posteriors.py": {
+    "R2": [
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 322",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 411",
+      "Random Seed Not Set at line 456",
+      "Random Seed Not Set at line 501",
+      "Random Seed Not Set at line 548",
+      "Random Seed Not Set at line 592",
+      "Random Seed Not Set at line 625",
+      "Random Seed Not Set at line 654",
+      "Random Seed Not Set at line 655",
+      "Random Seed Not Set at line 683",
+      "Random Seed Not Set at line 684",
+      "Random Seed Not Set at line 685",
+      "Random Seed Not Set at line 716",
+      "Random Seed Not Set at line 717",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 623",
+      "Random Seed Not Set at line 741",
+      "Random Seed Not Set at line 743",
+      "Random Seed Not Set at line 783",
+      "Random Seed Not Set at line 785",
+      "Random Seed Not Set at line 828",
+      "Random Seed Not Set at line 830",
+      "Random Seed Not Set at line 273",
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 450",
+      "Random Seed Not Set at line 495",
+      "Random Seed Not Set at line 498",
+      "Random Seed Not Set at line 539",
+      "Random Seed Not Set at line 586",
+      "Random Seed Not Set at line 589",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 453",
+      "Random Seed Not Set at line 543",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 94"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/doc/sphinx/notebooks/getting_started/parameters_and_their_optimisation.pct.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 219",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 220"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 212"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 503"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/functions.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 192"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/tests/gpflow/conditionals/test_multioutput.py": {
+    "R2": [
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 231",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/kernels/changepoints.py": {
+    "R3": [
+      "TensorArray Not Used at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/conditionals/uncertain_conditionals.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 102",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 90",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/expectations/cross_kernels.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/expectations/misc.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/expectations/linears.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 136",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 190"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/expectations/mean_functions.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 152",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/expectations/squared_exponentials.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 272"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/kernels/multioutput/kernels.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 196",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 154",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 165",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 173",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/utilities/misc.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/models/gplvm.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 265",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 273"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/models/vgp.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 134",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 350",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 413"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/quadrature/deprecated.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 104",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 260"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 252"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/models/cglb.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 243",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 250"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/conditionals/util.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 455",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 458"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 195",
+      "Random Seed Not Set at line 204"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/models/sgpr.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 331",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 338",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 514",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/GPflow_GPflow/GPflow-develop/gpflow/posteriors.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 504",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 511"
+    ]
+  }
+}

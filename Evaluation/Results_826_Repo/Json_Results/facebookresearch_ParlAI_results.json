@@ -1,0 +1,1177 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/anti_scaling/scripts/remove_projection_matrices.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/style_gen/modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/style_gen/classifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/params_vs_compute/hash_ladder/hash_ladder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/blenderbot2/agents/sub_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/image_chat/transresnet_multimodal/transresnet_multimodal.py": {
+    "R2": [
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 337",
+      "Random Seed Not Set at line 339"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/image_chat/transresnet_multimodal/modules.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 368"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/personality_captions/transresnet/modules.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 355",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 386",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 133"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/personality_captions/transresnet/transresnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 297"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/director/director_agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/roscoe/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 46"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/blenderbot2/agents/blenderbot2.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 931"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/blenderbot2/agents/modules.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 493"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 704"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/anti_scaling/distillation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/k2r/wow/task/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/wizard_of_wikipedia/wizard_transformer_ranker/wizard_transformer_ranker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/bb3/agents/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/cringe/safety_filter_world_logs.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/k2r/stacked_agent/scripts/stacked_agent_eval.py": {
+    "R2": [
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/dialogue_bias/util.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 31"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 31; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 30",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 148"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/msc/agents/long_tga.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/bb3/agents/opt_api_agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/wizard_of_wikipedia/generator/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 230"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/fits/agents/director_seeker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/cringe/cringe_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/roscoe/score.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 378",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 387",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 303",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 296",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 359"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/task/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/agents/pacer.py": {
+    "R2": [
+      "Random Seed Not Set at line 265"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/tod_simulator/scripts/cleanup_conversation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 124",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/agents/poly_return_weights.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/k2r/stacked_agent/task/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 755"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/agents/rpa_ul.py": {
+    "R2": [
+      "Random Seed Not Set at line 292",
+      "Random Seed Not Set at line 127"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 305"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/bb3/tasks/mutators.py": {
+    "R2": [
+      "Random Seed Not Set at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/fits/agents/director_bb2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/agents/seeker_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/agents/gpt2_seeker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/bb3/agents/r2c2_bb3_agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/tasks/lm.py": {
+    "R2": [
+      "Random Seed Not Set at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/agents/multi_objective.py": {
+    "R2": [
+      "Random Seed Not Set at line 871"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/light_whoami/agents/expanded_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/scripts/generate_lm_data.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/agents/gpt2_seeker_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/dialogue_unlikelihood/agents.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 246",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 268"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_lr_schedulers.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 197",
+      "Random Seed Not Set at line 208",
+      "Random Seed Not Set at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/tod_simulator/scripts/tod_distributed_uber_script.py": {
+    "R2": [
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_utils_torch.py": {
+    "R2": [
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 186",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/projects/seeker/agents/seeker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_searchquery_retrievers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_image_featurizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_interactive.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/crowdsourcing/tasks/model_chat/test_image_stack.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/crowdsourcing/tasks/turn_annotations_static/test_turn_annotations_static_analysis.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 125",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_tga.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/nightly/gpu/test_bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/nightly/gpu/test_t5.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/nightly/gpu/anti_scaling/test_anti_scaling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_metrics.py": {
+    "R2": [
+      "Random Seed Not Set at line 264",
+      "Random Seed Not Set at line 262"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/acute_eval/util.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_transformers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/multi_model_chat/multiparty_worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 336",
+      "Random Seed Not Set at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/multi_model_chat/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/nightly/gpu/test_rag.py": {
+    "R2": [
+      "Random Seed Not Set at line 585"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/acute_eval/fast_eval.py": {
+    "R2": [
+      "Random Seed Not Set at line 357"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/nightly/gpu/test_bb3.py": {
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 391"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/tests/test_torch_agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/pairwise_per_turn_eval/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 454"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/projects/wizard_of_internet/run.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/model_chat/model_chat_blueprint.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/model_chat/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/model_chat/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/utils/tests.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/onecommon/agents.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/tasks/model_chat/analysis/compile_results.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 336"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 106",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 255",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 283"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/dialogue_safety/base_agent.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 90",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/taskntalk/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/projects/multisession_chat/human_eval/compile_results.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 121",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 123",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 275",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/wizard_of_internet/mutators.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/personality_captions/agents.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/dialogue_safety/agents.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 257",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 258",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 259"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/crowdsourcing/projects/wizard_of_internet/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 792",
+      "Random Seed Not Set at line 769",
+      "Random Seed Not Set at line 993"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/genderation_bias/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/taskmaster/agents.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 117",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/image_chat/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 231"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/metalwoz/agents.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 63"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/spolin/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/light_genderation_bias/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/wizard_of_wikipedia/mutators.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/light_dialog/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/self_chat/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/vqa_v1/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 266"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/funpedia.py": {
+    "R2": [
+      "Random Seed Not Set at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/new_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/wizard.py": {
+    "R2": [
+      "Random Seed Not Set at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/image_chat.py": {
+    "R2": [
+      "Random Seed Not Set at line 140"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/light_dialog/builder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 70"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/yelp.py": {
+    "R2": [
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/msc/mutators.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/fits/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 591"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/md_gender/convai2.py": {
+    "R2": [
+      "Random Seed Not Set at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/mwsc/build.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 47",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/wizard_of_wikipedia/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 765"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/reasoning/reason_types/step_by_step.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 620"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/light_multiparty/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 521"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/taskmaster3/agents.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/coco_caption/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 241"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/ubuntu/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/taskmaster2/agents.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/flickr30k/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/msc/agents.py": {
+    "R2": [
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/image_featurizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/tasks/light_dialog_wild/builder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 185"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/torch_classifier_agent.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 680"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/torch_ranker_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 576"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 503",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 1038"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/torchscript/agents.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/hred/hred.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/tfidf_retriever/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/worlds.py": {
+    "R2": [
+      "Random Seed Not Set at line 1172"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/hred/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/test_agents/null.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/test_agents/unigram.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/test_agents/transformer_generator_prefix.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/test_agents/test_agents.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/tfidf_retriever/tfidf_retriever.py": {
+    "R2": [
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bert_ranker/helpers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/dropout_poly.py": {
+    "R2": [
+      "Random Seed Not Set at line 120"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/modules/functions.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/crossencoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/reranker/reranker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bert_ranker/bi_encoder_ranker.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/biencoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/image_polyencoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bert_classifier/bert_classifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/torchscript/modules.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 450"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 367"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/modules/generator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/conversion_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/modules/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/image_seq2seq/image_seq2seq.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/polyencoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/modules/encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/image_seq2seq/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/dpr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/scripts/index_dense_embeddings.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/scripts/generate_dense_embeddings.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bart/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bart/bart.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/teachers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/examples/tra.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 89"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/indexers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/transformer/modules/decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/seq2seq/seq2seq.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/torch_generator_agent.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 919"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 649"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/core/torch_agent.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2338",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2340",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2332",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 2334"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/memnn/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/repeat_label/repeat_label.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/memnn/memnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/starspace/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/ir_baseline/ir_baseline.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/hugging_face/gpt2.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/curated_response.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 210",
+      "Random Seed Not Set at line 211"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/fid/fid.py": {
+    "R2": [
+      "Random Seed Not Set at line 455"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/hugging_face/llama.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/hugging_face/t5.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/seq2seq/modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/rag.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/bart/convert_fairseq_to_parlai.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/mutators/flatten.py": {
+    "R2": [
+      "Random Seed Not Set at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/testing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/model_types.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/starspace/starspace.py": {
+    "R2": [
+      "Random Seed Not Set at line 354",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 495",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 386"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/agents/rag/retrievers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/vacuum.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/misc.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/profile_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/multiprocessing_train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/multiprocessing_eval.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/fp16.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/torchscript.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/ops/ngram_repeat_block.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/convo_render.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/utils/bpe.py": {
+    "R2": [
+      "Random Seed Not Set at line 653",
+      "Random Seed Not Set at line 651"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_ParlAI/ParlAI-main/parlai/scripts/train_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

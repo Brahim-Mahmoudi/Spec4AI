@@ -1,0 +1,34 @@
+{
+  "/Users/bramss/Desktop/All_Repo/rkcosmos_deepcut/deepcut-master/deepcut/model.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 44"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rkcosmos_deepcut/deepcut-master/examples/true_intent_classification.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 45"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 36",
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 63",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 28",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 56"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/rkcosmos_deepcut/deepcut-master/deepcut/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 191",
+      "Potential data leakage: model.fit() used without a pipeline at line 197"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 125"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_ComputerVision.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/report_merger.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_CveExplorerNVD.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 301",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 249",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 288"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_Exploit.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 221"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_Inventory.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 269",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 272"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 267"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_Report.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 321",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 354"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/gyoisamurai_GyoiThon/GyoiThon-master/modules/Gyoi_Creator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 206"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 45",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 119",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 67",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 73",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85"
+    ]
+  }
+}

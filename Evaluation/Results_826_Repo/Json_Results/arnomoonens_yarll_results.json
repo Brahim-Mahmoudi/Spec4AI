@@ -1,0 +1,171 @@
+{
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/misc/noise.py": {
+    "R2": [
+      "Random Seed Not Set at line 21"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/memory/prealloc_memory.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/misc/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/fitted_q.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 83",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 111"
+    ],
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 127"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 91"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/dqn.py": {
+    "R2": [
+      "Random Seed Not Set at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/misc/network_ops.py": {
+    "R2": [
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 150",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 35"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/policies/e_greedy.py": {
+    "R2": [
+      "Random Seed Not Set at line 12",
+      "Random Seed Not Set at line 13",
+      "Random Seed Not Set at line 16"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/ppo/dppo_worker.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/ddpg.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/basic/cem.py": {
+    "R2": [
+      "Random Seed Not Set at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/environment/registration.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/ppo/dppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 166"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/actionselection/categorical_action_selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/actionselection/continuous_action_selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/actorcritic/actor_critic.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 128",
+      "Hyperparameter not explicitly set at line 131",
+      "Hyperparameter not explicitly set at line 175",
+      "Hyperparameter not explicitly set at line 178",
+      "Hyperparameter not explicitly set at line 246"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/functionapproximation/tile_coding.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 44"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 35",
+      "Random Seed Not Set at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/pytorch/reinforce.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/ppo/ppo.py": {
+    "R2": [
+      "Random Seed Not Set at line 197"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/reinforce.py": {
+    "R2": [
+      "Random Seed Not Set at line 290"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 182",
+      "Hyperparameter not explicitly set at line 183",
+      "Hyperparameter not explicitly set at line 212",
+      "Hyperparameter not explicitly set at line 255",
+      "Hyperparameter not explicitly set at line 141",
+      "Hyperparameter not explicitly set at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf2/sac.py": {
+    "R2": [
+      "Random Seed Not Set at line 112",
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 343"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 393"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/tf1/actorcritic/a3c_worker.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 254"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/arnomoonens_yarll/yarll-tf2/yarll/agents/pytorch/sac.py": {
+    "R2": [
+      "Random Seed Not Set at line 405"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

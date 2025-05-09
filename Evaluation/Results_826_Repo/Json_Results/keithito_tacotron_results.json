@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/keithito_tacotron/tacotron-master/models/helpers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 82",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 30",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 71",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 12",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 27",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 53",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 68"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keithito_tacotron/tacotron-master/util/audio.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 129"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/keithito_tacotron/tacotron-master/datasets/datafeeder.py": {
+    "R2": [
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 91",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 119"
+    ]
+  }
+}

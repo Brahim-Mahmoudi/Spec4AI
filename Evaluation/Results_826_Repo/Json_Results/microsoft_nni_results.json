@@ -1,0 +1,3178 @@
+{
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 36"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/test_cell.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/test_hub_modules.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 81"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 70",
+      "Hyperparameter not explicitly set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/experiment/test_experiment.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 29",
+      "Random Seed Not Set at line 31",
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/test_repeat.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 164",
+      "Hyperparameter not explicitly set at line 28",
+      "Hyperparameter not explicitly set at line 48",
+      "Hyperparameter not explicitly set at line 67",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 108",
+      "Hyperparameter not explicitly set at line 124",
+      "Hyperparameter not explicitly set at line 139"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/profiler/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/test_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 109"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/profiler/test_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 86",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 37",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 43",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 155",
+      "Random Seed Not Set at line 159"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/sdk/test_networkmorphism_tuner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/strategy/test_sanity.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/experiment/assets/trial_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/sdk/test_graph_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 154"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/training_service/config/naive_trial/trial_choices.py": {
+    "R2": [
+      "Random Seed Not Set at line 10",
+      "Random Seed Not Set at line 11"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/training_service/config/naive_trial/trial.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/strategy/test_middleware.py": {
+    "R2": [
+      "Random Seed Not Set at line 294",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 249",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 346"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/training_service/nnitest/remote_docker.py": {
+    "R2": [
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 573",
+      "Random Seed Not Set at line 575",
+      "Random Seed Not Set at line 354"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 58",
+      "Hyperparameter not explicitly set at line 81",
+      "Hyperparameter not explicitly set at line 110",
+      "Hyperparameter not explicitly set at line 127",
+      "Hyperparameter not explicitly set at line 132",
+      "Hyperparameter not explicitly set at line 96",
+      "Hyperparameter not explicitly set at line 139",
+      "Hyperparameter not explicitly set at line 163"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/sdk/models/pytorch_models/transformer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/vso_tools/start_docker.py": {
+    "R2": [
+      "Random Seed Not Set at line 16",
+      "Random Seed Not Set at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/sdk/test_serializer.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 315"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/sdk/test_builtin_tuners.py": {
+    "R2": [
+      "Random Seed Not Set at line 318",
+      "Random Seed Not Set at line 302",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/test_evaluator_lightning.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/training_service/nnitest/test_quantize_model_speedup.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 65"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/profiler/test_flops.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 57",
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 72",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 87",
+      "Random Seed Not Set at line 116"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_profiler.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/convert_mixin.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 23",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_hub.py": {
+    "R2": [
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 141"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/hub/test_pretrained.py": {
+    "R2": [
+      "Random Seed Not Set at line 59",
+      "Random Seed Not Set at line 88"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert_models.py": {
+    "R2": [
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 94"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 29",
+      "Hyperparameter not explicitly set at line 50",
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 72",
+      "Hyperparameter not explicitly set at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_proxyless.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 68",
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 215",
+      "Random Seed Not Set at line 216",
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 193",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 132",
+      "Random Seed Not Set at line 133",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 54"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 31",
+      "Hyperparameter not explicitly set at line 82",
+      "Hyperparameter not explicitly set at line 127",
+      "Hyperparameter not explicitly set at line 190",
+      "Hyperparameter not explicitly set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/cgo/test_cgo_engine.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_strategy.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 246"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 56"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 267",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 268",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 275"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 212"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/profiler/test_shape.py": {
+    "R2": [
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 65",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/profiler/test_nn_meter.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 84",
+      "Random Seed Not Set at line 93",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 158",
+      "Random Seed Not Set at line 153"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert_shape.py": {
+    "R2": [
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 75"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/quantization/dorefa_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/quantization/ptq_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/distillation/test_distil_label_patcher.py": {
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/quantization/lsq_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/utils/test_scaling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/quantization/bnn_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/quantization/qat_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_speedup_torchvision.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/nn/test_choice.py": {
+    "R2": [
+      "Random Seed Not Set at line 451",
+      "Random Seed Not Set at line 473",
+      "Random Seed Not Set at line 676",
+      "Random Seed Not Set at line 495",
+      "Random Seed Not Set at line 651",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 379",
+      "Random Seed Not Set at line 431",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 78",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 235",
+      "Random Seed Not Set at line 282",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 319",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 536",
+      "Random Seed Not Set at line 558",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 156",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 203",
+      "Random Seed Not Set at line 398",
+      "Random Seed Not Set at line 588",
+      "Random Seed Not Set at line 589"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 63",
+      "Hyperparameter not explicitly set at line 93",
+      "Hyperparameter not explicitly set at line 133",
+      "Hyperparameter not explicitly set at line 169",
+      "Hyperparameter not explicitly set at line 195",
+      "Hyperparameter not explicitly set at line 220",
+      "Hyperparameter not explicitly set at line 647",
+      "Hyperparameter not explicitly set at line 675",
+      "Hyperparameter not explicitly set at line 274",
+      "Hyperparameter not explicitly set at line 298",
+      "Hyperparameter not explicitly set at line 315",
+      "Hyperparameter not explicitly set at line 334",
+      "Hyperparameter not explicitly set at line 354",
+      "Hyperparameter not explicitly set at line 394",
+      "Hyperparameter not explicitly set at line 420",
+      "Hyperparameter not explicitly set at line 447",
+      "Hyperparameter not explicitly set at line 471",
+      "Hyperparameter not explicitly set at line 491",
+      "Hyperparameter not explicitly set at line 529",
+      "Hyperparameter not explicitly set at line 553",
+      "Hyperparameter not explicitly set at line 252",
+      "Hyperparameter not explicitly set at line 376",
+      "Hyperparameter not explicitly set at line 511",
+      "Hyperparameter not explicitly set at line 513",
+      "Hyperparameter not explicitly set at line 583",
+      "Hyperparameter not explicitly set at line 627",
+      "Hyperparameter not explicitly set at line 374",
+      "Hyperparameter not explicitly set at line 581",
+      "Hyperparameter not explicitly set at line 625"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_concrete_trace_super.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_speedup_softmax.py": {
+    "R2": [
+      "Random Seed Not Set at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_concrete_trace_dce.py": {
+    "R2": [
+      "Random Seed Not Set at line 60"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/assets/device.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_channel_dependency.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_concrete_trace_mmdetection.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_concrete_trace_mix_trace.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_speedup_init_mask.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/assets/common.py": {
+    "R2": [
+      "Random Seed Not Set at line 41",
+      "Random Seed Not Set at line 49"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/assets/simple_mnist/simple_evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 32",
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert_basic.py": {
+    "R2": [
+      "Random Seed Not Set at line 113",
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 131",
+      "Random Seed Not Set at line 140",
+      "Random Seed Not Set at line 148",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 240"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/base/test_compressor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/base/test_setting.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/assets/simple_mnist/simple_torch_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/assets/simple_mnist/simple_lightning_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_auto_conv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/pruning/test_pruner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/pruning_quick_start.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/pruning_speedup.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/ut/nas/profiler/test_shape.py": {
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 153",
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 218",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 246",
+      "Random Seed Not Set at line 250",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 260",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 315",
+      "Random Seed Not Set at line 316",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 327",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 356",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 367",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 381",
+      "Random Seed Not Set at line 388",
+      "Random Seed Not Set at line 400",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 415",
+      "Random Seed Not Set at line 416",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 425",
+      "Random Seed Not Set at line 436",
+      "Random Seed Not Set at line 437",
+      "Random Seed Not Set at line 438",
+      "Random Seed Not Set at line 446",
+      "Random Seed Not Set at line 447",
+      "Random Seed Not Set at line 448",
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 494",
+      "Random Seed Not Set at line 495",
+      "Random Seed Not Set at line 551",
+      "Random Seed Not Set at line 644",
+      "Random Seed Not Set at line 470",
+      "Random Seed Not Set at line 546",
+      "Random Seed Not Set at line 604",
+      "Random Seed Not Set at line 608",
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 541",
+      "Random Seed Not Set at line 599",
+      "Random Seed Not Set at line 30",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 50"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 648",
+      "Hyperparameter not explicitly set at line 208",
+      "Hyperparameter not explicitly set at line 645",
+      "Hyperparameter not explicitly set at line 137",
+      "Hyperparameter not explicitly set at line 148"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/quantization_speedup.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 141",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/hpo_quickstart_tensorflow/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/quantization_bert_glue.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/quantization_quick_start.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/hpo_nnictl/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/hpo_quickstart_pytorch/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni_assets/hello_hpo/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/compression/base/test_wrapper.py": {
+    "R2": [
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/hello_nas.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni_assets/compression/mnist_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert.py": {
+    "R2": [
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 209",
+      "Random Seed Not Set at line 214",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 382",
+      "Random Seed Not Set at line 417",
+      "Random Seed Not Set at line 534"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 417",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 423"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/darts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 705"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 646",
+      "Random Seed Not Set at line 647"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-batch-tune-keras/mnist-keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/docs/source/tutorials/new_pruning_bert_glue.py": {
+    "R2": [
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 535"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 398",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 510"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/weight_sharing/ga_squad/train_model.py": {
+    "R3": [
+      "TensorArray Not Used at line 87",
+      "TensorArray Not Used at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-pbt-tuner-pytorch/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-pytorch/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-pytorch/mnist_tensorboard.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/pix2pix-pytorch/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-nested-search-space/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 130",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/weight_sharing/ga_squad/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 316"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/vgg.py": {
+    "R2": [
+      "Random Seed Not Set at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/pix2pix-pytorch/pix2pix.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/weight_sharing/ga_squad/graph_to_tf.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 115",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 116",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 142",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 143",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 181",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-sharedstorage/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/googlenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/mobilenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/main_adl.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 129"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/senet.py": {
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/main.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 143"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-tfv1/mnist_before.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/resnext.py": {
+    "R2": [
+      "Random Seed Not Set at line 91"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-tfv1/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/densenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/sklearn/classification/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 53"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/shufflenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/sklearn/regression/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 74"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 57",
+      "Hyperparameter not explicitly set at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/auto-gbdt/main.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 58",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 59",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 63",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 64"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 53",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/pnasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 121"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/preact_resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 115"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/mobilenetv2.py": {
+    "R2": [
+      "Random Seed Not Set at line 82"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/resnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/preprocess.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 82",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 65"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 50",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/postprocessing.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 51"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/focal_loss.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/cifar10_pytorch/models/dpn.py": {
+    "R2": [
+      "Random Seed Not Set at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/FashionMNIST/FashionMNIST_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/predict.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/cifar10/cifar10_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 175"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/FashionMNIST/FashionMNIST_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 84",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 97",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 109",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 175",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 156"
+    ],
+    "R18": [
+      "Do not compare with np.nan. Use df.isna() instead at line 85"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 97; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 109; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 82",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 89",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 152",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/lovasz_losses.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/FashionMNIST/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/cifar10/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 101",
+      "Random Seed Not Set at line 102"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/network_morphism/cifar10/cifar10_pytorch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/benchmarking/hyperband/main.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 95",
+      "Random Seed Not Set at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/loader.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-keras/mnist-keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/benchmarking/automlbenchmark/parse_result_csv.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 38; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 123; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 111",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-tfv2/mnist.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 115"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-distributed-pytorch/dist_mnist.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 126"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/systems_auto_tuning/opevo/src/algorithms/na2c.py": {
+    "R2": [
+      "Random Seed Not Set at line 240",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 243"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/oneshot/test_supermodules.py": {
+    "R2": [
+      "Random Seed Not Set at line 143",
+      "Random Seed Not Set at line 232",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 252",
+      "Random Seed Not Set at line 272",
+      "Random Seed Not Set at line 275",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 313",
+      "Random Seed Not Set at line 317",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 334",
+      "Random Seed Not Set at line 338",
+      "Random Seed Not Set at line 349",
+      "Random Seed Not Set at line 370",
+      "Random Seed Not Set at line 375",
+      "Random Seed Not Set at line 390",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 259",
+      "Random Seed Not Set at line 268",
+      "Random Seed Not Set at line 279",
+      "Random Seed Not Set at line 283",
+      "Random Seed Not Set at line 396",
+      "Random Seed Not Set at line 412",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 435",
+      "Random Seed Not Set at line 456",
+      "Random Seed Not Set at line 464",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 473",
+      "Random Seed Not Set at line 497",
+      "Random Seed Not Set at line 251",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 263",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 311",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 324",
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 438",
+      "Random Seed Not Set at line 476",
+      "Random Seed Not Set at line 528",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 530",
+      "Random Seed Not Set at line 531",
+      "Random Seed Not Set at line 532",
+      "Random Seed Not Set at line 575",
+      "Random Seed Not Set at line 576",
+      "Random Seed Not Set at line 577",
+      "Random Seed Not Set at line 578",
+      "Random Seed Not Set at line 579",
+      "Random Seed Not Set at line 620",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 345",
+      "Random Seed Not Set at line 347",
+      "Random Seed Not Set at line 353",
+      "Random Seed Not Set at line 360",
+      "Random Seed Not Set at line 362",
+      "Random Seed Not Set at line 366",
+      "Random Seed Not Set at line 368",
+      "Random Seed Not Set at line 386",
+      "Random Seed Not Set at line 388",
+      "Random Seed Not Set at line 407",
+      "Random Seed Not Set at line 427",
+      "Random Seed Not Set at line 445",
+      "Random Seed Not Set at line 356"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 630"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/ga_squad/train_model.py": {
+    "R3": [
+      "TensorArray Not Used at line 87",
+      "TensorArray Not Used at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/kaggle-tgs-salt/models.py": {
+    "R2": [
+      "Random Seed Not Set at line 614"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 214"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/systems_auto_tuning/opevo/src/algorithms/opevo.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 77",
+      "Random Seed Not Set at line 106",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 54",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 332"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas/search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/mnist/search.py": {
+    "R2": [
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 100"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 74"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 124"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/ga_squad/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 223",
+      "Random Seed Not Set at line 242",
+      "Random Seed Not Set at line 245",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 268"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/mnist-advisor/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/naive/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/darts/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/proxylessnas/putils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas/micro.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/trials/ga_squad/graph_to_tf.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 115",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 116",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 142",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 143",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 181",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/darts/search.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 70"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/darts/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/export.py": {
+    "R2": [
+      "Random Seed Not Set at line 51"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/proxylessnas/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/proxylessnas/retrain.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/darts/retrain.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 76"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/lib/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/darts/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/lib/subnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/lib/supernet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/naive-tf/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 75",
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/supernet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas-tf/macro.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/proxylessnas/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/enas-tf/micro.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/retrain.py": {
+    "R2": [
+      "Random Seed Not Set at line 223"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/blocks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/lib/trainer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/network.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/evaluation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/classic_nas-tf/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 120",
+      "Hyperparameter not explicitly set at line 26",
+      "Hyperparameter not explicitly set at line 34"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/spos/search.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert_pytorch.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 55",
+      "Random Seed Not Set at line 66",
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 111",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 262",
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 309",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 344",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 358",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 378",
+      "Random Seed Not Set at line 392",
+      "Random Seed Not Set at line 405",
+      "Random Seed Not Set at line 406",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 433",
+      "Random Seed Not Set at line 440",
+      "Random Seed Not Set at line 447",
+      "Random Seed Not Set at line 454",
+      "Random Seed Not Set at line 461",
+      "Random Seed Not Set at line 513",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 527",
+      "Random Seed Not Set at line 585",
+      "Random Seed Not Set at line 599",
+      "Random Seed Not Set at line 600",
+      "Random Seed Not Set at line 601",
+      "Random Seed Not Set at line 614",
+      "Random Seed Not Set at line 628",
+      "Random Seed Not Set at line 629",
+      "Random Seed Not Set at line 630",
+      "Random Seed Not Set at line 646",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 665",
+      "Random Seed Not Set at line 669",
+      "Random Seed Not Set at line 673",
+      "Random Seed Not Set at line 677",
+      "Random Seed Not Set at line 697",
+      "Random Seed Not Set at line 705",
+      "Random Seed Not Set at line 714",
+      "Random Seed Not Set at line 725",
+      "Random Seed Not Set at line 735",
+      "Random Seed Not Set at line 746",
+      "Random Seed Not Set at line 757",
+      "Random Seed Not Set at line 768",
+      "Random Seed Not Set at line 780",
+      "Random Seed Not Set at line 791",
+      "Random Seed Not Set at line 800",
+      "Random Seed Not Set at line 811",
+      "Random Seed Not Set at line 822",
+      "Random Seed Not Set at line 833",
+      "Random Seed Not Set at line 844",
+      "Random Seed Not Set at line 855",
+      "Random Seed Not Set at line 867",
+      "Random Seed Not Set at line 882",
+      "Random Seed Not Set at line 906",
+      "Random Seed Not Set at line 921",
+      "Random Seed Not Set at line 935",
+      "Random Seed Not Set at line 944",
+      "Random Seed Not Set at line 945",
+      "Random Seed Not Set at line 953",
+      "Random Seed Not Set at line 1028",
+      "Random Seed Not Set at line 1036",
+      "Random Seed Not Set at line 1044",
+      "Random Seed Not Set at line 1052",
+      "Random Seed Not Set at line 1063",
+      "Random Seed Not Set at line 1075",
+      "Random Seed Not Set at line 1076",
+      "Random Seed Not Set at line 1084",
+      "Random Seed Not Set at line 1092",
+      "Random Seed Not Set at line 1104",
+      "Random Seed Not Set at line 1112",
+      "Random Seed Not Set at line 1122",
+      "Random Seed Not Set at line 1123",
+      "Random Seed Not Set at line 1143",
+      "Random Seed Not Set at line 1152",
+      "Random Seed Not Set at line 1173",
+      "Random Seed Not Set at line 1191",
+      "Random Seed Not Set at line 1204",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 227",
+      "Random Seed Not Set at line 228",
+      "Random Seed Not Set at line 320",
+      "Random Seed Not Set at line 331",
+      "Random Seed Not Set at line 1222",
+      "Random Seed Not Set at line 491",
+      "Random Seed Not Set at line 505",
+      "Random Seed Not Set at line 894",
+      "Random Seed Not Set at line 961",
+      "Random Seed Not Set at line 975",
+      "Random Seed Not Set at line 999",
+      "Random Seed Not Set at line 1019"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 181"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/oneshot/pfld/lib/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/transformer/retiarii_transformer_demo.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 158"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/genotypes.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/datasets/imagenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/datasets/cifar.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/retrain.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 90"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/lib/core/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/lib/core/retrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/retrain.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 499"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/nasbench201/base_ops.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/lib/utils/flops_table.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 65"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/classic_nas/mnist.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/textnas/dataloader.py": {
+    "R2": [
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 243",
+      "Random Seed Not Set at line 241",
+      "Random Seed Not Set at line 251"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/lib/utils/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 164"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/pdarts/search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/datasets.py": {
+    "R2": [
+      "Random Seed Not Set at line 17",
+      "Random Seed Not Set at line 18"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/mnasnet/base_mnasnet.py": {
+    "R2": [
+      "Random Seed Not Set at line 213"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/darts_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cream/retrain.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/enas_macro_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/notebooks/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 15",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 20",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 21"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/customized_tuner/demo_tuner/demo_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 19",
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/enas_micro_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/mnist_keras_customized_advisor/mnist_keras.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/evaluator/lightning_evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/ga_customer_tuner/customer_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/evaluator/torch_evaluator.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 40"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/fusion/pd_fuse.py": {
+    "R2": [
+      "Random Seed Not Set at line 61"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/cdarts/datasets/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 122",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 184",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 323",
+      "Random Seed Not Set at line 326",
+      "Random Seed Not Set at line 329",
+      "Random Seed Not Set at line 332",
+      "Random Seed Not Set at line 335",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 341",
+      "Random Seed Not Set at line 343"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/nas/legacy/search_space_zoo/nasbench201.py": {
+    "R2": [
+      "Random Seed Not Set at line 185",
+      "Random Seed Not Set at line 186"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 174"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/weight_sharing/ga_customer_tuner/customer_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 176"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/models.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/pruning/norm_pruning.py": {
+    "R2": [
+      "Random Seed Not Set at line 44"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/test/algo/nas/graph_converter/test_convert_operators.py": {
+    "R2": [
+      "Random Seed Not Set at line 163",
+      "Random Seed Not Set at line 164",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 212",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 239",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 257",
+      "Random Seed Not Set at line 266",
+      "Random Seed Not Set at line 267",
+      "Random Seed Not Set at line 276",
+      "Random Seed Not Set at line 277",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 295",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 312",
+      "Random Seed Not Set at line 321",
+      "Random Seed Not Set at line 330",
+      "Random Seed Not Set at line 339",
+      "Random Seed Not Set at line 348",
+      "Random Seed Not Set at line 357",
+      "Random Seed Not Set at line 365",
+      "Random Seed Not Set at line 374",
+      "Random Seed Not Set at line 432",
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 450",
+      "Random Seed Not Set at line 459",
+      "Random Seed Not Set at line 468",
+      "Random Seed Not Set at line 477",
+      "Random Seed Not Set at line 485",
+      "Random Seed Not Set at line 494",
+      "Random Seed Not Set at line 503",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 521",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 538",
+      "Random Seed Not Set at line 547",
+      "Random Seed Not Set at line 565",
+      "Random Seed Not Set at line 574",
+      "Random Seed Not Set at line 575",
+      "Random Seed Not Set at line 584",
+      "Random Seed Not Set at line 593",
+      "Random Seed Not Set at line 602",
+      "Random Seed Not Set at line 611",
+      "Random Seed Not Set at line 620",
+      "Random Seed Not Set at line 629",
+      "Random Seed Not Set at line 638",
+      "Random Seed Not Set at line 647",
+      "Random Seed Not Set at line 655",
+      "Random Seed Not Set at line 664",
+      "Random Seed Not Set at line 673",
+      "Random Seed Not Set at line 682",
+      "Random Seed Not Set at line 691",
+      "Random Seed Not Set at line 700",
+      "Random Seed Not Set at line 708",
+      "Random Seed Not Set at line 727",
+      "Random Seed Not Set at line 736",
+      "Random Seed Not Set at line 745",
+      "Random Seed Not Set at line 754",
+      "Random Seed Not Set at line 763",
+      "Random Seed Not Set at line 771",
+      "Random Seed Not Set at line 788",
+      "Random Seed Not Set at line 798",
+      "Random Seed Not Set at line 848",
+      "Random Seed Not Set at line 875",
+      "Random Seed Not Set at line 884",
+      "Random Seed Not Set at line 885",
+      "Random Seed Not Set at line 893",
+      "Random Seed Not Set at line 894",
+      "Random Seed Not Set at line 903",
+      "Random Seed Not Set at line 952",
+      "Random Seed Not Set at line 953",
+      "Random Seed Not Set at line 954",
+      "Random Seed Not Set at line 981",
+      "Random Seed Not Set at line 991",
+      "Random Seed Not Set at line 992",
+      "Random Seed Not Set at line 1092",
+      "Random Seed Not Set at line 1106",
+      "Random Seed Not Set at line 1120",
+      "Random Seed Not Set at line 1134",
+      "Random Seed Not Set at line 1140",
+      "Random Seed Not Set at line 1163",
+      "Random Seed Not Set at line 1177",
+      "Random Seed Not Set at line 1191",
+      "Random Seed Not Set at line 1201",
+      "Random Seed Not Set at line 1211",
+      "Random Seed Not Set at line 1224",
+      "Random Seed Not Set at line 1251",
+      "Random Seed Not Set at line 1265",
+      "Random Seed Not Set at line 1279",
+      "Random Seed Not Set at line 1293",
+      "Random Seed Not Set at line 1327",
+      "Random Seed Not Set at line 1350",
+      "Random Seed Not Set at line 1318",
+      "Random Seed Not Set at line 61",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 71",
+      "Random Seed Not Set at line 79",
+      "Random Seed Not Set at line 80",
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 119",
+      "Random Seed Not Set at line 383",
+      "Random Seed Not Set at line 384",
+      "Random Seed Not Set at line 393",
+      "Random Seed Not Set at line 394",
+      "Random Seed Not Set at line 403",
+      "Random Seed Not Set at line 404",
+      "Random Seed Not Set at line 413",
+      "Random Seed Not Set at line 414",
+      "Random Seed Not Set at line 423",
+      "Random Seed Not Set at line 424",
+      "Random Seed Not Set at line 717",
+      "Random Seed Not Set at line 718",
+      "Random Seed Not Set at line 830",
+      "Random Seed Not Set at line 831",
+      "Random Seed Not Set at line 840",
+      "Random Seed Not Set at line 857",
+      "Random Seed Not Set at line 866",
+      "Random Seed Not Set at line 912",
+      "Random Seed Not Set at line 1307",
+      "Random Seed Not Set at line 1358",
+      "Random Seed Not Set at line 653",
+      "Random Seed Not Set at line 662"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/pruning/taylor_pruning.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/model_compress/quantization/bert_quantization_with_ds.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/pruning/slim_pruning.py": {
+    "R2": [
+      "Random Seed Not Set at line 39"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/model_compress/quantization/quantization_with_deepspeed.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/pruning/scheduled_pruning.py": {
+    "R2": [
+      "Random Seed Not Set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/pruning_quick_start.py": {
+    "R2": [
+      "Random Seed Not Set at line 93"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 39",
+      "Hyperparameter not explicitly set at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/fusion/pqd_fuse.py": {
+    "R2": [
+      "Random Seed Not Set at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/pruning_speedup.py": {
+    "R2": [
+      "Random Seed Not Set at line 63",
+      "Random Seed Not Set at line 75",
+      "Random Seed Not Set at line 69"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/quantization/qat_example.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/ga_customer_tuner/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 194",
+      "Random Seed Not Set at line 204",
+      "Random Seed Not Set at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/quantization/dorefa_example.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/quantization_speedup.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 141",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 186"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/quantization/ptq_example.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/quantization_bert_glue.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tuners/weight_sharing/ga_customer_tuner/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 270",
+      "Random Seed Not Set at line 271",
+      "Random Seed Not Set at line 290",
+      "Random Seed Not Set at line 293",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 304",
+      "Random Seed Not Set at line 314",
+      "Random Seed Not Set at line 316"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/quantization/bnn_example.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/hpo_quickstart_tensorflow/model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 81"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 60"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/compression/quantization/lsq_example.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 104"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/scripts/trial_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 68"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/feature_engineering/gradient_feature_selector/sklearn_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/hpo_nnictl/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/hpo_quickstart_pytorch/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 103"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/feature_engineering/gbdt_selector/gbdt_selector_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/quantization_quick_start.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 106"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/concrete_tracer/concrete_trace_yolov5.py": {
+    "R2": [
+      "Random Seed Not Set at line 11"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/concrete_tracer/concrete_trace_yolov3.py": {
+    "R2": [
+      "Random Seed Not Set at line 17"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 16"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/concrete_tracer/concrete_trace_distilbert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/hello_nas.py": {
+    "R2": [
+      "Random Seed Not Set at line 242"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 216"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/feature_engineering/gradient_feature_selector/benchmark_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 83",
+      "Hyperparameter not explicitly set at line 86",
+      "Hyperparameter not explicitly set at line 89",
+      "Hyperparameter not explicitly set at line 100",
+      "Hyperparameter not explicitly set at line 103",
+      "Hyperparameter not explicitly set at line 106"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/darts.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 451",
+      "Potential data leakage: model.fit() used without a pipeline at line 705"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 206",
+      "Random Seed Not Set at line 646",
+      "Random Seed Not Set at line 647"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/examples/tutorials/new_pruning_bert_glue.py": {
+    "R2": [
+      "Random Seed Not Set at line 291",
+      "Random Seed Not Set at line 355",
+      "Random Seed Not Set at line 426",
+      "Random Seed Not Set at line 535"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 398",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 510"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/tools/trial_tool/trial_runner.py": {
+    "R2": [
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/benchmark/evaluator.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/benchmark/nasbench201/db_gen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/differentiable.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/profiler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/sampling.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 251",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 265"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/evaluator/pytorch/lightning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170",
+      "Potential data leakage: model.fit() used without a pipeline at line 177"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/_singlepathnas.py": {
+    "R2": [
+      "Random Seed Not Set at line 213",
+      "Random Seed Not Set at line 231"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/_operation_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/utils/_legacy.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/nn/pytorch/cell.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/utils/serializer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/strategy.py": {
+    "R2": [
+      "Random Seed Not Set at line 588"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/nn/pytorch/choice.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/proxyless.py": {
+    "R2": [
+      "Random Seed Not Set at line 414"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/execution/cgo/evaluator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/sampling.py": {
+    "R2": [
+      "Random Seed Not Set at line 333",
+      "Random Seed Not Set at line 336"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/differentiable.py": {
+    "R2": [
+      "Random Seed Not Set at line 413"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/experiment/config/experiment.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/oneshot/pytorch/supermodule/operation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/profiler/pytorch/nn_meter.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/space/pytorch/graph.py": {
+    "R2": [
+      "Random Seed Not Set at line 64"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/modules/nasbench201.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/nasbench201.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/shufflenet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/profiler/pytorch/utils/shape.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/modules/autoactivation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/proxylessnas.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/mobilenetv3.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/space/pytorch/op_def.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/autoformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 41"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/strategy/_rl_impl.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/modules/nasbench101.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/feature_engineering/gradient_selector/fgtrain.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 173"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/evolution_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 219",
+      "Random Seed Not Set at line 228"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/space/pytorch/converter/graph_gen.py": {
+    "R2": [
+      "Random Seed Not Set at line 757"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 714"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/regularized_evolution_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 168",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 154",
+      "Random Seed Not Set at line 86"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/dngo_tuner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/nas/hub/pytorch/nasnet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/gp_tuner/gp_tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 173"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/feature_engineering/gradient_selector/gradient_selector.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 454"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/ppo_tuner/policy.py": {
+    "R7": [
+      "Missing mask for tf.log at line 101"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/ppo_tuner/distri.py": {
+    "R7": [
+      "Missing mask for tf.log at line 113",
+      "Missing mask for tf.log at line 121",
+      "Missing mask for tf.log at line 131",
+      "Missing mask for tf.log at line 134"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/feature_engineering/gradient_selector/learnability.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/feature_engineering/gradient_selector/fginitialize.py": {
+    "R2": [
+      "Random Seed Not Set at line 215"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/hyperopt_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 426"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/pbt_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 50",
+      "Random Seed Not Set at line 391"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/lib_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 42",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/networkmorphism_tuner/networkmorphism_tuner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 235"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/Regression_GP/CreateModel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/Regression_GMM/CreateModel.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38",
+      "Potential data leakage: model.fit() used without a pipeline at line 39"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/lib_constraint_summation.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 50",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 74",
+      "Random Seed Not Set at line 100",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/networkmorphism_tuner/layer_transformer.py": {
+    "R2": [
+      "Random Seed Not Set at line 76",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/Regression_GMM/Selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 84"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/Regression_GP/Selection.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/curvefitting_assessor/model_factory.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 163",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 165"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 299",
+      "Random Seed Not Set at line 294"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/contrib/distillation/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/ppo_tuner/ppo_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 280"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/contrib/distillation/uid_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 147"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/bohb_advisor/config_generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 146",
+      "Random Seed Not Set at line 222",
+      "Random Seed Not Set at line 248",
+      "Random Seed Not Set at line 157",
+      "Random Seed Not Set at line 254",
+      "Random Seed Not Set at line 256",
+      "Random Seed Not Set at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/networkmorphism_tuner/bayesian.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 321"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 223"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 364"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/networkmorphism_tuner/layers.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 361"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/algorithms/hpo/metis_tuner/metis_tuner.py": {
+    "R2": [
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 576"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/common/concrete_trace_utils/counter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/scaling.py": {
+    "R2": [
+      "Random Seed Not Set at line 208"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/mask_counter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/check_ddp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/quantization/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/distillation/basic_distiller.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/common/concrete_trace_utils/flop_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/bnn_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/external/external_replacer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/lsqplus_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/lsq_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/common/graph_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/qat_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/pruning/tools/calculate_metrics.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/counter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/ptq_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/mask_conflict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/pruning/taylor_pruner.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/speedup/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 85",
+      "Random Seed Not Set at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/pruning/slim_pruner.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 123"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization/dorefa_quantizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/pruning/movement_pruner.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 136"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization_speedup/frontend_to_onnx.py": {
+    "R2": [
+      "Random Seed Not Set at line 127"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/pruning/tools/sparse_gen.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/quantization_speedup/integrated_tensorrt.py": {
+    "R2": [
+      "Random Seed Not Set at line 315"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/base/fuse_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/base/apply_method.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/speedup/mask_updater.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/speedup/model_speedup.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 222"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/base/target_space.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/speedup/mask_conflict.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/base/compressor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/base/wrapper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/speedup/replacement.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/compression/utils/evaluator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 636"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/microsoft_nni/nni-master/nni/common/concrete_trace_utils/concrete_tracer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

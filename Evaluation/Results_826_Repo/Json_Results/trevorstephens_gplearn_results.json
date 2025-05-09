@@ -1,0 +1,68 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/tests/test_functions.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 129",
+      "Potential data leakage: model.fit() used without a pipeline at line 150",
+      "Potential data leakage: model.fit() used without a pipeline at line 162",
+      "Potential data leakage: model.fit() used without a pipeline at line 169",
+      "Potential data leakage: model.fit() used without a pipeline at line 187",
+      "Potential data leakage: model.fit() used without a pipeline at line 199",
+      "Potential data leakage: model.fit() used without a pipeline at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/tests/test_fitness.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 91",
+      "Potential data leakage: model.fit() used without a pipeline at line 106",
+      "Potential data leakage: model.fit() used without a pipeline at line 117",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 163",
+      "Potential data leakage: model.fit() used without a pipeline at line 184",
+      "Potential data leakage: model.fit() used without a pipeline at line 202",
+      "Potential data leakage: model.fit() used without a pipeline at line 213",
+      "Potential data leakage: model.fit() used without a pipeline at line 220",
+      "Potential data leakage: model.fit() used without a pipeline at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/tests/test_examples.py": {
+    "R11": [
+      "Potential data leakage: fit_transform called before train/test split at line 183"
+    ],
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 99",
+      "Potential data leakage: model.fit() used without a pipeline at line 112",
+      "Potential data leakage: model.fit() used without a pipeline at line 118",
+      "Potential data leakage: model.fit() used without a pipeline at line 147",
+      "Potential data leakage: model.fit() used without a pipeline at line 206",
+      "Potential data leakage: model.fit() used without a pipeline at line 187"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 99",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 118",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 206"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 98",
+      "Hyperparameter not explicitly set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/_program.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/genetic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1520"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/trevorstephens_gplearn/gplearn-main/gplearn/tests/test_genetic.py": {
+    "R2": [
+      "Random Seed Not Set at line 931"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 966"
+    ]
+  }
+}

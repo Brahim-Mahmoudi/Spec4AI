@@ -1,0 +1,72 @@
+{
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/managers/utility.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 40",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/managers/session_manager.py": {
+    "R2": [
+      "Random Seed Not Set at line 46"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/views/word_cloud.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 45; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 49; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 50; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 51; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/managers/file_manager.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 546; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/views/bubbleviz.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 45; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 49; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 50; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 51; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/models/k_means_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 109"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/views/multicloud.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 52; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 56; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 57; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 58; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/views/manage.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 155"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/models/content_analysis_model.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 337",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 338"
+    ],
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 96",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 414"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/WheatonCS_Lexos/Lexos-master/lexos/helpers/general_functions.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 99",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 197",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 100"
+    ]
+  }
+}

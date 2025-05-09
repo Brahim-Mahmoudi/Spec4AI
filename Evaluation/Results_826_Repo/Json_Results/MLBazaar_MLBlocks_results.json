@@ -1,0 +1,43 @@
+{
+  "/Users/bramss/Desktop/All_Repo/MLBazaar_MLBlocks/MLBlocks-master/examples/tutorials/utils.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 49"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 18",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MLBazaar_MLBlocks/MLBlocks-master/tests/features/test_partial_outputs.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 55",
+      "Potential data leakage: model.fit() used without a pipeline at line 56",
+      "Potential data leakage: model.fit() used without a pipeline at line 57",
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 114",
+      "Potential data leakage: model.fit() used without a pipeline at line 115",
+      "Potential data leakage: model.fit() used without a pipeline at line 127",
+      "Potential data leakage: model.fit() used without a pipeline at line 86",
+      "Potential data leakage: model.fit() used without a pipeline at line 89",
+      "Potential data leakage: model.fit() used without a pipeline at line 92"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MLBazaar_MLBlocks/MLBlocks-master/tests/test_mlpipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 773",
+      "Potential data leakage: model.fit() used without a pipeline at line 799",
+      "Potential data leakage: model.fit() used without a pipeline at line 818",
+      "Potential data leakage: model.fit() used without a pipeline at line 844",
+      "Potential data leakage: model.fit() used without a pipeline at line 872",
+      "Potential data leakage: model.fit() used without a pipeline at line 938",
+      "Potential data leakage: model.fit() used without a pipeline at line 1000"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/MLBazaar_MLBlocks/MLBlocks-master/mlblocks/mlpipeline.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 644"
+    ]
+  }
+}

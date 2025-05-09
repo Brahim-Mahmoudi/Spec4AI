@@ -1,0 +1,96 @@
+{
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/noise_inject.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/testing.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/training.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/utils.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 32"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/server.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/search_lm_params.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/inference.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/loader/spec_augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 99",
+      "Random Seed Not Set at line 103",
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/data/merge_manifests.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/validation.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 142"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/loader/sparse_image_warp.py": {
+    "R2": [
+      "Random Seed Not Set at line 170"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/SeanNaren_deepspeech.pytorch/deepspeech.pytorch-master/deepspeech_pytorch/loader/data_loader.py": {
+    "R2": [
+      "Random Seed Not Set at line 399",
+      "Random Seed Not Set at line 401",
+      "Random Seed Not Set at line 114",
+      "Random Seed Not Set at line 115",
+      "Random Seed Not Set at line 121",
+      "Random Seed Not Set at line 310",
+      "Random Seed Not Set at line 356"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

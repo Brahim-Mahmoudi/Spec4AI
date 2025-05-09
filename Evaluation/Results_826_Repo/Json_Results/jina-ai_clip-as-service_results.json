@@ -1,0 +1,81 @@
+{
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/tests/test_helper.py": {
+    "R2": [
+      "Random Seed Not Set at line 14"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/tests/test_server.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/cnclip_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/executors/clip_tensorrt.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/tokenization.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/executors/helper.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/flash_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/executors/clip_onnx.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/executors/clip_torch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/mclip_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/tests/test_client.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/trt_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/jina-ai_clip-as-service/clip-as-service-main/server/clip_server/model/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 427",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 612",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 463"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

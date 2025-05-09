@@ -1,0 +1,111 @@
+{
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/postprocessing.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/sklearn/models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 22",
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 48",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/pipeline_manager.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 121",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 125",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 134",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 166"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 88",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 111",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/pytorch/loaders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/pytorch/models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 148"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/pytorch/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/pytorch/validation.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/preparation.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 227"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 227"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 209"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/callbacks.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 264",
+      "Potential data leakage: model.fit() used without a pipeline at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 297",
+      "Random Seed Not Set at line 299"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 106; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 103; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 104; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 100"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/unet_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/steppy/pytorch/architectures/unet.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/minerva-ml_open-solution-data-science-bowl-2018/open-solution-data-science-bowl-2018-master/src/loaders.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

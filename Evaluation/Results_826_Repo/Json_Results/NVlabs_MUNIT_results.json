@@ -1,0 +1,63 @@
+{
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/train.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/test_batch.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 84",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/utils.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 185"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 199"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/trainer.py": {
+    "R2": [
+      "Random Seed Not Set at line 26",
+      "Random Seed Not Set at line 27",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 150"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/NVlabs_MUNIT/MUNIT-master/networks.py": {
+    "R2": [
+      "Random Seed Not Set at line 176",
+      "Random Seed Not Set at line 168"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 576"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/machine_learning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 114"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 85",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 83"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 114"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/facenet_clone/classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 96"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/tindetheus_align.py": {
+    "R2": [
+      "Random Seed Not Set at line 98",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 105",
+      "Random Seed Not Set at line 111"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/facenet_clone/align/align_dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/facenet_clone/align/align_dataset_mtcnn.py": {
+    "R2": [
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 40",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 75"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/cjekel_tindetheus/tindetheus-master/tindetheus/facenet_clone/facenet.py": {
+    "R2": [
+      "Random Seed Not Set at line 89",
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 233",
+      "Random Seed Not Set at line 343",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 352"
+    ]
+  }
+}

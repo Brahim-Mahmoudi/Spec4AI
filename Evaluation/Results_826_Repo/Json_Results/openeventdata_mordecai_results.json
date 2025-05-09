@@ -1,0 +1,37 @@
+{
+  "/Users/bramss/Desktop/All_Repo/openeventdata_mordecai/mordecai-master/examples/geocode_cities.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openeventdata_mordecai/mordecai-master/train/train_country_model.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 150"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openeventdata_mordecai/mordecai-master/train/train_ranker.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 166"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openeventdata_mordecai/mordecai-master/mordecai/utilities.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/openeventdata_mordecai/mordecai-master/mordecai/geoparse.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 250"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 830",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 995"
+    ]
+  }
+}

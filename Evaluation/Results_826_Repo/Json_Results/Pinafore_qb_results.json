@@ -1,0 +1,175 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/preprocess.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/protobowl_user.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/reporting/curve_score.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/trick-data.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 68; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 66"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/bonus/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/cli.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 296",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 301"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 278"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/ingestion/classifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 33",
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/buzz_example.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/ingestion/gspreadsheets.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/experimental/nn_guesser/nets.py": {
+    "R2": [
+      "Random Seed Not Set at line 158"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/nn.py": {
+    "R2": [
+      "Random Seed Not Set at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/experimental/chainer/main.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 35"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 233"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/tfidf.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/figures.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 309"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 298"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/vw.py": {
+    "R2": [
+      "Random Seed Not Set at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/expo/gen_sys_readable.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 23",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/elmo.py": {
+    "R2": [
+      "Random Seed Not Set at line 94",
+      "Random Seed Not Set at line 171"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 249",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 173"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 148"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/torch/nn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/wikipedia/wikidata.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 480",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 483"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/torch/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/expo/2p_buzzer.py": {
+    "R2": [
+      "Random Seed Not Set at line 27"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/buzzer/train.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/torch/dataset.py": {
+    "R2": [
+      "Random Seed Not Set at line 112"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/dan.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 626",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 419"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 392"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Pinafore_qb/qb-master/qanta/guesser/rnn.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 470",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 313"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 286"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

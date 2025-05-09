@@ -1,0 +1,39 @@
+{
+  "/Users/bramss/Desktop/All_Repo/google_tf_mesh_renderer/tf_mesh_renderer-master/mesh_renderer/camera_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 112"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tf_mesh_renderer/tf_mesh_renderer-master/mesh_renderer/rasterize_triangles_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 54"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tf_mesh_renderer/tf_mesh_renderer-master/mesh_renderer/mesh_renderer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 296",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 301",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 306",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 312",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 319",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 326"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 199"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/google_tf_mesh_renderer/tf_mesh_renderer-master/mesh_renderer/mesh_renderer_test.py": {
+    "R3": [
+      "TensorArray Not Used at line 92"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231"
+    ]
+  }
+}

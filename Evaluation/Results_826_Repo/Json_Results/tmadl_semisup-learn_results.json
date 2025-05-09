@@ -1,0 +1,82 @@
+{
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/examples/compare_gaussian_methods.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 35",
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 54"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 25"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/methods/scikitTSVM.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 85"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/frameworks/SelfLearning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 60",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/examples/compare_linsvm_methods.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 39",
+      "Potential data leakage: model.fit() used without a pipeline at line 45",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 58"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 21",
+      "Random Seed Not Set at line 22"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 39",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 45",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 51",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/examples/compare_rbfsvm_methods.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 40",
+      "Potential data leakage: model.fit() used without a pipeline at line 47",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 62"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 18",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 24"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 40",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 47",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/methods/scikitWQDA.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 71"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/tmadl_semisup-learn/semisup-learn-master/frameworks/CPLELearning.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 111",
+      "Potential data leakage: model.fit() used without a pipeline at line 221",
+      "Potential data leakage: model.fit() used without a pipeline at line 223",
+      "Potential data leakage: model.fit() used without a pipeline at line 233"
+    ],
+    "R19": [
+      "Too many threshold-dependent metrics"
+    ]
+  }
+}

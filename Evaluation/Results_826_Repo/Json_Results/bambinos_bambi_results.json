@@ -1,0 +1,246 @@
+{
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_interpret_messages.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_glmlss.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 49",
+      "Potential data leakage: model.fit() used without a pipeline at line 66",
+      "Potential data leakage: model.fit() used without a pipeline at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_alternative_samplers.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 58",
+      "Potential data leakage: model.fit() used without a pipeline at line 70",
+      "Potential data leakage: model.fit() used without a pipeline at line 84",
+      "Potential data leakage: model.fit() used without a pipeline at line 90"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_interpret.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_aliases.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 51",
+      "Potential data leakage: model.fit() used without a pipeline at line 61",
+      "Potential data leakage: model.fit() used without a pipeline at line 82",
+      "Potential data leakage: model.fit() used without a pipeline at line 100",
+      "Potential data leakage: model.fit() used without a pipeline at line 109",
+      "Potential data leakage: model.fit() used without a pipeline at line 119",
+      "Potential data leakage: model.fit() used without a pipeline at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 25"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 20",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 25",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 163",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 164",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 169",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/priors/scaler.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_hsgp.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 41",
+      "Potential data leakage: model.fit() used without a pipeline at line 276",
+      "Potential data leakage: model.fit() used without a pipeline at line 316"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 36"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 202",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 232",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 233",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 263",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 264",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 193",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 194",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 195",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 199",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 200",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 224",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 225",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 230",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 255",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 256",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 261",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 262"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_priors.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 16"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 15"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/data/datasets.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_plots.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18",
+      "Potential data leakage: model.fit() used without a pipeline at line 27",
+      "Potential data leakage: model.fit() used without a pipeline at line 177",
+      "Potential data leakage: model.fit() used without a pipeline at line 192",
+      "Potential data leakage: model.fit() used without a pipeline at line 208",
+      "Potential data leakage: model.fit() used without a pipeline at line 398",
+      "Potential data leakage: model.fit() used without a pipeline at line 407"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/model_components.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 241",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 234"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_model_construction.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 228",
+      "Potential data leakage: model.fit() used without a pipeline at line 246",
+      "Potential data leakage: model.fit() used without a pipeline at line 280",
+      "Potential data leakage: model.fit() used without a pipeline at line 295",
+      "Potential data leakage: model.fit() used without a pipeline at line 476",
+      "Potential data leakage: model.fit() used without a pipeline at line 584",
+      "Potential data leakage: model.fit() used without a pipeline at line 550"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 35"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 34",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 61",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 71"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 431"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/backend/pymc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 387"
+    ],
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 377"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/families/family.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 213",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 217"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/backend/terms.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 501",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 117",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 486"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/bambi/families/univariate.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 422"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/bambinos_bambi/bambi-main/tests/test_models.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 1278",
+      "Potential data leakage: model.fit() used without a pipeline at line 1305",
+      "Potential data leakage: model.fit() used without a pipeline at line 1323",
+      "Potential data leakage: model.fit() used without a pipeline at line 1338",
+      "Potential data leakage: model.fit() used without a pipeline at line 1345",
+      "Potential data leakage: model.fit() used without a pipeline at line 1388",
+      "Potential data leakage: model.fit() used without a pipeline at line 1397",
+      "Potential data leakage: model.fit() used without a pipeline at line 166",
+      "Potential data leakage: model.fit() used without a pipeline at line 178",
+      "Potential data leakage: model.fit() used without a pipeline at line 183",
+      "Potential data leakage: model.fit() used without a pipeline at line 188",
+      "Potential data leakage: model.fit() used without a pipeline at line 194",
+      "Potential data leakage: model.fit() used without a pipeline at line 216",
+      "Potential data leakage: model.fit() used without a pipeline at line 237",
+      "Potential data leakage: model.fit() used without a pipeline at line 257",
+      "Potential data leakage: model.fit() used without a pipeline at line 285",
+      "Potential data leakage: model.fit() used without a pipeline at line 289",
+      "Potential data leakage: model.fit() used without a pipeline at line 397",
+      "Potential data leakage: model.fit() used without a pipeline at line 401",
+      "Potential data leakage: model.fit() used without a pipeline at line 477",
+      "Potential data leakage: model.fit() used without a pipeline at line 516",
+      "Potential data leakage: model.fit() used without a pipeline at line 568",
+      "Potential data leakage: model.fit() used without a pipeline at line 585",
+      "Potential data leakage: model.fit() used without a pipeline at line 597",
+      "Potential data leakage: model.fit() used without a pipeline at line 613",
+      "Potential data leakage: model.fit() used without a pipeline at line 628",
+      "Potential data leakage: model.fit() used without a pipeline at line 649",
+      "Potential data leakage: model.fit() used without a pipeline at line 675",
+      "Potential data leakage: model.fit() used without a pipeline at line 681",
+      "Potential data leakage: model.fit() used without a pipeline at line 751",
+      "Potential data leakage: model.fit() used without a pipeline at line 765",
+      "Potential data leakage: model.fit() used without a pipeline at line 783",
+      "Potential data leakage: model.fit() used without a pipeline at line 796",
+      "Potential data leakage: model.fit() used without a pipeline at line 809",
+      "Potential data leakage: model.fit() used without a pipeline at line 820",
+      "Potential data leakage: model.fit() used without a pipeline at line 843",
+      "Potential data leakage: model.fit() used without a pipeline at line 853",
+      "Potential data leakage: model.fit() used without a pipeline at line 869",
+      "Potential data leakage: model.fit() used without a pipeline at line 873",
+      "Potential data leakage: model.fit() used without a pipeline at line 902",
+      "Potential data leakage: model.fit() used without a pipeline at line 924",
+      "Potential data leakage: model.fit() used without a pipeline at line 958",
+      "Potential data leakage: model.fit() used without a pipeline at line 1015",
+      "Potential data leakage: model.fit() used without a pipeline at line 1033",
+      "Potential data leakage: model.fit() used without a pipeline at line 1053",
+      "Potential data leakage: model.fit() used without a pipeline at line 1071",
+      "Potential data leakage: model.fit() used without a pipeline at line 1090",
+      "Potential data leakage: model.fit() used without a pipeline at line 1108",
+      "Potential data leakage: model.fit() used without a pipeline at line 1130",
+      "Potential data leakage: model.fit() used without a pipeline at line 1144",
+      "Potential data leakage: model.fit() used without a pipeline at line 1158",
+      "Potential data leakage: model.fit() used without a pipeline at line 1164",
+      "Potential data leakage: model.fit() used without a pipeline at line 1169",
+      "Potential data leakage: model.fit() used without a pipeline at line 1185",
+      "Potential data leakage: model.fit() used without a pipeline at line 1197",
+      "Potential data leakage: model.fit() used without a pipeline at line 1214",
+      "Potential data leakage: model.fit() used without a pipeline at line 1232",
+      "Potential data leakage: model.fit() used without a pipeline at line 1245",
+      "Potential data leakage: model.fit() used without a pipeline at line 1257",
+      "Potential data leakage: model.fit() used without a pipeline at line 1265",
+      "Potential data leakage: model.fit() used without a pipeline at line 1266",
+      "Potential data leakage: model.fit() used without a pipeline at line 606"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 39",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 79",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 85",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 93"
+    ]
+  }
+}

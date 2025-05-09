@@ -1,0 +1,57 @@
+{
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/service.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 87"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/utils/train.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 145"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/utils/speech_commands_example/train.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 195",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 198"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/utils/manage_audio.py": {
+    "R2": [
+      "Random Seed Not Set at line 133"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/utils/speech_commands_example/input_data.py": {
+    "R2": [
+      "Random Seed Not Set at line 441",
+      "Random Seed Not Set at line 445",
+      "Random Seed Not Set at line 461",
+      "Random Seed Not Set at line 463",
+      "Random Seed Not Set at line 468",
+      "Random Seed Not Set at line 469",
+      "Random Seed Not Set at line 522"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/castorini_honk/honk-master/utils/model.py": {
+    "R2": [
+      "Random Seed Not Set at line 269",
+      "Random Seed Not Set at line 359",
+      "Random Seed Not Set at line 285",
+      "Random Seed Not Set at line 286",
+      "Random Seed Not Set at line 278",
+      "Random Seed Not Set at line 301",
+      "Random Seed Not Set at line 302"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

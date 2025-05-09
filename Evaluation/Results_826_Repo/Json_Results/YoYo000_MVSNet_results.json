@@ -1,0 +1,64 @@
+{
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/loss.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 69",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 71",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 32",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 43"
+    ],
+    "R7": [
+      "Missing mask for tf.log at line 78"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/photometric_augmentation.py": {
+    "R2": [
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 53",
+      "Random Seed Not Set at line 69",
+      "Random Seed Not Set at line 47",
+      "Random Seed Not Set at line 48",
+      "Random Seed Not Set at line 107",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 44",
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/homography_warping.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 241",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 38",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 40",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 43",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 86",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 88",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 91",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 182",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 191",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 46",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 94",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 47",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/train.py": {
+    "R2": [
+      "Random Seed Not Set at line 431",
+      "Random Seed Not Set at line 112"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 469",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 471",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 140",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 242",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 430"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/YoYo000_MVSNet/MVSNet-master/mvsnet/colmap2mvsnet.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 395"
+    ]
+  }
+}

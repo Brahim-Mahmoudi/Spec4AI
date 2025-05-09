@@ -1,0 +1,396 @@
+{
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/bninception/pytorch_load.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/bninception/parse_caffe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/net/TRNmodule.py": {
+    "R2": [
+      "Random Seed Not Set at line 165",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 134"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/im2txt/im2txt/show_and_tell_model_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 175",
+      "Random Seed Not Set at line 187",
+      "Random Seed Not Set at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/inceptionresnetv2/tensorflow_dump.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 48",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 50",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 53",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 73",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 97",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/autoencoder/autoencoder_models/Autoencoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/autoencoder/autoencoder_models/VariationalAutoencoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/differential_privacy/dp_sgd/dp_optimizer/sanitizer.py": {
+    "R7": [
+      "Missing mask for tf.log at line 102"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/net/models.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/autoencoder/autoencoder_models/DenoisingAutoencoder.py": {
+    "R2": [
+      "Random Seed Not Set at line 58",
+      "Random Seed Not Set at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/differential_privacy/privacy_accountant/tf/accountant.py": {
+    "R7": [
+      "Missing mask for tf.log at line 399",
+      "Missing mask for tf.log at line 97",
+      "Missing mask for tf.log at line 394"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/differential_privacy/dp_sgd/dp_optimizer/utils.py": {
+    "R3": [
+      "TensorArray Not Used at line 220"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/run_manual.py": {
+    "R2": [
+      "Random Seed Not Set at line 178"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/run_objectDetection.py": {
+    "R2": [
+      "Random Seed Not Set at line 206"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/inceptionresnetv2/pytorch_load.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 523"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/run_frameDifferent.py": {
+    "R2": [
+      "Random Seed Not Set at line 232"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/video_prediction/prediction_model.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 279",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 144"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/inception/inception/slim/inception_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/inception/inception/slim/losses_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 36",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 58",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 67",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 77",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 86",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 105",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 114",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 123",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 134",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 162",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 174"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/textsum/seq2seq_lib.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/resnet/resnet_main.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 126"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/transformer/spatial_transformer.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 160"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/textsum/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 95"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/street/python/vgslspecs_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/textsum/seq2seq_attention_model.py": {
+    "R7": [
+      "Missing mask for tf.log at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/street/python/shapes_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/street/python/vgsl_model_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/neural_gpu/neural_gpu.py": {
+    "R3": [
+      "TensorArray Not Used at line 146"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/street/python/vgslspecs.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 454"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/inception_resnet_v2_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/inception_v4_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/neural_gpu/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 81",
+      "Random Seed Not Set at line 82",
+      "Random Seed Not Set at line 118",
+      "Random Seed Not Set at line 234",
+      "Random Seed Not Set at line 102",
+      "Random Seed Not Set at line 128",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 110",
+      "Random Seed Not Set at line 116",
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 127",
+      "Random Seed Not Set at line 198",
+      "Random Seed Not Set at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/resnet_v2_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 429",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 448",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 394"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/inception/inception/slim/ops_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 597",
+      "Random Seed Not Set at line 627",
+      "Random Seed Not Set at line 661",
+      "Random Seed Not Set at line 649",
+      "Random Seed Not Set at line 683"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 616",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 617",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 650",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 651",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 684",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 685",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 413",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 462"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/inception_v3_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 216"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 242"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/inception_v1_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 134"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/namignizer/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 78"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 41"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/inception_v2_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 186"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 213"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/slim/nets/resnet_v1_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 63",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 70",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 108",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 109",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 110",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 149",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 150",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 151",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 152",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 411",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 426",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 445",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 392"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/syntaxnet/syntaxnet/beam_reader_ops_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 198",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 147"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/lm_1b/lm_1b_eval.py": {
+    "R2": [
+      "Random Seed Not Set at line 159"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/lm_1b/data_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 236"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/syntaxnet/syntaxnet/reader_ops_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/ops/limit_queue.py": {
+    "R2": [
+      "Random Seed Not Set at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/models/syntaxnet/syntaxnet/graph_builder_test.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 263"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 287",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 295",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 179",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 226",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 245"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/inceptionv4/tensorflow_dump.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 42",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 49",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 51",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 54",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 75",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 78",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/ops/predict.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/ops/transforms.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 52",
+      "Random Seed Not Set at line 167",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 221",
+      "Random Seed Not Set at line 220",
+      "Random Seed Not Set at line 226",
+      "Random Seed Not Set at line 230",
+      "Random Seed Not Set at line 231"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/govzhz_dl-gesture-recognition/dl-gesture-recognition-master/server/model_zoo/inceptionv4/pytorch_load.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 377"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

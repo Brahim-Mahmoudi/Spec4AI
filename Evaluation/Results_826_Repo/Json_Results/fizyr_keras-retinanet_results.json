@@ -1,0 +1,69 @@
+{
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/test_losses.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/preprocessing/test_image.py": {
+    "R2": [
+      "Random Seed Not Set at line 13"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/models/test_densenet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/models/test_mobilenet.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 57"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/backend/test_common.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 121"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/layers/test_misc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 40",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 69",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 146",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 196"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/tests/layers/test_filter_detections.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 44",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 45",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 93",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 95",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 154",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 155",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 96"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/keras_retinanet/utils/image.py": {
+    "R2": [
+      "Random Seed Not Set at line 205"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/keras_retinanet/utils/eval.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 184",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/fizyr_keras-retinanet/keras-retinanet-main/keras_retinanet/preprocessing/generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 289"
+    ]
+  }
+}

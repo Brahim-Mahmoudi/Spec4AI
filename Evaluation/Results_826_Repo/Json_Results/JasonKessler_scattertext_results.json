@@ -1,0 +1,231 @@
+{
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_category_frequencies.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_correlation_pearsons.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_four_square.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 8"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_emoji.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 20"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_foreign_characteristic_frequencies.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_chinese.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 12"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_sklearn.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 18"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/SampleLexicons.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 56"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/demo_feature_importance.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 50"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/SampleCorpora.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 136",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 160",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 104"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/OffsetCorpusFactory.py": {
+    "R2": [
+      "Random Seed Not Set at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/DeployedClassifier.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 65"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/TermCategoryFrequencies.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 162"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/CLI.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 62"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/CorpusWithoutCategoriesFromParsedDocuments.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/categorygrouping/rank_embedder.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 36"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/characteristic/DenseRankCharacteristicness.py": {
+    "R16": [
+      "API call might be missing reassignment or inplace=True at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/Scalers.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 234"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 114"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 111; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 114; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/test/test_diachronicTermMiner.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 14"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/smoothing/sigmoidal.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 23"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/smoothing/lowess.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 28"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/smoothing/mean_isotonic.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 26",
+      "Potential data leakage: model.fit() used without a pipeline at line 48"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 28",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/ScatterChart.py": {
+    "R2": [
+      "Random Seed Not Set at line 536"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/all_category_scorers/gmean_l2_freq_associator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/test/test_termDocMatrixFactory.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/TermDocMatrix.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 482",
+      "Potential data leakage: model.fit() used without a pipeline at line 515",
+      "Potential data leakage: model.fit() used without a pipeline at line 518",
+      "Potential data leakage: model.fit() used without a pipeline at line 555"
+    ],
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 609",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 611",
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 616"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 536"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/features/FeatsFromMoralFoundationsDictionary.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/features/roget_offset_getter.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 19"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/diachronic/DiachronicTermMiner.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 138"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/features/FeatsFromGeneralInquirer.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/frequencyreaders/DefaultBackgroundFrequencies.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/termscoring/BetaPosterior.py": {
+    "R13": [
+      "Detected a new column initialized with a filler (0 or ''). Use np.nan or an empty Series instead at line 88"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 88; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 89; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 90; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/test/test_TermDocMat.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 349",
+      "Hyperparameter not explicitly set at line 350"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/termscoring/g2.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 74"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/emojis/EmojiExtractor.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 9"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/continuous/ungar.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 38"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/indexstore/IndexStore.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/Repos_restant/JasonKessler_scattertext/scattertext-master/scattertext/dispersion/dispersion.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 130",
+      "Potential data leakage: model.fit() used without a pipeline at line 144",
+      "Potential data leakage: model.fit() used without a pipeline at line 372",
+      "Potential data leakage: model.fit() used without a pipeline at line 121"
+    ]
+  }
+}

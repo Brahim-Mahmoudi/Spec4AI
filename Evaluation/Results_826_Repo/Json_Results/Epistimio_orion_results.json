@@ -1,0 +1,201 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/benchmark/task/profet/conftest.py": {
+    "R2": [
+      "Random Seed Not Set at line 70",
+      "Random Seed Not Set at line 73",
+      "Random Seed Not Set at line 76"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/core/database/test_pickleddb.py": {
+    "R2": [
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 179"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/benchmark/task/profet/test_profet_task.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/analysis/test_base.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 169; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 159; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 164; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 167; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 123; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/core/worker/warm_start/test_multi_task.py": {
+    "R2": [
+      "Random Seed Not Set at line 380"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/algo/mofa/test_analysis.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 153",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 163"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/core/evc/test_adapters.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 367",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 373",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 379",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 385",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 469",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 528",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 542",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 580",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 633",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 679",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 707",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 754",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 765",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 773",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 828",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 838",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 400",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 483",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 653",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 790"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/unittests/algo/pbt/test_lineages.py": {
+    "R2": [
+      "Random Seed Not Set at line 432"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/functional/serving/test_trials_resource.py": {
+    "R2": [
+      "Random Seed Not Set at line 77"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/functional/serving/test_storage_resource.py": {
+    "R2": [
+      "Random Seed Not Set at line 88"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/functional/commands/test_plot_commands.py": {
+    "R2": [
+      "Random Seed Not Set at line 181"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/functional/storage/test_io.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 174",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 267",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 283",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 93",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 175",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 272",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 284"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/speechbrain_tutorial/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/scikitlearn-iris/main.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 24"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 20"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 24"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/learn_search_space/__init__.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/tutorials/code_2_hyperband_checkpoint.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 187"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/tests/functional/configuration/test_all_options.py": {
+    "R2": [
+      "Random Seed Not Set at line 1209"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/speechbrain_tutorial/train.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 448"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/examples/huggingface/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/benchmark/task/profet/profet_task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 177"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/benchmark/__init__.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 119",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 120"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/benchmark/task/profet/model_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 350"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/core/utils/random_state.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/core/evc/experiment.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 260"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/analysis/base.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 226"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/core/evc/adapters.py": {
+    "R8": [
+      "Use module() instead of forward() at line 416"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 406",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 188"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/algo/evolution_es/evolution_es.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Epistimio_orion/orion-develop/src/orion/algo/pbt/pb2_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 155"
+    ]
+  }
+}

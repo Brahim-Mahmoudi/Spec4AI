@@ -1,0 +1,165 @@
+{
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/util/_misc.py": {
+    "R2": [
+      "Random Seed Not Set at line 307"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/io/format/tests/test_embed.py": {
+    "R2": [
+      "Random Seed Not Set at line 151",
+      "Random Seed Not Set at line 157"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/embedding/tests/test_protein.py": {
+    "R2": [
+      "Random Seed Not Set at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/embedding/tests/test_embedding.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/diversity/_block.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 232",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 247"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/diversity/alpha/tests/test_pd.py": {
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 133; use df.loc[]"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 122",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 128"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/table/tests/test_augment.py": {
+    "R2": [
+      "Random Seed Not Set at line 96",
+      "Random Seed Not Set at line 97",
+      "Random Seed Not Set at line 282"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/diversity/alpha/tests/test_base.py": {
+    "R2": [
+      "Random Seed Not Set at line 237"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/alignment/_pairwise.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 821"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/metadata/tests/test_intersection.py": {
+    "R2": [
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/ordination/_utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 277"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/ordination/tests/test_redundancy_analysis.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 215",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 219"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 26"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 177",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 178",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 204",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 206",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 208",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 210",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 212",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 216"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/ordination/tests/test_principal_coordinate_analysis.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 348",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 308"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_permanova.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 31",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 119"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/_mantel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 397"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_anosim.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 29"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_permdisp.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 253",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 281"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_bioenv.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 49",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 54",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 72",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 78",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 83",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 90",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 97"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/composition.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 2161"
+    ],
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 2410",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 2421"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/metadata/_testing.py": {
+    "R14": [
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 458",
+      "Avoid using .values on DataFrames. Use .to_numpy() instead at line 871"
+    ],
+    "R20": [
+      "Avoid chained indexing in DataFrames at line 458; use df.loc[]",
+      "Avoid chained indexing in DataFrames at line 871; use df.loc[]"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_mantel.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 65"
+    ],
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 492",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 499",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 506",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 513",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 520",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 527",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 531"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/scikit-bio_scikit-bio/scikit-bio-main/skbio/stats/distance/tests/test_base.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1159",
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 1162"
+    ]
+  }
+}

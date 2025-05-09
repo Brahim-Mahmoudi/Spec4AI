@@ -1,0 +1,30 @@
+{
+  "/Users/bramss/Desktop/All_Repo/taishi-i_nagisa/nagisa-master/docs/examples/tutorial_train_ud.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 51"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/taishi-i_nagisa/nagisa-master/docs/examples/tutorial_train_kwdlc.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 43"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/taishi-i_nagisa/nagisa-master/test/nagisa_test.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 145",
+      "Potential data leakage: model.fit() used without a pipeline at line 153",
+      "Potential data leakage: model.fit() used without a pipeline at line 165"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/taishi-i_nagisa/nagisa-master/nagisa/train.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 200",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 210"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/taishi-i_nagisa/nagisa-master/nagisa/prepro.py": {
+    "R2": [
+      "Random Seed Not Set at line 35"
+    ]
+  }
+}

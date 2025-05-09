@@ -1,0 +1,112 @@
+{
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/eval.py": {
+    "R21": [
+      "Call to a pd.read function without the 'dtype' parameter; consider specifying dtype to ensure explicit column type handling at line 26"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 18",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 22"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/bert_embedding.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 85"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/bin/train_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 80"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/util.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 126"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/plugin.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/solver.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 116",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 118"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 83"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/audio.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 169"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/bin/train_asr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 137"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/bin/test_asr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/decode.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 43"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/asr.py": {
+    "R2": [
+      "Random Seed Not Set at line 122"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/Alexander-H-Liu_End-to-end-ASR-Pytorch/End-to-end-ASR-Pytorch-master/src/ctc.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 235"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

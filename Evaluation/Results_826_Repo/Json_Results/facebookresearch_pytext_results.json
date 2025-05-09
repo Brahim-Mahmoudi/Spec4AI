@@ -1,0 +1,1257 @@
+{
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/demo/my_tagging/output.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/tests/model_utils_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/demo/atis_joint_model/data_processor.py": {
+    "R2": [
+      "Random Seed Not Set at line 123"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/tests/task_load_save_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 98",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 99",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 59",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/tests/seq2seq_model_tests.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 91",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 133",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 153",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 175",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 269"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/lamb.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/optimizers.py": {
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 17"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/radam.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/adabelief.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/swa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/sparsifiers/blockwise_sparsifier.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/madgrad.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/fairseq_fp16_utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 56",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 183"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/tests/ctc_loss_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/sparsifiers/tests/sparsifier_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/structured_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/tests/samplewise_label_smoothing_loss_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 24",
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/workflow.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 465"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/tests/focal_loss_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 14",
+      "Random Seed Not Set at line 15",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 40"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/regularizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/main.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/tests/label_smoothing_loss_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/regularized_loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/fp16_optimizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/exporters/custom_exporters.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 116",
+      "Hyperparameter not explicitly set at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/exporters/exporter.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 202",
+      "Hyperparameter not explicitly set at line 203"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/sparsifiers/sparsifier.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 557"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tokenizer/tokenizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/exporters/test/new_text_model_exporter_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 156"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tokenizer/bpe.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/loss/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tests/test_vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/tests/fp16optimizer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 166",
+      "Random Seed Not Set at line 173",
+      "Random Seed Not Set at line 134",
+      "Random Seed Not Set at line 135",
+      "Random Seed Not Set at line 136",
+      "Random Seed Not Set at line 137",
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 139",
+      "Random Seed Not Set at line 142",
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 19"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tensorizer/normalizer.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 59"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/optimizer/tests/test_swa.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 490"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 162",
+      "Random Seed Not Set at line 516",
+      "Random Seed Not Set at line 517",
+      "Random Seed Not Set at line 160",
+      "Random Seed Not Set at line 161",
+      "Random Seed Not Set at line 169",
+      "Random Seed Not Set at line 170",
+      "Random Seed Not Set at line 171",
+      "Random Seed Not Set at line 178",
+      "Random Seed Not Set at line 179",
+      "Random Seed Not Set at line 180"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 527"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/seq2seq/encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tensorizer/bert.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/seq2seq/export_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/seq2seq/decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tensorizer/xlm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tensorizer/tensorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/seq2seq/beam_search.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/seq2seq/beam_decode.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/batchutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tests/test_batchutils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/datasets/babi.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/data/batch.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/tensor.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/datasets/text_classification.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/__init__.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/cuda.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tests/test_tensorizer.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 110"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/distributed.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/loss.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/onnx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 41"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 87",
+      "Hyperparameter not explicitly set at line 158",
+      "Hyperparameter not explicitly set at line 159",
+      "Hyperparameter not explicitly set at line 93"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/usage.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/exporters/test/text_model_exporter_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 507",
+      "Random Seed Not Set at line 512",
+      "Random Seed Not Set at line 841",
+      "Random Seed Not Set at line 846",
+      "Random Seed Not Set at line 863",
+      "Random Seed Not Set at line 868",
+      "Random Seed Not Set at line 873",
+      "Random Seed Not Set at line 878",
+      "Random Seed Not Set at line 881",
+      "Random Seed Not Set at line 886",
+      "Random Seed Not Set at line 891",
+      "Random Seed Not Set at line 520",
+      "Random Seed Not Set at line 529",
+      "Random Seed Not Set at line 903",
+      "Random Seed Not Set at line 912"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 594",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 667",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 726",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 370",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 431",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 488"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/data/iterator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/label.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/tests/lazy_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 45",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 27"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/mobile_onnx.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 39"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 71",
+      "Hyperparameter not explicitly set at line 77"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/utils/tests/utils_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 108",
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 113"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/tests/test_module.py": {
+    "R2": [
+      "Random Seed Not Set at line 458",
+      "Random Seed Not Set at line 534"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/legacy/data/field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/distributed_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 61"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/disjoint_multitask_model.py": {
+    "R8": [
+      "Use module() instead of forward() at line 54"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/masking_utils.py": {
+    "R2": [
+      "Random Seed Not Set at line 64",
+      "Random Seed Not Set at line 33"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/two_tower_classification_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 107"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/two_tower_regression_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 88"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/docnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/bert_classification_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 94"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/crf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/r3f_models.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/tri_tower_classification_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 101"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/pair_classification_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/word_model.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/stacked_bidirectional_rnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/pair_rep.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/transformer_sentence_encoder_base.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/contextual_intent_slot_rep.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/seq_rep.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/masked_lm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/biseqcnn.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/huggingface_bert_sentence_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/pooling.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/huggingface_electra_sentence_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/roberta.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 434"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/slot_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/traced_transformer_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/bilstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/ensembles/bagging_doc_ensemble.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/test/transformer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 58"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 46",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 47"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/test/ordered_neuron_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 20",
+      "Random Seed Not Set at line 23",
+      "Random Seed Not Set at line 24"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 48"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/test/augmented_lstm_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 25",
+      "Random Seed Not Set at line 28",
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 58"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/ensembles/bagging_intent_slot_ensemble.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/contextual_token_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/ordered_neuron_lstm.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/embedding_list.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/lightconv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/transformer/sentence_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/int_single_category_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/bilstm_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/doc_model.py": {
+    "R2": [
+      "Random Seed Not Set at line 493"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/mlp_decoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 55",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 56"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/transformer/multihead_linear_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/dict_embedding_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/int_weighted_multi_category_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/scriptable_embedding_list.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/dict_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/embeddings/word_seq_embedding.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/word_embedding_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 26"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/int_single_category_embedding_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/word_seq_embedding_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 34",
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 62",
+      "Random Seed Not Set at line 67"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/mlp_embedding_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 23"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/scripted_seq2seq_generator_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 30"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/lm_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/transformer_sentence_encoder_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 22"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/augmented_lstm.py": {
+    "R2": [
+      "Random Seed Not Set at line 190"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/int_weighted_multi_category_embedding_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/doc_regression_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/personalized_doc_model_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/crf_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 39",
+      "Random Seed Not Set at line 46",
+      "Random Seed Not Set at line 125"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 119"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/transformer/luna_sentence_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/multi_label_classification_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/distance_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/qna/bert_squad_qa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/output_layer_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 177",
+      "Random Seed Not Set at line 183",
+      "Random Seed Not Set at line 192",
+      "Random Seed Not Set at line 207",
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 178"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/intent_slot_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/test/rnng_test.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 201",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 218"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/mlp_decoder_n_tower.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 57"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/doc_classification_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/intent_slot_model_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/mlp_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/multilabel_decoder.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 38"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/qna/dr_qa.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/semantic_parsers/rnng/rnng_data_structures.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/word_tagging_output_layer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 52"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/mlp_decoder_tri_tower.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/output_layers/squad_output_layer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/nar_modules.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/decoders/mlp_decoder_two_tower.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/nar_length.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/seq2seq_model.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 246"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/projection_layers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/light_conv.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R8": [
+      "Use module() instead of forward() at line 342"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/positional.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/torchscript/module.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/rnn_encoder.py": {
+    "R10": [
+      "Memory clearing API not used. Consider calling .detach() for PyTorch or tf.keras.backend.clear_session() for TensorFlow at line"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/semantic_parsers/rnng/rnng_parser.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/conv_encoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/rnn_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/task/pytext_checkpoint_management.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/common/constants.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/task/task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 231"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/task/serialize.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/representations/transformer/luna_attention.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/conv_decoder.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/models/seq_models/mask_generator.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/seq2seq_metric_reporter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/task/tasks.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 257",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 387"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/tests/multi_label_seq_tagging_metric_reporter_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 31"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/language_model_metric_reporter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/metric_reporter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/tests/language_model_metric_reporter_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 86"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/channel.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/task/new_task.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 269",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 375",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 436"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/fields/contextual_token_embedding_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/fields/char_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/classification_metric_reporter.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/fields/text_field_with_special_unk.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/metric_reporters/mask_seq2seq_topk.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/fields/dict_field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/disjoint_multitask_data_handler.py": {
+    "R2": [
+      "Random Seed Not Set at line 105"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/trainers/trainer.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 530",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 555",
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 511"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/fields/field.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/masked_tensorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/batch_sampler.py": {
+    "R2": [
+      "Random Seed Not Set at line 130"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/masked_util.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/token_tensorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/xlm_tensorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/xlm_dictionary.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/bert_tensorizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/utils.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/data.py": {
+    "R2": [
+      "Random Seed Not Set at line 189",
+      "Random Seed Not Set at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/data_handler.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/tokenizers/tokenizer.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/sources/dense_retrieval.py": {
+    "R2": [
+      "Random Seed Not Set at line 117",
+      "Random Seed Not Set at line 122"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/test/tensorizers_test.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/facebookresearch_pytext/pytext-main/pytext/data/tensorizers.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  }
+}

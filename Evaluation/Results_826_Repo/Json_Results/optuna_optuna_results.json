@@ -1,0 +1,151 @@
+{
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tutorial/20_recipes/010_reuse_best_trial.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 42",
+      "Potential data leakage: model.fit() used without a pipeline at line 67"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 42",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tutorial/20_recipes/008_specify_params.py": {
+    "R2": [
+      "Random Seed Not Set at line 45"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tutorial/20_recipes/009_ask_and_tell.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 37",
+      "Potential data leakage: model.fit() used without a pipeline at line 54",
+      "Potential data leakage: model.fit() used without a pipeline at line 81",
+      "Potential data leakage: model.fit() used without a pipeline at line 184"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 33",
+      "Random Seed Not Set at line 48"
+    ],
+    "R22": [
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 37",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 54",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 81",
+      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 184"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tutorial/20_recipes/002_multi_objective.py": {
+    "R2": [
+      "Random Seed Not Set at line 70"
+    ],
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 60"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 97"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tutorial/10_key_features/005_visualization.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 111"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 146"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tests/hypervolume_tests/test_hssp.py": {
+    "R2": [
+      "Random Seed Not Set at line 32"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tests/gp_tests/test_acqf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 61",
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 129"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tests/gp_tests/test_gp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/tests/visualization_tests/matplotlib_tests/test_contour.py": {
+    "R2": [
+      "Random Seed Not Set at line 10"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/storages/journal/_redis.py": {
+    "R4": [
+      "Training / Evaluation Mode Improper Toggling: .eval() call without subsequent .train() call at line 81"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/visualization/matplotlib/_contour.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 167",
+      "Potential data leakage: model.fit() used without a pipeline at line 135"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/_gp/prior.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/importance/_mean_decrease_impurity.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 87"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/importance/_fanova/_evaluator.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 117"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/importance/_fanova/_fanova.py": {
+    "R11bis": [
+      "Potential data leakage: model.fit() used without a pipeline at line 64"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/_gp/acqf.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 201"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/_gp/gp.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ],
+    "R9": [
+      "optimizer.zero_grad() not called before loss_fn.backward() at line 208"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/importance/_ped_anova/evaluator.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 224"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/terminator/improvement/emmr.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/samplers/nsgaii/_crossovers/_undx.py": {
+    "R12": [
+      "Use np.matmul() instead of np.dot() for matrices at line 50"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/optuna_optuna/optuna-master/optuna/storages/_rdb/storage.py": {
+    "R2": [
+      "Random Seed Not Set at line 492"
+    ]
+  }
+}

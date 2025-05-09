@@ -1,0 +1,236 @@
+{
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/memory/memory_network_test.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 67"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/decoders/rnn_decoder_helpers_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 54",
+      "Hyperparameter not explicitly set at line 124"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/core/layers_test.py": {
+    "R5": [
+      "Hyperparameter not explicitly set at line 268",
+      "Hyperparameter not explicitly set at line 269",
+      "Hyperparameter not explicitly set at line 290",
+      "Hyperparameter not explicitly set at line 291",
+      "Hyperparameter not explicitly set at line 309",
+      "Hyperparameter not explicitly set at line 310"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/regressors/xlnet_regressor_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 129",
+      "Random Seed Not Set at line 149"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/classifiers/rnn_classifiers_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 109",
+      "Random Seed Not Set at line 170"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/decoders/beam_search_decode_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 180",
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/classifiers/xlnet_classifier_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 138",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 202"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/classifiers/bert_classifier_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 130",
+      "Random Seed Not Set at line 174",
+      "Random Seed Not Set at line 194"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/tests/modules/decoders/rnn_decoders_test.py": {
+    "R2": [
+      "Random Seed Not Set at line 149",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 237",
+      "Random Seed Not Set at line 289",
+      "Random Seed Not Set at line 339"
+    ],
+    "R5": [
+      "Hyperparameter not explicitly set at line 80",
+      "Hyperparameter not explicitly set at line 122",
+      "Hyperparameter not explicitly set at line 180"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/transformer/bleu_tool.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 95",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 105",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 107"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/sequence_tagging/ner.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 144"
+    ],
+    "R2": [
+      "Random Seed Not Set at line 67",
+      "Random Seed Not Set at line 72"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/sequence_tagging/conll_reader.py": {
+    "R2": [
+      "Random Seed Not Set at line 108"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/distributed_gpu/lm_ptb_distributed.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 159"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/transformer/transformer_main.py": {
+    "R2": [
+      "Random Seed Not Set at line 238"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/memory_network_lm/ptb_reader.py": {
+    "R2": [
+      "Random Seed Not Set at line 52"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/memory_network_lm/lm_ptb_memnet.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 113"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/vae_text/vae_train.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 167"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/torchtext/lm_torchtext.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 116"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/language_model_ptb/lm_ptb.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 131"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/seq2seq_exposure_bias/utils/raml_samples_generation/util.py": {
+    "R2": [
+      "Random Seed Not Set at line 51",
+      "Random Seed Not Set at line 47"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/seqgan/seqgan_train.py": {
+    "R7": [
+      "Missing mask for tf.log at line 151"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/seq2seq_exposure_bias/utils/raml_samples_generation/vocab.py": {
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/losses/rl_losses.py": {
+    "R7": [
+      "Missing mask for tf.log at line 69"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/losses/entropy.py": {
+    "R7": [
+      "Missing mask for tf.log at line 33"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/evals/bleu.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 135",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 152"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/seq2seq_exposure_bias/raml_main.py": {
+    "R2": [
+      "Random Seed Not Set at line 172"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/examples/seq2seq_exposure_bias/utils/raml_samples_generation/process_samples.py": {
+    "R2": [
+      "Random Seed Not Set at line 90",
+      "Random Seed Not Set at line 247",
+      "Random Seed Not Set at line 123",
+      "Random Seed Not Set at line 125",
+      "Random Seed Not Set at line 196",
+      "Random Seed Not Set at line 199",
+      "Random Seed Not Set at line 253",
+      "Random Seed Not Set at line 254"
+    ],
+    "R6": [
+      "Deterministic Algorithm Option Not Used"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/agents/dqn_agent.py": {
+    "R2": [
+      "Random Seed Not Set at line 389"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/utils/beam_search.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 83",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 258"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 193"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/utils/shapes.py": {
+    "R3": [
+      "TensorArray Not Used at line 473"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/memory/memory_network.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 287"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 204",
+      "TensorArray Not Used at line 274"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/networks/conv_networks.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 429"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/encoders/hierarchical_encoders.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 306"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/decoders/dynamic_decode.py": {
+    "R3": [
+      "TensorArray Not Used at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/decoders/rnn_decoder_helpers.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 370",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 385"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/encoders/xlnet_encoder.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 574"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/asyml_texar/texar-master/texar/tf/modules/pretrained/xlnet_utils.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 201"
+    ]
+  }
+}

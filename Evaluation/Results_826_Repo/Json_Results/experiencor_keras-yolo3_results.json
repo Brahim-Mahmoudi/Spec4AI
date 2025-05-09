@@ -1,0 +1,49 @@
+{
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/gen_anchors.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 79"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/utils/image.py": {
+    "R2": [
+      "Random Seed Not Set at line 6",
+      "Random Seed Not Set at line 22",
+      "Random Seed Not Set at line 49",
+      "Random Seed Not Set at line 7"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/generator.py": {
+    "R2": [
+      "Random Seed Not Set at line 172",
+      "Random Seed Not Set at line 191",
+      "Random Seed Not Set at line 36",
+      "Random Seed Not Set at line 181",
+      "Random Seed Not Set at line 182",
+      "Random Seed Not Set at line 200",
+      "Random Seed Not Set at line 152",
+      "Random Seed Not Set at line 171"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/utils/utils.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 76",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 82"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/yolo.py": {
+    "R1": [
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 28",
+      "Call to tf.tile detected; consider using broadcasting instead for improved memory efficiency at line 26"
+    ],
+    "R3": [
+      "TensorArray Not Used at line 10",
+      "TensorArray Not Used at line 35"
+    ]
+  },
+  "/Users/bramss/Desktop/All_Repo/experiencor_keras-yolo3/keras-yolo3-master/yolo3_one_file_to_detect_them_all.py": {
+    "R17": [
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 360",
+      "Unnecessary iteration detected; consider using vectorized operations (e.g., DataFrame.add, tf.reduce_sum) for efficiency at line 364"
+    ]
+  }
+}
