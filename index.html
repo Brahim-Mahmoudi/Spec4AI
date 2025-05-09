@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spec4AI Web UI</title>
+
+  <!-- PyScript -->
+  <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+  <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 1rem; }
+    select, input, button { margin: 0.5rem 0; width: 100%; }
+    pre { background: #f5f5f5; padding: 1rem; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+
+  <h1>Spec4AI Browser UI</h1>
+  <p>Select your Python project directory (drag-and-drop or folder picker):</p>
+  <input id="file-picker" type="file" webkitdirectory directory multiple />
+
+  <p>Select which rules to run:</p>
+  <select id="rule-select" multiple size="8"></select>
+
+  <button id="run-btn">Run Analysis</button>
+
+  <h2>Results</h2>
+  <pre id="output">—</pre>
+
+
+  <!-- PyScript to wire everything up -->
+  <py-script>
+import os, ast, json
+from collections import defaultdict
+from js import document
+
+# 1) import your spec4ai package (must be in spec4ai/ folder at repo root)
+import spec4ai
+
+# 2) load available rules from test_rules/
+rules = spec4ai.discover_available_rules("test_rules")
+sel = document.getElementById("rule-select")
+for r in rules:
+    opt = document.createElement("option")
+    opt.value = r
+    opt.text = r
+    sel.appendChild(opt)
+
+# worker logic (same as in your GUI)
+def init_worker(rule_ids):
+    global WORKER_RULES
+    WORKER_RULES = [spec4ai.import_rule(r) for r in rule_ids]
+
+def worker(path):
+    res = defaultdict(list)
+    try:
+        source = open(path, encoding="utf-8").read()
+        tree = ast.parse(source, filename=path)
+    except Exception as e:
+        return path, {"PARSE_ERROR": [f"Parse error: {e}"]}
+
+    for module, func in WORKER_RULES:
+        msgs = []
+        saved = module.report
+        module.report = lambda m, mgs=msgs: mgs.append(m)
+        try:
+            func(tree)
+        except Exception as ex:
+            msgs.append(str(ex))
+        module.report = saved
+
+        if msgs:
+            rid = spec4ai.ALIAS.get(func.__name__.split("_",1)[1], func.__name__)
+            res[rid] = msgs
+
+    return path, dict(res)
+
+async def run_analysis(_):
+    out_el = document.getElementById("output")
+    out_el.innerText = "⏳ Analyzing…"
+    files = document.getElementById("file-picker").files
+    selected = [o.value for o in sel.selectedOptions]
+    if not files.length:
+        out_el.innerText = "⚠️ No files selected."
+        return
+    if not selected:
+        out_el.innerText = "⚠️ No rules selected."
+        return
+
+    # write each file into Pyodide's virtual FS
+    base = "/work"
+    for f in files:
+        rel = f.webkitRelativePath
+        full = base + "/" + rel
+        os.makedirs(os.path.dirname(full), exist_ok=True)
+        text = await f.text()
+        with open(full, "w", encoding="utf-8") as fd:
+            fd.write(text)
+
+    # init workers (just in-process here)
+    init_worker(selected)
+
+    results = {}
+    total = 0
+    for root, _, files in os.walk(base):
+        for fname in files:
+            if fname.endswith(".py"):
+                total += 1
+                p = os.path.join(root, fname)
+                fp, res = worker(p)
+                if res:
+                    results[fp] = res
+
+    summary = {
+        "files_scanned": total,
+        "files_with_alerts": len(results),
+        "details": results
+    }
+    out_el.innerText = json.dumps(summary, indent=2)
+
+# hook button
+document.getElementById("run-btn").addEventListener("click", run_analysis)
+  </py-script>
+</body>
+</html>

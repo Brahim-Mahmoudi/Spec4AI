@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-Analyse mlflow-master avec toutes les règles R1–R22 + R11bis,
-en fusionnant les messages de R11bis dans R11.
-
 Exécution
 ---------
 python analyze_all_rules.py
