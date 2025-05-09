@@ -1,6 +1,7 @@
 ![Overview](static/AI-based%20system.png)
 
 
+
 # Spec4AI CLI
 
 This command-line interface (CLI) allows you to run Spec4AI's static code analysis rules on any Python project directory.
