@@ -73,7 +73,7 @@ if __name__ == '__main__':
         description="Run Spec4AI code smell detection on a Python project."
     )
     parser.add_argument(
-        "--input-dir", "-i", type=Path, required=True,
+        "--input-dir", "-i", type=Path, required=False,
         help="Path to the root directory of Python files to analyze"
     )
     parser.add_argument(
@@ -109,6 +109,10 @@ if __name__ == '__main__':
         for r in available:
             print(f"  {r}")
         exit(0)
+
+    if not args.input_dir:
+        print("Error: --input-dir is required unless using --list-rules.")
+        exit(1)
 
     if args.all:
         selected = [r for r in available if not args.exclude or r not in args.exclude]
