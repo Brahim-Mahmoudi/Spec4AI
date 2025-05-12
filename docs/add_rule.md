@@ -24,12 +24,13 @@
 
 - Create test_rules/RX/test_RX.dsl. Example:
 
+```
   rule RX "Example rule":
       condition:
           exists node in AST: isExamplePredicate(node)
       action:
           report "Example issue detected"
-
+```
 3. ***(Scenario A) Add predicate definition***
 
 - In parse.py, define a new predicate in the list "header". 
