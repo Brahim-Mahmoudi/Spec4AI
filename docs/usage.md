@@ -67,5 +67,5 @@ python spec4ai.py --input-dir ./my_project --all --summary
 
 
 ##  Notes
-- The CLI supports aliasing (e.g., `R11bis` counts as `R11`)
+- The CLI supports aliasing (e.g., `R11bis`)
 - The number of analyzed files includes all `.py` files recursively found under `--input-dir`
