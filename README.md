@@ -6,8 +6,8 @@ This space contains structured guides and reference materials to help users and 
 
 ## Sections
 
-- [Usage Guide](usage.md)
-- [Rules Overview](rules.md)
-- [Predicate Library](predicates.md)
-- [Add Custom Rules](custom_rules.md)
-- [Comparative Specification of Rule R5](comparative_r5.md)
+- [Usage Guide](docs/usage.md)
+- [Rules Overview](docs/rules.md)
+- [Predicate Library](docs/predicates.md)
+- [Add Custom Rules](docs/custom_rules.md)
+- [Comparative Specification of Rule R5](docs/comparative_r5.md)
