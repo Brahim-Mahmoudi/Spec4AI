@@ -1,3 +1,5 @@
+![Overview](../static/RQ3.png)
+
 ## Add a New Detection Rule
 
 ### Integration Workflow
