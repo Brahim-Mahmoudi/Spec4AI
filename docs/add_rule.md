@@ -54,4 +54,6 @@
 All tests must pass to validate the rule.
 
 
+### Link to Google Form for metrics evaluation 
 
+https://docs.google.com/forms/d/e/1FAIpQLScwzw18u37K6CZvCMFBjJGH2JGBbTSGav0W26slTVBhf2pqRA/viewform?usp=dialog
