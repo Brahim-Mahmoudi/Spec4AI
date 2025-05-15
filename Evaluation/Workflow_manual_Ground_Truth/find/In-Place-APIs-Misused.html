@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for In-Place APIs Misused</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-in-place-apis-misused">🔎 Exhaustive Checking Steps for <strong>In-Place APIs Misused</strong></h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code>, <code>numpy</code>, <code>tensorflow</code>, <code>torch</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>import numpy as np</code></p>
+</li>
+<li>
+<p><code>import tensorflow as tf</code></p>
+</li>
+<li>
+<p><code>import torch as ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If one of them is imported:</strong></p>
+<ul>
+<li>
+<p>Search for <strong>method calls</strong> known to return a <strong>modified copy</strong> without modifying the original unless assigned:</p>
+<ul>
+<li>
+<p>Common Pandas methods: <code>dropna()</code>, <code>abs()</code>, <code>drop()</code>, <code>fillna()</code>, <code>sort_values()</code>, <code>reset_index()</code>, <code>rename()</code>, etc.</p>
+</li>
+<li>
+<p>Common NumPy methods: <code>np.clip()</code>, <code>np.sort()</code>, etc.</p>
+</li>
+<li>
+<p>Common TensorFlow ops: (less frequent, but safe to check similar patterns).</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Pandas</p>
+<ul>
+<li>
+<p><code>drop()</code></p>
+</li>
+<li>
+<p><code>dropna()</code></p>
+</li>
+<li>
+<p><code>fillna()</code></p>
+</li>
+<li>
+<p><code>sort_values()</code></p>
+</li>
+<li>
+<p><code>sort_index()</code></p>
+</li>
+<li>
+<p><code>rename()</code></p>
+</li>
+<li>
+<p><code>reset_index()</code></p>
+</li>
+<li>
+<p><code>set_index()</code></p>
+</li>
+<li>
+<p><code>astype()</code></p>
+</li>
+<li>
+<p><code>abs()</code></p>
+</li>
+<li>
+<p><code>round()</code></p>
+</li>
+<li>
+<p><code>replace()</code></p>
+</li>
+<li>
+<p><code>duplicated()</code></p>
+</li>
+<li>
+<p><code>mask()</code></p>
+</li>
+<li>
+<p><code>where()</code></p>
+</li>
+<li>
+<p><code>clip()</code></p>
+</li>
+<li>
+<p><code>interpolate()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>NumPy</p>
+<ul>
+<li>
+<p><code>np.clip()</code></p>
+</li>
+<li>
+<p><code>np.sort()</code></p>
+</li>
+<li>
+<p><code>np.argsort()</code></p>
+</li>
+<li>
+<p><code>np.abs()</code></p>
+</li>
+<li>
+<p><code>np.round()</code></p>
+</li>
+<li>
+<p><code>np.where()</code></p>
+</li>
+<li>
+<p><code>np.maximum()</code></p>
+</li>
+<li>
+<p><code>np.minimum()</code></p>
+</li>
+<li>
+<p><code>np.nan_to_num()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>TensorFlow</p>
+<ul>
+<li>
+<p><code>tf.clip_by_value()</code></p>
+</li>
+<li>
+<p><code>tf.math.abs()</code></p>
+</li>
+<li>
+<p><code>tf.round()</code></p>
+</li>
+<li>
+<p><code>tf.sort()</code></p>
+</li>
+<li>
+<p><code>tf.where()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>PyTorch</p>
+<ul>
+<li>
+<p><code>torch.abs()</code></p>
+</li>
+<li>
+<p><code>torch.round()</code></p>
+</li>
+<li>
+<p><code>torch.clip()</code></p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If such a method is called:</strong></p>
+<ul>
+<li>
+<p>Check <strong>if the result is assigned to a variable</strong>.</p>
+<ul>
+<li><strong>If not assigned</strong>, <strong>and in-place=True is not explicitly set</strong>, mark as <strong>In-Place API Misused</strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>In Pandas specifically</strong>, prefer assignment (<code>df = df.method()</code>) over setting <code>inplace=True</code> (due to hidden copies even when inplace=True).</p>
+</li>
+<li>
+<p><strong>If none of these libraries are imported</strong>, skip the check.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

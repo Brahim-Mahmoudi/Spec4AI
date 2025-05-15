@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Training Evaluation Mode Improper Toggling</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-training--evaluation-mode-improper-toggling">🔎 Exhaustive Checking Steps for <strong>Training / Evaluation Mode Improper Toggling</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if <code>torch</code> (PyTorch) is imported.</p>
+</li>
+<li>
+<p>If PyTorch is imported:</p>
+<p>2.1 Search for calls to:</p>
+<ul>
+<li>
+<p><code>model.eval()</code></p>
+</li>
+<li>
+<p><code>model.train()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Check for <strong>alternation between modes</strong>:</p>
+<ul>
+<li>
+<p>If <code>model.eval()</code> is called temporarily for evaluation (e.g., in validation step during training),</p>
+</li>
+<li>
+<p>Then verify that <code>model.train()</code> is called <strong>immediately after</strong> or <strong>before the next training loop/step</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Typical evaluation contexts to look for:</p>
+<ul>
+<li>
+<p>Evaluation or validation <strong>inside</strong> the training loop</p>
+</li>
+<li>
+<p>Evaluation <strong>between</strong> epochs</p>
+</li>
+<li>
+<p>Validation <strong>with <code>torch.no_grad()</code></strong></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If <code>model.eval()</code> is called and training continues <strong>afterward</strong> without a corresponding <code>model.train()</code> call:</p>
+</li>
+</ol>
+<ul>
+<li>Mark as <strong>Training / Evaluation Mode Improper Toggling</strong>.</li>
+</ul>
+<ol start="6">
+<li>
+<p>If TensorFlow is imported (optional, less common since <code>training=True/False</code> is passed explicitly in TF2 API):</p>
+<ul>
+<li>
+<p>Check if Keras model methods (<code>model(x, training=True/False)</code> or <code>Dropout(training=...)</code>) are misused or if <code>training=True</code> is missing when needed.</p>
+</li>
+<li>
+<p>This is harder to catch structurally; you may skip TF unless explicitly relevant.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>If neither <code>torch</code> nor <code>tensorflow</code> is imported:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

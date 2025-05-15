@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gradients Not Cleared before Backward Propagation</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-gradients-not-cleared-before-backward-propagation">🔎 Exhaustive Checking Steps for <strong>Gradients Not Cleared before Backward Propagation</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if <code>torch</code> is imported.</p>
+</li>
+<li>
+<p>If PyTorch is imported:</p>
+<p>2.1 Search for presence of <strong>these three functions</strong> in the same training loop:</p>
+<ul>
+<li>
+<p><code>optimizer.zero_grad()</code></p>
+</li>
+<li>
+<p><code>loss.backward()</code></p>
+</li>
+<li>
+<p><code>optimizer.step()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If <code>loss.backward()</code> is found:</p>
+<ul>
+<li>
+<p>Check if <code>optimizer.zero_grad()</code> appears <strong>before it</strong>, <strong>within the same loop iteration</strong> (same level of nesting).</p>
+</li>
+<li>
+<p>Order must be:</p>
+<ol>
+<li>
+<p><code>optimizer.zero_grad()</code></p>
+</li>
+<li>
+<p><code>loss.backward()</code></p>
+</li>
+<li>
+<p><code>optimizer.step()</code></p>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>
+<p>If <code>loss.backward()</code> is called and <code>optimizer.zero_grad()</code> is <strong>missing</strong> or comes <strong>after</strong>, mark as <strong>Gradients Not Cleared before Backward Propagation</strong>.</p>
+</li>
+<li>
+<p>If <code>loss.backward()</code> is used multiple times (e.g., for gradient accumulation), <strong>skip</strong> this smell — that may be intentional.</p>
+</li>
+<li>
+<p>If PyTorch is not imported:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

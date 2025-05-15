@@ -1,0 +1,261 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Randomness Uncontrolled</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-randomness-uncontrolled">🔎 Exhaustive Checking Steps for <strong>Randomness Uncontrolled</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if any of these libraries or modules is imported:</p>
+<ul>
+<li>
+<p><code>random</code></p>
+</li>
+<li>
+<p><code>numpy</code></p>
+</li>
+<li>
+<p><code>tensorflow</code></p>
+</li>
+<li>
+<p><code>torch</code></p>
+</li>
+<li>
+<p><code>scikit-learn</code></p>
+</li>
+<li>
+<p><code>xgboost</code></p>
+</li>
+<li>
+<p><code>lightgbm</code></p>
+</li>
+<li>
+<p><code>catboost</code></p>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<ol start="2">
+<li>
+<p>If a relevant library or random module is imported:</p>
+<p>2.1 Search for <strong>any use of random operations</strong>:</p>
+<ul>
+<li>
+<p>Python random:</p>
+<ul>
+<li>
+<p><code>random.random()</code></p>
+</li>
+<li>
+<p><code>random.randint()</code></p>
+</li>
+<li>
+<p><code>random.choice()</code></p>
+</li>
+<li>
+<p><code>random.shuffle()</code></p>
+</li>
+<li>
+<p><code>random.sample()</code></p>
+</li>
+<li>
+<p><code>random.uniform()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>NumPy random:</p>
+<ul>
+<li>
+<p><code>np.random.rand()</code></p>
+</li>
+<li>
+<p><code>np.random.randn()</code></p>
+</li>
+<li>
+<p><code>np.random.randint()</code></p>
+</li>
+<li>
+<p><code>np.random.choice()</code></p>
+</li>
+<li>
+<p><code>np.random.shuffle()</code></p>
+</li>
+<li>
+<p><code>np.random.normal()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>TensorFlow random:</p>
+<ul>
+<li>
+<p><code>tf.random.uniform()</code></p>
+</li>
+<li>
+<p><code>tf.random.normal()</code></p>
+</li>
+<li>
+<p><code>tf.random.shuffle()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>PyTorch random:</p>
+<ul>
+<li>
+<p><code>torch.rand()</code></p>
+</li>
+<li>
+<p><code>torch.randn()</code></p>
+</li>
+<li>
+<p><code>torch.randint()</code></p>
+</li>
+<li>
+<p><code>torch.randperm()</code></p>
+</li>
+<li>
+<p>Random behavior when using <code>torch.utils.data.DataLoader</code> with <code>shuffle=True</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Scikit-Learn models or utilities:</p>
+<ul>
+<li>
+<p><code>train_test_split()</code></p>
+</li>
+<li>
+<p><code>KFold()</code>, <code>StratifiedKFold()</code></p>
+</li>
+<li>
+<p><code>RandomForestClassifier()</code>, <code>GradientBoostingClassifier()</code></p>
+</li>
+<li>
+<p><code>LogisticRegression()</code></p>
+</li>
+<li>
+<p><code>RandomizedSearchCV()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>XGBoost models:</p>
+<ul>
+<li>
+<p><code>XGBClassifier()</code></p>
+</li>
+<li>
+<p><code>xgboost.train()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>LightGBM models:</p>
+<ul>
+<li>
+<p><code>LGBMClassifier()</code></p>
+</li>
+<li>
+<p><code>lightgbm.train()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>CatBoost models:</p>
+<ul>
+<li><code>CatBoostClassifier()</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<ol start="3">
+<li>
+<p>For each random operation or model creation:</p>
+<p>3.1 Check if a <strong>random seed is explicitly set</strong>:</p>
+<ul>
+<li>
+<p>For Python random:</p>
+<ul>
+<li>Look for <code>random.seed(value)</code></li>
+</ul>
+</li>
+<li>
+<p>For NumPy:</p>
+<ul>
+<li>Look for <code>np.random.seed(value)</code></li>
+</ul>
+</li>
+<li>
+<p>For TensorFlow:</p>
+<ul>
+<li>Look for <code>tf.random.set_seed(value)</code></li>
+</ul>
+</li>
+<li>
+<p>For PyTorch:</p>
+<ul>
+<li>
+<p>Look for <code>torch.manual_seed(value)</code></p>
+</li>
+<li>
+<p>Look for seeded <code>generator</code> passed to <code>DataLoader</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>For Scikit-Learn:</p>
+<ul>
+<li>Look for <code>random_state=...</code> parameter set in functions and models</li>
+</ul>
+</li>
+<li>
+<p>For XGBoost:</p>
+<ul>
+<li>Look for <code>seed=...</code> or <code>random_state=...</code> set</li>
+</ul>
+</li>
+<li>
+<p>For LightGBM:</p>
+<ul>
+<li>Look for <code>seed=...</code> or <code>random_state=...</code> set</li>
+</ul>
+</li>
+<li>
+<p>For CatBoost:</p>
+<ul>
+<li>Look for <code>random_seed=...</code> set</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<ol start="4">
+<li>If a random operation, split, or model is used <strong>without setting a random seed</strong>, either globally or locally:</li>
+</ol>
+<ul>
+<li>Mark as <strong>Randomness Uncontrolled</strong>.</li>
+</ul>
+<hr>
+<ol start="5">
+<li>If none of these libraries or modules are imported:</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

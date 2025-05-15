@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DataFrame Conversion API Misused</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-dataframe-conversion-api-misused">🔎 Exhaustive Checking Steps for <strong>DataFrame Conversion API Misused</strong></h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If Pandas is imported:</strong></p>
+<ul>
+<li>
+<p>Search for any usage of <code>.values</code> on a DataFrame object.</p>
+<ul>
+<li>Pattern: <code>.values</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If <code>.values</code> is used to extract data</strong>, mark as <strong>DataFrame Conversion API Misused</strong>.</p>
+</li>
+<li>
+<p><strong>Expected alternative</strong>: use <code>.to_numpy()</code> instead.</p>
+</li>
+<li>
+<p><strong>If Pandas is not imported</strong>, skip checking.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

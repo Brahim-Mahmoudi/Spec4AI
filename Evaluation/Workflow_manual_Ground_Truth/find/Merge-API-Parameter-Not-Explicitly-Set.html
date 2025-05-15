@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for Merge API Parameter Not Explicitly Set</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-merge-api-parameter-not-explicitly-set">🔎 Exhaustive Checking Steps for <strong>Merge API Parameter Not Explicitly Set</strong></h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If Pandas is imported:</strong></p>
+<ul>
+<li>Search for usage of <code>.merge(...)</code> on a DataFrame object.</li>
+</ul>
+</li>
+<li>
+<p><strong>If <code>.merge()</code> is used:</strong></p>
+<ul>
+<li>
+<p>Check if the following parameters are explicitly specified:</p>
+<ul>
+<li>
+<p><code>on=...</code></p>
+</li>
+<li>
+<p><code>how=...</code></p>
+</li>
+<li>
+<p><code>validate=...</code></p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If any of these parameters is missing</strong>, mark as <strong>Merge API Parameter Not Explicitly Set</strong>.</p>
+</li>
+<li>
+<p><strong>If Pandas is not imported</strong>, skip checking.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

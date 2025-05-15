@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deterministic Algorithm Option Not Used</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-deterministic-algorithm-option-not-used">🔎 Exhaustive Checking Steps for <strong>Deterministic Algorithm Option Not Used</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if any of these libraries is imported:</p>
+<ul>
+<li>
+<p><code>torch</code> (PyTorch)</p>
+</li>
+<li>
+<p><code>tensorflow</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If PyTorch is imported:</p>
+<p>2.1 Before any model training (<code>model.forward()</code>, <code>loss.backward()</code>, <code>optimizer.step()</code>, or any training loop):</p>
+<ul>
+<li>
+<p>Search if:</p>
+<ul>
+<li><code>torch.use_deterministic_algorithms(True)</code> is called.</li>
+</ul>
+</li>
+</ul>
+<p>✅ If not set to <code>True</code> before training starts, mark as <strong>Deterministic Algorithm Option Not Used</strong>.</p>
+</li>
+<li>
+<p>If TensorFlow is imported:</p>
+<p>3.1 Before any model training (<code>model.fit()</code>, <code>GradientTape</code> manual training loops, etc.):</p>
+<ul>
+<li>
+<p>Search if:</p>
+<ul>
+<li><code>tf.config.experimental.enable_op_determinism()</code> is called.</li>
+</ul>
+</li>
+</ul>
+<p>✅ If not called before training, mark as <strong>Deterministic Algorithm Option Not Used</strong>.</p>
+</li>
+<li>
+<p>If none of these libraries are imported:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

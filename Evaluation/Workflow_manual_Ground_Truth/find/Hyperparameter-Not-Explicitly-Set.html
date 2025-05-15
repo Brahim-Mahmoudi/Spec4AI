@@ -1,0 +1,262 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hyperparameter Not Explicitly Set</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-hyperparameter-not-explicitly-set">🔎 Exhaustive Checking Steps for <strong>Hyperparameter Not Explicitly Set</strong></h1>
+<hr>
+<ol>
+<li>Check if any of the following libraries is imported:</li>
+</ol>
+<ul>
+<li>
+<p><code>scikit-learn</code> (<code>sklearn</code>)</p>
+</li>
+<li>
+<p><code>torch</code> (<code>pytorch</code>)</p>
+</li>
+<li>
+<p><code>tensorflow</code></p>
+</li>
+<li>
+<p><code>xgboost</code></p>
+</li>
+<li>
+<p><code>lightgbm</code></p>
+</li>
+<li>
+<p><code>catboost</code></p>
+</li>
+</ul>
+<ol start="2">
+<li>If one of these libraries is imported, search for the following classes, methods, or functions being used:</li>
+</ol>
+<p>2.1 <strong>scikit-learn</strong></p>
+<p><strong>(any model/class without explicit hyperparameters)</strong></p>
+<ul>
+<li>
+<p>Classifiers:</p>
+<ul>
+<li>
+<p><code>SVC</code></p>
+</li>
+<li>
+<p><code>SGDClassifier</code></p>
+</li>
+<li>
+<p><code>RandomForestClassifier</code></p>
+</li>
+<li>
+<p><code>GradientBoostingClassifier</code></p>
+</li>
+<li>
+<p><code>LogisticRegression</code></p>
+</li>
+<li>
+<p><code>KNeighborsClassifier</code></p>
+</li>
+<li>
+<p><code>DecisionTreeClassifier</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Regressors:</p>
+<ul>
+<li>
+<p><code>SVR</code></p>
+</li>
+<li>
+<p><code>SGDRegressor</code></p>
+</li>
+<li>
+<p><code>RandomForestRegressor</code></p>
+</li>
+<li>
+<p><code>GradientBoostingRegressor</code></p>
+</li>
+<li>
+<p><code>KNeighborsRegressor</code></p>
+</li>
+<li>
+<p><code>DecisionTreeRegressor</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Clustering:</p>
+<ul>
+<li>
+<p><code>KMeans</code></p>
+</li>
+<li>
+<p><code>DBSCAN</code></p>
+</li>
+<li>
+<p><code>AgglomerativeClustering</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Dimensionality Reduction:</p>
+<ul>
+<li>
+<p><code>PCA</code></p>
+</li>
+<li>
+<p><code>TruncatedSVD</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Pipelines:</p>
+<ul>
+<li><code>make_pipeline</code> <em>(check models inside pipeline if they have hyperparameters)</em></li>
+</ul>
+</li>
+</ul>
+<p>2.2 <strong>PyTorch</strong></p>
+<p><strong>(any optimizer or scheduler without explicit hyperparameters)</strong></p>
+<ul>
+<li>
+<p>Optimizers:</p>
+<ul>
+<li>
+<p><code>torch.optim.SGD</code></p>
+</li>
+<li>
+<p><code>torch.optim.Adam</code></p>
+</li>
+<li>
+<p><code>torch.optim.AdamW</code></p>
+</li>
+<li>
+<p><code>torch.optim.RMSprop</code></p>
+</li>
+<li>
+<p><code>torch.optim.Adagrad</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Schedulers:</p>
+<ul>
+<li>
+<p><code>torch.optim.lr_scheduler.StepLR</code></p>
+</li>
+<li>
+<p><code>torch.optim.lr_scheduler.ReduceLROnPlateau</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><em>(Optional)</em> Layers (low priority):<br>
+<code>torch.nn.Linear</code>, <code>torch.nn.Conv2d</code> — (only if critical params omitted like activation, rare).</p>
+</li>
+</ul>
+<p>2.3 <strong>TensorFlow</strong></p>
+<p><strong>(optimizers and compile step)</strong></p>
+<ul>
+<li>
+<p>Optimizers:</p>
+<ul>
+<li>
+<p><code>tf.keras.optimizers.SGD</code></p>
+</li>
+<li>
+<p><code>tf.keras.optimizers.Adam</code></p>
+</li>
+<li>
+<p><code>tf.keras.optimizers.RMSprop</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Model compile:</p>
+<ul>
+<li><code>model.compile(optimizer=..., loss=..., metrics=...)</code> <em>(make sure optimizer hyperparameters are set)</em></li>
+</ul>
+</li>
+</ul>
+<p>2.4 <strong>XGBoost</strong></p>
+<ul>
+<li>
+<p>Models:</p>
+<ul>
+<li>
+<p><code>xgboost.XGBClassifier</code></p>
+</li>
+<li>
+<p><code>xgboost.XGBRegressor</code></p>
+</li>
+<li>
+<p><code>xgboost.train</code></p>
+</li>
+</ul>
+</li>
+</ul>
+<p>2.5 <strong>LightGBM</strong></p>
+<ul>
+<li>
+<p>Models:</p>
+<ul>
+<li>
+<p><code>lightgbm.LGBMClassifier</code></p>
+</li>
+<li>
+<p><code>lightgbm.LGBMRegressor</code></p>
+</li>
+<li>
+<p><code>lightgbm.train</code></p>
+</li>
+</ul>
+</li>
+</ul>
+<p>2.6 <strong>CatBoost</strong></p>
+<ul>
+<li>
+<p>Models:</p>
+<ul>
+<li>
+<p><code>catboost.CatBoostClassifier</code></p>
+</li>
+<li>
+<p><code>catboost.CatBoostRegressor</code></p>
+</li>
+<li>
+<p><code>catboost.train</code></p>
+</li>
+</ul>
+</li>
+</ul>
+<ol start="3">
+<li>For each constructor/method found:</li>
+</ol>
+<ul>
+<li>
+<p><strong>Check if key hyperparameters are explicitly set</strong> (like <code>learning_rate</code>, <code>n_estimators</code>, <code>momentum</code>, <code>random_state</code>, etc.).</p>
+</li>
+<li>
+<p><strong>If no hyperparameters are explicitly set</strong>, mark as <strong>Hyperparameter Not Explicitly Set</strong>.</p>
+</li>
+</ul>
+<ol start="4">
+<li>If none of these libraries are imported:</li>
+</ol>
+<ul>
+<li><strong>Skip checking</strong> for this code smell.</li>
+</ul>
+<hr>
+<blockquote>
+<p><strong>If a model, optimizer, scheduler, or trainer is called without setting key hyperparameters explicitly → code smell.</strong></p>
+</blockquote>
+</div>
+</body>
+
+</html>

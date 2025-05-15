@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Threshold-Dependent Validation</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-threshold-dependent-validation">🔎 Exhaustive Checking Steps for <strong>Threshold-Dependent Validation</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if a machine learning evaluation library is imported:</p>
+<ul>
+<li>
+<p><code>sklearn.metrics</code></p>
+</li>
+<li>
+<p><code>tensorflow.keras.metrics</code></p>
+</li>
+<li>
+<p><code>torchmetrics</code></p>
+</li>
+<li>
+<p><code>xgboost</code>, <code>lightgbm</code>, or any ML model with <code>.score()</code> methods</p>
+</li>
+</ul>
+</li>
+<li>
+<p>If evaluation metrics are used:</p>
+<p>2.1 Search for use of <strong>threshold-dependent metrics</strong>:</p>
+<ul>
+<li>
+<p><code>f1_score(...)</code></p>
+</li>
+<li>
+<p><code>precision_score(...)</code></p>
+</li>
+<li>
+<p><code>recall_score(...)</code></p>
+</li>
+<li>
+<p><code>accuracy_score(...)</code></p>
+</li>
+<li>
+<p><code>fbeta_score(...)</code></p>
+</li>
+<li>
+<p>Any custom logic comparing <code>y_pred &gt; threshold</code> or <code>if pred &gt;= 0.5</code></p>
+</li>
+</ul>
+<p>2.2 Check if <strong>these metrics are used alone</strong> for evaluation or model selection.</p>
+<p>✅ If only threshold-dependent metrics are used → mark as <strong>Threshold-Dependent Validation</strong></p>
+</li>
+<li>
+<p>Check if <strong>threshold-independent metrics</strong> are used:</p>
+<ul>
+<li>
+<p><code>roc_auc_score(...)</code></p>
+</li>
+<li>
+<p><code>metrics.auc(...)</code></p>
+</li>
+<li>
+<p><code>log_loss(...)</code></p>
+</li>
+<li>
+<p><code>average_precision_score(...)</code></p>
+</li>
+<li>
+<p><code>precision_recall_curve(...)</code></p>
+</li>
+<li>
+<p><code>roc_curve(...)</code></p>
+</li>
+</ul>
+<p>3.1 If threshold-independent metrics are used alongside threshold-dependent ones:</p>
+<ul>
+<li>Do <strong>not</strong> mark as code smell.</li>
+</ul>
+</li>
+<li>
+<p>If thresholding logic is applied manually (e.g., <code>pred &gt; 0.5</code>) to turn probabilities into class labels:</p>
+<ul>
+<li>
+<p>And used for model comparison or reporting</p>
+</li>
+<li>
+<p>Without also reporting threshold-independent metrics:</p>
+</li>
+<li>
+<p>Mark as <strong>Threshold-Dependent Validation</strong></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If no evaluation metric or model validation step is present:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

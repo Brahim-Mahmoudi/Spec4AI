@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for Chain Indexing</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-chain-indexing">🔎 Exhaustive Checking Steps for Chain Indexing</h1>
+<ol>
+  <p>Regex to check: \w+\s[\s[^]]+\s]\s[\s[^]]+\s]</p>
+<li>
+<p><strong>Check if</strong> <code>pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If Pandas is imported:</strong></p>
+<ul>
+<li>
+<p>Search for <strong>two consecutive indexing operations</strong> on the same object:</p>
+<ul>
+<li>
+<p>Pattern: <code>df[...][...]</code></p>
+</li>
+<li>
+<p>(including cases like <code>df["col"][0]</code>, <code>df[0][1]</code>, etc.)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If found</strong>, verify if the object is a Pandas <code>DataFrame</code> or <code>Series</code>.</p>
+<ul>
+<li>If yes, <strong>Chain Indexing</strong> is present.</li>
+</ul>
+</li>
+<li>
+<p><strong>Expected alternative</strong>: use <code>.loc[]</code>, <code>.iloc[]</code>, <code>.at[]</code>, or <code>.iat[]</code> instead of chained <code>[]</code>.</p>
+</li>
+<li>
+<p><strong>If Pandas is not imported</strong>, <strong>you can skip</strong> checking this file (very low risk of this smell).</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

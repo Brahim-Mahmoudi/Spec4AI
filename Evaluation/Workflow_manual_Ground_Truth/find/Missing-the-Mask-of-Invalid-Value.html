@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Missing the Mask of Invalid Value</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-missing-the-mask-of-invalid-value">🔎 Exhaustive Checking Steps for <strong>Missing the Mask of Invalid Value</strong></h1>
+<hr>
+<ol>
+<li>Always apply this check, regardless of which libraries are imported.<br>
+(Missing mask can happen with <strong>any mathematical computation</strong> library or pure Python.)</li>
+</ol>
+<hr>
+<ol start="2">
+<li>
+<p>Search for the use of <strong>functions that require a positive nonzero input</strong> and can <strong>fail if input is 0, negative, NaN, or too small</strong>.<br>
+Here is the exhaustive list of functions to check:</p>
+<p>2.1 <strong>Logarithmic functions:</strong></p>
+<ul>
+<li>
+<p><code>tf.math.log()</code></p>
+</li>
+<li>
+<p><code>tf.log()</code> (TensorFlow 1.x)</p>
+</li>
+<li>
+<p><code>torch.log()</code></p>
+</li>
+<li>
+<p><code>np.log()</code></p>
+</li>
+<li>
+<p><code>np.log1p()</code></p>
+</li>
+<li>
+<p><code>jax.numpy.log()</code> <em>(if JAX is used)</em></p>
+</li>
+</ul>
+<p>2.2 <strong>Root functions (optional, rare):</strong> <em>(Not mandatory unless you want extreme coverage.)</em></p>
+<ul>
+<li>
+<p><code>np.sqrt()</code></p>
+</li>
+<li>
+<p><code>torch.sqrt()</code></p>
+</li>
+<li>
+<p><code>tf.math.sqrt()</code></p>
+</li>
+<li>
+<p>(Problems here happen with negative values.)</p>
+</li>
+</ul>
+<p>2.3 <strong>Division operations (optional, less priority):</strong></p>
+<ul>
+<li>Manual division <code>/</code> where denominator could become 0.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<ol start="3">
+<li>
+<p>For each function call found:</p>
+<p>3.1 Check <strong>if a “mask” is applied</strong> to the input to guarantee that it <strong>stays within a valid range</strong>:</p>
+<ul>
+<li>
+<p>Typical masks:</p>
+<ul>
+<li>
+<p><code>tf.clip_by_value(x, min, max)</code></p>
+</li>
+<li>
+<p><code>torch.clamp(x, min=min_value, max=max_value)</code></p>
+</li>
+<li>
+<p><code>np.clip(x, min, max)</code></p>
+</li>
+<li>
+<p>Manual <code>x = max(x, 1e-10)</code> or equivalent small floor</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>3.2 Mask should happen <strong>immediately before</strong> applying <code>log()</code> or similar.</p>
+</li>
+</ol>
+<hr>
+<ol start="4">
+<li>If the function (<code>log</code>, <code>log1p</code>, etc.) is called <strong>directly on a variable</strong> <strong>without masking</strong>:</li>
+</ol>
+<ul>
+<li>Mark as <strong>Missing the Mask of Invalid Value</strong>.</li>
+</ul>
+<hr>
+<ol start="5">
+<li>If the function is applied directly to a <strong>literal constant</strong> (e.g., <code>np.log(5)</code>), no mask is needed.</li>
+</ol>
+<hr>
+<h1 id="✏️-special-notes">✏️ Special notes:</h1>
+<ul>
+<li>
+<p>If the value passed is the output of a <strong>softmax</strong>, <strong>sigmoid</strong>, <strong>probability computation</strong>, or anything potentially close to <code>0</code> or <code>1</code>, <strong>masking is definitely necessary</strong>.</p>
+</li>
+<li>
+<p>If the value is hard-coded and safe (e.g., manually crafted numbers), no smell.</p>
+</li>
+</ul>
+</div>
+</body>
+
+</html>

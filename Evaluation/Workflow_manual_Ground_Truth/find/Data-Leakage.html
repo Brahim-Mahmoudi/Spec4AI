@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Leakage</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-data-leakage">🔎 Exhaustive Checking Steps for <strong>Data Leakage</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Apply this check only if a machine learning library is imported:</p>
+<ul>
+<li>
+<p><code>scikit-learn</code></p>
+</li>
+<li>
+<p><code>xgboost</code></p>
+</li>
+<li>
+<p><code>lightgbm</code></p>
+</li>
+<li>
+<p><code>catboost</code></p>
+</li>
+<li>
+<p><code>tensorflow</code></p>
+</li>
+<li>
+<p><code>torch</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If <code>scikit-learn</code> is imported:</p>
+<p>2.1 Search for dataset splitting methods:</p>
+<ul>
+<li>
+<p><code>train_test_split(...)</code></p>
+</li>
+<li>
+<p><code>KFold(...)</code>, <code>StratifiedKFold(...)</code></p>
+</li>
+<li>
+<p><code>cross_val_score(...)</code></p>
+</li>
+<li>
+<p><code>cross_validate(...)</code></p>
+</li>
+<li>
+<p>Manual indexing or slicing used for training/validation split</p>
+</li>
+</ul>
+<p>2.2 Search for transformations applied before the split:</p>
+<ul>
+<li>
+<p><code>StandardScaler().fit_transform(...)</code></p>
+</li>
+<li>
+<p><code>MinMaxScaler().fit_transform(...)</code></p>
+</li>
+<li>
+<p><code>Normalizer().fit_transform(...)</code></p>
+</li>
+<li>
+<p><code>SelectKBest().fit_transform(...)</code></p>
+</li>
+<li>
+<p><code>PCA().fit_transform(...)</code></p>
+</li>
+<li>
+<p>Any <code>.fit_transform(...)</code> or <code>.fit(...)</code> followed by <code>.transform(...)</code> applied directly to the full dataset (<code>X</code>, <code>X, y</code>, etc.)</p>
+</li>
+</ul>
+<p>2.3 If a transformation is applied to the entire dataset before splitting:</p>
+<ul>
+<li>Mark as <strong>Data Leakage</strong></li>
+</ul>
+<p>2.4 Check if a <code>Pipeline(...)</code> or <code>make_pipeline(...)</code> is used:</p>
+<ul>
+<li>If not used and transformation is done before the split → mark as <strong>Data Leakage</strong></li>
+</ul>
+</li>
+<li>
+<p>If <code>xgboost</code>, <code>lightgbm</code>, or <code>catboost</code> is imported:</p>
+<p>3.1 Check for <code>train_test_split(...)</code>, <code>KFold(...)</code>, or other splitting methods.</p>
+<p>3.2 Check for transformations (e.g., scaling, encoding, feature selection) applied to the <strong>entire dataset</strong> before splitting.</p>
+<p>3.3 If such transformations are found, and not re-applied only to training data or handled inside a pipeline:</p>
+<ul>
+<li>Mark as <strong>Data Leakage</strong></li>
+</ul>
+</li>
+<li>
+<p>If <code>tensorflow</code> or <code>torch</code> is imported:</p>
+<p>4.1 Check for:</p>
+<ul>
+<li>
+<p>Preprocessing applied on full dataset (<code>X</code>, <code>dataset</code>, etc.) before any split</p>
+</li>
+<li>
+<p>Manual split followed by using transformed data</p>
+</li>
+</ul>
+<p>4.2 If transformations (e.g., normalization, feature engineering, embedding, augmentation) are applied to the full dataset before splitting:</p>
+<ul>
+<li>Mark as <strong>Data Leakage</strong></li>
+</ul>
+</li>
+<li>
+<p>If no model training or data splitting is found:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

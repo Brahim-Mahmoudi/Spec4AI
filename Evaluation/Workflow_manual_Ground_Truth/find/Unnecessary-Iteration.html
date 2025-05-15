@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for Unnecessary Iteration</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-unnecessary-iteration">🔎 Exhaustive Checking Steps for Unnecessary Iteration</h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code> or <code>tensorflow</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+<li>
+<p><code>import tensorflow as tf</code></p>
+</li>
+<li>
+<p><code>from tensorflow import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If <code>pandas</code> is imported:</strong></p>
+<ul>
+<li>
+<p>Search for:</p>
+<ul>
+<li>
+<p><code>for ... in df.iterrows()</code></p>
+</li>
+<li>
+<p><code>for ... in df.itertuples()</code></p>
+</li>
+<li>
+<p><code>for ... in series:</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If found, verify if a Pandas built-in vectorized method (<code>add</code>, <code>sum</code>, <code>mean</code>, <code>groupby</code>, etc.) could replace the loop.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If <code>tensorflow</code> is imported:</strong></p>
+<ul>
+<li>
+<p>Search for:</p>
+<ul>
+<li>
+<p><code>for i in range(tensor.shape[0]):</code></p>
+</li>
+<li>
+<p><code>for i in tf.range(tensor.shape[0]):</code></p>
+</li>
+<li>
+<p>Any <code>for</code> loop slicing tensor elements like <code>tensor[i]</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If found, verify if a TensorFlow built-in operation (<code>reduce_sum</code>, <code>reduce_mean</code>, etc.) could replace the loop.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If vectorization is possible</strong>, mark as <strong>Unnecessary Iteration</strong>.</p>
+</li>
+<li>
+<p><strong>If vectorization is not possible</strong>, no smell.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

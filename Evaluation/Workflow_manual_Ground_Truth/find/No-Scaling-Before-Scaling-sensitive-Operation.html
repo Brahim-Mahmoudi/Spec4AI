@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>No Scaling Before Scaling-sensitive Operation</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-no-scaling-before-scaling-sensitive-operation">🔎 Exhaustive Checking Steps for <strong>No Scaling Before Scaling-sensitive Operation</strong></h1>
+<ol>
+<li>
+<p><strong>Check if <code>scikit-learn</code> (sklearn) is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import sklearn</code></p>
+</li>
+<li>
+<p>or <code>from sklearn import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Search for usage of scaling-sensitive operations:</strong></p>
+<ul>
+<li>
+<p><code>PCA()</code></p>
+</li>
+<li>
+<p><code>SVC()</code></p>
+</li>
+<li>
+<p><code>SGDClassifier()</code></p>
+</li>
+<li>
+<p><code>SGDRegressor()</code></p>
+</li>
+<li>
+<p><code>MLPClassifier()</code></p>
+</li>
+<li>
+<p><code>MLPRegressor()</code></p>
+</li>
+<li>
+<p><code>Ridge()</code></p>
+</li>
+<li>
+<p><code>Lasso()</code></p>
+</li>
+<li>
+<p><code>ElasticNet()</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>For each of these:</strong></p>
+<ul>
+<li>
+<p>Check if a <strong>scaler</strong> (<code>StandardScaler()</code>, <code>MinMaxScaler()</code>, <code>RobustScaler()</code>, <code>Normalizer()</code>, etc.) is applied <strong>before</strong> the sensitive operation.</p>
+</li>
+<li>
+<p>Typically this is done through a <code>Pipeline()</code> or manual preprocessing.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If no scaling is done before</strong>, <strong>mark as No Scaling Before Scaling-sensitive Operation</strong>.</p>
+</li>
+<li>
+<p><strong>If scikit-learn is not imported</strong>, skip the check.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matrix Multiplication API Misused</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-matrix-multiplication-api-misused">🔎 Exhaustive Checking Steps for <strong>Matrix Multiplication API Misused</strong></h1>
+<p>2D matrix -&gt; a = [[1, 0], [0, 1]]</p>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>numpy</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import numpy as np</code></p>
+</li>
+<li>
+<p><code>from numpy import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If NumPy is imported:</strong></p>
+<ul>
+<li>Search for any usage of <code>np.dot()</code>.</li>
+</ul>
+</li>
+<li>
+<p><strong>When <code>np.dot()</code> is used:</strong></p>
+<ul>
+<li>Check if both operands are <strong>two-dimensional arrays</strong> (<code>ndim == 2</code>).</li>
+</ul>
+</li>
+<li>
+<p><strong>If both operands are 2D</strong>, mark as <strong>Matrix Multiplication API Misused</strong>.</p>
+</li>
+<li>
+<p><strong>Expected alternative</strong>: use <code>np.matmul()</code> instead for 2D matrix multiplication.</p>
+</li>
+<li>
+<p><strong>If NumPy is not imported</strong>, skip checking.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

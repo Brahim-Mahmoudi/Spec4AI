@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TensorArray Not Used</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-tensorarray-not-used">🔎 Exhaustive Checking Steps for <strong>TensorArray Not Used</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if <code>tensorflow</code> is imported.</p>
+</li>
+<li>
+<p>If TensorFlow is imported:</p>
+<p>2.1 Search for uses of:</p>
+<ul>
+<li><code>tf.constant(...)</code></li>
+</ul>
+</li>
+<li>
+<p>For each <code>tf.constant(...)</code> found:</p>
+<p>3.1 Check if:</p>
+<ul>
+<li>
+<p>It is used to initialize an array or tensor.</p>
+</li>
+<li>
+<p>Then <strong>inside a loop</strong> (<code>for</code>, <code>while</code>, <code>tf.while_loop</code>) the array/tensor is <strong>modified</strong>, <strong>grown</strong>, or <strong>extended</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Operations inside the loop that indicate size change to watch for:</p>
+<ul>
+<li>
+<p><code>tf.concat(...)</code></p>
+</li>
+<li>
+<p><code>tf.stack(...)</code></p>
+</li>
+<li>
+<p>Manual slicing and reassignments</p>
+</li>
+<li>
+<p>Reassigning larger arrays to the same variable</p>
+</li>
+<li>
+<p>Any cumulative aggregation pattern that modifies the tensor’s size over iterations</p>
+</li>
+</ul>
+</li>
+<li>
+<p>If <code>tf.constant()</code> is used and then the array/tensor is <strong>grown or modified inside a loop</strong>, and <code>tf.TensorArray()</code> is not used instead:</p>
+</li>
+</ol>
+<ul>
+<li>Mark as <strong>TensorArray Not Used</strong>.</li>
+</ul>
+<ol start="6">
+<li>If TensorFlow is not imported:</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+<hr>
+<p>✅ <strong>In short:</strong></p>
+<ul>
+<li>
+<p>Using <code>tf.constant()</code> is fine if the array stays the same.</p>
+</li>
+<li>
+<p>It’s a <strong>problem only if</strong> the array <strong>needs to grow or change in the loop</strong>.</p>
+</li>
+</ul>
+</div>
+</body>
+
+</html>

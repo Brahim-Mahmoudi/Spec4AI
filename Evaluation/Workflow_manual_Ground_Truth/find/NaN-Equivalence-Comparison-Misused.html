@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for NaN Equivalence Comparison Misused</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-nan-equivalence-comparison-misused">🔎 Exhaustive Checking Steps for NaN Equivalence Comparison Misused</h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>numpy</code> or <code>pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import numpy as np</code></p>
+</li>
+<li>
+<p><code>from numpy import ...</code></p>
+</li>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Search for any presence of</strong>:</p>
+<ul>
+<li>
+<p><code>np.nan</code></p>
+</li>
+<li>
+<p><code>numpy.nan</code></p>
+</li>
+<li>
+<p><code>NaN</code> (case-sensitive if not explicitly defined)</p>
+</li>
+<li>
+<p>Literal <code>nan</code> only if it’s clear it refers to <code>np.nan</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If found</strong>, check if <code>==</code> or <code>!=</code> is used to compare with NaN.</p>
+<ul>
+<li>
+<p>Example patterns:</p>
+<ul>
+<li>
+<p><code>x == np.nan</code></p>
+</li>
+<li>
+<p><code>x != np.nan</code></p>
+</li>
+<li>
+<p><code>df['col'] == np.nan</code></p>
+</li>
+<li>
+<p><code>if var == np.nan:</code></p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If comparison with <code>==</code> or <code>!=</code> is used</strong>, mark as <strong>NaN Equivalence Comparison Misused</strong>.</p>
+</li>
+<li>
+<p><strong>Valid alternative expected</strong>: use <code>isna()</code>, <code>isnull()</code>, or <code>numpy.isnan()</code>.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

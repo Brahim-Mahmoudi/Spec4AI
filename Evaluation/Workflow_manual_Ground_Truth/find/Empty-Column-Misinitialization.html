@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for Empty Column Misinitialization</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-empty-column-misinitialization">🔎 Exhaustive Checking Steps for <strong>Empty Column Misinitialization</strong></h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code>, <code>polars</code>, <code>dask.dataframe</code>, <code>vaex</code>, or <code>pyspark.pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If Pandas is imported:</strong></p>
+<ul>
+<li>
+<p>Search for <strong>new column creation</strong> like:</p>
+<ul>
+<li>
+<p><code>df['column_name'] = 0</code></p>
+</li>
+<li>
+<p><code>df['column_name'] = ''</code></p>
+</li>
+<li>
+<p><code>df['column_name'] = some_constant_value</code></p>
+</li>
+<li>
+<p><code>df['column_name'] = [0, 0, 0]</code> (constant lists) <em>(more rare but possible)</em></p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If a constant (0, “”, fixed value) is assigned to a whole new column</strong>, suspect <strong>Empty Column Misinitialization</strong>.</p>
+</li>
+<li>
+<p><strong>Distinguish cases</strong>:</p>
+<ul>
+<li>
+<p>If the column is <strong>meant to be filled immediately after</strong> with real values → OK (no smell).</p>
+</li>
+<li>
+<p>If the column is <strong>meant to be “empty” initially</strong>, <strong>NaN or pd.Series(dtype=…) should have been used</strong> → <strong>code smell present</strong>.</p>
+</li>
+</ul>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

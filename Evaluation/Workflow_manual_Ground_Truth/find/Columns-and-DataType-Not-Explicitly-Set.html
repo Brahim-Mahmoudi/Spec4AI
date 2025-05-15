@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exhaustive Checking Steps for Columns and DataType Not Explicitly Set</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-columns-and-datatype-not-explicitly-set">🔎 Exhaustive Checking Steps for <strong>Columns and DataType Not Explicitly Set</strong></h1>
+<ol>
+<li>
+<p><strong>Check if</strong> <code>pandas</code> <strong>is imported</strong>.</p>
+<ul>
+<li>
+<p><code>import pandas as pd</code></p>
+</li>
+<li>
+<p><code>from pandas import ...</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If Pandas is imported:</strong></p>
+<ul>
+<li>
+<p>Search for <strong>data import functions</strong>:</p>
+<ul>
+<li>
+<p><code>pd.read_csv(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_excel(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_json(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_html(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_parquet(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_feather(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_orc(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_pickle(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_sas(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_spss(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_sql(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_sql_query(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_sql_table(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_stata(...)</code></p>
+</li>
+<li>
+<p><code>pd.read_clipboard(...)</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>To make it simple you can search for <code>pd.read_</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>When a data import function is found</strong>, verify:</p>
+<ul>
+<li>
+<p><strong>Columns</strong>: after loading, is there a selection like <code>df = df[['col1', 'col2']]</code>?</p>
+<ul>
+<li><strong>If not</strong>, columns are not explicitly selected (<strong>code smell</strong>).</li>
+</ul>
+</li>
+<li>
+<p><strong>Data types</strong>: is the <code>dtype</code> parameter used in the import function (<code>dtype={...}</code>)?</p>
+<ul>
+<li><strong>If not</strong>, dtypes are not explicitly set (<strong>code smell</strong>).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If neither columns nor dtypes are set explicitly</strong>, mark as <strong>Columns and DataType Not Explicitly Set</strong>.</p>
+</li>
+<li>
+<p><strong>If Pandas is not imported</strong>, you can skip this check.</p>
+</li>
+</ol>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Broadcasting Feature Not Used</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="🔎-exhaustive-checking-steps-for-broadcasting-feature-not-used">🔎 Exhaustive Checking Steps for <strong>Broadcasting Feature Not Used</strong></h1>
+<hr>
+<ol>
+<li>
+<p>Check if any of these libraries is imported:</p>
+<ul>
+<li>
+<p><code>tensorflow</code></p>
+</li>
+<li>
+<p><code>torch</code></p>
+</li>
+</ul>
+</li>
+<li>
+<p>If TensorFlow is imported:</p>
+<p>2.1 Search for use of <strong>manual tiling</strong> using:</p>
+<ul>
+<li><code>tf.tile(...)</code></li>
+</ul>
+<p>2.2 If <code>tf.tile()</code> is found:</p>
+<ul>
+<li>Check if the <strong>result of the tiling</strong> is immediately used in an element-wise operation (e.g. <code>+</code>, <code>-</code>, <code>*</code>, <code>/</code>, <code>tf.concat()</code>, etc.) with a tensor of compatible shape.</li>
+</ul>
+<p>✅ If <code>tf.tile()</code> is used for this kind of shape expansion, and the operation could have been done via implicit broadcasting → mark as <strong>Broadcasting Feature Not Used</strong>.</p>
+</li>
+<li>
+<p>If PyTorch is imported:</p>
+<p>3.1 Search for use of <strong>manual repetition</strong> using:</p>
+<ul>
+<li>
+<p><code>tensor.expand()</code></p>
+</li>
+<li>
+<p><code>tensor.repeat()</code></p>
+</li>
+</ul>
+<p>3.2 If <code>repeat()</code> is used to match dimensions before element-wise operations, check if implicit broadcasting could have done it instead.</p>
+<p>✅ If yes, mark as <strong>Broadcasting Feature Not Used</strong>.</p>
+</li>
+<li>
+<p>You may also check for <strong>suspicious reshape or squeeze operations</strong> combined with tiling or repeating that seem aimed at aligning shapes before simple math ops.</p>
+</li>
+<li>
+<p>If none of these libraries is imported:</p>
+</li>
+</ol>
+<ul>
+<li>Skip this check.</li>
+</ul>
+</div>
+</body>
+
+</html>

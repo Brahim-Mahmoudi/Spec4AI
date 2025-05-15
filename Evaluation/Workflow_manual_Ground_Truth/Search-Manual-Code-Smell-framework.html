@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manual AI Code Smells Check Helper</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    input { width: 100%; padding: 10px; font-size: 16px; margin-bottom: 20px; }
+    .code-smell { margin: 10px 0; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+    .hidden { display: none; }
+
+    #codeSmellsList .code-smell {
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+        #codeSmellsList .code-smell:hover {
+        background-color: #f5f5f5;
+    }
+
+  </style>
+</head>
+<body>
+
+  <h2>AI Code Smells Checker</h2>
+  <p>Enter all the libraries imported in the python file, as they appear in the code. Separate them with commas (,)</p>
+  <input id="searchBar" type="text" placeholder="Enter libraries (e.g. torch, sklearn)...">
+  <button id="searchBtn">Search</button>
+  <button id="resetBtn">Reset</button>
+
+  <div id="codeSmellsList">
+    <div class="code-smell" data-libs="pandas,panda,tensorflow,tensor" data-file="find/Unnecessary-Iteration.html">Unnecessary Iteration (pandas, tensorflow)</div>
+    <div class="code-smell" data-libs="pandas,panda,numpy,np" data-file="find/NaN-Equivalence-Comparison-Misused.html">NaN Equivalence Comparison Misused (numpy, pandas)</div>
+    <div class="code-smell" data-libs="pandas,panda" data-file="find/Chain-Indexing.html">Chain Indexing (pandas)</div>
+    <div class="code-smell" data-libs="pandas,panda" data-file="find/Columns-and-DataType-Not-Explicitly-Set.html">Columns and DataType Not Explicitly Set (pandas)</div>
+    <div class="code-smell" data-libs="pandas,polars,dask,dask.dataframe,vaex,pyspark,pyspark.pandas,panda" data-file="find/Empty-Column-Misinitialization.html">Empty Column Misinitialization (pandas, polars, dask.dataframe, vaex, pyspark.pandas)</div>
+    <div class="code-smell" data-libs="pandas,panda" data-file="find/Merge-API-Parameter-Not-Explicitly-Set.html">Merge API Parameter Not Explicitly Set (pandas)</div>
+    <div class="code-smell" data-libs="pandas,numpy,tensorflow,torch,pytorch,panda,np" data-file="find/In-Place-APIs-Misused.html">In-Place APIs Misused (pandas, numpy, tensorflow, torch)</div>
+    <div class="code-smell" data-libs="pandas,panda" data-file="find/DataFrame-Conversion-API-Misused.html">DataFrame Conversion API Misused (pandas)</div>
+    <div class="code-smell" data-libs="numpy,np" data-file="find/Matrix-Multiplication-API-Misused.html">Matrix Multiplication API Misused (numpy)</div>
+    <div class="code-smell" data-libs="scikit-learn,sklearn,sk" data-file="find/No-Scaling-Before-Scaling-sensitive-Operation.html">No Scaling Before Scaling-sensitive Operation (scikit-learn / sklearn)</div>
+    <div class="code-smell" data-libs="scikit-learn,sklearn,sk,torch,pytorch,tensorflow,tensor,xgboost,lightgbm,catboost" data-file="find/Hyperparameter-Not-Explicitly-Set.html">Hyperparameter Not Explicitly Set (scikit-learn / sklearn, torch, tensorflow, xgboost, lightgbm, catboost)</div>
+    <div class="code-smell" data-libs="tensorflow,torch,jax,pytorch,tensor" data-file="find/Memory-Not-Freed.html">Memory Not Freed (tensorflow, torch, jax)</div>
+    <div class="code-smell" data-libs="torch,pytorch,tensorflow,tensor" data-file="find/Deterministic-Algorithm-Option-Not-Used.html">Deterministic Algorithm Option Not Used (torch, tensorflow)</div>
+    <div class="code-smell" data-libs="generic" data-file="find/Randomness-Uncontrolled.html">Randomness Uncontrolled (generic)</div>
+    <div class="code-smell" data-libs="generic" data-file="find/Missing-the-Mask-of-Invalid-Value.html">Missing the Mask of Invalid Value (generic)</div>
+    <div class="code-smell" data-libs="torch,pytorch,tensorflow,tensor" data-file="find/Broadcasting-Feature-Not-Used.html">Broadcasting Feature Not Used (tensorflow, torch)</div>
+    <div class="code-smell" data-libs="tensorflow,tensor" data-file="find/TensorArray-Not-Used.html">TensorArray Not Used (tensorflow)</div>
+    <div class="code-smell" data-libs="torch,tensorflow,tensor,pytorch" data-file="find/Training-Evaluation-Mode-Improper-Toggling.html">Training / Evaluation Mode Improper Toggling (torch,tensorflow)</div>
+    <div class="code-smell" data-libs="torch,pytorch" data-file="find/PyTorch-Call-Method-Misused.html">PyTorch Call Method Misused (torch)</div>
+    <div class="code-smell" data-libs="torch,pytorch" data-file="find/Gradients-Not-Cleared-before-Backward-Propagation.html">Gradients Not Cleared before Backward Propagation (torch)</div>
+    <div class="code-smell" data-libs="scikit-learn,sklearn,xgboost,lightgbm,catboost,tensorflow,torch,pytorch,tensor" data-file="find/Data-Leakage.html">Data Leakage (scikit-learn / sklearn, xgboost, lightgbm, catboost, tensorflow, torch)</div>
+    <div class="code-smell" data-libs="generic" data-file="find/find\Threshold-Dependent-Validation.html">Threshold-Dependent Validation (generic)</div>
+  </div>
+
+
+  <script>
+    const input = document.getElementById('searchBar');
+    const smells = document.querySelectorAll('.code-smell');
+    const searchBtn = document.getElementById('searchBtn');
+    const resetBtn = document.getElementById('resetBtn');
+  
+    /*input.addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        const rawInput = input.value.toLowerCase().split(',').map(lib => lib.trim()).filter(lib => lib !== "");
+  
+        if (rawInput.length === 0) {
+          smells.forEach(smell => smell.classList.remove('hidden'));
+          return;
+        }
+  
+        smells.forEach(smell => {
+          const libs = smell.dataset.libs.toLowerCase().split(',');
+          const matches = libs.includes('generic') || rawInput.some(lib => libs.includes(lib));
+          smell.classList.toggle('hidden', !matches);
+        });
+      }
+    });*/
+
+    function perfSearch() {
+        
+        const rawInput = input.value.toLowerCase().split(',').map(lib => lib.trim()).filter(lib => lib !== "");
+  
+        if (rawInput.length === 0) {
+          smells.forEach(smell => smell.classList.remove('hidden'));
+          return;
+        }
+  
+        smells.forEach(smell => {
+          const libs = smell.dataset.libs.toLowerCase().split(',');
+          const matches = libs.includes('generic') || rawInput.some(lib => libs.includes(lib));
+          smell.classList.toggle('hidden', !matches);
+        });
+    }
+
+    input.addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        perfSearch();
+      }
+    });
+
+    searchBtn.addEventListener('click', perfSearch);
+
+    resetBtn.addEventListener('click', () => {
+      input.value = '';
+      smells.forEach(smell => smell.classList.remove('hidden'));
+    });
+
+    
+    smells.forEach(smell => {
+    smell.addEventListener('click', () => {
+        const file = smell.dataset.file;
+        if (file) {
+        window.open(file, '_blank');
+        }
+    });
+    });
+
+  </script>
+
+</body>
+</html>
