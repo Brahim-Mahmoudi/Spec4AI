@@ -47,39 +47,39 @@ def extract_smell_dict_from_excel(file_path: str, file_column: str = "Full Path"
     return result
 
 
-# Load detections from Spec4AI and human annotations
+# Load detections from SpecDetect4AI and human annotations
 
 mlpylint_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/mlpylint_code_smells_matrix.xlsx", file_column="file"
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/mlpylint_code_smells_matrix.xlsx", file_column="file"
 )
 
-spec4ai_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/spec4ai_code_smells_matrix_evaluation.xlsx", file_column="file"
+specDetect4ai_smells = extract_smell_dict_from_excel(
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/specDetect4ai_code_smells_matrix_evaluation.xlsx", file_column="file"
 )
 
 
 llama3_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/llama3-8b-8192_code_smells_matrix.xlsx", file_column="file"
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/llama3-8b-8192_code_smells_matrix.xlsx", file_column="file"
 )
 
 llama3_70_8192_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/llama3-70b-8192_code_smells_matrix.xlsx", file_column="file"
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/llama3-70b-8192_code_smells_matrix.xlsx", file_column="file"
 )
 
 deepseek_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/deepseek-r1-distill-llama-70b_code_smells_matrix.xlsx", file_column="file"
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/deepseek-r1-distill-llama-70b_code_smells_matrix.xlsx", file_column="file"
 )
 
 
-# "Python file/ Fichier python" for spec4ai or "File path/ Chemin Complet " for mlpylit
+# "Python file/ Fichier python" for specDetect4ai or "File path/ Chemin Complet " for mlpylit
 
 gt_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/Google_Form_Manual_Eval.xlsx", file_column="File path/ Chemin Complet " # "Python file/ Fichier python" for spec4ai_smells or "File path/ Chemin Complet " for mlpylint_smells
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/GroundTruth_Manual_Eval.xlsx", file_column="File path/ Chemin Complet " # "Python file/ Fichier python" for specDetect4ai_smells or "File path/ Chemin Complet " for mlpylint_smells
 )
 
 # Display the first 3 files and their detections
-#for i, (file, smells) in enumerate(spec4ai_smells.items()):
-#    print(f"Spec4AI - File {i+1}: {file}")
+#for i, (file, smells) in enumerate(specDetect4ai_smells.items()):
+#    print(f"SpecDetect4AI - File {i+1}: {file}")
 #    print("  Detections:", smells)
 #    if i == 2:
 #        break
@@ -92,12 +92,12 @@ gt_smells = extract_smell_dict_from_excel(
 #        break
 
 # Keep only files that exist in both sets
-filtered_spec4ai_smells = {
+filtered_specDetect4ai_smells = {
     file: smells
-    for file, smells in spec4ai_smells.items()
+    for file, smells in specDetect4ai_smells.items()
     if file in gt_smells
 }
-print(f"Matched files: {len(filtered_spec4ai_smells)} / {len(spec4ai_smells)}")
+print(f"Matched files: {len(filtered_specDetect4ai_smells)} / {len(specDetect4ai_smells)}")
 
 # Keep only files that exist in both sets
 filtered_mlpylint_smells = {
@@ -105,7 +105,7 @@ filtered_mlpylint_smells = {
     for file, smells in mlpylint_smells.items()
     if file in gt_smells
 }
-#print(f"Matched files: {len(filtered_spec4ai_smells)} / {len(spec4ai_smells)}")
+#print(f"Matched files: {len(filtered_specDetect4ai_smells)} / {len(specDetect4ai_smells)}")
 
 
 # Filter ground truth to keep only annotated files
@@ -136,9 +136,9 @@ filtered_deepseek_smells = {
 }
 
 # Convert to sets of (file, rule, line) with normalized line numbers
-detected_spec4ai = {
+detected_specDetect4ai = {
     (file, rule, str(int(float(line))))
-    for file, smells in filtered_spec4ai_smells.items()
+    for file, smells in filtered_specDetect4ai_smells.items()
     for (rule, line) in smells
     if line.strip() not in ["", "-", "nan"]
 }
@@ -185,12 +185,12 @@ print("📊 F1 Score_mlpylint:", round(f1_mlpylint, 4))
 
 
 gt_smells = extract_smell_dict_from_excel(
-    "/Users/bramss/Desktop/Google_Form_Manual_Eval.xlsx", file_column="Python file/ Fichier python" # "Python file/ Fichier python" for spec4ai_smells or "File path/ Chemin Complet " for mlpylint_smells
+    "SpecDetect4AI/Evaluation/Comparison_Other_Tools/GroundTruth_Manual_Eval.xlsx", file_column="Python file/ Fichier python" # "Python file/ Fichier python" for specDetect4ai_smells or "File path/ Chemin Complet " for mlpylint_smells
 )
 
-filtered_spec4ai_smells = {
+filtered_specDetect4ai_smells = {
     file: smells
-    for file, smells in spec4ai_smells.items()
+    for file, smells in specDetect4ai_smells.items()
     if file in gt_smells
 }
 
@@ -224,15 +224,15 @@ filtered_gt_smells = {
     if len(smells) > 0
 }
 
-print(f"Matched files spec: {len(filtered_spec4ai_smells)} / {len(spec4ai_smells)}")
+print(f"Matched files spec: {len(filtered_specDetect4ai_smells)} / {len(specDetect4ai_smells)}")
 print(f"Matched files llama: {len(filtered_llama3_smells)} / {len(llama3_smells)}")
 print(f"Matched files llama_70_8192: {len(filtered_llama3_70_8192_smells)} / {len(llama3_70_8192_smells)}")
 print(f"Matched files deepseek: {len(filtered_deepseek_smells)} / {len(deepseek_smells)}")
 
 # Convert to sets of (file, rule, line) with normalized line numbers
-detected_spec4ai = {
+detected_specDetect4ai = {
     (file, rule, str(int(float(line))))
-    for file, smells in filtered_spec4ai_smells.items()
+    for file, smells in filtered_specDetect4ai_smells.items()
     for (rule, line) in smells
     if line.strip() not in ["", "-", "nan"]
 }
@@ -244,24 +244,24 @@ ground_truth = {
     if line.strip() not in ["", "-", "nan"]
 }
 
-# Compute TP, FP, FN for spec4ai
-tp_spec4ai = detected_spec4ai & ground_truth
-fp_spec4ai = detected_spec4ai - ground_truth
-fn_spec4ai = ground_truth - detected_spec4ai
+# Compute TP, FP, FN for specDetect4ai
+tp_specDetect4ai = detected_specDetect4ai & ground_truth
+fp_specDetect4ai = detected_specDetect4ai - ground_truth
+fn_specDetect4ai = ground_truth - detected_specDetect4ai
 
-# Compute precision, recall, F1 for spec4ai
-precision_spec4ai = len(tp_spec4ai) / (len(tp_spec4ai) + len(fp_spec4ai)) if (len(tp_spec4ai) + len(fp_spec4ai)) > 0 else 0.0
-recall_spec4ai = len(tp_spec4ai) / (len(tp_spec4ai) + len(fn_spec4ai)) if (len(tp_spec4ai) + len(fn_spec4ai)) > 0 else 0.0
-f1_spec4ai = 2 * precision_spec4ai * recall_spec4ai / (precision_spec4ai + recall_spec4ai) if (precision_spec4ai + recall_spec4ai) > 0 else 0.0
+# Compute precision, recall, F1 for specDetect4ai
+precision_specDetect4ai = len(tp_specDetect4ai) / (len(tp_specDetect4ai) + len(fp_specDetect4ai)) if (len(tp_specDetect4ai) + len(fp_specDetect4ai)) > 0 else 0.0
+recall_specDetect4ai = len(tp_specDetect4ai) / (len(tp_specDetect4ai) + len(fn_specDetect4ai)) if (len(tp_specDetect4ai) + len(fn_specDetect4ai)) > 0 else 0.0
+f1_specDetect4ai = 2 * precision_specDetect4ai * recall_specDetect4ai / (precision_specDetect4ai + recall_specDetect4ai) if (precision_specDetect4ai + recall_specDetect4ai) > 0 else 0.0
 
 # Print metrics
 print("\n📊 Evaluation Metrics")
-print("✅ True Positives_spec4ai:", len(tp_spec4ai))
-print("❌ False Positives_spec4ai:", len(fp_spec4ai))
-print("❌ False Negatives_spec4ai:", len(fn_spec4ai))
-print("🎯 Precision_spec4ai:", round(precision_spec4ai, 4))
-print("📈 Recall_spec4ai:", round(recall_spec4ai, 4))
-print("📊 F1 Score_spec4ai:", round(f1_spec4ai, 4))
+print("✅ True Positives_specDetect4ai:", len(tp_specDetect4ai))
+print("❌ False Positives_specDetect4ai:", len(fp_specDetect4ai))
+print("❌ False Negatives_specDetect4ai:", len(fn_specDetect4ai))
+print("🎯 Precision_specDetect4ai:", round(precision_specDetect4ai, 4))
+print("📈 Recall_specDetect4ai:", round(recall_specDetect4ai, 4))
+print("📊 F1 Score_specDetect4ai:", round(f1_specDetect4ai, 4))
 
 
 
@@ -357,9 +357,9 @@ results = {
         "TP": tp_mlpylint, "FP": fp_mlpylint, "FN": fn_mlpylint,
         "Precision": precision_mlpylint, "Recall": recall_mlpylint, "F1": f1_mlpylint
     },
-    "Spec4AI": {
-        "TP": tp_spec4ai, "FP": fp_spec4ai, "FN": fn_spec4ai,
-        "Precision": precision_spec4ai, "Recall": recall_spec4ai, "F1": f1_spec4ai
+    "SpecDetect4AI": {
+        "TP": tp_specDetect4ai, "FP": fp_specDetect4ai, "FN": fn_specDetect4ai,
+        "Precision": precision_specDetect4ai, "Recall": recall_specDetect4ai, "F1": f1_specDetect4ai
     },
     "llama3-8b-8192": {
         "TP": tp_llama3, "FP": fp_llama3, "FN": fn_llama3,
@@ -374,6 +374,9 @@ results = {
         "Precision": precision_deepseek, "Recall": recall_deepseek, "F1": f1_deepseek
     }
 }
+
+
+
 
 # === Bar Chart global ===
 tools = list(results.keys())
@@ -419,12 +422,20 @@ def metrics_dict_to_df(rule_dict, tool_name):
         rows.append([rule, TP, FP, FN, precision, recall, f1, tool_name])
     return pd.DataFrame(rows, columns=["Rule", "TP", "FP", "FN", "Precision", "Recall", "F1", "Tool"])
 
-df_spec4ai_rules = metrics_dict_to_df(compute_rule_metrics(tp_spec4ai, fp_spec4ai, fn_spec4ai), "Spec4AI")
+df_specDetect4ai_rules = metrics_dict_to_df(compute_rule_metrics(tp_specDetect4ai, fp_specDetect4ai, fn_specDetect4ai), "SpecDetect4AI")
 df_mlpylint_rules = metrics_dict_to_df(compute_rule_metrics(tp_mlpylint, fp_mlpylint, fn_mlpylint), "mlpylint")
 df_llama3_rules = metrics_dict_to_df(compute_rule_metrics(tp_llama3, fp_llama3, fn_llama3), "llama3-8b-8192")
 df_llama3_70_8192_rules = metrics_dict_to_df(compute_rule_metrics(tp_llama3_70_8192, fp_llama3_70_8192, fn_llama3_70_8192), "llama3_70_8192")
 df_deepseek_rules = metrics_dict_to_df(compute_rule_metrics(tp_deepseek, fp_deepseek, fn_deepseek), "deepseek")
-df_rules = pd.concat([df_spec4ai_rules, df_mlpylint_rules, df_llama3_rules, df_llama3_70_8192_rules, df_deepseek_rules], ignore_index=True)
+df_rules = pd.concat([df_specDetect4ai_rules, df_mlpylint_rules, df_llama3_rules, df_llama3_70_8192_rules, df_deepseek_rules], ignore_index=True)
+
+print("\nPrecision and recall by rules :")
+print(df_rules[["Rule", "Tool", "Precision", "Recall"]])
+
+
+df_rules[["Rule", "Tool", "Precision", "Recall"]].to_csv("Figures_Precision/precision_recall_par_regle_et_outil.csv", index=False)
+
+
 
 
 # === Barplot F1 par règle
@@ -477,12 +488,12 @@ plt.close()
 
 
 # === Wilcoxon test
-df_paired = df_spec4ai_rules.set_index("Rule")[["F1"]].join(
+df_paired = df_specDetect4ai_rules.set_index("Rule")[["F1"]].join(
     df_mlpylint_rules.set_index("Rule")[["F1"]],
-    lsuffix="_spec4ai", rsuffix="_mlpylint"
+    lsuffix="_specDetect4ai", rsuffix="_mlpylint"
 ).dropna()
 
-stat, p_value = wilcoxon(df_paired["F1_spec4ai"], df_paired["F1_mlpylint"])
+stat, p_value = wilcoxon(df_paired["F1_specDetect4ai"], df_paired["F1_mlpylint"])
 print(f"\n📐 Wilcoxon Test on F1-score per Rule")
 print(f"Statistic = {stat}, p-value = {p_value:.5f}")
 if p_value < 0.05:
@@ -500,31 +511,31 @@ def bootstrap_ci(data, n_bootstraps=1000, ci=95):
     upper = np.percentile(stats, 100 - (100 - ci) / 2)
     return round(np.mean(stats), 4), round(lower, 4), round(upper, 4)
 
-for tool, df in [("Spec4AI", df_spec4ai_rules), ("mlpylint", df_mlpylint_rules), ("llama3-8b-8192", df_llama3_rules)]:
+for tool, df in [("SpecDetect4AI", df_specDetect4ai_rules), ("mlpylint", df_mlpylint_rules), ("llama3-8b-8192", df_llama3_rules)]:
     for metric in ["Precision", "Recall", "F1"]:
         mean, ci_low, ci_high = bootstrap_ci(df[metric].dropna().values)
         print(f"{tool} {metric}: Mean={mean}, 95% CI=({ci_low}, {ci_high})")
 
 # === Venn Diagrams
-venn2([fp_spec4ai, fp_mlpylint], set_labels=("Spec4AI FP", "mlpylint FP"))
+venn2([fp_specDetect4ai, fp_mlpylint], set_labels=("SpecDetect4AI FP", "mlpylint FP"))
 plt.title("False Positives Overlap")
 plt.savefig("Figures_Precision/venn_fp_overlap.png", dpi=300)
 plt.close()
 
-venn2([fn_spec4ai, fn_mlpylint], set_labels=("Spec4AI FN", "mlpylint FN"))
+venn2([fn_specDetect4ai, fn_mlpylint], set_labels=("SpecDetect4AI FN", "mlpylint FN"))
 plt.title("False Negatives Overlap")
 plt.savefig("Figures_Precision/venn_fn_overlap.png", dpi=300)
 plt.close()
 
 
-# === Wilcoxon Test: Spec4AI vs LLaMA3
-df_paired_llama = df_spec4ai_rules.set_index("Rule")[["F1"]].join(
+# === Wilcoxon Test: SpecDetect4AI vs LLaMA3
+df_paired_llama = df_specDetect4ai_rules.set_index("Rule")[["F1"]].join(
     df_llama3_rules.set_index("Rule")[["F1"]],
-    lsuffix="_spec4ai", rsuffix="_llama3"
+    lsuffix="_specDetect4ai", rsuffix="_llama3"
 ).dropna()
 
-stat, p_value = wilcoxon(df_paired_llama["F1_spec4ai"], df_paired_llama["F1_llama3"])
-print(f"\n📐 Wilcoxon Test on F1-score per Rule: Spec4AI vs LLaMA3")
+stat, p_value = wilcoxon(df_paired_llama["F1_specDetect4ai"], df_paired_llama["F1_llama3"])
+print(f"\n📐 Wilcoxon Test on F1-score per Rule: SpecDetect4AI vs LLaMA3")
 print(f"Statistic = {stat}, p-value = {p_value:.5f}")
 if p_value < 0.05:
     print("✅ Statistically significant difference (p < 0.05)")
@@ -546,10 +557,10 @@ else:
     print("⚠️ No statistically significant difference (p ≥ 0.05)")
 
 
-    # === Venn: FP llama3-8b-8192 vs Spec4AI
-venn2([fp_llama3, fp_spec4ai], set_labels=("llama3-8b-8192 FP", "Spec4AI FP"))
-plt.title("False Positives Overlap – llama3-8b-8192 vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fp_llama3_spec4ai.png", dpi=300)
+    # === Venn: FP llama3-8b-8192 vs SpecDetect4AI
+venn2([fp_llama3, fp_specDetect4ai], set_labels=("llama3-8b-8192 FP", "SpecDetect4AI FP"))
+plt.title("False Positives Overlap – llama3-8b-8192 vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fp_llama3_specDetect4ai.png", dpi=300)
 plt.close()
 
 # === Venn: FP llama3-8b-8192 vs mlpylint
@@ -558,10 +569,10 @@ plt.title("False Positives Overlap – llama3-8b-8192 vs mlpylint")
 plt.savefig("Figures_Precision/venn_fp_llama3_mlpylint.png", dpi=300)
 plt.close()
 
-# === Venn: FN llama3-8b-8192 vs Spec4AI
-venn2([fn_llama3, fn_spec4ai], set_labels=("llama3-8b-8192 FN", "Spec4AI FN"))
-plt.title("False Negatives Overlap – llama3-8b-8192 vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fn_llama3_spec4ai.png", dpi=300)
+# === Venn: FN llama3-8b-8192 vs SpecDetect4AI
+venn2([fn_llama3, fn_specDetect4ai], set_labels=("llama3-8b-8192 FN", "SpecDetect4AI FN"))
+plt.title("False Negatives Overlap – llama3-8b-8192 vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fn_llama3_specDetect4ai.png", dpi=300)
 plt.close()
 
 # === Venn: FN llama3-8b-8192 vs mlpylint
@@ -570,28 +581,28 @@ plt.title("False Negatives Overlap – llama3-8b-8192 vs mlpylint")
 plt.savefig("Figures_Precision/venn_fn_llama3_mlpylint.png", dpi=300)
 plt.close()
 
-# Venn: FP llama3_70_8192 vs Spec4AI
-venn2([fp_llama3_70_8192, fp_spec4ai], set_labels=("llama3_70_8192 FP", "Spec4AI FP"))
-plt.title("False Positives Overlap – llama3_70_8192 vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fp_llama3_70_8192_spec4ai.png", dpi=300)
+# Venn: FP llama3_70_8192 vs SpecDetect4AI
+venn2([fp_llama3_70_8192, fp_specDetect4ai], set_labels=("llama3_70_8192 FP", "SpecDetect4AI FP"))
+plt.title("False Positives Overlap – llama3_70_8192 vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fp_llama3_70_8192_specDetect4ai.png", dpi=300)
 plt.close()
 
-# Venn: FP deepseek vs Spec4AI
-venn2([fp_deepseek, fp_spec4ai], set_labels=("deepseek FP", "Spec4AI FP"))
-plt.title("False Positives Overlap – deepseek vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fp_deepseek_spec4ai.png", dpi=300)
+# Venn: FP deepseek vs SpecDetect4AI
+venn2([fp_deepseek, fp_specDetect4ai], set_labels=("deepseek FP", "SpecDetect4AI FP"))
+plt.title("False Positives Overlap – deepseek vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fp_deepseek_specDetect4ai.png", dpi=300)
 plt.close()
 
-# Venn: FN llama3_70_8192 vs Spec4AI
-venn2([fn_llama3_70_8192, fn_spec4ai], set_labels=("llama3_70_8192 FN", "Spec4AI FN"))
-plt.title("False Negatives Overlap – llama3_70_8192 vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fn_llama3_70_8192_spec4ai.png", dpi=300)
+# Venn: FN llama3_70_8192 vs SpecDetect4AI
+venn2([fn_llama3_70_8192, fn_specDetect4ai], set_labels=("llama3_70_8192 FN", "SpecDetect4AI FN"))
+plt.title("False Negatives Overlap – llama3_70_8192 vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fn_llama3_70_8192_specDetect4ai.png", dpi=300)
 plt.close()
 
-# Venn: FN deepseek vs Spec4AI
-venn2([fn_deepseek, fn_spec4ai], set_labels=("deepseek FN", "Spec4AI FN"))
-plt.title("False Negatives Overlap – deepseek vs Spec4AI")
-plt.savefig("Figures_Precision/venn_fn_deepseek_spec4ai.png", dpi=300)
+# Venn: FN deepseek vs SpecDetect4AI
+venn2([fn_deepseek, fn_specDetect4ai], set_labels=("deepseek FN", "SpecDetect4AI FN"))
+plt.title("False Negatives Overlap – deepseek vs SpecDetect4AI")
+plt.savefig("Figures_Precision/venn_fn_deepseek_specDetect4ai.png", dpi=300)
 plt.close()
 
 # Venn: FP deepseek vs llama3-8b-8192
@@ -607,13 +618,13 @@ plt.savefig("Figures_Precision/venn_fn_deepseek_llama3.png", dpi=300)
 plt.close()
 
 
-# === UpSet plot – False Positives across Spec4AI, mlpylint, llama3-8b-8192
-all_fp = set.union(fp_spec4ai, fp_mlpylint, fp_llama3, fp_llama3_70_8192, fp_deepseek)
+# === UpSet plot – False Positives across SpecDetect4AI, mlpylint, llama3-8b-8192
+all_fp = set.union(fp_specDetect4ai, fp_mlpylint, fp_llama3, fp_llama3_70_8192, fp_deepseek)
 fp_memberships = []
 for item in all_fp:
     tools = []
-    if item in fp_spec4ai:
-        tools.append("Spec4AI")
+    if item in fp_specDetect4ai:
+        tools.append("SpecDetect4AI")
     if item in fp_mlpylint:
         tools.append("mlpylint")
     if item in fp_llama3:
@@ -638,13 +649,13 @@ plt.close()
 
 
 
-# === UpSet plot – False Negatives across Spec4AI, mlpylint, llama3-8b-8192
-all_fn = set.union(fn_spec4ai, fn_mlpylint, fn_llama3)
+# === UpSet plot – False Negatives across SpecDetect4AI, mlpylint, llama3-8b-8192
+all_fn = set.union(fn_specDetect4ai, fn_mlpylint, fn_llama3)
 fn_memberships = []
 for item in all_fn:
     tools = []
-    if item in fn_spec4ai:
-        tools.append("Spec4AI")
+    if item in fn_specDetect4ai:
+        tools.append("SpecDetect4AI")
     if item in fn_mlpylint:
         tools.append("mlpylint")
     if item in fn_llama3:

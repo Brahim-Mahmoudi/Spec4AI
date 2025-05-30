@@ -1,12 +1,12 @@
 ## Comparative Specification of Rule R5 — *Hyperparameter Not Explicitly Set* with several DSL
 
-To illustrate the benefits of our DSL, we present a comparative specification of the same rule — **R5: _Hyperparameter Not Explicitly Set_** — using three tools: **Spec4AI DSL**, **CodeQL**, and **Semgrep**.
+To illustrate the benefits of our DSL, we present a comparative specification of the same rule — **R5: _Hyperparameter Not Explicitly Set_** — using three tools: **SpecDetect4AI DSL**, **CodeQL**, and **Semgrep**.
 
 This rule aims to detect machine learning model instantiations (e.g., `SVC`) where important hyperparameters (such as `random_state`) are not explicitly set.
 
 ---
 
-###  Spec4AI DSL
+###  SpecDetect4AI DSL
 
 ```dsl
 rule R5 "Hyperparameter Not Explicitly Set":

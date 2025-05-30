@@ -70,15 +70,15 @@ if __name__ == '__main__':
     
 
     parser = argparse.ArgumentParser(
-        description="Run Spec4AI code smell detection on a Python project."
+        description="Run SpecDetect4AI code smell detection on a Python project."
     )
     parser.add_argument(
         "--input-dir", "-i", type=Path, required=False,
         help="Path to the root directory of Python files to analyze"
     )
     parser.add_argument(
-        "--output-file", "-o", type=Path, default=Path("spec4ai_results.json"),
-        help="Path to write JSON results (default: spec4ai_results.json)"
+        "--output-file", "-o", type=Path, default=Path("specDetect4ai_results.json"),
+        help="Path to write JSON results (default: specDetect4ai_results.json)"
     )
     parser.add_argument(
         "--rules", "-r", nargs='+', metavar='RULE_ID',
@@ -101,7 +101,7 @@ if __name__ == '__main__':
         help="List all available rule IDs and exit"
     )
     args = parser.parse_args()
-    print(f"Starting Spec4AI analysis on project: {args.input_dir} ...")
+    print(f"Starting SpecDetect4AI analysis on project: {args.input_dir} ...")
 
     available = discover_available_rules(RULES_ROOT)
     if args.list_rules:

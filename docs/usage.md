@@ -1,39 +1,39 @@
 ##  Usage
 
 ```bash
-python spec4ai.py --input-dir <path> [--output-file <file>] [--rules R2 R6] [--all] [--exclude R6] [--summary] [--list-rules]
+python specDetect4ai.py --input-dir <path> [--output-file <file>] [--rules R2 R6] [--all] [--exclude R6] [--summary] [--list-rules]
 ```
 
 ##  Examples
 
 ### Analyze a folder using all rules
 ```bash
-python spec4ai.py --input-dir ./my_project --all
+python specDetect4ai.py --input-dir ./my_project --all
 ```
 
 ### Analyze with specific rules only
 ```bash
-python spec4ai.py --input-dir ./my_project --rules R2 R6 R11
+python specDetect4ai.py --input-dir ./my_project --rules R2 R6 R11
 ```
 
 ### Analyze all rules except some
 ```bash
-python spec4ai.py --input-dir ./my_project --all --exclude R6 R11
+python specDetect4ai.py --input-dir ./my_project --all --exclude R6 R11
 ```
 
 ### Save results to a custom file
 ```bash
-python spec4ai.py --input-dir ./my_project --all --output-file results.json
+python specDetect4ai.py --input-dir ./my_project --all --output-file results.json
 ```
 
 ### List all available rules
 ```bash
-python spec4ai.py --list-rules
+python specDetect4ai.py --list-rules
 ```
 
 ### Show a summary of alerts by rule
 ```bash
-python spec4ai.py --input-dir ./my_project --all --summary
+python specDetect4ai.py --input-dir ./my_project --all --summary
 ```
 
 ### Run all tests

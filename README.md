@@ -1,8 +1,8 @@
 ![Overview](static/AI-based%20system.png)
 
-# Spec4AI Documentation
+# SpecDetect4AI Documentation
 
-Welcome to the Spec4AI documentation.
+Welcome to the SpecDetect4AI documentation.
 
 This space contains structured guides and reference materials to help users and contributors.
 

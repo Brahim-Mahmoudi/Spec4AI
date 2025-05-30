@@ -1,6 +1,6 @@
 ##  Available Rules
 
-Spec4AI supports detection of 24 AI-specific code smells, grouped by ML concern:
+SpecDetect4AI supports detection of 24 AI-specific code smells, grouped by ML concern:
 
 | Rule ID | Name                                                                                   |
 |---------|-----------------------------------------------------------------------------------------|
