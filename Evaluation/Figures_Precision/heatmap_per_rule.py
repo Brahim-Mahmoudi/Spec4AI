@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-data = pd.read_csv('Spec4AI/Evaluation/Figures_Precision/precision_recall_par_regle_et_outil.csv')
+data = pd.read_csv('precision_recall_par_regle_et_outil.csv')
 
 # List of rules to display
 selected_rules = ["R5", "R11", "R21", "R22", "R2", "R14", "R6", "R4", "R19", "R7"]
@@ -33,14 +33,14 @@ sns.heatmap(
     fmt="", 
     cmap='Blues',
     cbar_kws={'label': 'F1-Score'},
-    annot_kws={"size": 10, "color": "black"},
+    annot_kws={"size": 12, "color": "black"},
     linewidths=0.5
 )
-plt.title('Per-Rule F1-Score Comparison Across Evaluated Approaches', fontsize=10)
-plt.xlabel('Evaluated Approaches', fontsize=10)
-plt.ylabel('Detection Rule', fontsize=10)
-plt.xticks(fontsize=8)
-plt.yticks(fontsize=8)
+plt.title('Per-Rule F1-Score Comparison Across Evaluated Approaches', fontsize=15)
+plt.xlabel('Evaluated Approaches', fontsize=15)
+plt.ylabel('Detection Rule', fontsize=15)
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=12)
 plt.tight_layout()
 plt.savefig("f1score_heatmap_rules_tools.png", dpi=300)
 plt.show()
